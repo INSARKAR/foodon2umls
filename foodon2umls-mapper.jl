@@ -56,6 +56,11 @@ function main()
         end
     end
 
+    # determine count of the number of keys in foodon_terms
+    foodon_terms_count = length(foodon_terms)
+    println("$foodon_terms_count FoodOn terms loaded.")
+
+
     # Load the umls terms into a dictionary
     umls_terms = Dict{String, String}()
     open(umls_food_items_file, "r") do file
@@ -74,6 +79,12 @@ function main()
             umls_terms[term] = cui
         end
     end
+
+    # determine count of the number of keys in umls_terms
+    umls_terms_count = length(umls_terms)
+    println("$umls_terms_count UMLS terms loaded.")
+
+    #exit()
 
 
     # create set to keep track of non-mapped terms
@@ -94,64 +105,74 @@ function main()
         end
     end
 
-    foodon2umls_mapping_file = open(foodon2umls_mapping_file_name, "a")
+    # determine count of the number of keys in mapped_umls_cuis
+    mapped_umls_cuis_count = length(mapped_umls_cuis)
+    println("$mapped_umls_cuis_count UMLS CUIs already mapped.")
 
-    # Iterate over the UMLS terms and find direct mappings (UMLS term == FoodOn term)
-    for (umls_term, umls_cui) in umls_terms
+    if mapped_umls_cuis_count != mapped_umls_cuis_count
+    
+        foodon2umls_mapping_file = open(foodon2umls_mapping_file_name, "a")
 
-        counter += 1
+        # Iterate over the UMLS terms and find direct mappings (UMLS term == FoodOn term)
+        for (umls_term, umls_cui) in umls_terms
 
-        if umls_cui in mapped_umls_cuis
-            println("S $counter Skipping already mapped UMLS Term [CUI]: $umls_term [$umls_cui]")
-            continue
-        end
+            counter += 1
 
-        # println("Processing UMLS term: $umls_term")
-
-        # direct mappings
-        if haskey(foodon_terms, umls_term)
-            println("D $counter Found direct mapping for term (U>F): $umls_term")
-            foodon2umls_mapping[foodon_terms[umls_term]] = umls_cui
-            print(foodon2umls_mapping_file, "D|U>F|$(foodon_terms[umls_term])|$umls_term|$umls_cui|$umls_term\n")
-            # exit()
-        else
-            #println("No direct mapping found for term (U>F): $umls_term")
-
-            # Send the term to OLS to search the FoodOn ontology
-
-
-            # Encode the term to be URL-safe
-            encoded_umls_term = HTTP.escape(umls_term)
-
-            ols_url = "https://www.ebi.ac.uk/ols4/api/search?q=$encoded_umls_term&ontology=foodon"
-
-
-            response = HTTP.get(ols_url)
-
-            if response.status == 200
-                results = JSON.parse(String(response.body))
-                if !isempty(results["response"]["docs"])
-                    first_result = results["response"]["docs"][1]
-                    foodon_id = first_result["short_form"]
-                    foodon_term = first_result["label"]
-                    println("O $counter Found OLS mapping for term (U>F): $umls_term -> $foodon_term [$foodon_id]")
-                    foodon2umls_mapping[foodon_id] = umls_cui
-                    print(foodon2umls_mapping_file, "O|U>F|$foodon_id|$foodon_term|$umls_cui|$umls_term\n")
-                    #exit()
-                # else
-                #     println("X No OLS mapping found for term (U>F): $umls_term")
-                end
-            else
-                println("N $counter Failed to query OLS for term (U>F): $umls_term")
-
-                print(foodon2umls_mapping_file, "N|U>F|||$umls_cui|$umls_term\n")
-                push!(non_mapped_terms, umls_term)
-                # exit()
+            if umls_cui in mapped_umls_cuis
+                # println("S $counter Skipping already mapped UMLS Term [CUI]: $umls_term [$umls_cui]")
+                continue
             end
 
+            # println("Processing UMLS term: $umls_term")
+
+            # direct mappings
+            if haskey(foodon_terms, umls_term)
+                println("D $counter Found direct mapping for term (U>F): $umls_term")
+                foodon2umls_mapping[foodon_terms[umls_term]] = umls_cui
+                print(foodon2umls_mapping_file, "D|U>F|$(foodon_terms[umls_term])|$umls_term|$umls_cui|$umls_term\n")
+                # exit()
+            else
+                #println("No direct mapping found for term (U>F): $umls_term")
+
+                # Send the term to OLS to search the FoodOn ontology
+
+
+                # Encode the term to be URL-safe
+                encoded_umls_term = HTTP.escape(umls_term)
+
+                ols_url = "https://www.ebi.ac.uk/ols4/api/search?q=$encoded_umls_term&ontology=foodon"
+
+
+                response = HTTP.get(ols_url)
+
+                if response.status == 200
+                    results = JSON.parse(String(response.body))
+                    if !isempty(results["response"]["docs"])
+                        first_result = results["response"]["docs"][1]
+                        foodon_id = first_result["short_form"]
+                        foodon_term = first_result["label"]
+                        println("O $counter Found OLS mapping for term (U>F): $umls_term -> $foodon_term [$foodon_id]")
+                        foodon2umls_mapping[foodon_id] = umls_cui
+                        print(foodon2umls_mapping_file, "O|U>F|$foodon_id|$foodon_term|$umls_cui|$umls_term\n")
+                        #exit()
+                    else
+                        println("N $counter No OLS mapping found for term (U>F): $umls_term")
+                        print(foodon2umls_mapping_file, "N|U>F|||$umls_cui|$umls_term\n")
+                    end
+                else
+                    println("N $counter Failed to query OLS for term (U>F): $umls_term")
+
+                    print(foodon2umls_mapping_file, "N|U>F|||$umls_cui|$umls_term\n")
+                    push!(non_mapped_terms, umls_term)
+                    # exit()
+                end
+
+
+            end
 
         end
-
+    else
+        println("All (U>F) terms have been mapped.")
     end
 end
 
