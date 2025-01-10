@@ -27958,30 +27958,30 @@ O|U>F|FOODON_03306052|spice|C2348128|saffron - spice
 # O|U>F|FOODON_03306094|cola fountain syrup|C0593745|provide xtra citrus cola liquid
 # O|U>F|FOODON_03306094|cola fountain syrup|C0593746|provide xtra citrus cola liquid 200ml
 O|U>F|FOODON_03306094|cola fountain syrup|C0774425|cola syrup
-O|U>F|FOODON_03306112|lingonberry (sugared)|C3843667|regular soda pop or other sugared beverages
+# O|U>F|FOODON_03306112|lingonberry (sugared)|C3843667|regular soda pop or other sugared beverages
 O|U>F|FOODON_03306123|fish oil|C4482169|fish oil + epa + dha + vitamin e
-O|U>F|FOODON_03306125|head lettuce (raw)|C3896958|fortimel compact
-O|U>F|FOODON_03306146|lemon- and lime-flavored juice drink|C3527987|aloe vera juice drink lemon/lime
-O|U>F|FOODON_03306165|apple and carrot juice|C0453598|carrot potato and pea bhaji
-O|U>F|FOODON_03306168|fruit juice drink (diluted)|C0452452|diluted fruit squash drink
+# O|U>F|FOODON_03306125|head lettuce (raw)|C3896958|fortimel compact
+# O|U>F|FOODON_03306146|lemon- and lime-flavored juice drink|C3527987|aloe vera juice drink lemon/lime
+# O|U>F|FOODON_03306165|apple and carrot juice|C0453598|carrot potato and pea bhaji
+# O|U>F|FOODON_03306168|fruit juice drink (diluted)|C0452452|diluted fruit squash drink
 O|U>F|FOODON_03306177|elderberry juice|C3666985|european elderberry juice
-O|U>F|FOODON_03306185|rice bran|C0460354|trufree gf no.2 flour+rice bran
-O|U>F|FOODON_03306188|lemon curd|C0458179|home-made lemon curd
-O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C0351519|prosobee concentrate liquid 385ml
-O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C0726056|enfamil concentrate liquid regular
-O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C0726072|enfamil plus iron concentrate liquid
-O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C0726878|lactofree liquid concentrate
-O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C0727590|prosobee concentrate liquid
-O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C3505072|lemonade flavor oil 100 % miscell liquid (ml)
-O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C3892316|similac advance liquid concentrate
-O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C4301039|liquacel liquid,lemonade
-O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C5455198|liquacel liquid,lemonade,30ml
+# O|U>F|FOODON_03306185|rice bran|C0460354|trufree gf no.2 flour+rice bran
+# O|U>F|FOODON_03306188|lemon curd|C0458179|home-made lemon curd
+# O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C0351519|prosobee concentrate liquid 385ml
+# O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C0726056|enfamil concentrate liquid regular
+# O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C0726072|enfamil plus iron concentrate liquid
+# O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C0726878|lactofree liquid concentrate
+# O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C0727590|prosobee concentrate liquid
+# O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C3505072|lemonade flavor oil 100 % miscell liquid (ml)
+# O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C3892316|similac advance liquid concentrate
+# O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C4301039|liquacel liquid,lemonade
+# O|U>F|FOODON_03306191|lemonade concentrate (liquid)|C5455198|liquacel liquid,lemonade,30ml
 O|U>F|FOODON_03306209|margarine (soft)|C0452833|soft polyunsaturated fat margarine
 O|U>F|FOODON_03306209|margarine (soft)|C0458154|soft margarine not polyunsaturated
 O|U>F|FOODON_03306211|molasses (blackstrap)|C0458181|blackstrap molasses
-O|U>F|FOODON_03306213|molasses (barbados)|C5400097|barbados cherry (substance)
-O|U>F|FOODON_03306233|mint julep|C0459360|mint - herb
-O|U>F|FOODON_03306236|flavoring (natural)|C3256976|natural and artifical flavoring
+# O|U>F|FOODON_03306213|molasses (barbados)|C5400097|barbados cherry (substance)
+# O|U>F|FOODON_03306233|mint julep|C0459360|mint - herb
+# O|U>F|FOODON_03306236|flavoring (natural)|C3256976|natural and artifical flavoring
 O|U>F|FOODON_03306237|fruit flavor paste|C0475659|mixed fruit flavor
 O|U>F|FOODON_03306237|fruit flavor paste|C1365951|guarana fruit flavor
 O|U>F|FOODON_03306237|fruit flavor paste|C1509510|fruit flavor
@@ -27990,14 +27990,14 @@ O|U>F|FOODON_03306237|fruit flavor paste|C3257155|artificial mixed fruit flavor
 O|U>F|FOODON_03306255|toast|C0594613|schar gf cracker toast
 O|U>F|FOODON_03306255|toast|C0594614|schar gf cracker toast 150g
 O|U>F|FOODON_03306272|oat flakes|C0452561|common sense oat bran flakes
-O|U>F|FOODON_03306274|mango (not further specified)|C5228997|parenteral nutrition solution, not otherwise specified, 10 grams lipids
+# O|U>F|FOODON_03306274|mango (not further specified)|C5228997|parenteral nutrition solution, not otherwise specified, 10 grams lipids
 O|U>F|FOODON_03306286|chicken soup|C5880945|home-made chicken soup
 O|U>F|FOODON_03306308|imitation macaroni|C3196560|nutritional supplement oral food, solid [aproten imitation macaroni]
-O|U>F|FOODON_03306310|macaroni (short cut)|C0353252|loprofin short cut spaghetti 250g
-O|U>F|FOODON_03306310|macaroni (short cut)|C0359435|loprofin lp gf short cut spaghetti
-O|U>F|FOODON_03306310|macaroni (short cut)|C0460320|glutafin gf short cut spaghetti
-O|U>F|FOODON_03306310|macaroni (short cut)|C0594903|promin lp gf short cut spaghetti
-O|U>F|FOODON_03306346|rigatoni macaroni (enriched)|C0460347|schar gf rigatoni pasta
+# O|U>F|FOODON_03306310|macaroni (short cut)|C0353252|loprofin short cut spaghetti 250g
+# O|U>F|FOODON_03306310|macaroni (short cut)|C0359435|loprofin lp gf short cut spaghetti
+# O|U>F|FOODON_03306310|macaroni (short cut)|C0460320|glutafin gf short cut spaghetti
+# O|U>F|FOODON_03306310|macaroni (short cut)|C0594903|promin lp gf short cut spaghetti
+# O|U>F|FOODON_03306346|rigatoni macaroni (enriched)|C0460347|schar gf rigatoni pasta
 O|U>F|FOODON_03306347|pasta|C0351442|aglutella pasta 250g
 O|U>F|FOODON_03306347|pasta|C0351443|aproten gf pasta anellini 250g
 O|U>F|FOODON_03306347|pasta|C0351446|aproten gf pasta ditalini 250g
@@ -28036,113 +28036,113 @@ O|U>F|FOODON_03306347|pasta|C0731703|schar gf wf (anellini) pasta rings 250g
 O|U>F|FOODON_03306347|pasta|C0731706|schar gf wf (alfabeto) pasta alphabets
 O|U>F|FOODON_03306347|pasta|C0731708|schar gf wf (alfabeto) pasta alphabets 250g
 O|U>F|FOODON_03306347|pasta|C1302940|low protein pasta
-O|U>F|FOODON_03306371|flavoring concentrate for soft drink|C3189870|flavoring aid oral powder for suspension [nestle flavor packet for kids]
+# O|U>F|FOODON_03306371|flavoring concentrate for soft drink|C3189870|flavoring aid oral powder for suspension [nestle flavor packet for kids]
 O|U>F|FOODON_03306377|marmalade|C0458178|diabetic marmalade
 O|U>F|FOODON_03306393|greengage preserves|C0453278|greengage (substance)
-O|U>F|FOODON_03306421|ravioli (stuffed with meat)|C0453588|aubergine stuffed with rice
-O|U>F|FOODON_03306421|ravioli (stuffed with meat)|C0453765|tomato stuffed with rice
-O|U>F|FOODON_03306421|ravioli (stuffed with meat)|C0453766|tomato stuffed with vegetables
-O|U>F|FOODON_03306421|ravioli (stuffed with meat)|C0453794|vine leaves stuffed with rice
-O|U>F|FOODON_03306437|ham (chopped)|C0452958|chopped ham and pork
-O|U>F|FOODON_03306441|steak and kidney pie filling|C0453503|steak and kidney pie
+# O|U>F|FOODON_03306421|ravioli (stuffed with meat)|C0453588|aubergine stuffed with rice
+# O|U>F|FOODON_03306421|ravioli (stuffed with meat)|C0453765|tomato stuffed with rice
+# O|U>F|FOODON_03306421|ravioli (stuffed with meat)|C0453766|tomato stuffed with vegetables
+# O|U>F|FOODON_03306421|ravioli (stuffed with meat)|C0453794|vine leaves stuffed with rice
+# O|U>F|FOODON_03306437|ham (chopped)|C0452958|chopped ham and pork
+# O|U>F|FOODON_03306441|steak and kidney pie filling|C0453503|steak and kidney pie
 O|U>F|FOODON_03306447|mold-ripened cheese|C0452800|soft mold ripened cheese
-O|U>F|FOODON_03306471|hare (jugged, with vegetables and wine sauce)|C0453622|vegetables in sauce
-O|U>F|FOODON_03306513|nut (roasted in vegetable oil)|C0453171|potato roasted in vegetable oil
-O|U>F|FOODON_03306513|nut (roasted in vegetable oil)|C0453172|potato roasted in polyunsaturated oil
-O|U>F|FOODON_03306513|nut (roasted in vegetable oil)|C0453705|nut croquette fried in polyunsaturated oil
-O|U>F|FOODON_03306513|nut (roasted in vegetable oil)|C0453706|nut croquette fried in vegetable oil
-O|U>F|FOODON_03306513|nut (roasted in vegetable oil)|C0453714|nut and vegetable roast
-O|U>F|FOODON_03306542|apricot tartlet|C0452672|strawberry tartlet
+# O|U>F|FOODON_03306471|hare (jugged, with vegetables and wine sauce)|C0453622|vegetables in sauce
+# O|U>F|FOODON_03306513|nut (roasted in vegetable oil)|C0453171|potato roasted in vegetable oil
+# O|U>F|FOODON_03306513|nut (roasted in vegetable oil)|C0453172|potato roasted in polyunsaturated oil
+# O|U>F|FOODON_03306513|nut (roasted in vegetable oil)|C0453705|nut croquette fried in polyunsaturated oil
+# O|U>F|FOODON_03306513|nut (roasted in vegetable oil)|C0453706|nut croquette fried in vegetable oil
+# O|U>F|FOODON_03306513|nut (roasted in vegetable oil)|C0453714|nut and vegetable roast
+# O|U>F|FOODON_03306542|apricot tartlet|C0452672|strawberry tartlet
 O|U>F|FOODON_03306569|chocolate drink|C0452243|hot chocolate drink
-O|U>F|FOODON_03306569|chocolate drink|C0876309|boost energy drink chocolate raspberry
-O|U>F|FOODON_03306569|chocolate drink|C1170830|met-rx extra chocolate drink
-O|U>F|FOODON_03306569|chocolate drink|C1815425|sunmark nutional drink, chocolate
-O|U>F|FOODON_03306569|chocolate drink|C1815426|sunmark nutional drink, chocolate plus
-O|U>F|FOODON_03306569|chocolate drink|C4270858|nutricia phenylade essential drink mix powder (chocolate)
-O|U>F|FOODON_03306574|chocolate-flavored drink (instant)|C1660692|boost energy drink, instant chocolate
-O|U>F|FOODON_03306587|milk (spray-dried)|C0452721|dried milk
-O|U>F|FOODON_03306587|milk (spray-dried)|C0452726|dried cow's milk
-O|U>F|FOODON_03306629|honey crunch doughnut|C1170811|glucerna bar lemon crunch
+# O|U>F|FOODON_03306569|chocolate drink|C0876309|boost energy drink chocolate raspberry
+# O|U>F|FOODON_03306569|chocolate drink|C1170830|met-rx extra chocolate drink
+# O|U>F|FOODON_03306569|chocolate drink|C1815425|sunmark nutional drink, chocolate
+# O|U>F|FOODON_03306569|chocolate drink|C1815426|sunmark nutional drink, chocolate plus
+# O|U>F|FOODON_03306569|chocolate drink|C4270858|nutricia phenylade essential drink mix powder (chocolate)
+# O|U>F|FOODON_03306574|chocolate-flavored drink (instant)|C1660692|boost energy drink, instant chocolate
+# O|U>F|FOODON_03306587|milk (spray-dried)|C0452721|dried milk
+# O|U>F|FOODON_03306587|milk (spray-dried)|C0452726|dried cow's milk
+# O|U>F|FOODON_03306629|honey crunch doughnut|C1170811|glucerna bar lemon crunch
 O|U>F|FOODON_03306632|nut (whole or pieces)|C0028723|nuts
-O|U>F|FOODON_03306653|soy lecithin spread|C3651833|multivit no.37/iron/l-mefolate calc./algal oil/soy lecithin 27 mg iron-1.13 mg-581.92 mg oral capsule
+# O|U>F|FOODON_03306653|soy lecithin spread|C3651833|multivit no.37/iron/l-mefolate calc./algal oil/soy lecithin 27 mg iron-1.13 mg-581.92 mg oral capsule
 O|U>F|FOODON_03306658|cooking oil (blended)|C0452846|blended vegetable oil
-O|U>F|FOODON_03306658|cooking oil (blended)|C0453160|french fries cooked in blended oil
+# O|U>F|FOODON_03306658|cooking oil (blended)|C0453160|french fries cooked in blended oil
 O|U>F|FOODON_03306665|soybean oil (hydrogenated)|C1509841|hydrogenated soybean oil
-O|U>F|FOODON_03306665|soybean oil (hydrogenated)|C4733850|hydrogenated soybean oil flakes
-O|U>F|FOODON_03306679|lemon pie|C0453548|lemon meringue pie
-O|U>F|FOODON_03306693|pea flour|C0458971|chick pea flour
-O|U>F|FOODON_03306698|swiss chard leaf (raw)|C0678195|chard
+# O|U>F|FOODON_03306665|soybean oil (hydrogenated)|C4733850|hydrogenated soybean oil flakes
+# O|U>F|FOODON_03306679|lemon pie|C0453548|lemon meringue pie
+# O|U>F|FOODON_03306693|pea flour|C0458971|chick pea flour
+# O|U>F|FOODON_03306698|swiss chard leaf (raw)|C0678195|chard
 O|U>F|FOODON_03306698|swiss chard leaf (raw)|C2348626|swiss chard
-O|U>F|FOODON_03306706|bombay duck wafer|C0452228|bombay mix
+# O|U>F|FOODON_03306706|bombay duck wafer|C0452228|bombay mix
 O|U>F|FOODON_03306717|butterscotch creme pudding|C0726112|ensure pudding (butterscotch)
 O|U>F|FOODON_03306717|butterscotch creme pudding|C0728213|sustacal pudding butterscotch
 O|U>F|FOODON_03306717|butterscotch creme pudding|C0981303|boost pudding butterscotch
 O|U>F|FOODON_03306717|butterscotch creme pudding|C3499685|ensure pudding (butterscotch delight)
 O|U>F|FOODON_03306726|sweet green pepper (raw)|C2348896|green bell pepper
 O|U>F|FOODON_03306763|fruit pie filling|C0453336|tinned fruit pie filling
-O|U>F|FOODON_03306768|cheese pie|C0453454|cheese and potato pie
-O|U>F|FOODON_03306768|cheese pie|C0453694|lentil and cheese pie
-O|U>F|FOODON_03306773|pie crust|C0453525|fruit pie one crust
-O|U>F|FOODON_03306773|pie crust|C0453528|fruit pie wholemeal one crust
-O|U>F|FOODON_03306789|cheese pizza kit|C0453442|kit kat
-O|U>F|FOODON_03306789|cheese pizza kit|C2963068|appbutamone-d kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2978269|trazamine kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2978329|theracodophen-low-90 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2979124|theraprofen-800 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2979519|theracodophen-325 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2979685|strazepam kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2979689|theracodeine-300 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2979695|theratramadol-90 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2979787|appformin kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2979789|theraproxen-90 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980126|senophylline kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980127|gabitidine kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980129|sentraXlpidem pm-5 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980130|gabaXlamine kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980131|hypertenevide-12.5 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980132|gabaXlamine-0.5 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980133|hypertenipine kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980134|gabaXlpidem-5 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980164|gaboxetine kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980165|hypertensolol kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980166|praXlamine kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980167|sentradine kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980317|theracodophen-750 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980505|sentraflox am-10 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C2980508|therafeldamine kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3154473|appformin-d kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3154540|appbutamone kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3154580|sentravil pm-25 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3154610|gabavale-5 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3154642|lytensopril kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3191083|theratramadol-60 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3191084|theraproxen kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3191085|theraprofen-60 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3191086|therapentin-60 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3191087|therabenzaprine-60 kit
-O|U>F|FOODON_03306789|cheese pizza kit|C3857348|ibuprofen;prasterone 400 mg; 200 mg oral kit
-O|U>F|FOODON_03306789|cheese pizza kit|C5553407|ensure surgery perioperative kit
-O|U>F|FOODON_03306812|peas (rehydrated, canned)|C0453197|canned chick peas
+# O|U>F|FOODON_03306768|cheese pie|C0453454|cheese and potato pie
+# O|U>F|FOODON_03306768|cheese pie|C0453694|lentil and cheese pie
+# O|U>F|FOODON_03306773|pie crust|C0453525|fruit pie one crust
+# O|U>F|FOODON_03306773|pie crust|C0453528|fruit pie wholemeal one crust
+# O|U>F|FOODON_03306789|cheese pizza kit|C0453442|kit kat
+# O|U>F|FOODON_03306789|cheese pizza kit|C2963068|appbutamone-d kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2978269|trazamine kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2978329|theracodophen-low-90 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2979124|theraprofen-800 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2979519|theracodophen-325 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2979685|strazepam kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2979689|theracodeine-300 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2979695|theratramadol-90 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2979787|appformin kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2979789|theraproxen-90 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980126|senophylline kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980127|gabitidine kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980129|sentraXlpidem pm-5 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980130|gabaXlamine kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980131|hypertenevide-12.5 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980132|gabaXlamine-0.5 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980133|hypertenipine kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980134|gabaXlpidem-5 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980164|gaboxetine kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980165|hypertensolol kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980166|praXlamine kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980167|sentradine kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980317|theracodophen-750 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980505|sentraflox am-10 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C2980508|therafeldamine kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3154473|appformin-d kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3154540|appbutamone kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3154580|sentravil pm-25 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3154610|gabavale-5 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3154642|lytensopril kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3191083|theratramadol-60 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3191084|theraproxen kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3191085|theraprofen-60 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3191086|therapentin-60 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3191087|therabenzaprine-60 kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C3857348|ibuprofen;prasterone 400 mg; 200 mg oral kit
+# O|U>F|FOODON_03306789|cheese pizza kit|C5553407|ensure surgery perioperative kit
+# O|U>F|FOODON_03306812|peas (rehydrated, canned)|C0453197|canned chick peas
 O|U>F|FOODON_03306812|peas (rehydrated, canned)|C0453202|canned peas
 O|U>F|FOODON_03306812|peas (rehydrated, canned)|C0453203|canned garden peas
-O|U>F|FOODON_03306812|peas (rehydrated, canned)|C0453204|canned marrowfat peas
-O|U>F|FOODON_03306839|whey (swiss liquid)|C3499967|amino acids/protein hydrolysate/whey protein isolate 10 gram-100 kcal/30 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C3499968|amino acids/protein hydrolysate/whey protein isolate 15 gram-100 kcal/30 ml oral liquid in packet (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C3505095|amino acids/protein hydrolysate/whey protein isolate 15 gram-100 kcal/30 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C3855918|amino acid/hydrolyzed collagen, whey/arginine/c/zinc/copper 17 gram-100 kcal/30 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C3883287|nutritional tx, ketogenic,whey 3.4 gram-156 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C3883288|nutritional tx, ketogenic,whey 3.4 gram-144 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C3892914|amino acids/protein hydrolysate/whey protein isolate 16 gram-90 kcal/30 ml oral liquid in packet (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C3892918|amino acids/protein hydrolysate/whey protein isolate 16 gram-90 kcal/30 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C4224814|nutritional tx, ketogenic,whey 3.3 gram-171 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C4306737|amino acids/protein hydrolysate/whey protein isolate 16 gram-90 kcal/30 ml oral liquid in metered-dose pump
-O|U>F|FOODON_03306839|whey (swiss liquid)|C5136804|nutritional tx, ketogenic,whey 2.8 gram-104 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C5450063|nutritional tx, ketogenic,whey 3.2 gram-149 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C5450064|nutritional tx, ketogenic,whey 3.4 gram-150 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C5563753|nutritional tx, ketogenic,whey 3.4 gram-148 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C5563754|nutritional tx, ketogenic,whey 3.4 gram-159 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C5853704|whey protein isolate/collagen, hydrolysate (bovine) 16 gram-90 kcal/60 ml oral liquid (ml)
-O|U>F|FOODON_03306839|whey (swiss liquid)|C5873585|whey protein isolate/arginine 18 gram-80 kcal/30 ml oral liquid (ml)
+# O|U>F|FOODON_03306812|peas (rehydrated, canned)|C0453204|canned marrowfat peas
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C3499967|amino acids/protein hydrolysate/whey protein isolate 10 gram-100 kcal/30 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C3499968|amino acids/protein hydrolysate/whey protein isolate 15 gram-100 kcal/30 ml oral liquid in packet (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C3505095|amino acids/protein hydrolysate/whey protein isolate 15 gram-100 kcal/30 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C3855918|amino acid/hydrolyzed collagen, whey/arginine/c/zinc/copper 17 gram-100 kcal/30 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C3883287|nutritional tx, ketogenic,whey 3.4 gram-156 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C3883288|nutritional tx, ketogenic,whey 3.4 gram-144 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C3892914|amino acids/protein hydrolysate/whey protein isolate 16 gram-90 kcal/30 ml oral liquid in packet (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C3892918|amino acids/protein hydrolysate/whey protein isolate 16 gram-90 kcal/30 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C4224814|nutritional tx, ketogenic,whey 3.3 gram-171 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C4306737|amino acids/protein hydrolysate/whey protein isolate 16 gram-90 kcal/30 ml oral liquid in metered-dose pump
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C5136804|nutritional tx, ketogenic,whey 2.8 gram-104 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C5450063|nutritional tx, ketogenic,whey 3.2 gram-149 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C5450064|nutritional tx, ketogenic,whey 3.4 gram-150 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C5563753|nutritional tx, ketogenic,whey 3.4 gram-148 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C5563754|nutritional tx, ketogenic,whey 3.4 gram-159 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C5853704|whey protein isolate/collagen, hydrolysate (bovine) 16 gram-90 kcal/60 ml oral liquid (ml)
+# O|U>F|FOODON_03306839|whey (swiss liquid)|C5873585|whey protein isolate/arginine 18 gram-80 kcal/30 ml oral liquid (ml)
 O|U>F|FOODON_03306841|papaya juice (canned)|C3255960|papaya juice
 O|U>F|FOODON_03306859|peanut (dry roasted)|C0453352|dry roasted peanuts
 O|U>F|FOODON_03306867|peanut butter|C0453350|smooth peanut butter
@@ -28152,27 +28152,27 @@ O|U>F|FOODON_03306867|peanut butter|C0939560|choice peanut butter
 O|U>F|FOODON_03306867|peanut butter|C1950280|peanut butter flavor, artificial
 O|U>F|FOODON_03306867|peanut butter|C3464528|peanut butter flavor
 O|U>F|FOODON_03306867|peanut butter|C3464634|peanut butter flavor miscell liquid (ml)
-O|U>F|FOODON_03306868|potato peeling|C0446303|potato with peel
-O|U>F|FOODON_03306872|potato chip (unsalted)|C0453154|potato boiled in unsalted water
-O|U>F|FOODON_03306872|potato chip (unsalted)|C0453176|potato tinned in unsalted water
-O|U>F|FOODON_03306873|peanut butter with jelly|C4727618|nutri-jelly with peitc
+# O|U>F|FOODON_03306868|potato peeling|C0446303|potato with peel
+# O|U>F|FOODON_03306872|potato chip (unsalted)|C0453154|potato boiled in unsalted water
+# O|U>F|FOODON_03306872|potato chip (unsalted)|C0453176|potato tinned in unsalted water
+# O|U>F|FOODON_03306873|peanut butter with jelly|C4727618|nutri-jelly with peitc
 O|U>F|FOODON_03306882|chocolate-covered wafer candy bar|C0458189|chocolate covered wafer/biscuit bar
-O|U>F|FOODON_03306896|garlic and onion puree|C0453583|stuffing sage and onion
-O|U>F|FOODON_03306970|chocolate milk (instant)|C0979982|resource instant crystals (rich chocolate)
-O|U>F|FOODON_03306970|chocolate milk (instant)|C1713506|ensure plus, raspberry chocolate instant
-O|U>F|FOODON_03306970|chocolate milk (instant)|C1740860|boost plus liquid instant, chocolate
-O|U>F|FOODON_03306970|chocolate milk (instant)|C2344591|boost plus chocolate btl instant
-O|U>F|FOODON_03306970|chocolate milk (instant)|C2344596|ensure with fiber chocolate instant
-O|U>F|FOODON_03306970|chocolate milk (instant)|C2722374|ensure instant chocolate p/b
-O|U>F|FOODON_03306970|chocolate milk (instant)|C5207229|pediasure liquid chocolate instant (obsolete)
+# O|U>F|FOODON_03306896|garlic and onion puree|C0453583|stuffing sage and onion
+# O|U>F|FOODON_03306970|chocolate milk (instant)|C0979982|resource instant crystals (rich chocolate)
+# O|U>F|FOODON_03306970|chocolate milk (instant)|C1713506|ensure plus, raspberry chocolate instant
+# O|U>F|FOODON_03306970|chocolate milk (instant)|C1740860|boost plus liquid instant, chocolate
+# O|U>F|FOODON_03306970|chocolate milk (instant)|C2344591|boost plus chocolate btl instant
+# O|U>F|FOODON_03306970|chocolate milk (instant)|C2344596|ensure with fiber chocolate instant
+# O|U>F|FOODON_03306970|chocolate milk (instant)|C2722374|ensure instant chocolate p/b
+# O|U>F|FOODON_03306970|chocolate milk (instant)|C5207229|pediasure liquid chocolate instant (obsolete)
 O|U>F|FOODON_03306987|popcorn (buttered)|C0452685|buttered popcorn
-O|U>F|FOODON_03307014|peach (spice and flavoring added, canned)|C3257188|pineapple-peach flavoring
+# O|U>F|FOODON_03307014|peach (spice and flavoring added, canned)|C3257188|pineapple-peach flavoring
 O|U>F|FOODON_03307020|poppadum|C0452537|papadum
-O|U>F|FOODON_03307027|pork and beans with tomato sauce (canned)|C0453190|baked beans canned in tomato sauce with burgers
-O|U>F|FOODON_03307027|pork and beans with tomato sauce (canned)|C0453191|baked beans canned in tomato sauce with pork sausages
-O|U>F|FOODON_03307027|pork and beans with tomato sauce (canned)|C0453193|barbecue beans canned in sauce
-O|U>F|FOODON_03307033|idaho potato (raw)|C1330730|ensure butterpecan
-O|U>F|FOODON_03307033|idaho potato (raw)|C4689143|ensure complt van inst
+# O|U>F|FOODON_03307027|pork and beans with tomato sauce (canned)|C0453190|baked beans canned in tomato sauce with burgers
+# O|U>F|FOODON_03307027|pork and beans with tomato sauce (canned)|C0453191|baked beans canned in tomato sauce with pork sausages
+# O|U>F|FOODON_03307027|pork and beans with tomato sauce (canned)|C0453193|barbecue beans canned in sauce
+# O|U>F|FOODON_03307033|idaho potato (raw)|C1330730|ensure butterpecan
+# O|U>F|FOODON_03307033|idaho potato (raw)|C4689143|ensure complt van inst
 O|U>F|FOODON_03307041|potato (crinkle-cut style, bagged)|C0453157|crinkle cut chips
 O|U>F|FOODON_03307041|potato (crinkle-cut style, bagged)|C0458208|crinkle cut potato chips
 O|U>F|FOODON_03307044|potato flakes (mashed potato, instant)|C0453166|potato mashed with butter
@@ -28181,281 +28181,281 @@ O|U>F|FOODON_03307044|potato flakes (mashed potato, instant)|C0453168|potato mas
 O|U>F|FOODON_03307044|potato flakes (mashed potato, instant)|C0453169|potato mashed with polyunsaturated margarine
 O|U>F|FOODON_03307044|potato flakes (mashed potato, instant)|C0453177|instant potato
 O|U>F|FOODON_03307044|potato flakes (mashed potato, instant)|C0453178|instant potato made up with water
-O|U>F|FOODON_03307053|frankfurter (in bun)|C0452653|hot cross bun
-O|U>F|FOODON_03307057|potato chip (onion- and garlic-flavored)|C0453614|potato and onion bhaji
-O|U>F|FOODON_03307057|potato chip (onion- and garlic-flavored)|C0453615|potato onion and mushroom bhaji
-O|U>F|FOODON_03307066|cornish cross chicken (raw)|C0453483|cornish pastie
-O|U>F|FOODON_03307084|strawberry spread with cognac|C4073387|pediasure with fiber enteral suspension (strawberry)
-O|U>F|FOODON_03307084|strawberry spread with cognac|C4256243|nutricia neocate junior with prebiotics powder (strawberry)
-O|U>F|FOODON_03307087|cherry spread with cherry liquer|C4057955|walgreens advantage care pediatric oral electrolyte solution with zinc (cherry punch)
+# O|U>F|FOODON_03307053|frankfurter (in bun)|C0452653|hot cross bun
+# O|U>F|FOODON_03307057|potato chip (onion- and garlic-flavored)|C0453614|potato and onion bhaji
+# O|U>F|FOODON_03307057|potato chip (onion- and garlic-flavored)|C0453615|potato onion and mushroom bhaji
+# O|U>F|FOODON_03307066|cornish cross chicken (raw)|C0453483|cornish pastie
+# O|U>F|FOODON_03307084|strawberry spread with cognac|C4073387|pediasure with fiber enteral suspension (strawberry)
+# O|U>F|FOODON_03307084|strawberry spread with cognac|C4256243|nutricia neocate junior with prebiotics powder (strawberry)
+# O|U>F|FOODON_03307087|cherry spread with cherry liquer|C4057955|walgreens advantage care pediatric oral electrolyte solution with zinc (cherry punch)
 O|U>F|FOODON_03307110|rolled oats|C0028753|oats
-O|U>F|FOODON_03307110|rolled oats|C5561058|real foods salmon,oats,squash,pkt,267gm
-O|U>F|FOODON_03307110|rolled oats|C5561061|real foods eggs,apples,oats,pkt,267gm
-O|U>F|FOODON_03307110|rolled oats|C5671769|real food blends eggs apples & oats
-O|U>F|FOODON_03307121|red bliss potato (raw)|C4306041|similac pure bliss with iron non-gmo powder for suspension
-O|U>F|FOODON_03307121|red bliss potato (raw)|C4306042|similac pure bliss non-gmo powder for suspension
-O|U>F|FOODON_03307121|red bliss potato (raw)|C4318097|pure bliss toddler with probiotics
-O|U>F|FOODON_03307121|red bliss potato (raw)|C5940994|similac pure bliss with iron organic powder for suspension
-O|U>F|FOODON_03307130|ginger ale|C5816660|liquacel liquid,ginger ale
-O|U>F|FOODON_03307142|olives (canned)|C0349382|olives
+# O|U>F|FOODON_03307110|rolled oats|C5561058|real foods salmon,oats,squash,pkt,267gm
+# O|U>F|FOODON_03307110|rolled oats|C5561061|real foods eggs,apples,oats,pkt,267gm
+# O|U>F|FOODON_03307110|rolled oats|C5671769|real food blends eggs apples & oats
+# O|U>F|FOODON_03307121|red bliss potato (raw)|C4306041|similac pure bliss with iron non-gmo powder for suspension
+# O|U>F|FOODON_03307121|red bliss potato (raw)|C4306042|similac pure bliss non-gmo powder for suspension
+# O|U>F|FOODON_03307121|red bliss potato (raw)|C4318097|pure bliss toddler with probiotics
+# O|U>F|FOODON_03307121|red bliss potato (raw)|C5940994|similac pure bliss with iron organic powder for suspension
+# O|U>F|FOODON_03307130|ginger ale|C5816660|liquacel liquid,ginger ale
+# O|U>F|FOODON_03307142|olives (canned)|C0349382|olives
 O|U>F|FOODON_03307177|quiche|C0453457|quiche (substance)
 O|U>F|FOODON_03307178|flan|C0453521|flan case sponge
 O|U>F|FOODON_03307178|flan|C0453782|vegetable flan
-O|U>F|FOODON_03307179|cheese quiche|C0453458|cheese and egg quiche
-O|U>F|FOODON_03307184|aloe honey|C5187825|aloe vera leaf 90 g in 100 ml / honey 9 g in 100 ml oral solution [aloevora juice honey]
+# O|U>F|FOODON_03307179|cheese quiche|C0453458|cheese and egg quiche
+# O|U>F|FOODON_03307184|aloe honey|C5187825|aloe vera leaf 90 g in 100 ml / honey 9 g in 100 ml oral solution [aloevora juice honey]
 O|U>F|FOODON_03307232|scotch whiskey|C0475850|scotch whisky
-O|U>F|FOODON_03307240|chocolate|C0593531|fortisip chocolate liq 200ml
-O|U>F|FOODON_03307240|chocolate|C0595896|thixo-d chocolate drinkmix
-O|U>F|FOODON_03307240|chocolate|C0725070|advera chocolate
-O|U>F|FOODON_03307240|chocolate|C0725071|advera nutrition chocolate institutional
-O|U>F|FOODON_03307240|chocolate|C0725415|boost plus chocolate
-O|U>F|FOODON_03307240|chocolate|C0725689|complete nutrition chocolate
-O|U>F|FOODON_03307240|chocolate|C0725690|complete nutrition plus chocolate
-O|U>F|FOODON_03307240|chocolate|C0726087|ensure chocolate
-O|U>F|FOODON_03307240|chocolate|C0726088|ensure chocolate hospital
-O|U>F|FOODON_03307240|chocolate|C0726096|ensure high protein chocolate
-O|U>F|FOODON_03307240|chocolate|C0726098|ensure light chocolate
-O|U>F|FOODON_03307240|chocolate|C0726103|ensure plus chocolate
-O|U>F|FOODON_03307240|chocolate|C0726452|hepatic aid ii chocolate
-O|U>F|FOODON_03307240|chocolate|C0727204|nubasics chocolate
-O|U>F|FOODON_03307240|chocolate|C0727206|nubasics plus chocolate
-O|U>F|FOODON_03307240|chocolate|C0727217|nutrament chocolate
-O|U>F|FOODON_03307240|chocolate|C0727228|nutren 1.0 chocolate
-O|U>F|FOODON_03307240|chocolate|C0727240|nutren 1.5 chocolate
-O|U>F|FOODON_03307240|chocolate|C0727621|pulmocare chocolate
-O|U>F|FOODON_03307240|chocolate|C0727707|resource plus chocolate
-O|U>F|FOODON_03307240|chocolate|C0727718|restore plus chocolate
-O|U>F|FOODON_03307240|chocolate|C0727767|scandibar chocolate
-O|U>F|FOODON_03307240|chocolate|C0727770|scandishake chocolate
-O|U>F|FOODON_03307240|chocolate|C0727773|scandishake regular chocolate
-O|U>F|FOODON_03307240|chocolate|C0728190|sustacal basic chocolate
-O|U>F|FOODON_03307240|chocolate|C0728193|sustacal chocolate
-O|U>F|FOODON_03307240|chocolate|C0728194|sustacal chocolate plus chocolate
-O|U>F|FOODON_03307240|chocolate|C0728196|sustacal fiber chocolate
-O|U>F|FOODON_03307240|chocolate|C0728202|sustacal plus chocolate
-O|U>F|FOODON_03307240|chocolate|C0728704|zbar chocolate
-O|U>F|FOODON_03307240|chocolate|C0876313|boost high protein chocolate
-O|U>F|FOODON_03307240|chocolate|C0876358|hepatic-aid chocolate
-O|U>F|FOODON_03307240|chocolate|C0939576|kindercal chocolate
-O|U>F|FOODON_03307240|chocolate|C0979975|resource crystals (chocolate)
-O|U>F|FOODON_03307240|chocolate|C0980103|scandishake pwdr/pkt,85gm chocolate
-O|U>F|FOODON_03307240|chocolate|C0980458|sustagen pwdr chocolate
-O|U>F|FOODON_03307240|chocolate|C1170813|glucerna chocolate
-O|U>F|FOODON_03307240|chocolate|C1170819|health source soy chocolate
-O|U>F|FOODON_03307240|chocolate|C1170841|pediasure chocolate
-O|U>F|FOODON_03307240|chocolate|C1330734|ensure hi-protein chocolate
-O|U>F|FOODON_03307240|chocolate|C1337204|chocolate flavor
-O|U>F|FOODON_03307240|chocolate|C1443929|chocolate agar
-O|U>F|FOODON_03307240|chocolate|C1576396|sustacal pwdr chocolate
-O|U>F|FOODON_03307240|chocolate|C1644770|boost plus fiber, chocolate
-O|U>F|FOODON_03307240|chocolate|C1698896|ensure plus inst chocolate p/b
-O|U>F|FOODON_03307240|chocolate|C1949890|boost gluc cont chocolate
-O|U>F|FOODON_03307240|chocolate|C2756355|peptamen os, chocolate
-O|U>F|FOODON_03307240|chocolate|C3530425|periflex junior, chocolate
-O|U>F|FOODON_03307240|chocolate|C3663237|glucerna advance suspension (chocolate)
-O|U>F|FOODON_03307240|chocolate|C3709777|ensure muscle health chocolate
-O|U>F|FOODON_03307240|chocolate|C3847922|ensure complete chocolate
-O|U>F|FOODON_03307240|chocolate|C3847924|ensure muscle chocolate
-O|U>F|FOODON_03307240|chocolate|C3847941|boost original chocolate
-O|U>F|FOODON_03307240|chocolate|C4019927|ensure active light chocolate
-O|U>F|FOODON_03307240|chocolate|C4032926|boost plus chocolate tetra brik
-O|U>F|FOODON_03307240|chocolate|C4032934|boost chocolate tetra brik
-O|U>F|FOODON_03307240|chocolate|C4046311|boost compact chocolate
-O|U>F|FOODON_03307240|chocolate|C4049121|pediasure enteral suspension (chocolate)
-O|U>F|FOODON_03307240|chocolate|C4058009|flavor pcca chocolate
-O|U>F|FOODON_03307240|chocolate|C4073404|glucerna therapeutic nutrition (chocolate)
-O|U>F|FOODON_03307240|chocolate|C4073684|ensure enlive chocolate
-O|U>F|FOODON_03307240|chocolate|C4224099|glytactin rtd 15pe suspension (chocolate)
-O|U>F|FOODON_03307240|chocolate|C4224267|boost glucose control, chocolate
-O|U>F|FOODON_03307240|chocolate|C4317841|phenylade essential chocolate
-O|U>F|FOODON_03307240|chocolate|C4317852|ensure original chocolate
-O|U>F|FOODON_03307240|chocolate|C4325267|elecare jr chocolate
-O|U>F|FOODON_03307240|chocolate|C4490152|core essentials 1.0 cal/ml total nutrition (chocolate)
-O|U>F|FOODON_03307240|chocolate|C4550702|core essentials pediatric formula 1.2 cal/ml total nutrition (chocolate)
-O|U>F|FOODON_03307240|chocolate|C4550705|core essentials pediatric peptide plus 1.5 cal/ml sole-source nutrition (chocolate)
-O|U>F|FOODON_03307240|chocolate|C4689042|ensure pwdr chocolate
-O|U>F|FOODON_03307240|chocolate|C5187571|pediasure grow & gain enteral suspension (chocolate)
-O|U>F|FOODON_03307240|chocolate|C5195696|kate farms standard 1.0 cal/ml nutrition (chocolate)
-O|U>F|FOODON_03307240|chocolate|C5207213|pediasure organic chocolate
-O|U>F|FOODON_03307240|chocolate|C5207226|pediasure chocolate (obsolete)
-O|U>F|FOODON_03307240|chocolate|C5557970|pediasure peptide 1 cal therapeutic nutrition (chocolate)
-O|U>F|FOODON_03307240|chocolate|C5578558|kate farms pediatric standard 1.2 cal/ml nutrition (chocolate)
-O|U>F|FOODON_03307240|chocolate|C5698521|kate farms standard 1.4 cal/ml nutrition (chocolate)
-O|U>F|FOODON_03307240|chocolate|C5777185|nutricia ketocal 4:1 lq enteral suspension (chocolate)
-O|U>F|FOODON_03307240|chocolate|C5816017|kate farms standard 1 cal/ml chocolate
-O|U>F|FOODON_03307294|mineral water (carbonated)|C3494193|carbonated water
-O|U>F|FOODON_03307304|wine (homemade)|C2710087|nepro with carb steady homemade vanilla
-O|U>F|FOODON_03307304|wine (homemade)|C4306039|suplena with carb steady 1.8 cal therapeutic nutrition (homemade vanilla)
+# O|U>F|FOODON_03307240|chocolate|C0593531|fortisip chocolate liq 200ml
+# O|U>F|FOODON_03307240|chocolate|C0595896|thixo-d chocolate drinkmix
+# O|U>F|FOODON_03307240|chocolate|C0725070|advera chocolate
+# O|U>F|FOODON_03307240|chocolate|C0725071|advera nutrition chocolate institutional
+# O|U>F|FOODON_03307240|chocolate|C0725415|boost plus chocolate
+# O|U>F|FOODON_03307240|chocolate|C0725689|complete nutrition chocolate
+# O|U>F|FOODON_03307240|chocolate|C0725690|complete nutrition plus chocolate
+# O|U>F|FOODON_03307240|chocolate|C0726087|ensure chocolate
+# O|U>F|FOODON_03307240|chocolate|C0726088|ensure chocolate hospital
+# O|U>F|FOODON_03307240|chocolate|C0726096|ensure high protein chocolate
+# O|U>F|FOODON_03307240|chocolate|C0726098|ensure light chocolate
+# O|U>F|FOODON_03307240|chocolate|C0726103|ensure plus chocolate
+# O|U>F|FOODON_03307240|chocolate|C0726452|hepatic aid ii chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727204|nubasics chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727206|nubasics plus chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727217|nutrament chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727228|nutren 1.0 chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727240|nutren 1.5 chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727621|pulmocare chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727707|resource plus chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727718|restore plus chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727767|scandibar chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727770|scandishake chocolate
+# O|U>F|FOODON_03307240|chocolate|C0727773|scandishake regular chocolate
+# O|U>F|FOODON_03307240|chocolate|C0728190|sustacal basic chocolate
+# O|U>F|FOODON_03307240|chocolate|C0728193|sustacal chocolate
+# O|U>F|FOODON_03307240|chocolate|C0728194|sustacal chocolate plus chocolate
+# O|U>F|FOODON_03307240|chocolate|C0728196|sustacal fiber chocolate
+# O|U>F|FOODON_03307240|chocolate|C0728202|sustacal plus chocolate
+# O|U>F|FOODON_03307240|chocolate|C0728704|zbar chocolate
+# O|U>F|FOODON_03307240|chocolate|C0876313|boost high protein chocolate
+# O|U>F|FOODON_03307240|chocolate|C0876358|hepatic-aid chocolate
+# O|U>F|FOODON_03307240|chocolate|C0939576|kindercal chocolate
+# # O|U>F|FOODON_03307240|chocolate|C0979975|resource crystals (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C0980103|scandishake pwdr/pkt,85gm chocolate
+# O|U>F|FOODON_03307240|chocolate|C0980458|sustagen pwdr chocolate
+# O|U>F|FOODON_03307240|chocolate|C1170813|glucerna chocolate
+# O|U>F|FOODON_03307240|chocolate|C1170819|health source soy chocolate
+# O|U>F|FOODON_03307240|chocolate|C1170841|pediasure chocolate
+# O|U>F|FOODON_03307240|chocolate|C1330734|ensure hi-protein chocolate
+# O|U>F|FOODON_03307240|chocolate|C1337204|chocolate flavor
+# O|U>F|FOODON_03307240|chocolate|C1443929|chocolate agar
+# O|U>F|FOODON_03307240|chocolate|C1576396|sustacal pwdr chocolate
+# O|U>F|FOODON_03307240|chocolate|C1644770|boost plus fiber, chocolate
+# O|U>F|FOODON_03307240|chocolate|C1698896|ensure plus inst chocolate p/b
+# O|U>F|FOODON_03307240|chocolate|C1949890|boost gluc cont chocolate
+# O|U>F|FOODON_03307240|chocolate|C2756355|peptamen os, chocolate
+# O|U>F|FOODON_03307240|chocolate|C3530425|periflex junior, chocolate
+# O|U>F|FOODON_03307240|chocolate|C3663237|glucerna advance suspension (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C3709777|ensure muscle health chocolate
+# O|U>F|FOODON_03307240|chocolate|C3847922|ensure complete chocolate
+# O|U>F|FOODON_03307240|chocolate|C3847924|ensure muscle chocolate
+# O|U>F|FOODON_03307240|chocolate|C3847941|boost original chocolate
+# O|U>F|FOODON_03307240|chocolate|C4019927|ensure active light chocolate
+# O|U>F|FOODON_03307240|chocolate|C4032926|boost plus chocolate tetra brik
+# O|U>F|FOODON_03307240|chocolate|C4032934|boost chocolate tetra brik
+# O|U>F|FOODON_03307240|chocolate|C4046311|boost compact chocolate
+# O|U>F|FOODON_03307240|chocolate|C4049121|pediasure enteral suspension (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C4058009|flavor pcca chocolate
+# O|U>F|FOODON_03307240|chocolate|C4073404|glucerna therapeutic nutrition (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C4073684|ensure enlive chocolate
+# O|U>F|FOODON_03307240|chocolate|C4224099|glytactin rtd 15pe suspension (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C4224267|boost glucose control, chocolate
+# O|U>F|FOODON_03307240|chocolate|C4317841|phenylade essential chocolate
+# O|U>F|FOODON_03307240|chocolate|C4317852|ensure original chocolate
+# O|U>F|FOODON_03307240|chocolate|C4325267|elecare jr chocolate
+# O|U>F|FOODON_03307240|chocolate|C4490152|core essentials 1.0 cal/ml total nutrition (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C4550702|core essentials pediatric formula 1.2 cal/ml total nutrition (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C4550705|core essentials pediatric peptide plus 1.5 cal/ml sole-source nutrition (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C4689042|ensure pwdr chocolate
+# O|U>F|FOODON_03307240|chocolate|C5187571|pediasure grow & gain enteral suspension (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C5195696|kate farms standard 1.0 cal/ml nutrition (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C5207213|pediasure organic chocolate
+# O|U>F|FOODON_03307240|chocolate|C5207226|pediasure chocolate (obsolete)
+# O|U>F|FOODON_03307240|chocolate|C5557970|pediasure peptide 1 cal therapeutic nutrition (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C5578558|kate farms pediatric standard 1.2 cal/ml nutrition (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C5698521|kate farms standard 1.4 cal/ml nutrition (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C5777185|nutricia ketocal 4:1 lq enteral suspension (chocolate)
+# O|U>F|FOODON_03307240|chocolate|C5816017|kate farms standard 1 cal/ml chocolate
+# O|U>F|FOODON_03307294|mineral water (carbonated)|C3494193|carbonated water
+# O|U>F|FOODON_03307304|wine (homemade)|C2710087|nepro with carb steady homemade vanilla
+# O|U>F|FOODON_03307304|wine (homemade)|C4306039|suplena with carb steady 1.8 cal therapeutic nutrition (homemade vanilla)
 O|U>F|FOODON_03307306|mead|C0678406|mead honey wine
 O|U>F|FOODON_03307307|wine (nonalcoholic)|C0681570|nonalcoholic wine
 O|U>F|FOODON_03307326|fish (salted)|C0452966|chinese salted fish
-O|U>F|FOODON_03307331|mango shake|C0726287|forta shake strawberry
-O|U>F|FOODON_03307331|mango shake|C0726288|forta shake vanilla
-O|U>F|FOODON_03307331|mango shake|C1277002|resource shake
-O|U>F|FOODON_03307331|mango shake|C1950034|ensure healthy mom shake vanilla
-O|U>F|FOODON_03307331|mango shake|C3499682|ensure high protein shake (homemade vanilla)
-O|U>F|FOODON_03307331|mango shake|C3709779|ensure plus glucerna shake
-O|U>F|FOODON_03307331|mango shake|C3709781|ensure shake chocolate
-O|U>F|FOODON_03307331|mango shake|C3709790|ensure shake strawberry
-O|U>F|FOODON_03307331|mango shake|C3709791|ensure shake vanilla
-O|U>F|FOODON_03307331|mango shake|C3709795|pediasure shake rpb banana
-O|U>F|FOODON_03307331|mango shake|C3709796|pediasure shake rpb chocolate
-O|U>F|FOODON_03307331|mango shake|C3709797|pediasure shake rpb strawberry
-O|U>F|FOODON_03307331|mango shake|C3709798|pediasure shake rpb vanilla
-O|U>F|FOODON_03307331|mango shake|C3709799|pediasure with fiber shake vanilla
-O|U>F|FOODON_03307331|mango shake|C3847932|glucerna shake hunger smart vanilla
-O|U>F|FOODON_03307331|mango shake|C3847936|glucerna snack shake chocolate
-O|U>F|FOODON_03307331|mango shake|C3892342|glucerna snack shake
-O|U>F|FOODON_03307331|mango shake|C3892344|glucerna shake
-O|U>F|FOODON_03307331|mango shake|C3892346|glucerna hunger smart shake
-O|U>F|FOODON_03307331|mango shake|C3892348|glucerna advance shake
-O|U>F|FOODON_03307331|mango shake|C4049126|pediasure sidekicks enteral shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C4073298|ensure active light nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C4073412|ensure plus nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C4073413|ensure plus nutrition shake (strawberry)
-O|U>F|FOODON_03307331|mango shake|C4073421|ensure active high protein shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C4282974|glucerna hungersmart shake ( rich chocolate)
-O|U>F|FOODON_03307331|mango shake|C4282977|health mart nutrisure original nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C4282979|health mart nutrisure plus nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C4290704|glucerna hunger smart shake chocolate
-O|U>F|FOODON_03307331|mango shake|C4317834|ensure surgery immunonutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C4477444|ensure high protein shake
-O|U>F|FOODON_03307331|mango shake|C4689211|enu complete nutrition shake (creamy chocolate)
-O|U>F|FOODON_03307331|mango shake|C4703937|pediasure sidekicks enteral shake (chocolate)
-O|U>F|FOODON_03307331|mango shake|C4703938|pediasure sidekicks enteral shake (strawberry)
-O|U>F|FOODON_03307331|mango shake|C5210556|pediasure sidekicks shake chocolate
-O|U>F|FOODON_03307331|mango shake|C5422841|kate farms nutrition shake vanilla
-O|U>F|FOODON_03307331|mango shake|C5422843|kate farms nutrition shake coffee
-O|U>F|FOODON_03307331|mango shake|C5422844|kate farms nutrition shake chocolate
-O|U>F|FOODON_03307331|mango shake|C5550045|ensure complete nutrition shake (strawberry)
-O|U>F|FOODON_03307331|mango shake|C5550046|ensure complete nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5671905|glucerna hungersmart shake (classic strawberry)
-O|U>F|FOODON_03307331|mango shake|C5671941|enu nutritional shake (creamy chocolate)
-O|U>F|FOODON_03307331|mango shake|C5671942|enu nutritional shake (creamy vanilla)
-O|U>F|FOODON_03307331|mango shake|C5770532|ensure max protein nutrition shake chocolate
-O|U>F|FOODON_03307331|mango shake|C5777452|kindersprout plant protein chocolate shake
-O|U>F|FOODON_03307331|mango shake|C5814122|walgreens original nutritional shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5816010|kate farms nutrition shake vanilla flavor
-O|U>F|FOODON_03307331|mango shake|C5833711|pku easy shake and go orange
-O|U>F|FOODON_03307331|mango shake|C5850084|equate nutritional shake plus (chocolate)
-O|U>F|FOODON_03307331|mango shake|C5853127|ensure original shake fiber vanilla
-O|U>F|FOODON_03307331|mango shake|C5853128|ensure plus with fiber nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5853257|ensure original with fiber nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5910212|protality nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5919025|glucerna 1.2 cal with carbsteady nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5919027|glucerna original carbsteady nutrition shake (creamy strawberry)
-O|U>F|FOODON_03307331|mango shake|C5919029|glucerna original carbsteady nutrition shake (rich cholocate)
-O|U>F|FOODON_03307331|mango shake|C5919032|glytrol complete nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5919034|goodsense nutrisure original nutritional shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5919209|boost max men nutritional shake (very vanilla)
-O|U>F|FOODON_03307331|mango shake|C5919317|ensure active heart health nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5919338|ensure high protein nutrition shake (chocolate)
-O|U>F|FOODON_03307331|mango shake|C5919339|ensure high protein nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5919340|ensure high protein therapeutic nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5919341|ensure max protein nutrition shake (creamy strawberry)
-O|U>F|FOODON_03307331|mango shake|C5919343|ensure original nutrition shake (strawberry)
-O|U>F|FOODON_03307331|mango shake|C5919344|ensure original nutrition shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5925372|ensure original nutrition shake chocolate
-O|U>F|FOODON_03307331|mango shake|C5940981|pediasure sidekicks high protein shake (vanilla)
-O|U>F|FOODON_03307331|mango shake|C5941013|glucerna original carbsteady snack shake (rich chocolate)
-O|U>F|FOODON_03307331|mango shake|C5941018|ensure active heart health nutrional shake (vanilla)
-O|U>F|FOODON_03307348|vanilla wafer|C0594302|tonexis 1.5 vanilla liquid
-O|U>F|FOODON_03307348|vanilla wafer|C0594303|tonexis 1.5 vanilla liquid 200ml
-O|U>F|FOODON_03307348|vanilla wafer|C0727243|nutren 1.5 vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C0727255|nutrivent 1.5 vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C0733029|clinutren 1.5 vanilla liquid
-O|U>F|FOODON_03307348|vanilla wafer|C0733030|clinutren 1.5 vanilla liquid 200ml
-O|U>F|FOODON_03307348|vanilla wafer|C1170845|peptamen 1.5 vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C1875559|nutren 1.5 liquid vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C2756354|peptamen os 1.5, vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C3816971|peptamen 1.5 cal with prebio1 250ml enteral suspension (vanilla)
-O|U>F|FOODON_03307348|vanilla wafer|C3832690|pediasure peptide 1.5 cal vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C4058144|glucerna 1.5 cal vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C4073389|pediasure peptide 1.5 cal therapeutic nutrition (vanilla)
-O|U>F|FOODON_03307348|vanilla wafer|C4073407|glucerna 1.5 cal specialized nutrition (vanilla)
-O|U>F|FOODON_03307348|vanilla wafer|C4306061|glucerna 1.5 cal with carbsteady nutrition (vanilla)
-O|U>F|FOODON_03307348|vanilla wafer|C4317848|glucerna with carbsteady 1.5 cal vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C4317858|vital peptide 1.5 cal (vanilla)
-O|U>F|FOODON_03307348|vanilla wafer|C4318377|vital 1.5 cal vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C4550707|core essentials pediatric peptide plus 1.5 cal/ml sole-source nutrition (vanilla)
-O|U>F|FOODON_03307348|vanilla wafer|C5187568|pediasure 1.5 cal therapeutic nutrition (vanilla)
-O|U>F|FOODON_03307348|vanilla wafer|C5195693|kate farms pediatric peptide 1.5 cal/ml nutrition (vanilla)
-O|U>F|FOODON_03307348|vanilla wafer|C5207209|pediasure 1.5 cal liquid vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C5207233|pediasure peptide 1.5 cal liquid vanilla
-O|U>F|FOODON_03307348|vanilla wafer|C5207234|pediasure peptide 1.5 cal vanilla (obsolete)
-O|U>F|FOODON_03307348|vanilla wafer|C5448918|kate farms peptide 1.5 cal/ml nutrition (vanilla)
-O|U>F|FOODON_03307348|vanilla wafer|C5455246|peptamen 1.5 cal peptide-based 250ml enteral suspension (vanilla)
-O|U>F|FOODON_03307349|strawberry bar cookie|C0359484|duobar strawberry bar
-O|U>F|FOODON_03307349|strawberry bar cookie|C0542721|duobar strawberry bar 100g
-O|U>F|FOODON_03307349|strawberry bar cookie|C0595581|duobar strawberry bar 45g
-O|U>F|FOODON_03307349|strawberry bar cookie|C0876308|boost energy bar strawberry cream
-O|U>F|FOODON_03307349|strawberry bar cookie|C0979964|regain bar,strawberry w/cocoa coating
-O|U>F|FOODON_03307352|banana cream pie|C1170840|pediasure banana cream
-O|U>F|FOODON_03307352|banana cream pie|C1949834|banana cream, natural & artificial flavor con
-O|U>F|FOODON_03307352|banana cream pie|C4530486|banana cream flavor
-O|U>F|FOODON_03307352|banana cream pie|C5207225|pediasure banana cream, instant (obsolete)
+O|U>F|FOODON_033# 07331|mango shake|C0726287|forta shake strawberry
+# O|U>F|FOODON_03307331|mango shake|C0726288|forta shake vanilla
+# O|U>F|FOODON_03307331|mango shake|C1277002|resource shake
+# O|U>F|FOODON_03307331|mango shake|C1950034|ensure healthy mom shake vanilla
+# O|U>F|FOODON_03307331|mango shake|C3499682|ensure high protein shake (homemade vanilla)
+# O|U>F|FOODON_03307331|mango shake|C3709779|ensure plus glucerna shake
+# O|U>F|FOODON_03307331|mango shake|C3709781|ensure shake chocolate
+# O|U>F|FOODON_03307331|mango shake|C3709790|ensure shake strawberry
+# O|U>F|FOODON_03307331|mango shake|C3709791|ensure shake vanilla
+# O|U>F|FOODON_03307331|mango shake|C3709795|pediasure shake rpb banana
+# O|U>F|FOODON_03307331|mango shake|C3709796|pediasure shake rpb chocolate
+# O|U>F|FOODON_03307331|mango shake|C3709797|pediasure shake rpb strawberry
+# O|U>F|FOODON_03307331|mango shake|C3709798|pediasure shake rpb vanilla
+# O|U>F|FOODON_03307331|mango shake|C3709799|pediasure with fiber shake vanilla
+# O|U>F|FOODON_03307331|mango shake|C3847932|glucerna shake hunger smart vanilla
+# O|U>F|FOODON_03307331|mango shake|C3847936|glucerna snack shake chocolate
+# O|U>F|FOODON_03307331|mango shake|C3892342|glucerna snack shake
+# O|U>F|FOODON_03307331|mango shake|C3892344|glucerna shake
+# O|U>F|FOODON_03307331|mango shake|C3892346|glucerna hunger smart shake
+# O|U>F|FOODON_03307331|mango shake|C3892348|glucerna advance shake
+# O|U>F|FOODON_03307331|mango shake|C4049126|pediasure sidekicks enteral shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C4073298|ensure active light nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C4073412|ensure plus nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C4073413|ensure plus nutrition shake (strawberry)
+# O|U>F|FOODON_03307331|mango shake|C4073421|ensure active high protein shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C4282974|glucerna hungersmart shake ( rich chocolate)
+# O|U>F|FOODON_03307331|mango shake|C4282977|health mart nutrisure original nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C4282979|health mart nutrisure plus nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C4290704|glucerna hunger smart shake chocolate
+# O|U>F|FOODON_03307331|mango shake|C4317834|ensure surgery immunonutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C4477444|ensure high protein shake
+# O|U>F|FOODON_03307331|mango shake|C4689211|enu complete nutrition shake (creamy chocolate)
+# O|U>F|FOODON_03307331|mango shake|C4703937|pediasure sidekicks enteral shake (chocolate)
+# O|U>F|FOODON_03307331|mango shake|C4703938|pediasure sidekicks enteral shake (strawberry)
+# O|U>F|FOODON_03307331|mango shake|C5210556|pediasure sidekicks shake chocolate
+# O|U>F|FOODON_03307331|mango shake|C5422841|kate farms nutrition shake vanilla
+# O|U>F|FOODON_03307331|mango shake|C5422843|kate farms nutrition shake coffee
+# O|U>F|FOODON_03307331|mango shake|C5422844|kate farms nutrition shake chocolate
+# O|U>F|FOODON_03307331|mango shake|C5550045|ensure complete nutrition shake (strawberry)
+# O|U>F|FOODON_03307331|mango shake|C5550046|ensure complete nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5671905|glucerna hungersmart shake (classic strawberry)
+# O|U>F|FOODON_03307331|mango shake|C5671941|enu nutritional shake (creamy chocolate)
+# O|U>F|FOODON_03307331|mango shake|C5671942|enu nutritional shake (creamy vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5770532|ensure max protein nutrition shake chocolate
+# O|U>F|FOODON_03307331|mango shake|C5777452|kindersprout plant protein chocolate shake
+# O|U>F|FOODON_03307331|mango shake|C5814122|walgreens original nutritional shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5816010|kate farms nutrition shake vanilla flavor
+# O|U>F|FOODON_03307331|mango shake|C5833711|pku easy shake and go orange
+# O|U>F|FOODON_03307331|mango shake|C5850084|equate nutritional shake plus (chocolate)
+# O|U>F|FOODON_03307331|mango shake|C5853127|ensure original shake fiber vanilla
+# O|U>F|FOODON_03307331|mango shake|C5853128|ensure plus with fiber nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5853257|ensure original with fiber nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5910212|protality nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5919025|glucerna 1.2 cal with carbsteady nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5919027|glucerna original carbsteady nutrition shake (creamy strawberry)
+# O|U>F|FOODON_03307331|mango shake|C5919029|glucerna original carbsteady nutrition shake (rich cholocate)
+# O|U>F|FOODON_03307331|mango shake|C5919032|glytrol complete nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5919034|goodsense nutrisure original nutritional shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5919209|boost max men nutritional shake (very vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5919317|ensure active heart health nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5919338|ensure high protein nutrition shake (chocolate)
+# O|U>F|FOODON_03307331|mango shake|C5919339|ensure high protein nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5919340|ensure high protein therapeutic nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5919341|ensure max protein nutrition shake (creamy strawberry)
+# O|U>F|FOODON_03307331|mango shake|C5919343|ensure original nutrition shake (strawberry)
+# O|U>F|FOODON_03307331|mango shake|C5919344|ensure original nutrition shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5925372|ensure original nutrition shake chocolate
+# O|U>F|FOODON_03307331|mango shake|C5940981|pediasure sidekicks high protein shake (vanilla)
+# O|U>F|FOODON_03307331|mango shake|C5941013|glucerna original carbsteady snack shake (rich chocolate)
+# O|U>F|FOODON_03307331|mango shake|C5941018|ensure active heart health nutrional shake (vanilla)
+# O|U>F|FOODON_03307348|vanilla wafer|C0594302|tonexis 1.5 vanilla liquid
+# O|U>F|FOODON_03307348|vanilla wafer|C0594303|tonexis 1.5 vanilla liquid 200ml
+# O|U>F|FOODON_03307348|vanilla wafer|C0727243|nutren 1.5 vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C0727255|nutrivent 1.5 vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C0733029|clinutren 1.5 vanilla liquid
+# O|U>F|FOODON_03307348|vanilla wafer|C0733030|clinutren 1.5 vanilla liquid 200ml
+# O|U>F|FOODON_03307348|vanilla wafer|C1170845|peptamen 1.5 vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C1875559|nutren 1.5 liquid vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C2756354|peptamen os 1.5, vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C3816971|peptamen 1.5 cal with prebio1 250ml enteral suspension (vanilla)
+# O|U>F|FOODON_03307348|vanilla wafer|C3832690|pediasure peptide 1.5 cal vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C4058144|glucerna 1.5 cal vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C4073389|pediasure peptide 1.5 cal therapeutic nutrition (vanilla)
+# O|U>F|FOODON_03307348|vanilla wafer|C4073407|glucerna 1.5 cal specialized nutrition (vanilla)
+# O|U>F|FOODON_03307348|vanilla wafer|C4306061|glucerna 1.5 cal with carbsteady nutrition (vanilla)
+# O|U>F|FOODON_03307348|vanilla wafer|C4317848|glucerna with carbsteady 1.5 cal vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C4317858|vital peptide 1.5 cal (vanilla)
+# O|U>F|FOODON_03307348|vanilla wafer|C4318377|vital 1.5 cal vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C4550707|core essentials pediatric peptide plus 1.5 cal/ml sole-source nutrition (vanilla)
+# O|U>F|FOODON_03307348|vanilla wafer|C5187568|pediasure 1.5 cal therapeutic nutrition (vanilla)
+# O|U>F|FOODON_03307348|vanilla wafer|C5195693|kate farms pediatric peptide 1.5 cal/ml nutrition (vanilla)
+# O|U>F|FOODON_03307348|vanilla wafer|C5207209|pediasure 1.5 cal liquid vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C5207233|pediasure peptide 1.5 cal liquid vanilla
+# O|U>F|FOODON_03307348|vanilla wafer|C5207234|pediasure peptide 1.5 cal vanilla (obsolete)
+# O|U>F|FOODON_03307348|vanilla wafer|C5448918|kate farms peptide 1.5 cal/ml nutrition (vanilla)
+# O|U>F|FOODON_03307348|vanilla wafer|C5455246|peptamen 1.5 cal peptide-based 250ml enteral suspension (vanilla)
+# O|U>F|FOODON_03307349|strawberry bar cookie|C0359484|duobar strawberry bar
+# O|U>F|FOODON_03307349|strawberry bar cookie|C0542721|duobar strawberry bar 100g
+# O|U>F|FOODON_03307349|strawberry bar cookie|C0595581|duobar strawberry bar 45g
+# O|U>F|FOODON_03307349|strawberry bar cookie|C0876308|boost energy bar strawberry cream
+# O|U>F|FOODON_03307349|strawberry bar cookie|C0979964|regain bar,strawberry w/cocoa coating
+# O|U>F|FOODON_03307352|banana cream pie|C1170840|pediasure banana cream
+# O|U>F|FOODON_03307352|banana cream pie|C1949834|banana cream, natural & artificial flavor con
+# O|U>F|FOODON_03307352|banana cream pie|C4530486|banana cream flavor
+# O|U>F|FOODON_03307352|banana cream pie|C5207225|pediasure banana cream, instant (obsolete)
 O|U>F|FOODON_03307413|mineral water (alkaline, bottled)|C3900060|alkaline water
-O|U>F|FOODON_03307422|wheat fiber|C0726763|jevity plus fiber
-O|U>F|FOODON_03307422|wheat fiber|C1815253|promote plus fiber
-O|U>F|FOODON_03307422|wheat fiber|C1875808|sustacal w/fiber
-O|U>F|FOODON_03307422|wheat fiber|C1962501|resource jfk 1.5 cal plus fiber
-O|U>F|FOODON_03307422|wheat fiber|C2364636|nutren replete fiber ultrapak
-O|U>F|FOODON_03307422|wheat fiber|C2730169|promote plus fiber rth
-O|U>F|FOODON_03307422|wheat fiber|C3661726|insoluble fiber (substance)
-O|U>F|FOODON_03307422|wheat fiber|C4032895|replete fiber ultrapak
-O|U>F|FOODON_03307422|wheat fiber|C4032901|nutren replete fiber ultrapak spikeright
-O|U>F|FOODON_03307422|wheat fiber|C4032905|nutren jr fiber ultrapak spikeright
-O|U>F|FOODON_03307422|wheat fiber|C5209323|replete fiber 1 cal enteral suspension
-O|U>F|FOODON_03307422|wheat fiber|C5917683|nutren 1 cal fiber enteral suspension
-O|U>F|FOODON_03307422|wheat fiber|C5919268|compleat pediatric original 1 cal fiber enteral suspension
-O|U>F|FOODON_03307426|sardine in oil|C5401587|calcium citrate 25 mg in 4.1 g / sodium citrate, unspecified form 150 mg in 4.1 g / sea salt 150 mg in 4.1 g / potassium chloride 100 mg in 4.1 g / dibasic potassium phosphate 100 mg in 4.1 g / coconut oil 2850 mg in 4.1 g / sunflower oil 2850 mg in 4.1 g / avocado oil 2850 mg in 4.1 g / aloe vera leaf 150 mg in 4.1 g / althaea officinalis root 150 mg in 4.1 g / ulmus rubra bark 150 mg in 4.1 g / streptococcus salivarius 20 mg in 4.1 g oral powder, for solution [hydrate]
+# O|U>F|FOODON_03307422|wheat fiber|C0726763|jevity plus fiber
+# O|U>F|FOODON_03307422|wheat fiber|C1815253|promote plus fiber
+# O|U>F|FOODON_03307422|wheat fiber|C1875808|sustacal w/fiber
+# O|U>F|FOODON_03307422|wheat fiber|C1962501|resource jfk 1.5 cal plus fiber
+# O|U>F|FOODON_03307422|wheat fiber|C2364636|nutren replete fiber ultrapak
+# O|U>F|FOODON_03307422|wheat fiber|C2730169|promote plus fiber rth
+# O|U>F|FOODON_03307422|wheat fiber|C3661726|insoluble fiber (substance)
+# O|U>F|FOODON_03307422|wheat fiber|C4032895|replete fiber ultrapak
+# O|U>F|FOODON_03307422|wheat fiber|C4032901|nutren replete fiber ultrapak spikeright
+# O|U>F|FOODON_03307422|wheat fiber|C4032905|nutren jr fiber ultrapak spikeright
+# O|U>F|FOODON_03307422|wheat fiber|C5209323|replete fiber 1 cal enteral suspension
+# O|U>F|FOODON_03307422|wheat fiber|C5917683|nutren 1 cal fiber enteral suspension
+# O|U>F|FOODON_03307422|wheat fiber|C5919268|compleat pediatric original 1 cal fiber enteral suspension
+# O|U>F|FOODON_03307426|sardine in oil|C5401587|calcium citrate 25 mg in 4.1 g / sodium citrate, unspecified form 150 mg in 4.1 g / sea salt 150 mg in 4.1 g / potassium chloride 100 mg in 4.1 g / dibasic potassium phosphate 100 mg in 4.1 g / coconut oil 2850 mg in 4.1 g / sunflower oil 2850 mg in 4.1 g / avocado oil 2850 mg in 4.1 g / aloe vera leaf 150 mg in 4.1 g / althaea officinalis root 150 mg in 4.1 g / ulmus rubra bark 150 mg in 4.1 g / streptococcus salivarius 20 mg in 4.1 g oral powder, for solution [hydrate]
 O|U>F|FOODON_03307431|fruit pie|C0453526|fruit pie pastry top and bottom
 O|U>F|FOODON_03307431|fruit pie|C0453527|fruit pie individual
 O|U>F|FOODON_03307431|fruit pie|C0453529|fruit pie wholemeal pastry top and bottom
-O|U>F|FOODON_03307443|yogurt with fruit|C4057873|today's health pediatric electrolyte solution with zinc (fruit)
-O|U>F|FOODON_03307443|yogurt with fruit|C4290585|pediatric electrolyte solution with zinc (fruit)
-O|U>F|FOODON_03307443|yogurt with fruit|C5924130|drinking yogurt with live culture
+# O|U>F|FOODON_03307443|yogurt with fruit|C4057873|today's health pediatric electrolyte solution with zinc (fruit)
+# O|U>F|FOODON_03307443|yogurt with fruit|C4290585|pediatric electrolyte solution with zinc (fruit)
+# O|U>F|FOODON_03307443|yogurt with fruit|C5924130|drinking yogurt with live culture
 O|U>F|FOODON_03307443|yogurt with fruit|C5924137|whole milk yogurt with fruit chunk
-O|U>F|FOODON_03307443|yogurt with fruit|C5925808|walgreens pediatric electrolyte solution with zinc (fruit)
-O|U>F|FOODON_03307448|whole wheat food product|C0453870|whole food
+# O|U>F|FOODON_03307443|yogurt with fruit|C5925808|walgreens pediatric electrolyte solution with zinc (fruit)
+# O|U>F|FOODON_03307448|whole wheat food product|C0453870|whole food
 O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0444323|semi-skimmed milk specimen
-O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0452577|porridge made with semi-skimmed milk
+# O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0452577|porridge made with semi-skimmed milk
 O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0452714|semi-skimmed milk
 O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0452715|calcium fortified semi-skimmed milk
-O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0452727|dried semi-skimmed cow's milk
-O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0453179|instant potato made up with semi-skimmed milk
-O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0453514|custard made with semi-skimmed milk
-O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0453540|instant desert powder made with semi-skimmed milk
-O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0453546|jello made with semi-skimmed milk
-O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0453552|milk pudding made with semi-skimmed milk
-O|U>F|FOODON_03307476|strawberry milk (artificially flavored)|C3843606|other flavored milk (e.g., strawberry, vanilla)
-O|U>F|FOODON_03307483|whole milk curd|C0444325|whole milk specimen
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C1330752|glucerna shake liquid pecan
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C1330753|glucerna shake liquid chocolate
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C1330754|glucerna shake liquid vanilla
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C1658389|glucerna shake liquid strawberry
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667147|nutritional supplement oral liquid [ensure nutra shake 2.0 high cal/pro]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667153|nutritional supplement oral liquid [ensure nutra shake juice plus fiber]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667183|nutritional supplement oral liquid [ensure nutra shake thickened water]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667195|nutritional supplement oral liquid [ensure plus nutrition shake]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667204|nutritional supplement oral liquid [ensure nutra shake hi-cal]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667223|nutritional supplement oral liquid [ensure nutra shake]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667226|nutritional supplement oral liquid [ensure nutra shake fruit plus]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667230|nutritional supplement oral liquid [glucerna weight loss shake]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667239|nutritional supplement oral liquid [ensure nutra shake plus fiber]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667277|nutritional supplement oral liquid [ensure nutra shake supreme]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667278|nutritional supplement oral liquid [ensure nutra shake thickened juice]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667335|nutritional supplement oral liquid [nutra shake]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C4293639|glucerna hunger smart shake liquid
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C4691375|nutritional supplement oral liquid [enu complete nutrition shake]
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C5241752|glucerna therapeutic nutrition shake liquid pecan
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C5241753|glucerna therapeutic nutrition shake liquid vanilla
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C5241754|glucerna therapeutic nutrition shake liquid strawberry
-O|U>F|FOODON_03307492|milk shake mix (liquid)|C5926206|ensure original nutrition liquid shake (vanilla)
+# O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0452727|dried semi-skimmed cow's milk
+# O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0453179|instant potato made up with semi-skimmed milk
+# O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0453514|custard made with semi-skimmed milk
+# O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0453540|instant desert powder made with semi-skimmed milk
+# O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0453546|jello made with semi-skimmed milk
+# O|U>F|FOODON_03307458|cow milk (semi-skimmed)|C0453552|milk pudding made with semi-skimmed milk
+# O|U>F|FOODON_03307476|strawberry milk (artificially flavored)|C3843606|other flavored milk (e.g., strawberry, vanilla)
+# O|U>F|FOODON_03307483|whole milk curd|C0444325|whole milk specimen
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C1330752|glucerna shake liquid pecan
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C1330753|glucerna shake liquid chocolate
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C1330754|glucerna shake liquid vanilla
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C1658389|glucerna shake liquid strawberry
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667147|nutritional supplement oral liquid [ensure nutra shake 2.0 high cal/pro]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667153|nutritional supplement oral liquid [ensure nutra shake juice plus fiber]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667183|nutritional supplement oral liquid [ensure nutra shake thickened water]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667195|nutritional supplement oral liquid [ensure plus nutrition shake]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667204|nutritional supplement oral liquid [ensure nutra shake hi-cal]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667223|nutritional supplement oral liquid [ensure nutra shake]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667226|nutritional supplement oral liquid [ensure nutra shake fruit plus]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667230|nutritional supplement oral liquid [glucerna weight loss shake]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667239|nutritional supplement oral liquid [ensure nutra shake plus fiber]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667277|nutritional supplement oral liquid [ensure nutra shake supreme]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667278|nutritional supplement oral liquid [ensure nutra shake thickened juice]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C3667335|nutritional supplement oral liquid [nutra shake]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C4293639|glucerna hunger smart shake liquid
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C4691375|nutritional supplement oral liquid [enu complete nutrition shake]
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C5241752|glucerna therapeutic nutrition shake liquid pecan
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C5241753|glucerna therapeutic nutrition shake liquid vanilla
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C5241754|glucerna therapeutic nutrition shake liquid strawberry
+# O|U>F|FOODON_03307492|milk shake mix (liquid)|C5926206|ensure original nutrition liquid shake (vanilla)
 O|U>F|FOODON_03307495|dairy spread (low calorie)|C0458153|dairy spread
-O|U>F|FOODON_03307538|potato peeling (cooked in corn oil)|C0453158|french fries cooked in corn oil
+# O|U>F|FOODON_03307538|potato peeling (cooked in corn oil)|C0453158|french fries cooked in corn oil
 O|U>F|FOODON_03307539|food (dried)|C0016495|food, dried
-O|U>F|FOODON_03307539|food (dried)|C0453797|dried baby food
+# O|U>F|FOODON_03307539|food (dried)|C0453797|dried baby food
 O|U>F|FOODON_03307547|fruit and nut cake|C0452611|rich fruit cake
 O|U>F|FOODON_03307547|fruit and nut cake|C0452612|iced fruit cake
 O|U>F|FOODON_03307547|fruit and nut cake|C0452613|wholemeal fruit cake
