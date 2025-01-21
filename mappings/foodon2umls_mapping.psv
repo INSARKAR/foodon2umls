@@ -30607,14 +30607,14 @@ O|U>F|FOODON_03401299|dietary supplement, mineral|C0596444|dietary mineral
 O|U>F|FOODON_03401300|multi-mineral supplement|C3661594|multi-trace element supplement
 O|U>F|FOODON_03401302|dietary supplement, vitamin|C0681579|vitamin supplement
 O|U>F|FOODON_03401303|multi-vitamin supplement|C3196265|nutritional supplement oral tablet, chewable [viactiv multi-vitamin]
-O|U>F|FOODON_03401303|multi-vitamin supplement|C3661611|vitamin a supplement
-O|U>F|FOODON_03401304|single vitamin supplement|C3661608|vitamin c supplement
+# O|U>F|FOODON_03401303|multi-vitamin supplement|C3661611|vitamin a supplement
+# O|U>F|FOODON_03401304|single vitamin supplement|C3661608|vitamin c supplement
 O|U>F|FOODON_03401305|dietary supplement, amino acid or protein|C2348255|dietary amino acid
-O|U>F|FOODON_03401305|dietary supplement, amino acid or protein|C4474067|nutritional supplement oral wafer [amino acid protein]
-O|U>F|FOODON_03401307|yeast supplement|C5855524|urolithin a supplement
-O|U>F|FOODON_03401308|probiotic or bacteria supplement|C3892311|similac expert care alimentum
-O|U>F|FOODON_03401308|probiotic or bacteria supplement|C5555036|lactobacillus bulgaricus/bifidobacterium longum/streptococcus thermophilus-based probiotic supplement
-O|U>F|FOODON_03401311|enzyme supplement|C4064981|glucose supplement before exercise
+# O|U>F|FOODON_03401305|dietary supplement, amino acid or protein|C4474067|nutritional supplement oral wafer [amino acid protein]
+# O|U>F|FOODON_03401307|yeast supplement|C5855524|urolithin a supplement
+# O|U>F|FOODON_03401308|probiotic or bacteria supplement|C3892311|similac expert care alimentum
+# O|U>F|FOODON_03401308|probiotic or bacteria supplement|C5555036|lactobacillus bulgaricus/bifidobacterium longum/streptococcus thermophilus-based probiotic supplement
+# O|U>F|FOODON_03401311|enzyme supplement|C4064981|glucose supplement before exercise
 O|U>F|FOODON_03401313|dietary supplement, combination|C1697912|nutritional supplement combination no.1
 O|U>F|FOODON_03401313|dietary supplement, combination|C1964535|bupropion hcl/dietary supplement combination no.15 75 mg oral combination package (ea)
 O|U>F|FOODON_03401313|dietary supplement, combination|C1964536|bupropion hcl/dietary supplement combination no.16 75 mg oral combination package (ea)
@@ -30653,7 +30653,7 @@ O|U>F|FOODON_03401327|dietary supplement, electrolyte|C5926022|hydrating electro
 O|U>F|FOODON_03401328|dietary supplement, fibre|C0012173|dietary fiber
 O|U>F|FOODON_03401328|dietary supplement, fibre|C4474050|nutritional supplement oral liquid [juice+fibre]
 O|U>F|FOODON_03401328|dietary supplement, fibre|C5784838|soluble corn fiber prebiotic supplement
-O|U>F|FOODON_03401330|cereal bar (eurofir)|C0452649|flapjack
+# O|U>F|FOODON_03401330|cereal bar (eurofir)|C0452649|flapjack
 O|U>F|FOODON_03401331|biscuits, sweet and semi-sweet (eurofir)|C0353247|loprofin sweet biscuits 150g
 O|U>F|FOODON_03401331|biscuits, sweet and semi-sweet (eurofir)|C0359424|loprofin lp sweet biscuits
 O|U>F|FOODON_03401331|biscuits, sweet and semi-sweet (eurofir)|C0452516|semi-sweet biscuit
@@ -30663,42 +30663,42 @@ O|U>F|FOODON_03401331|biscuits, sweet and semi-sweet (eurofir)|C0460277|gluten-f
 O|U>F|FOODON_03401331|biscuits, sweet and semi-sweet (eurofir)|C0460315|glutafin gf sweet biscuits
 O|U>F|FOODON_03401331|biscuits, sweet and semi-sweet (eurofir)|C0460389|rite-diet gf sweet biscuits
 O|U>F|FOODON_03401332|pastries and cakes (eurofir)|C0452632|individual cakes and pastries
-O|U>F|FOODON_03401412|10006273 - baby/infant - specialised foods (frozen) (gs1 gpc)|C0016739|frozen foods
+# O|U>F|FOODON_03401412|10006273 - baby/infant - specialised foods (frozen) (gs1 gpc)|C0016739|frozen foods
 O|U>F|FOODON_03401423|10005982 - lima beans (gs1 gpc)|C0330835|lima beans
 O|U>F|FOODON_03401427|10006759 - acai berries (gs1 gpc)|C3850037|acai berries
 O|U>F|FOODON_03401428|10005928 - bilberries (gs1 gpc)|C0936049|bilberries
 O|U>F|FOODON_03401429|10006194 - black currants (gs1 gpc)|C0453300|currants
 O|U>F|FOODON_03401438|10005932 - gooseberries (gs1 gpc)|C1618610|gooseberries
 O|U>F|FOODON_03401444|10005927 - raspberries (gs1 gpc)|C0453292|raspberries
-O|U>F|FOODON_03401526|10006356 - squash (choko) (gs1 gpc)|C0453124|cho cho
-O|U>F|FOODON_03401584|10006456 - herbs variety pack (gs1 gpc)|C0876414|peptamen variety pack
+# O|U>F|FOODON_03401526|10006356 - squash (choko) (gs1 gpc)|C0453124|cho cho
+# O|U>F|FOODON_03401584|10006456 - herbs variety pack (gs1 gpc)|C0876414|peptamen variety pack
 O|U>F|FOODON_03401747|10006454 - lentils (gs1 gpc)|C0023323|lentils
 O|U>F|FOODON_03401747|10006454 - lentils (gs1 gpc)|C0453219|green lentils
 O|U>F|FOODON_03401747|10006454 - lentils (gs1 gpc)|C0453220|brown lentils
 O|U>F|FOODON_03401747|10006454 - lentils (gs1 gpc)|C0453221|red split lentils
-O|U>F|FOODON_03401752|10006102 - chilli peppers (gs1 gpc)|C0595523|clinomel n6-900
-O|U>F|FOODON_03401754|10006192 - flat sweet peppers (tomato peppers) (gs1 gpc)|C2347467|peppers (vegetable)
-O|U>F|FOODON_03401757|10006191 - square tapering sweet peppers (peg top) (gs1 gpc)|C5401081|peg-3350/lytes (eqv-nulytely) oral pwdr
-O|U>F|FOODON_03401841|10006746 - doodles/ puffs (gs1 gpc)|C0452589|sugar puffs
-O|U>F|FOODON_03411006|fruit plant used as vegetable|C5919271|compleat peptide 1.5 cal/ml plant-based nutrition (vegetable & fruit medley)
+# O|U>F|FOODON_03401752|10006102 - chilli peppers (gs1 gpc)|C0595523|clinomel n6-900
+# O|U>F|FOODON_03401754|10006192 - flat sweet peppers (tomato peppers) (gs1 gpc)|C2347467|peppers (vegetable)
+# O|U>F|FOODON_03401757|10006191 - square tapering sweet peppers (peg top) (gs1 gpc)|C5401081|peg-3350/lytes (eqv-nulytely) oral pwdr
+# O|U>F|FOODON_03401841|10006746 - doodles/ puffs (gs1 gpc)|C0452589|sugar puffs
+# O|U>F|FOODON_03411006|fruit plant used as vegetable|C5919271|compleat peptide 1.5 cal/ml plant-based nutrition (vegetable & fruit medley)
 O|U>F|FOODON_03411013|plant used for producing extract or concentrate|C4506004|cp1 plant extract
 O|U>F|FOODON_03411043|mackerel|C0453031|fried mackerel
 O|U>F|FOODON_03411043|mackerel|C0453032|grilled mackerel
-O|U>F|FOODON_03411067|lime (citrus) plant|C0947697|accent
+# O|U>F|FOODON_03411067|lime (citrus) plant|C0947697|accent
 O|U>F|FOODON_03411067|lime (citrus) plant|C2346674|lime (citrus)
-O|U>F|FOODON_03411067|lime (citrus) plant|C5780855|key lime
-O|U>F|FOODON_03411114|winter savory plant|C1135885|savory
-O|U>F|FOODON_03411179|spice or flavor-producing plant|C1366259|spice flavor
-O|U>F|FOODON_03411200|cowpea plant|C1170859|resource benefiber
-O|U>F|FOODON_03411200|cowpea plant|C1650388|resource benecalorie
-O|U>F|FOODON_03411200|cowpea plant|C1653525|resource optisource
-O|U>F|FOODON_03411200|cowpea plant|C1657496|resource arginaid wildberry
-O|U>F|FOODON_03411200|cowpea plant|C1815810|resource beneprotein pwdr
-O|U>F|FOODON_03411200|cowpea plant|C1815811|resource beneprotein pwdr,pkt,7gm
-O|U>F|FOODON_03411200|cowpea plant|C1875727|resource benecalorie pkt,45ml
-O|U>F|FOODON_03411200|cowpea plant|C2342914|resource beneprotein pwdr,227gm
-O|U>F|FOODON_03411200|cowpea plant|C2927167|resource thickenup
-O|U>F|FOODON_03411200|cowpea plant|C4032890|resource beneprotein
+# O|U>F|FOODON_03411067|lime (citrus) plant|C5780855|key lime
+# O|U>F|FOODON_03411114|winter savory plant|C1135885|savory
+# O|U>F|FOODON_03411179|spice or flavor-producing plant|C1366259|spice flavor
+# O|U>F|FOODON_03411200|cowpea plant|C1170859|resource benefiber
+# O|U>F|FOODON_03411200|cowpea plant|C1650388|resource benecalorie
+# O|U>F|FOODON_03411200|cowpea plant|C1653525|resource optisource
+# O|U>F|FOODON_03411200|cowpea plant|C1657496|resource arginaid wildberry
+# O|U>F|FOODON_03411200|cowpea plant|C1815810|resource beneprotein pwdr
+# O|U>F|FOODON_03411200|cowpea plant|C1815811|resource beneprotein pwdr,pkt,7gm
+# O|U>F|FOODON_03411200|cowpea plant|C1875727|resource benecalorie pkt,45ml
+# O|U>F|FOODON_03411200|cowpea plant|C2342914|resource beneprotein pwdr,227gm
+# O|U>F|FOODON_03411200|cowpea plant|C2927167|resource thickenup
+# O|U>F|FOODON_03411200|cowpea plant|C4032890|resource beneprotein
 O|U>F|FOODON_03411205|squid|C0453061|dried squid
 O|U>F|FOODON_03411205|squid|C0453062|fried squid
 O|U>F|FOODON_03411222|fish|C0016153|fish bone
@@ -30709,107 +30709,107 @@ O|U>F|FOODON_03411232|Zia mays plant|C1138842|maize
 O|U>F|FOODON_03411251|grouse|C0452903|roast grouse
 O|U>F|FOODON_03411258|trout|C0453045|fried trout
 O|U>F|FOODON_03411258|trout|C4521838|trout (substance)
-O|U>F|FOODON_03411269|tuna|C4026240|tuna preparation
-O|U>F|FOODON_03411271|bamboo plant|C4277450|bamboo salt
+# O|U>F|FOODON_03411269|tuna|C4026240|tuna preparation
+# O|U>F|FOODON_03411271|bamboo plant|C4277450|bamboo salt
 O|U>F|FOODON_03411287|gray mullet|C0475620|gray mullet (substance)
 O|U>F|FOODON_03411305|arabica coffee plant|C1138610|coffea arabica, unspecified
 O|U>F|FOODON_03411324|grain plant|C4042883|edible grain
 O|U>F|FOODON_03411338|pea plant|C5242562|bean, fava/pea oral suspension [ensure plant based protein]
-O|U>F|FOODON_03411355|vanilla plant|C5207150|ensure plant-based protein nutrition shake (vanilla)
-O|U>F|FOODON_03411355|vanilla plant|C5210552|ensure plant based protein vanilla
-O|U>F|FOODON_03411355|vanilla plant|C5777178|kindersprout organic plant protein kids nutrition shake (vanilla)
-O|U>F|FOODON_03411355|vanilla plant|C5777453|kindersprout plant protein kids vanilla shake
-O|U>F|FOODON_03411355|vanilla plant|C5827318|brain sustain for kids vanilla delight
+# O|U>F|FOODON_03411355|vanilla plant|C5207150|ensure plant-based protein nutrition shake (vanilla)
+# O|U>F|FOODON_03411355|vanilla plant|C5210552|ensure plant based protein vanilla
+# O|U>F|FOODON_03411355|vanilla plant|C5777178|kindersprout organic plant protein kids nutrition shake (vanilla)
+# O|U>F|FOODON_03411355|vanilla plant|C5777453|kindersprout plant protein kids vanilla shake
+# O|U>F|FOODON_03411355|vanilla plant|C5827318|brain sustain for kids vanilla delight
 O|U>F|FOODON_03411374|crustacean|C4544078|marine crustacean
 O|U>F|FOODON_03411375|wild rice plant|C5702599|zizania (substance)
 O|U>F|FOODON_03411380|sweet corn plant|C0453143|sweet corn kernels
 O|U>F|FOODON_03411382|partridge|C0452904|roast partridge
-O|U>F|FOODON_03411386|wintergreen plant|C1337224|wintergreen flavor
+# O|U>F|FOODON_03411386|wintergreen plant|C1337224|wintergreen flavor
 O|U>F|FOODON_03411414|herring|C0453020|dried herring
 O|U>F|FOODON_03411423|cod|C0452968|baked cod
 O|U>F|FOODON_03411423|cod|C0452971|fried cod
 O|U>F|FOODON_03411423|cod|C0452973|fried cod in breadcrumbs
 O|U>F|FOODON_03411423|cod|C0452974|fried cod goujons in breadcrumbs
-O|U>F|FOODON_03411429|mandarin orange tree|C0453325|tinned mandarin oranges
-O|U>F|FOODON_03411429|mandarin orange tree|C5761919|kinderlyte electrolyte powder for solution (orange citrus)
-O|U>F|FOODON_03411429|mandarin orange tree|C5761983|kinderlyte herbal electrolyte orange citrus, oral powder for reconstitution
-O|U>F|FOODON_03411429|mandarin orange tree|C5762049|kinderlyte herbal electrolyte orange citrus
+# O|U>F|FOODON_03411429|mandarin orange tree|C0453325|tinned mandarin oranges
+# O|U>F|FOODON_03411429|mandarin orange tree|C5761919|kinderlyte electrolyte powder for solution (orange citrus)
+# O|U>F|FOODON_03411429|mandarin orange tree|C5761983|kinderlyte herbal electrolyte orange citrus, oral powder for reconstitution
+# O|U>F|FOODON_03411429|mandarin orange tree|C5762049|kinderlyte herbal electrolyte orange citrus
 O|U>F|FOODON_03411433|shellfish|C4707310|tinned shellfish
 O|U>F|FOODON_03411455|land snail|C3275167|garden snail
 O|U>F|FOODON_03411457|chicken|C4733720|chicken protein
 O|U>F|FOODON_03411458|eggplant plant|C0453111|aubergine
 O|U>F|FOODON_03411460|pheasant|C0452905|roast pheasant
-O|U>F|FOODON_03411462|zucchini plant|C0453640|zucchini with egg
+# O|U>F|FOODON_03411462|zucchini plant|C0453640|zucchini with egg
 O|U>F|FOODON_03411496|grouper|C3813728|grouper (substance)
-O|U>F|FOODON_03411507|grapefruit plant|C1277018|pro-cal
-O|U>F|FOODON_03411507|grapefruit plant|C1875696|pro-peptide
-O|U>F|FOODON_03411507|grapefruit plant|C1876869|pro-stat
-O|U>F|FOODON_03411507|grapefruit plant|C3505202|pro-stat citrus splash
-O|U>F|FOODON_03411507|grapefruit plant|C3535119|pro-stat awc citrus splash
-O|U>F|FOODON_03411507|grapefruit plant|C4087069|pro-stat 101
-O|U>F|FOODON_03411507|grapefruit plant|C4689631|similac pro-sensitive
-O|U>F|FOODON_03411507|grapefruit plant|C5207222|similac pro-advance
-O|U>F|FOODON_03411507|grapefruit plant|C5443249|pro-stat renal cre
-O|U>F|FOODON_03411539|stone fruit plant|C4749950|stone fruit of genus prunus
-O|U>F|FOODON_03411556|batavia cassia plant|C4764044|cinnamomum cassia capsules
+# O|U>F|FOODON_03411507|grapefruit plant|C1277018|pro-cal
+# O|U>F|FOODON_03411507|grapefruit plant|C1875696|pro-peptide
+# O|U>F|FOODON_03411507|grapefruit plant|C1876869|pro-stat
+# O|U>F|FOODON_03411507|grapefruit plant|C3505202|pro-stat citrus splash
+# O|U>F|FOODON_03411507|grapefruit plant|C3535119|pro-stat awc citrus splash
+# O|U>F|FOODON_03411507|grapefruit plant|C4087069|pro-stat 101
+# O|U>F|FOODON_03411507|grapefruit plant|C4689631|similac pro-sensitive
+# O|U>F|FOODON_03411507|grapefruit plant|C5207222|similac pro-advance
+# O|U>F|FOODON_03411507|grapefruit plant|C5443249|pro-stat renal cre
+# O|U>F|FOODON_03411539|stone fruit plant|C4749950|stone fruit of genus prunus
+# O|U>F|FOODON_03411556|batavia cassia plant|C4764044|cinnamomum cassia capsules
 O|U>F|FOODON_03411558|sardine|C0453042|grilled sardine
 O|U>F|FOODON_03411558|sardine|C0453043|fried sardine
-O|U>F|FOODON_03411558|sardine|C1656534|sardine flavor
+# O|U>F|FOODON_03411558|sardine|C1656534|sardine flavor
 O|U>F|FOODON_03411563|poultry or game bird|C2362312|fowl
 O|U>F|FOODON_03411566|leafy vegetable plant|C2348897|green leafy vegetable
 O|U>F|FOODON_03411566|leafy vegetable plant|C2348898|green vegetable
-O|U>F|FOODON_03411574|fish, anguilliform|C0591888|nutracel 800
-O|U>F|FOODON_03411574|fish, anguilliform|C0595522|clinomel n5-800
+# O|U>F|FOODON_03411574|fish, anguilliform|C0591888|nutracel 800
+# O|U>F|FOODON_03411574|fish, anguilliform|C0595522|clinomel n5-800
 O|U>F|FOODON_03411640|whiting|C0349378|whiting (fish - dietary)
 O|U>F|FOODON_03411640|whiting|C0453014|poached whiting
 O|U>F|FOODON_03411640|whiting|C0453015|fried whiting
 O|U>F|FOODON_03411640|whiting|C0453016|fried whiting in breadcrumbs
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C0206136|sodium chloride, dietary
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3184199|potassium/sodium 40 mg/240 ml-115 mg/240 ml oral solution [cerasport]
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3184421|potassium/sodium 100 mg/250 ml-200 mg/250 ml oral solution [cerasport ex1]
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3198855|potassium chloride/sodium chloride/sodium citrate oral powder for suspension [cerasport]
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3200378|potassium chloride/sodium chloride/sodium citrate 298 mg/1 packet-700 mg/1 packet-590 mg/1 packet oral powder for suspension [ceralyte 90]
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3281731|potassium chloride/sodium chloride/sodium citrate 1.5 gm/1 packet-2.6 gm/1 packet-2.9 gm/1 packet oral powder for solution
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3281732|potassium chloride/sodium chloride/sodium citrate 1.5 gm/1 packet-2.6 gm/1 packet-2.9 gm/1 packet oral powder for solution [ceraors 75]
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3281733|potassium phosphate/sodium chloride 10 mmole-0.9% intravenous solution
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3643142|potassium chloride 5.77 g in 454 g / sodium chloride 43.95 g in 454 g oral powder, for solution [dexalyte 8x]
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3817443|potassium/sodium 40 mg/250 ml-115 mg/250 ml oral solution [cerasport]
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3817500|potassium/sodium 40 mg/250 ml-115 mg/250 ml oral solution
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018428|sodium/potassium/chloride/citrate/zn asp/magnesium/carb supp 305 mg-175 mg-70 mg-2.5 gram-2 mg-40 mg-9 gram oral powder in packet (ea)
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018429|sodium/potassium/chloride/citrate/zn asp/magnesium/carb supp 320 mg-190 mg-70 mg-2.5 gram-1.2 mg-40 mg-8 gram oral powder in packet (ea)
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018430|sodium/potassium/chloride/citrate/zn asp/magnesium/carb supp 670 mg-380 mg-150 mg-5 gram-5 mg-80 mg-19 gram oral powder in packet (ea)
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018431|sodium/potassium/chloride/citrate/zn asp/magnesium/carb supp 700 mg-410 mg-150 mg-6 gram-3 mg-90 mg-17 gram oral powder in packet (ea)
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018559|chloride/potassium/sodium 8.3 meq/9 gm-4.7 meq/9 gm-10.6 meq/9 gm oral powder for solution
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018560|chloride/potassium/sodium 8.3 meq/9 gm-4.7 meq/9 gm-10.6 meq/9 gm oral powder for solution [pedialyte]
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4020287|sodium/potassium/chloride/dextrose 10.6 meq-4.7 meq-8.3 meq-6 gram/9 gram oral powder in packet (ea)
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4073711|chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm oral powder for solution [pedialyte]
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4073747|chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm oral powder for solution
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4731196|sodium chloride/potassium chloride/sodium citrate/rice syrup 115 mg-40 mg-40 kcal/10.5 gram oral powder (gram)
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4731197|sodium chloride/potassium chloride/sodium citrate/rice syrup 115 mg-40 mg-40 kcal/250 ml oral liquid (ml)
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4765819|sodium/chloride/citrate 50 meq-20 meq-30 meq oral powder in packet (ea)
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5222041|sodium/potassium/chloride/dextrose 28.3 meq-18.2 meq-16.6 meq-8 gram oral effervescent powder in packet
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5234359|sodium chloride/potassium chloride/sodium citrate/rice syrup 230 mg-85 mg-120 kcal/31 gram oral powder in packet (ea)
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5234360|sodium chloride/potassium chloride/sodium citrate/rice/whey 400 mg-160 mg-150 kcal/42 gram oral powder in packet (ea)
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5241950|chloride/dextrose/potassium/sodium 590 mg/1 packet-8 gm/1 packet-710 mg/1 packet-650 mg/1 packet oral powder for solution [pedialyte sparking rush]
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5402476|sodium chloride/sodium cit/potassium/magnes/calc/amino acid 230 mg-95 mg-5 kcal/237 ml oral solution, oral
-O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5941184|potassium chloride/sodium chloride/sodium citrate 260 mg/1 packet-680 mg/1 packet-378 mg/1 packet oral powder for suspension [ceralyte 70]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C0206136|sodium chloride, dietary
+# O| U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3184199|potassium/sodium 40 mg/240 ml-115 mg/240 ml oral solution [cerasport]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3184421|potassium/sodium 100 mg/250 ml-200 mg/250 ml oral solution [cerasport ex1]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3198855|potassium chloride/sodium chloride/sodium citrate oral powder for suspension [cerasport]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3200378|potassium chloride/sodium chloride/sodium citrate 298 mg/1 packet-700 mg/1 packet-590 mg/1 packet oral powder for suspension [ceralyte 90]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3281731|potassium chloride/sodium chloride/sodium citrate 1.5 gm/1 packet-2.6 gm/1 packet-2.9 gm/1 packet oral powder for solution
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3281732|potassium chloride/sodium chloride/sodium citrate 1.5 gm/1 packet-2.6 gm/1 packet-2.9 gm/1 packet oral powder for solution [ceraors 75]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3281733|potassium phosphate/sodium chloride 10 mmole-0.9% intravenous solution
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3643142|potassium chloride 5.77 g in 454 g / sodium chloride 43.95 g in 454 g oral powder, for solution [dexalyte 8x]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3817443|potassium/sodium 40 mg/250 ml-115 mg/250 ml oral solution [cerasport]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C3817500|potassium/sodium 40 mg/250 ml-115 mg/250 ml oral solution
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018428|sodium/potassium/chloride/citrate/zn asp/magnesium/carb supp 305 mg-175 mg-70 mg-2.5 gram-2 mg-40 mg-9 gram oral powder in packet (ea)
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018429|sodium/potassium/chloride/citrate/zn asp/magnesium/carb supp 320 mg-190 mg-70 mg-2.5 gram-1.2 mg-40 mg-8 gram oral powder in packet (ea)
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018430|sodium/potassium/chloride/citrate/zn asp/magnesium/carb supp 670 mg-380 mg-150 mg-5 gram-5 mg-80 mg-19 gram oral powder in packet (ea)
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018431|sodium/potassium/chloride/citrate/zn asp/magnesium/carb supp 700 mg-410 mg-150 mg-6 gram-3 mg-90 mg-17 gram oral powder in packet (ea)
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018559|chloride/potassium/sodium 8.3 meq/9 gm-4.7 meq/9 gm-10.6 meq/9 gm oral powder for solution
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4018560|chloride/potassium/sodium 8.3 meq/9 gm-4.7 meq/9 gm-10.6 meq/9 gm oral powder for solution [pedialyte]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4020287|sodium/potassium/chloride/dextrose 10.6 meq-4.7 meq-8.3 meq-6 gram/9 gram oral powder in packet (ea)
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4073711|chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm oral powder for solution [pedialyte]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4073747|chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium;chloride/dextrose/potassium/sodium 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm; 8.3 meq/8.5 gm-5.7 gm/8.5 gm-4.7 meq/8.5 gm-10.6 meq/8.5 gm oral powder for solution
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4731196|sodium chloride/potassium chloride/sodium citrate/rice syrup 115 mg-40 mg-40 kcal/10.5 gram oral powder (gram)
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4731197|sodium chloride/potassium chloride/sodium citrate/rice syrup 115 mg-40 mg-40 kcal/250 ml oral liquid (ml)
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C4765819|sodium/chloride/citrate 50 meq-20 meq-30 meq oral powder in packet (ea)
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5222041|sodium/potassium/chloride/dextrose 28.3 meq-18.2 meq-16.6 meq-8 gram oral effervescent powder in packet
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5234359|sodium chloride/potassium chloride/sodium citrate/rice syrup 230 mg-85 mg-120 kcal/31 gram oral powder in packet (ea)
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5234360|sodium chloride/potassium chloride/sodium citrate/rice/whey 400 mg-160 mg-150 kcal/42 gram oral powder in packet (ea)
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5241950|chloride/dextrose/potassium/sodium 590 mg/1 packet-8 gm/1 packet-710 mg/1 packet-650 mg/1 packet oral powder for solution [pedialyte sparking rush]
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5402476|sodium chloride/sodium cit/potassium/magnes/calc/amino acid 230 mg-95 mg-5 kcal/237 ml oral solution, oral
+# O|U>F|FOODON_03411656|sodium chloride mixt. with potassium chloride|C5941184|potassium chloride/sodium chloride/sodium citrate 260 mg/1 packet-680 mg/1 packet-378 mg/1 packet oral powder for suspension [ceralyte 70]
 O|U>F|FOODON_03411669|lamb|C0452884|stewed lamb
 O|U>F|FOODON_03411669|lamb|C0453494|lamb kheema
-O|U>F|FOODON_03411696|fenugreek plant|C4477696|milkflow max with fenugreek + shatvari
+# O|U>F|FOODON_03411696|fenugreek plant|C4477696|milkflow max with fenugreek + shatvari
 O|U>F|FOODON_03411729|celeriac plant|C0453123|celeriac
-O|U>F|FOODON_03411895|fish, zeiform|C0452989|john dory (fish - dietary)
-O|U>F|FOODON_03411898|bergamot orange plant|C0725330|bergamot
-O|U>F|FOODON_03412024|early morel|C4238119|ga1 anamix early years
-O|U>F|FOODON_03412024|early morel|C4238125|mma-pa anamix early years
-O|U>F|FOODON_03412024|early morel|C4238128|msud anamix early years
-O|U>F|FOODON_03412024|early morel|C4238133|pku periflex early years
-O|U>F|FOODON_03412024|early morel|C4238139|sod anamix early years
-O|U>F|FOODON_03412024|early morel|C4238142|tyr anamix early years
-O|U>F|FOODON_03412024|early morel|C4256407|iva anamix early years
+# O|U>F|FOODON_03411895|fish, zeiform|C0452989|john dory (fish - dietary)
+# O|U>F|FOODON_03411898|bergamot orange plant|C0725330|bergamot
+# O|U>F|FOODON_03412024|early morel|C4238119|ga1 anamix early years
+# O|U>F|FOODON_03412024|early morel|C4238125|mma-pa anamix early years
+# O|U>F|FOODON_03412024|early morel|C4238128|msud anamix early years
+# O|U>F|FOODON_03412024|early morel|C4238133|pku periflex early years
+# O|U>F|FOODON_03412024|early morel|C4238139|sod anamix early years
+# O|U>F|FOODON_03412024|early morel|C4238142|tyr anamix early years
+# O|U>F|FOODON_03412024|early morel|C4256407|iva anamix early years
 O|U>F|FOODON_03412031|vegetable marrow plant|C0086590|vegetable marrow
-O|U>F|FOODON_03412039|spirulina|C5418099|peptidoglycan complex of spirulina k-001
-O|U>F|FOODON_03412082|hibiscus plant|C4057555|cvs electrolyte solution with zinc (hibiscus)
-O|U>F|FOODON_03412082|hibiscus plant|C5237261|carnosine/hibiscus-based oral mucoadhesive tablet
+# O|U>F|FOODON_03412039|spirulina|C5418099|peptidoglycan complex of spirulina k-001
+# O|U>F|FOODON_03412082|hibiscus plant|C4057555|cvs electrolyte solution with zinc (hibiscus)
+# O|U>F|FOODON_03412082|hibiscus plant|C5237261|carnosine/hibiscus-based oral mucoadhesive tablet
 O|U>F|FOODON_03412112|mollusc|C1996999|mollusk
 O|U>F|FOODON_03412112|mollusc|C4544069|marine mollusk
 O|U>F|FOODON_03412112|mollusc|C4553943|mollusk (substance)
