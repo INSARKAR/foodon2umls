@@ -30814,12 +30814,12 @@ O|U>F|FOODON_03412112|mollusc|C1996999|mollusk
 O|U>F|FOODON_03412112|mollusc|C4544069|marine mollusk
 O|U>F|FOODON_03412112|mollusc|C4553943|mollusk (substance)
 O|U>F|FOODON_03412114|snail|C3853310|snail (substance)
-O|U>F|FOODON_03412122|concord grape (plant)|C4224777|concord grape juice
-O|U>F|FOODON_03412127|barnacle|C3853197|barnacle (substance)
-O|U>F|FOODON_03412274|spotted stargazer|C0453564|spotted dick
-O|U>F|FOODON_03412409|coelenterate|C2912133|fosteum (obsolete)
-O|U>F|FOODON_03412457|chaa phluu plant|C5445113|piper (substance)
-O|U>F|FOODON_03412463|horse gram bean plant|C5243122|sitosterols/plant stanol ester 980 mg/gram oral powder (gram)
+# O|U>F|FOODON_03412122|concord grape (plant)|C4224777|concord grape juice
+# O|U>F|FOODON_03412127|barnacle|C3853197|barnacle (substance)
+# O|U>F|FOODON_03412274|spotted stargazer|C0453564|spotted dick
+# O|U>F|FOODON_03412409|coelenterate|C2912133|fosteum (obsolete)
+# O|U>F|FOODON_03412457|chaa phluu plant|C5445113|piper (substance)
+# O|U>F|FOODON_03412463|horse gram bean plant|C5243122|sitosterols/plant stanol ester 980 mg/gram oral powder (gram)
 O|U>F|FOODON_03412570|plaice|C0452999|poached plaice
 O|U>F|FOODON_03412570|plaice|C0453000|fried plaice
 O|U>F|FOODON_03412570|plaice|C0453001|fried plaice in batter
@@ -30827,176 +30827,176 @@ O|U>F|FOODON_03412570|plaice|C0453002|fried plaice in breadcrumbs
 O|U>F|FOODON_03412570|plaice|C0453003|fried plaice goujons in breadcrumbs
 O|U>F|FOODON_03412571|pomfret|C0453006|black pomfret
 O|U>F|FOODON_03412571|pomfret|C0453007|white pomfret
-O|U>F|FOODON_03412659|fleawort plant|C5422125|psyllium husk 2.4 g in 12 g oral powder [psyllium fiber]
+# O|U>F|FOODON_03412659|fleawort plant|C5422125|psyllium husk 2.4 g in 12 g oral powder [psyllium fiber]
 O|U>F|FOODON_03412686|crawfish or crayfish|C0459213|crayfish
 O|U>F|FOODON_03412695|hare|C0452907|stewed hare
-O|U>F|FOODON_03412702|kid (goat)|C0727701|resource kid chocolate
-O|U>F|FOODON_03412702|kid (goat)|C0727702|resource kid creamy strawberry
-O|U>F|FOODON_03412702|kid (goat)|C2369873|boost kid essentials chocolate
-O|U>F|FOODON_03412702|kid (goat)|C2369874|boost kid essentials strawberry
-O|U>F|FOODON_03412702|kid (goat)|C2369875|boost kid essentials vanilla
-O|U>F|FOODON_03412702|kid (goat)|C2756180|boost kid essentials 1.5, vanilla
-O|U>F|FOODON_03412702|kid (goat)|C2912130|boost kid essentials 1.5 chocolate
-O|U>F|FOODON_03412702|kid (goat)|C2912131|boost kid essentials 1.5 strawberry
-O|U>F|FOODON_03412702|kid (goat)|C3847942|boost kid essential vanilla 8.25z 4pk cs4
-O|U>F|FOODON_03412702|kid (goat)|C3847943|boost kid essential chocolate8.25z 4pk cs4
-O|U>F|FOODON_03412702|kid (goat)|C4032930|boost kid essentiali tetra brik vanilla+fiber
-O|U>F|FOODON_03412702|kid (goat)|C4032931|boost kid essentiali tetra brik vanilla
-O|U>F|FOODON_03412702|kid (goat)|C4032932|boost kid essentials tetra brik strawberry
-O|U>F|FOODON_03412702|kid (goat)|C4032933|boost kid essentials tetra brik chocolate
-O|U>F|FOODON_03412702|kid (goat)|C4051186|boost kid essentials tetra brik vanilla
-O|U>F|FOODON_03412702|kid (goat)|C5195666|boost kid essentials 1.5 liquid (vanilla vortex)
-O|U>F|FOODON_03412702|kid (goat)|C5918131|boost kid essentials 1.5 liquid (strawberry splash)
-O|U>F|FOODON_03412702|kid (goat)|C5918132|boost kid essentials 1.5 with fiber liquid (vanilla vortex)
-O|U>F|FOODON_03412702|kid (goat)|C5919207|boost kid essentials 1.0 liquid (vanilla vortex)
-O|U>F|FOODON_03412702|kid (goat)|C5919208|boost kid essentials 1.0 liquid (vanilla)
-O|U>F|FOODON_03412721|bitter almond plant|C0301250|bitter almond oil
-O|U>F|FOODON_03412721|bitter almond plant|C4073449|flavor pcca almond oil bitter artificial for compounding
-O|U>F|FOODON_03412752|white currant plant|C0453295|white currant
-O|U>F|FOODON_03412797|babaco plant|C0727456|peptamen v hp ultrapak
+# O|U>F|FOODON_03412702|kid (goat)|C0727701|resource kid chocolate
+# O|U>F|FOODON_03412702|kid (goat)|C0727702|resource kid creamy strawberry
+# O|U>F|FOODON_03412702|kid (goat)|C2369873|boost kid essentials chocolate
+# O|U>F|FOODON_03412702|kid (goat)|C2369874|boost kid essentials strawberry
+# O|U>F|FOODON_03412702|kid (goat)|C2369875|boost kid essentials vanilla
+# O|U>F|FOODON_03412702|kid (goat)|C2756180|boost kid essentials 1.5, vanilla
+# O|U>F|FOODON_03412702|kid (goat)|C2912130|boost kid essentials 1.5 chocolate
+# O|U>F|FOODON_03412702|kid (goat)|C2912131|boost kid essentials 1.5 strawberry
+# O|U>F|FOODON_03412702|kid (goat)|C3847942|boost kid essential vanilla 8.25z 4pk cs4
+# O|U>F|FOODON_03412702|kid (goat)|C3847943|boost kid essential chocolate8.25z 4pk cs4
+# O|U>F|FOODON_03412702|kid (goat)|C4032930|boost kid essentiali tetra brik vanilla+fiber
+# O|U>F|FOODON_03412702|kid (goat)|C4032931|boost kid essentiali tetra brik vanilla
+# O|U>F|FOODON_03412702|kid (goat)|C4032932|boost kid essentials tetra brik strawberry
+# O|U>F|FOODON_03412702|kid (goat)|C4032933|boost kid essentials tetra brik chocolate
+# O|U>F|FOODON_03412702|kid (goat)|C4051186|boost kid essentials tetra brik vanilla
+# O|U>F|FOODON_03412702|kid (goat)|C5195666|boost kid essentials 1.5 liquid (vanilla vortex)
+# O|U>F|FOODON_03412702|kid (goat)|C5918131|boost kid essentials 1.5 liquid (strawberry splash)
+# O|U>F|FOODON_03412702|kid (goat)|C5918132|boost kid essentials 1.5 with fiber liquid (vanilla vortex)
+# O|U>F|FOODON_03412702|kid (goat)|C5919207|boost kid essentials 1.0 liquid (vanilla vortex)
+# O|U>F|FOODON_03412702|kid (goat)|C5919208|boost kid essentials 1.0 liquid (vanilla)
+# O|U>F|FOODON_03412721|bitter almond plant|C0301250|bitter almond oil
+# O|U>F|FOODON_03412721|bitter almond plant|C4073449|flavor pcca almond oil bitter artificial for compounding
+# O|U>F|FOODON_03412752|white currant plant|C0453295|white currant
+# O|U>F|FOODON_03412797|babaco plant|C0727456|peptamen v hp ultrapak
 O|U>F|FOODON_03412844|krill|C3853198|krill (substance)
-O|U>F|FOODON_03412844|krill|C4076736|krill oil
-O|U>F|FOODON_03412907|large scaled brown slickhead|C4050903|trach ties foam large posey #8197l
-O|U>F|FOODON_03412972|food additive|C0459133|food additive-free foods
-O|U>F|FOODON_03412985|allura red ac|C1330705|diabetisource ac
-O|U>F|FOODON_03412985|allura red ac|C3695450|diabetisource ac ultrapak system
-O|U>F|FOODON_03412985|allura red ac|C4032917|diabeticsource ac spikeright
-O|U>F|FOODON_03413024|calcium  hydrogen carbonate|C5209392|5-methyltetrahydrofolate calcium/alpha tocopherol/ascorbic acid/beta carotene/biotin/calcium carbonate/cholecalciferol/cyanocobalamin/ferrous bisglycinate chelate/folic acid/magnesium oxide/potassium iodide/pyridoxine hydrochloride 1 mg-4.5 mg-60 mg-300 mcg-0.28 mg-80 mg-10 mcg-0.013 mg-20 mg-0.67 mg-25 mg-0.15 mg-26 mg oral tablet
-O|U>F|FOODON_03413025|calcium 5'-ribonucleotides|C4521030|cyanocobalamin/levomefolate calcium/pyridoxine/riboflavin 1 mg-6 mg-50 mg-5 mg oral tablet [metafolbic]
-O|U>F|FOODON_03413025|calcium 5'-ribonucleotides|C5704219|5-methyltetrahydrofolate calcium/methylcobalamin 15 mg-2 mg oral capsule [denovo plus b-12]
-O|U>F|FOODON_03413025|calcium 5'-ribonucleotides|C5704252|5-methyltetrahydrofolate calcium/methylcobalamin 15 mg-2 mg oral capsule
-O|U>F|FOODON_03413025|calcium 5'-ribonucleotides|C5709713|5-methyltetrahydrofolate calcium 15 mg oral capsule [denovo]
-O|U>F|FOODON_03413025|calcium 5'-ribonucleotides|C5709835|5-methyltetrahydrofolate calcium 15 mg oral capsule
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C2939780|acetylcysteine/levomefolate calcium/methylcobalamin 600 mg-6 mg-2 mg oral tablet [alz-nac]
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3531216|levomefolate calcium/methylcobalamin/pyridoxal phosphate 3 mg-2 mg-35 mg oral tablet [foltanx]
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3537993|cyanocobalamin/levomefolate calcium/pyridoxine 2 mg-1.13 mg-25 mg oral tablet
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3538109|cyanocobalamin/levomefolate calcium/vit b6 2 mg-1.13 mg-25 mg oral tablet
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3642843|cyanocobalamin/levomefolate calcium/pyridoxine 2 mg-1.13 mg-25 mg oral tablet [folbic rf]
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3642856|levomefolate calcium/methylcobalamin/pyridoxal phosphate/schiXchytrium 3 mg-2 mg-35 mg-90.314 mg oral capsule
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3642882|acetylcysteine/levomefolate calcium/methylcobalamin/schiXchytrium 600 mg-6 mg-2 mg-90.314 mg oral tablet
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3651220|levomefolate calcium/methylcobalamin/pyridoxal phosphate/schiXchytrium 3 mg-2 mg-35 mg-90.314 mg oral capsule [foltanx rf]
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3871635|levomefolate calcium/methylcobalamin/pyridoxal phosphate 3 mg-2 mg-35 mg oral tablet
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C4026798|acetylcysteine/levomefolate calcium/methylcobalamin 600 mg-6 mg-2 mg oral tablet
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C4058090|acetylcysteine/levomefolate calcium/methylcobalamin 600 mg-6 mg-2 mg oral tablet [metafolbic plus]
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C4317294|cyanocobalamin/levomefolate calcium/pyridoxine 2 mg-1.13 mg-25 mg oral tablet [foltx]
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C4688673|acetylcysteine/mecobalamin/levomefolate calcium 600 mg-2 mg-6 mg oral tablet
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C4722329|levomefolate calcium/methylcobalamin/pyridoxal phosphate 3 mg-2 mg-35 mg oral tablet [vitacirc-b]
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C5925505|levomefolate calcium/methylcobalamin/pyridoxal phosphate 3 mg-2 mg-35 mg oral capsule [metanx fc]
-O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C5925521|levomefolate calcium/methylcobalamin/pyridoxal phosphate 3 mg-2 mg-35 mg oral capsule
-O|U>F|FOODON_03413076|dicalcium phosphate|C3651102|calcium phosphate, tribasic/cholecalciferol/dicalcium malate dihydroxide/genistein/menatetrenone/phosphate/zinc, chelated 300 mg-400 iu-200 mg-27 mg-90 mcg-70 mg-20 mg oral capsule [fosteum plus]
-O|U>F|FOODON_03413076|dicalcium phosphate|C3817536|calcium phosphate, tribasic/cholecalciferol/dicalcium malate dihydroxide/genistein/menatetrenone/phosphate/zinc, chelated 300 mg-400 iu-200 mg-27 mg-90 mcg-70 mg-20 mg oral capsule
-O|U>F|FOODON_03413112|greens s|C1875732|s-m-a
-O|U>F|FOODON_03413114|guar gum|C1828806|benefiber (guar gum formulation)
-O|U>F|FOODON_03413114|guar gum|C1877266|benefiber (guar gum formulation), 100% oral powder for reconstitution
-O|U>F|FOODON_03413119|hydroxy propyl starch|C4743349|methyl propyl trisulfide
-O|U>F|FOODON_03413124|iron oxides and hydroxides|C4073383|similac go-and-grow sensitive with iron powder for suspension
-O|U>F|FOODON_03413124|iron oxides and hydroxides|C4073385|similac go-and-grow with iron powder for suspension
-O|U>F|FOODON_03413124|iron oxides and hydroxides|C4317892|similac go-and-grow sensitive non-gmo with iron powder for suspension
-O|U>F|FOODON_03413125|isomalt|C1616033|acesulfame potassium/isomalt oral powder
-O|U>F|FOODON_03413125|isomalt|C3191562|acesulfame potassium/isomalt oral powder [diabetisweet]
-O|U>F|FOODON_03413140|magnesium hydroxide carbonate|C3531388|diosmin 600 mg / calcium magnesium potassium carbonate chloride hydroxide 30 mg oral tablet [vasculera]
-O|U>F|FOODON_03413169|montan acid esters|C3464721|vascazen, ethyl esters 1000 mg oral capsule
-O|U>F|FOODON_03413188|polydextrose|C3651853|fructooligosaccharides/polydextrose 15 gram/30 ml oral liquid (ml)
-O|U>F|FOODON_03413188|polydextrose|C4291367|fructooligosaccharides/polydextrose 12 gram/30 ml oral liquid in packet (ml)
-O|U>F|FOODON_03413195|polyoxyethylene (20) sorbitan tristearate (polysorbate 65)|C0726051|enfamil 20
-O|U>F|FOODON_03413195|polyoxyethylene (20) sorbitan tristearate (polysorbate 65)|C2722314|cesinex 20
-O|U>F|FOODON_03413195|polyoxyethylene (20) sorbitan tristearate (polysorbate 65)|C4256414|enfamil premature 20 cal/oz
-O|U>F|FOODON_03413195|polyoxyethylene (20) sorbitan tristearate (polysorbate 65)|C5557516|micrsoy-20
-O|U>F|FOODON_03413196|polyoxyethylene (40) stearate|C2722318|cesinex 40
-O|U>F|FOODON_03413232|red 2g|C0351633|vivonex powder 2g
-O|U>F|FOODON_03413246|sodium calcium polyphosphate|C3668660|calcium/protein/sodium 4 gm/118 ml-120 mg/118 ml oral suspension
-O|U>F|FOODON_03413246|sodium calcium polyphosphate|C3668661|calcium/protein/sodium 4 gm/118 ml-120 mg/118 ml oral suspension [resource thickenup frosty thick]
-O|U>F|FOODON_03413254|sodium glycinate|C2756286|bioflavonoids-zinc glycinate 250 mg-50 mg oral capsule
-O|U>F|FOODON_03413254|sodium glycinate|C2756287|bioflavonoids-zinc glycinate 500 mg-50 mg oral capsule
-O|U>F|FOODON_03413254|sodium glycinate|C3281446|genistein 27 mg / zinc glycinate citrate 20 mg / cholecalciferol 200 [iu] oral capsule [fosteum]
-O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C3667923|ascorbic acid/calcium/phosphorus/potassium/sodium 15 mg/120 ml-10 mg/120 ml oral suspension
-O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C3667925|ascorbic acid/calcium/phosphorus/potassium/sodium 150 mg/120 ml-15 mg/120 ml oral suspension
-O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C3667927|ascorbic acid/calcium/phosphorus/potassium/sodium 200 mg/120 ml-10 mg/120 ml oral suspension
-O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C3668656|ascorbic acid/calcium/phosphorus/potassium/sodium 300 mg/237 ml-30 mg/237 ml oral suspension
-O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C3668659|ascorbic acid/calcium/phosphorus/potassium/sodium 40 mg/237 ml-20 mg/237 ml oral suspension
-O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C4745686|neonatal tpn starter, amino acids 2.5% with 10% dextrose and calcium gluconate intravenous solution
-O|U>F|FOODON_03413309|tocopherol-rich extract|C0453861|rich food
-O|U>F|FOODON_03413312|tricalcium citrate|C2948331|phytase-zinc citrate 500 mg-25 mg oral capsule
-O|U>F|FOODON_03413321|xanthan gum|C4688840|xanthan gum 6 gram oral gel in packet (gram)
-O|U>F|FOODON_03413321|xanthan gum|C4688841|xanthan gum 6 gram oral gel with pump (ml)
-O|U>F|FOODON_03413321|xanthan gum|C4692173|xanthan gum 96 gram oral gel in packet (gram)
-O|U>F|FOODON_03413321|xanthan gum|C4694768|xanthan gum 48 gram oral gel in packet (gram)
-O|U>F|FOODON_03413321|xanthan gum|C5553531|xanthan gum 4 gram oral gel in packet (gram)
-O|U>F|FOODON_03413358|plant used as fodder|C4046030|fodder
-O|U>F|FOODON_03413406|teosinte plant|C1655873|isosource h
-O|U>F|FOODON_03413485|new zealand langostino|C5709409|new zealand whey protein isolate powder for suspension
-O|U>F|FOODON_03413485|new zealand langostino|C5709563|new zealand whey protein isolate
-O|U>F|FOODON_03413653|Chilean Blue mussel|C4018979|blue mussel (substance)
-O|U>F|FOODON_03413691|cape hope squid|C4019792|liquid hope
+# O|U>F|FOODON_03412844|krill|C4076736|krill oil
+# O|U>F|FOODON_03412907|large scaled brown slickhead|C4050903|trach ties foam large posey #8197l
+# O|U>F|FOODON_03412972|food additive|C0459133|food additive-free foods
+# O|U>F|FOODON_03412985|allura red ac|C1330705|diabetisource ac
+# O|U>F|FOODON_03412985|allura red ac|C3695450|diabetisource ac ultrapak system
+# O|U>F|FOODON_03412985|allura red ac|C4032917|diabeticsource ac spikeright
+# O|U>F|FOODON_03413024|calcium  hydrogen carbonate|C5209392|5-methyltetrahydrofolate calcium/alpha tocopherol/ascorbic acid/beta carotene/biotin/calcium carbonate/cholecalciferol/cyanocobalamin/ferrous bisglycinate chelate/folic acid/magnesium oxide/potassium iodide/pyridoxine hydrochloride 1 mg-4.5 mg-60 mg-300 mcg-0.28 mg-80 mg-10 mcg-0.013 mg-20 mg-0.67 mg-25 mg-0.15 mg-26 mg oral tablet
+# O|U>F|FOODON_03413025|calcium 5'-ribonucleotides|C4521030|cyanocobalamin/levomefolate calcium/pyridoxine/riboflavin 1 mg-6 mg-50 mg-5 mg oral tablet [metafolbic]
+# O|U>F|FOODON_03413025|calcium 5'-ribonucleotides|C5704219|5-methyltetrahydrofolate calcium/methylcobalamin 15 mg-2 mg oral capsule [denovo plus b-12]
+# O|U>F|FOODON_03413025|calcium 5'-ribonucleotides|C5704252|5-methyltetrahydrofolate calcium/methylcobalamin 15 mg-2 mg oral capsule
+# O|U>F|FOODON_03413025|calcium 5'-ribonucleotides|C5709713|5-methyltetrahydrofolate calcium 15 mg oral capsule [denovo]
+# O|U>F|FOODON_03413025|calcium 5'-ribonucleotides|C5709835|5-methyltetrahydrofolate calcium 15 mg oral capsule
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C2939780|acetylcysteine/levomefolate calcium/methylcobalamin 600 mg-6 mg-2 mg oral tablet [alz-nac]
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3531216|levomefolate calcium/methylcobalamin/pyridoxal phosphate 3 mg-2 mg-35 mg oral tablet [foltanx]
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3537993|cyanocobalamin/levomefolate calcium/pyridoxine 2 mg-1.13 mg-25 mg oral tablet
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3538109|cyanocobalamin/levomefolate calcium/vit b6 2 mg-1.13 mg-25 mg oral tablet
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3642843|cyanocobalamin/levomefolate calcium/pyridoxine 2 mg-1.13 mg-25 mg oral tablet [folbic rf]
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3642856|levomefolate calcium/methylcobalamin/pyridoxal phosphate/schiXchytrium 3 mg-2 mg-35 mg-90.314 mg oral capsule
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3642882|acetylcysteine/levomefolate calcium/methylcobalamin/schiXchytrium 600 mg-6 mg-2 mg-90.314 mg oral tablet
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3651220|levomefolate calcium/methylcobalamin/pyridoxal phosphate/schiXchytrium 3 mg-2 mg-35 mg-90.314 mg oral capsule [foltanx rf]
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C3871635|levomefolate calcium/methylcobalamin/pyridoxal phosphate 3 mg-2 mg-35 mg oral tablet
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C4026798|acetylcysteine/levomefolate calcium/methylcobalamin 600 mg-6 mg-2 mg oral tablet
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C4058090|acetylcysteine/levomefolate calcium/methylcobalamin 600 mg-6 mg-2 mg oral tablet [metafolbic plus]
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C4317294|cyanocobalamin/levomefolate calcium/pyridoxine 2 mg-1.13 mg-25 mg oral tablet [foltx]
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C4688673|acetylcysteine/mecobalamin/levomefolate calcium 600 mg-2 mg-6 mg oral tablet
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C4722329|levomefolate calcium/methylcobalamin/pyridoxal phosphate 3 mg-2 mg-35 mg oral tablet [vitacirc-b]
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C5925505|levomefolate calcium/methylcobalamin/pyridoxal phosphate 3 mg-2 mg-35 mg oral capsule [metanx fc]
+# O|U>F|FOODON_03413052|calcium stearoyl-2-lactylate|C5925521|levomefolate calcium/methylcobalamin/pyridoxal phosphate 3 mg-2 mg-35 mg oral capsule
+# O|U>F|FOODON_03413076|dicalcium phosphate|C3651102|calcium phosphate, tribasic/cholecalciferol/dicalcium malate dihydroxide/genistein/menatetrenone/phosphate/zinc, chelated 300 mg-400 iu-200 mg-27 mg-90 mcg-70 mg-20 mg oral capsule [fosteum plus]
+# O|U>F|FOODON_03413076|dicalcium phosphate|C3817536|calcium phosphate, tribasic/cholecalciferol/dicalcium malate dihydroxide/genistein/menatetrenone/phosphate/zinc, chelated 300 mg-400 iu-200 mg-27 mg-90 mcg-70 mg-20 mg oral capsule
+# O|U>F|FOODON_03413112|greens s|C1875732|s-m-a
+# O|U>F|FOODON_03413114|guar gum|C1828806|benefiber (guar gum formulation)
+# O|U>F|FOODON_03413114|guar gum|C1877266|benefiber (guar gum formulation), 100% oral powder for reconstitution
+# O|U>F|FOODON_03413119|hydroxy propyl starch|C4743349|methyl propyl trisulfide
+# O|U>F|FOODON_03413124|iron oxides and hydroxides|C4073383|similac go-and-grow sensitive with iron powder for suspension
+# O|U>F|FOODON_03413124|iron oxides and hydroxides|C4073385|similac go-and-grow with iron powder for suspension
+# O|U>F|FOODON_03413124|iron oxides and hydroxides|C4317892|similac go-and-grow sensitive non-gmo with iron powder for suspension
+# O|U>F|FOODON_03413125|isomalt|C1616033|acesulfame potassium/isomalt oral powder
+# O|U>F|FOODON_03413125|isomalt|C3191562|acesulfame potassium/isomalt oral powder [diabetisweet]
+# O|U>F|FOODON_03413140|magnesium hydroxide carbonate|C3531388|diosmin 600 mg / calcium magnesium potassium carbonate chloride hydroxide 30 mg oral tablet [vasculera]
+# O|U>F|FOODON_03413169|montan acid esters|C3464721|vascazen, ethyl esters 1000 mg oral capsule
+# O|U>F|FOODON_03413188|polydextrose|C3651853|fructooligosaccharides/polydextrose 15 gram/30 ml oral liquid (ml)
+# O|U>F|FOODON_03413188|polydextrose|C4291367|fructooligosaccharides/polydextrose 12 gram/30 ml oral liquid in packet (ml)
+# O|U>F|FOODON_03413195|polyoxyethylene (20) sorbitan tristearate (polysorbate 65)|C0726051|enfamil 20
+# O|U>F|FOODON_03413195|polyoxyethylene (20) sorbitan tristearate (polysorbate 65)|C2722314|cesinex 20
+# O|U>F|FOODON_03413195|polyoxyethylene (20) sorbitan tristearate (polysorbate 65)|C4256414|enfamil premature 20 cal/oz
+# O|U>F|FOODON_03413195|polyoxyethylene (20) sorbitan tristearate (polysorbate 65)|C5557516|micrsoy-20
+# O|U>F|FOODON_03413196|polyoxyethylene (40) stearate|C2722318|cesinex 40
+# O|U>F|FOODON_03413232|red 2g|C0351633|vivonex powder 2g
+# O|U>F|FOODON_03413246|sodium calcium polyphosphate|C3668660|calcium/protein/sodium 4 gm/118 ml-120 mg/118 ml oral suspension
+# O|U>F|FOODON_03413246|sodium calcium polyphosphate|C3668661|calcium/protein/sodium 4 gm/118 ml-120 mg/118 ml oral suspension [resource thickenup frosty thick]
+# O|U>F|FOODON_03413254|sodium glycinate|C2756286|bioflavonoids-zinc glycinate 250 mg-50 mg oral capsule
+# O|U>F|FOODON_03413254|sodium glycinate|C2756287|bioflavonoids-zinc glycinate 500 mg-50 mg oral capsule
+# O|U>F|FOODON_03413254|sodium glycinate|C3281446|genistein 27 mg / zinc glycinate citrate 20 mg / cholecalciferol 200 [iu] oral capsule [fosteum]
+# O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C3667923|ascorbic acid/calcium/phosphorus/potassium/sodium 15 mg/120 ml-10 mg/120 ml oral suspension
+# O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C3667925|ascorbic acid/calcium/phosphorus/potassium/sodium 150 mg/120 ml-15 mg/120 ml oral suspension
+# O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C3667927|ascorbic acid/calcium/phosphorus/potassium/sodium 200 mg/120 ml-10 mg/120 ml oral suspension
+# O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C3668656|ascorbic acid/calcium/phosphorus/potassium/sodium 300 mg/237 ml-30 mg/237 ml oral suspension
+# O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C3668659|ascorbic acid/calcium/phosphorus/potassium/sodium 40 mg/237 ml-20 mg/237 ml oral suspension
+# O|U>F|FOODON_03413278|sodium, potassium and calcium salts of fatty acids|C4745686|neonatal tpn starter, amino acids 2.5% with 10% dextrose and calcium gluconate intravenous solution
+# O|U>F|FOODON_03413309|tocopherol-rich extract|C0453861|rich food
+# O|U>F|FOODON_03413312|tricalcium citrate|C2948331|phytase-zinc citrate 500 mg-25 mg oral capsule
+# O|U>F|FOODON_03413321|xanthan gum|C4688840|xanthan gum 6 gram oral gel in packet (gram)
+# O|U>F|FOODON_03413321|xanthan gum|C4688841|xanthan gum 6 gram oral gel with pump (ml)
+# O|U>F|FOODON_03413321|xanthan gum|C4692173|xanthan gum 96 gram oral gel in packet (gram)
+# O|U>F|FOODON_03413321|xanthan gum|C4694768|xanthan gum 48 gram oral gel in packet (gram)
+# O|U>F|FOODON_03413321|xanthan gum|C5553531|xanthan gum 4 gram oral gel in packet (gram)
+# O|U>F|FOODON_03413358|plant used as fodder|C4046030|fodder
+# O|U>F|FOODON_03413406|teosinte plant|C1655873|isosource h
+# O|U>F|FOODON_03413485|new zealand langostino|C5709409|new zealand whey protein isolate powder for suspension
+# O|U>F|FOODON_03413485|new zealand langostino|C5709563|new zealand whey protein isolate
+# O|U>F|FOODON_03413653|Chilean Blue mussel|C4018979|blue mussel (substance)
+# O|U>F|FOODON_03413691|cape hope squid|C4019792|liquid hope
 O|U>F|FOODON_03413693|flying squid|C2987475|wellington flying squid
-O|U>F|FOODON_03413727|winter turnip rape plant|C0453140|rape leaf
-O|U>F|FOODON_03413751|food supplements, vitamin substances (ec)|C0740044|natural supplements
-O|U>F|FOODON_03413770|d-biotin|C0309854|prescription diet canine d/d
-O|U>F|FOODON_03413770|d-biotin|C2730286|enfamil d-vi-sol
-O|U>F|FOODON_03413770|d-biotin|C3818898|biotin 5 mg/ml oral liquid (ml)
-O|U>F|FOODON_03413770|d-biotin|C5210550|actitrom-d
-O|U>F|FOODON_03413770|d-biotin|C5227960|biotin 5 mg/ml oral liquid
-O|U>F|FOODON_03413770|d-biotin|C5850150|biotin 10,000 mcg/ml oral liquid (ml)
-O|U>F|FOODON_03413771|pteroylmonoglutamic acid|C3554984|folic acid 2000 mcg oral capsule [methylfolate]
-O|U>F|FOODON_03413796|pearl oyster mushroom|C5556438|g. lucidum/a. blazei/g. frondosa/h. erinaceus/c. sinensis/i. obliquus/p. ostreatus/p. umbellatus/ l. edodes supplement
-O|U>F|FOODON_03413899|arctic smelt|C4325203|ensure pre-surgery arctic chill
+# O|U>F|FOODON_03413727|winter turnip rape plant|C0453140|rape leaf
+# O|U>F|FOODON_03413751|food supplements, vitamin substances (ec)|C0740044|natural supplements
+# O|U>F|FOODON_03413770|d-biotin|C0309854|prescription diet canine d/d
+# O|U>F|FOODON_03413770|d-biotin|C2730286|enfamil d-vi-sol
+# O|U>F|FOODON_03413770|d-biotin|C3818898|biotin 5 mg/ml oral liquid (ml)
+# O|U>F|FOODON_03413770|d-biotin|C5210550|actitrom-d
+# O|U>F|FOODON_03413770|d-biotin|C5227960|biotin 5 mg/ml oral liquid
+# O|U>F|FOODON_03413770|d-biotin|C5850150|biotin 10,000 mcg/ml oral liquid (ml)
+# O|U>F|FOODON_03413771|pteroylmonoglutamic acid|C3554984|folic acid 2000 mcg oral capsule [methylfolate]
+# O|U>F|FOODON_03413796|pearl oyster mushroom|C5556438|g. lucidum/a. blazei/g. frondosa/h. erinaceus/c. sinensis/i. obliquus/p. ostreatus/p. umbellatus/ l. edodes supplement
+# O|U>F|FOODON_03413899|arctic smelt|C4325203|ensure pre-surgery arctic chill
 O|U>F|FOODON_03413916|mullet|C0452997|red mullet
-O|U>F|FOODON_03414043|mud dab|C0086162|dab fish
-O|U>F|FOODON_03414103|stout skate|C0452470|stout (substance)
-O|U>F|FOODON_03414168|plant used for dietary supplements|C0242295|dietary supplements
-O|U>F|FOODON_03414168|plant used for dietary supplements|C0351642|dietary supplements - other
-O|U>F|FOODON_03414168|plant used for dietary supplements|C2030927|high protein dietary supplements
-O|U>F|FOODON_03414168|plant used for dietary supplements|C4700348|dietary supplements active hexose correlated compound
-O|U>F|FOODON_03414218|myrtle-leaf orange plant|C0678402|campari
-O|U>F|FOODON_03414262|crowberry plant|C0728633|vital hn
-O|U>F|FOODON_03414277|southern queen scallop|C0453559|queen of puddings
-O|U>F|FOODON_03414306|australian sunrise lime plant|C4689232|nutricia shs phlexy-10 tropical sunrise
-O|U>F|FOODON_03414321|khorasan wheat plant|C3853226|khorasan wheat
-O|U>F|FOODON_03414340|lemon myrtle plant|C3831425|lemon myrtle leaf oil
-O|U>F|FOODON_03414343|vietnamese coriander plant|C0459127|vietnamese food
+# O|U>F|FOODON_03414043|mud dab|C0086162|dab fish
+# O|U>F|FOODON_03414103|stout skate|C0452470|stout (substance)
+# O|U>F|FOODON_03414168|plant used for dietary supplements|C0242295|dietary supplements
+# O|U>F|FOODON_03414168|plant used for dietary supplements|C0351642|dietary supplements - other
+# O|U>F|FOODON_03414168|plant used for dietary supplements|C2030927|high protein dietary supplements
+# O|U>F|FOODON_03414168|plant used for dietary supplements|C4700348|dietary supplements active hexose correlated compound
+# O|U>F|FOODON_03414218|myrtle-leaf orange plant|C0678402|campari
+# O|U>F|FOODON_03414262|crowberry plant|C0728633|vital hn
+# O|U>F|FOODON_03414277|southern queen scallop|C0453559|queen of puddings
+# O|U>F|FOODON_03414306|australian sunrise lime plant|C4689232|nutricia shs phlexy-10 tropical sunrise
+# O|U>F|FOODON_03414321|khorasan wheat plant|C3853226|khorasan wheat
+# O|U>F|FOODON_03414340|lemon myrtle plant|C3831425|lemon myrtle leaf oil
+# O|U>F|FOODON_03414343|vietnamese coriander plant|C0459127|vietnamese food
 O|U>F|FOODON_03414363|kiwi|C0440282|kiwi fruit
-O|U>F|FOODON_03414363|kiwi|C4224774|kiwi juice
-O|U>F|FOODON_03414363|kiwi|C4519471|pedialyte advanced care electrolyte solution (kiwi berry mist)
-O|U>F|FOODON_03414374|bovine|C3663232|immune globulin plasma bovine (enteragam),pwdr,pkt
-O|U>F|FOODON_03414374|bovine|C3663854|immune globulin,bovine/plasma protein fraction, bovine 5 gram oral powder in packet (ea)
-O|U>F|FOODON_03414374|bovine|C3666812|immune globulin bovine 5 gm/1 packet oral powder
-O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C2683062|amino acids/protein hydrolysate/ascorbic acid/zinc sulfate 17 gram-70 kcal/30 ml oral liquid (ml)
-O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C4059694|ascorbic acid/iron/lactobacillus casei 25 mg-130 mg-30 mg oral capsule [fusion]
-O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C5207551|ascorbic acid 125 mg / cholecalciferol 0.0125 mg / thiamine 1.4 mg / pyridoxal phosphate anhydrous 2.5 mg / folic acid 1 mg / methylcobalamin 1 mg / calcium carbonate 200 mg / ferrous gluconate 13 mg / potassium iodide 0.15 mg oral tablet [zalvit]
-O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C5209391|ascorbic acid/calcium/cholecalciferol/ferrous gluconate/folic acid/methylcobalamin/potassium iodide/pyridoxal phosphate/thiamine hydrochloride 125 mg-200 mg-12.5 mcg-13 mg-1 mg-1000 mcg-150 mcg-2.5 mg-1.4 mg oral tablet
-O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C5827510|5-methyltetrahydrofolate calcium/ascorbic acid/biotin/cyanocobalamin/iron/zinc 1.7 mg-100 mg-150 mcg-60 mcg-160 mg-12 mg oral tablet [max fe]
-O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C5827519|5-methyltetrahydrofolate calcium/ascorbic acid/biotin/cyanocobalamin/iron/zinc 1.7 mg-100 mg-150 mcg-60 mcg-160 mg-12 mg oral tablet
-O|U>F|FOODON_03414403|calcium malates|C0357189|calcium intolerance food
-O|U>F|FOODON_03414403|calcium malates|C2723080|levomefolate calcium 15 mg oral tablet [deplin]
-O|U>F|FOODON_03414403|calcium malates|C3486013|levomefolate calcium 15 mg oral tablet, coated [l-methylfolate calcium]
-O|U>F|FOODON_03414403|calcium malates|C5448979|leucovorin calcium,methyltetrahydrofolate glucosam
-O|U>F|FOODON_03414403|calcium malates|C5455030|calcium (mcha
-O|U>F|FOODON_03414421|sodium carbonates|C3883281|citicoline sodium 500 mg oral capsule
-O|U>F|FOODON_03414456|steviol glycosides|C3538147|stevioside/rebaudioside a, b/steviol/steviolbioside/vit d3 113 mg oral capsule
-O|U>F|FOODON_03414595|argan plant|C2975054|argan oil
-O|U>F|FOODON_03414688|johnstone river almond plant|C0440286|almond nut
-O|U>F|FOODON_03414741|morning-glory family|C0453536|knickerbocker glory
-O|U>F|FOODON_03414811|horn snail|C0452638|cream horn
-O|U>F|FOODON_03414848|rat|C3644825|g-preprotein
-O|U>F|FOODON_03414899|terrestrial invertebrate|C4543502|terrestrial mollusk
+# O|U>F|FOODON_03414363|kiwi|C4224774|kiwi juice
+# O|U>F|FOODON_03414363|kiwi|C4519471|pedialyte advanced care electrolyte solution (kiwi berry mist)
+# O|U>F|FOODON_03414374|bovine|C3663232|immune globulin plasma bovine (enteragam),pwdr,pkt
+# O|U>F|FOODON_03414374|bovine|C3663854|immune globulin,bovine/plasma protein fraction, bovine 5 gram oral powder in packet (ea)
+# O|U>F|FOODON_03414374|bovine|C3666812|immune globulin bovine 5 gm/1 packet oral powder
+# O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C2683062|amino acids/protein hydrolysate/ascorbic acid/zinc sulfate 17 gram-70 kcal/30 ml oral liquid (ml)
+# O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C4059694|ascorbic acid/iron/lactobacillus casei 25 mg-130 mg-30 mg oral capsule [fusion]
+# O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C5207551|ascorbic acid 125 mg / cholecalciferol 0.0125 mg / thiamine 1.4 mg / pyridoxal phosphate anhydrous 2.5 mg / folic acid 1 mg / methylcobalamin 1 mg / calcium carbonate 200 mg / ferrous gluconate 13 mg / potassium iodide 0.15 mg oral tablet [zalvit]
+# O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C5209391|ascorbic acid/calcium/cholecalciferol/ferrous gluconate/folic acid/methylcobalamin/potassium iodide/pyridoxal phosphate/thiamine hydrochloride 125 mg-200 mg-12.5 mcg-13 mg-1 mg-1000 mcg-150 mcg-2.5 mg-1.4 mg oral tablet
+# O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C5827510|5-methyltetrahydrofolate calcium/ascorbic acid/biotin/cyanocobalamin/iron/zinc 1.7 mg-100 mg-150 mcg-60 mcg-160 mg-12 mg oral tablet [max fe]
+# O|U>F|FOODON_03414402|fatty acid esters of ascorbic acid|C5827519|5-methyltetrahydrofolate calcium/ascorbic acid/biotin/cyanocobalamin/iron/zinc 1.7 mg-100 mg-150 mcg-60 mcg-160 mg-12 mg oral tablet
+# O|U>F|FOODON_03414403|calcium malates|C0357189|calcium intolerance food
+# O|U>F|FOODON_03414403|calcium malates|C2723080|levomefolate calcium 15 mg oral tablet [deplin]
+# O|U>F|FOODON_03414403|calcium malates|C3486013|levomefolate calcium 15 mg oral tablet, coated [l-methylfolate calcium]
+# O|U>F|FOODON_03414403|calcium malates|C5448979|leucovorin calcium,methyltetrahydrofolate glucosam
+# O|U>F|FOODON_03414403|calcium malates|C5455030|calcium (mcha
+# O|U>F|FOODON_03414421|sodium carbonates|C3883281|citicoline sodium 500 mg oral capsule
+# O|U>F|FOODON_03414456|steviol glycosides|C3538147|stevioside/rebaudioside a, b/steviol/steviolbioside/vit d3 113 mg oral capsule
+# O|U>F|FOODON_03414595|argan plant|C2975054|argan oil
+# O|U>F|FOODON_03414688|johnstone river almond plant|C0440286|almond nut
+# O|U>F|FOODON_03414741|morning-glory family|C0453536|knickerbocker glory
+# O|U>F|FOODON_03414811|horn snail|C0452638|cream horn
+# O|U>F|FOODON_03414848|rat|C3644825|g-preprotein
+# O|U>F|FOODON_03414899|terrestrial invertebrate|C4543502|terrestrial mollusk
 O|U>F|FOODON_03414934|solanaceae plant|C5445134|solanaceae (substance)
-O|U>F|FOODON_03414944|scotch bonnet|C0453471|scotch egg
-O|U>F|FOODON_03414944|scotch bonnet|C0678413|scotch
-O|U>F|FOODON_03415042|tahitian vanilla plant|C0975028|boost w/fiber liquid vanilla
-O|U>F|FOODON_03415042|tahitian vanilla plant|C0976623|ensure w/fiber liquid vanilla
-O|U>F|FOODON_03415042|tahitian vanilla plant|C0979828|promote w/fiber liquid vanilla
-O|U>F|FOODON_03415042|tahitian vanilla plant|C1576400|sustacal w/fiber liquid vanilla
-O|U>F|FOODON_03415042|tahitian vanilla plant|C2683049|promote w/fiber liquid vanilla 1000ml
-O|U>F|FOODON_03415042|tahitian vanilla plant|C3254972|promote w/fiber liquid vanilla 1500ml
-O|U>F|FOODON_03415042|tahitian vanilla plant|C5874597|ensure plus w/fiber liquid vanilla
-O|U>F|FOODON_03415047|mexican hawthorn plant|C2348007|crataegus fruit
-O|U>F|FOODON_03420106|organ meat, digestive system|C3528015|isosource hn ultrapak system
-O|U>F|FOODON_03420106|organ meat, digestive system|C3695445|nutren pulmonary ultrapak system
-O|U>F|FOODON_03420106|organ meat, digestive system|C3695449|fibersource hn ultrapak system
-O|U>F|FOODON_03420108|sugar|C0452590|sugar smacks
-O|U>F|FOODON_03420113|mammalian milk or milk component|C0349374|cow's milk
-O|U>F|FOODON_03420113|mammalian milk or milk component|C0444322|cow's milk specimen
-O|U>F|FOODON_03420154|mammalian light whipping cream (30%-36%)|C0452750|whipping cream
+# O|U>F|FOODON_03414944|scotch bonnet|C0453471|scotch egg
+# O|U>F|FOODON_03414944|scotch bonnet|C0678413|scotch
+# O|U>F|FOODON_03415042|tahitian vanilla plant|C0975028|boost w/fiber liquid vanilla
+# O|U>F|FOODON_03415042|tahitian vanilla plant|C0976623|ensure w/fiber liquid vanilla
+# O|U>F|FOODON_03415042|tahitian vanilla plant|C0979828|promote w/fiber liquid vanilla
+# O|U>F|FOODON_03415042|tahitian vanilla plant|C1576400|sustacal w/fiber liquid vanilla
+# O|U>F|FOODON_03415042|tahitian vanilla plant|C2683049|promote w/fiber liquid vanilla 1000ml
+# O|U>F|FOODON_03415042|tahitian vanilla plant|C3254972|promote w/fiber liquid vanilla 1500ml
+# O|U>F|FOODON_03415042|tahitian vanilla plant|C5874597|ensure plus w/fiber liquid vanilla
+# O|U>F|FOODON_03415047|mexican hawthorn plant|C2348007|crataegus fruit
+# O|U>F|FOODON_03420106|organ meat, digestive system|C3528015|isosource hn ultrapak system
+# O|U>F|FOODON_03420106|organ meat, digestive system|C3695445|nutren pulmonary ultrapak system
+# O|U>F|FOODON_03420106|organ meat, digestive system|C3695449|fibersource hn ultrapak system
+# O|U>F|FOODON_03420108|sugar|C0452590|sugar smacks
+# O|U>F|FOODON_03420113|mammalian milk or milk component|C0349374|cow's milk
+# O|U>F|FOODON_03420113|mammalian milk or milk component|C0444322|cow's milk specimen
+# O|U>F|FOODON_03420154|mammalian light whipping cream (30%-36%)|C0452750|whipping cream
 O|U>F|FOODON_03420157|white sugar|C0459823|white sugar (substance)
 O|U>F|FOODON_03420192|tripe|C0452927|dressed tripe
 O|U>F|FOODON_03420192|tripe|C0452928|dressed stewed tripe
@@ -31005,119 +31005,119 @@ O|U>F|FOODON_03420194|egg or egg component|C0013704|egg whites
 O|U>F|FOODON_03420194|egg or egg component|C0440466|hen's egg
 O|U>F|FOODON_03420194|egg or egg component|C0726105|ensure plus egg nog
 O|U>F|FOODON_03420194|egg or egg component|C0728203|sustacal plus egg nog
-O|U>F|FOODON_03420194|egg or egg component|C1576391|sustacal egg nog
-O|U>F|FOODON_03420214|nut milk|C0460216|ensure nut liquid 946ml
-O|U>F|FOODON_03420214|nut milk|C0543278|fresubin nut liquid
-O|U>F|FOODON_03420214|nut milk|C0546893|ensure nut liquid
-O|U>F|FOODON_03420214|nut milk|C0546901|fresubin nut liquid 500ml
-O|U>F|FOODON_03420214|nut milk|C0546906|fresubin nut liquid 200ml
-O|U>F|FOODON_03420214|nut milk|C0546913|ensure nut liquid 250ml
-O|U>F|FOODON_03420214|nut milk|C0593908|fresubin nut liquid 1 litre
-O|U>F|FOODON_03420244|mammalian milk whey|C0562331|whey-based baby milk
-O|U>F|FOODON_03420244|mammalian milk whey|C3161985|whey hydrolysate milk
-O|U>F|FOODON_03420244|mammalian milk whey|C5553675|milk/whey protein isolate oral suspension [boost glucose control max protein]
-O|U>F|FOODON_03420244|mammalian milk whey|C5553713|milk/whey protein isolate oral suspension
-O|U>F|FOODON_03420244|mammalian milk whey|C5884620|milk/whey protein isolate oral suspension [ketovie 3:1]
-O|U>F|FOODON_03420258|cap, button|C1620910|flavocoxid 250mg cap,oral
-O|U>F|FOODON_03420258|cap, button|C1702652|flavocoxid 500mg cap,oral
-O|U>F|FOODON_03420258|cap, button|C2722818|baicalin,catechin 250mg/citrated zinc 50mg cap,oral
-O|U>F|FOODON_03420258|cap, button|C2722819|baicalin,catechin 500mg/citrated zinc 50mg cap,oral
-O|U>F|FOODON_03420258|cap, button|C4691783|l-methylfolate 7.5mg cap
-O|U>F|FOODON_03420258|cap, button|C5196448|l-methylfolate 15mg cap
-O|U>F|FOODON_03420268|skeletal meat part, without bone, without skin|C3653407|nutrients without phenylalanine
-O|U>F|FOODON_03420307|seed oil|C0304146|parsley seed oil
-O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1170890|boost high protein liquid strawberry
-O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1170891|boost high protein liquid vanilla
-O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1995542|thick & easy thickend dairy (honey) liquid,oral
-O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1995543|thick & easy thickend dairy (nectar) liquid,oral
-O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1995544|thick & easy thickend hydrolyte (honey) liquid,oral
-O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1995545|thick & easy thickend hydrolyte (nectar) liquid,oral
-O|U>F|FOODON_03430102|food (liquid, high viscosity)|C3892283|vital high protein liquid
-O|U>F|FOODON_03430102|food (liquid, high viscosity)|C3892354|ensure active high protein liquid
-O|U>F|FOODON_03430102|food (liquid, high viscosity)|C4032915|fibersource high nitrogen liquid
-O|U>F|FOODON_03430102|food (liquid, high viscosity)|C4032938|isosource high nitrogen liquid
-O|U>F|FOODON_03430109|food (liquid, low viscosity)|C0590965|nutrison low protein/low minerals liquid
-O|U>F|FOODON_03430109|food (liquid, low viscosity)|C0590966|nutrison low protein/low minerals liquid 500ml
-O|U>F|FOODON_03430109|food (liquid, low viscosity)|C0727744|s-m-a low iron liquid rtf
-O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C1681878|nutritional therapy for phenylketonuria (pku) with iron no.2 0.06 gram-0.64 kcal/ml oral liquid (ml)
-O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C2731666|nutritional therapy for phenylketonuria(pku) with iron no.40 20 gram-116 kcal/125 ml oral liquid in packet (ml)
-O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C2926833|nutritional therapy for phenylketonuria(pku) with iron no.42 20 gram-115 kcal/125 ml oral liquid in packet (ml)
-O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C3497775|nutritional therapy for phenylketonuria(pku) with iron no.50 10 gram-60 kcal/75 ml oral liquid (ml)
-O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C3818878|nutritional therapy for phenylketonuria(pku) with iron no.41 4 gram-61 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C3818879|nutritional therapy for phenylketonuria(pku) with iron no.41 6 gram-80 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C4033487|nutritional therapy for phenylketonuria(pku) with iron no.41 15 gram-140 kcal/140 ml oral liquid in packet (ml)
-O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C4058568|nutritional therapy for pku with iron no.59 8 gram-74 kcal/100 ml oral liquid (ml)
-O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C4074347|nutritional therapy for phenylketonuria(pku) with iron no.26 15 gram-97.5 kcal/130 ml oral liquid in packet (ml)
-O|U>F|FOODON_03430130|food (liquid)|C0351501|duocal liquid 1 litre
-O|U>F|FOODON_03430130|food (liquid)|C0595358|clinifeed 1.0 liquid 1 litre
-O|U>F|FOODON_03430130|food (liquid)|C0595361|clinifeed 1.5 liquid 1 litre
-O|U>F|FOODON_03430130|food (liquid)|C1875412|jevity 1 cal liquid
-O|U>F|FOODON_03430130|food (liquid)|C1875413|jevity 1 cal liquid 1000ml
-O|U>F|FOODON_03430130|food (liquid)|C1875414|jevity 1 cal liquid 1500ml
-O|U>F|FOODON_03430130|food (liquid)|C1952581|osmolite 1 cal liquid
-O|U>F|FOODON_03430130|food (liquid)|C1952582|osmolite 1 cal liquid 1000ml
-O|U>F|FOODON_03430130|food (liquid)|C1952583|osmolite 1 cal liquid 1500ml
-O|U>F|FOODON_03430130|food (liquid)|C2241087|medical food oral liquid
-O|U>F|FOODON_03430130|food (liquid)|C3190391|medical food oral liquid [camino pro 5]
-O|U>F|FOODON_03430130|food (liquid)|C3191626|homeopathic substance oral liquid [detoxosode food additives ii]
-O|U>F|FOODON_03430130|food (liquid)|C3191629|homeopathic substance oral liquid [detoxosode food additives i]
-O|U>F|FOODON_03430130|food (liquid)|C3191640|medical food oral liquid [pku lophlex lq 20]
-O|U>F|FOODON_03430130|food (liquid)|C3196233|medical food oral liquid [liquacel]
-O|U>F|FOODON_03430130|food (liquid)|C3196251|medical food oral liquid [pediasure peptide 1.5 cal]
-O|U>F|FOODON_03430130|food (liquid)|C3196296|medical food oral liquid [ketocal 4:1]
-O|U>F|FOODON_03430130|food (liquid)|C3196340|medical food oral liquid [pediasure peptide 1.0 cal]
-O|U>F|FOODON_03430130|food (liquid)|C3196384|medical food oral liquid [liquafiber]
-O|U>F|FOODON_03430130|food (liquid)|C3204842|medical food oral liquid [prosource protein]
-O|U>F|FOODON_03430130|food (liquid)|C3245015|green (food color) miscell liquid (ml)
-O|U>F|FOODON_03430130|food (liquid)|C3247624|yellow (food color) miscell liquid (ml)
-O|U>F|FOODON_03430130|food (liquid)|C3267617|medical food oral liquid [pediasure 1.5 cal with fiber]
-O|U>F|FOODON_03430130|food (liquid)|C3496947|medical food oral liquid [phenylade rtd pku 10]
-O|U>F|FOODON_03430130|food (liquid)|C3505013|medical food oral liquid [pediasure 1.0 cal with fiber]
-O|U>F|FOODON_03430130|food (liquid)|C3554994|medical food oral liquid [ketocal 4:1 lq]
-O|U>F|FOODON_03430130|food (liquid)|C4301019|compleat 1 cal liquid
-O|U>F|FOODON_03430130|food (liquid)|C4474005|medical food oral liquid [leu-free cooler]
-O|U>F|FOODON_03430130|food (liquid)|C4474118|medical food oral liquid [mma/pa cooler]
-O|U>F|FOODON_03430130|food (liquid)|C4555747|medical food oral liquid [pediasure harvest 1.0 cal]
-O|U>F|FOODON_03430130|food (liquid)|C5455272|medical food oral liquid [prosource tf free]
-O|U>F|FOODON_03430130|food (liquid)|C5777509|medical food oral liquid [prosource tf20]
-O|U>F|FOODON_03430130|food (liquid)|C5777510|medical food oral liquid [banatrol tf]
-O|U>F|FOODON_03430130|food (liquid)|C5789500|medical food oral liquid [ketocal 4:1 lq multi fiber]
-O|U>F|FOODON_03430141|cut into long pieces|C0471882|glutafin gf long cut spaghetti
-O|U>F|FOODON_03430145|sliced, thin, below 0.5 cm.|C0726125|entrition 0.5 kcal
-O|U>F|FOODON_03430151|food (solid)|C0453852|semi-solid food
+# O|U>F|FOODON_03420194|egg or egg component|C1576391|sustacal egg nog
+# O|U>F|FOODON_03420214|nut milk|C0460216|ensure nut liquid 946ml
+# O|U>F|FOODON_03420214|nut milk|C0543278|fresubin nut liquid
+# O|U>F|FOODON_03420214|nut milk|C0546893|ensure nut liquid
+# O|U>F|FOODON_03420214|nut milk|C0546901|fresubin nut liquid 500ml
+# O|U>F|FOODON_03420214|nut milk|C0546906|fresubin nut liquid 200ml
+# O|U>F|FOODON_03420214|nut milk|C0546913|ensure nut liquid 250ml
+# O|U>F|FOODON_03420214|nut milk|C0593908|fresubin nut liquid 1 litre
+# O|U>F|FOODON_03420244|mammalian milk whey|C0562331|whey-based baby milk
+# O|U>F|FOODON_03420244|mammalian milk whey|C3161985|whey hydrolysate milk
+# O|U>F|FOODON_03420244|mammalian milk whey|C5553675|milk/whey protein isolate oral suspension [boost glucose control max protein]
+# O|U>F|FOODON_03420244|mammalian milk whey|C5553713|milk/whey protein isolate oral suspension
+# O|U>F|FOODON_03420244|mammalian milk whey|C5884620|milk/whey protein isolate oral suspension [ketovie 3:1]
+# O|U>F|FOODON_03420258|cap, button|C1620910|flavocoxid 250mg cap,oral
+# O|U>F|FOODON_03420258|cap, button|C1702652|flavocoxid 500mg cap,oral
+# O|U>F|FOODON_03420258|cap, button|C2722818|baicalin,catechin 250mg/citrated zinc 50mg cap,oral
+# O|U>F|FOODON_03420258|cap, button|C2722819|baicalin,catechin 500mg/citrated zinc 50mg cap,oral
+# O|U>F|FOODON_03420258|cap, button|C4691783|l-methylfolate 7.5mg cap
+# O|U>F|FOODON_03420258|cap, button|C5196448|l-methylfolate 15mg cap
+# O|U>F|FOODON_03420268|skeletal meat part, without bone, without skin|C3653407|nutrients without phenylalanine
+# O|U>F|FOODON_03420307|seed oil|C0304146|parsley seed oil
+# O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1170890|boost high protein liquid strawberry
+# O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1170891|boost high protein liquid vanilla
+# O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1995542|thick & easy thickend dairy (honey) liquid,oral
+# O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1995543|thick & easy thickend dairy (nectar) liquid,oral
+# O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1995544|thick & easy thickend hydrolyte (honey) liquid,oral
+# O|U>F|FOODON_03430102|food (liquid, high viscosity)|C1995545|thick & easy thickend hydrolyte (nectar) liquid,oral
+# O|U>F|FOODON_03430102|food (liquid, high viscosity)|C3892283|vital high protein liquid
+# O|U>F|FOODON_03430102|food (liquid, high viscosity)|C3892354|ensure active high protein liquid
+# O|U>F|FOODON_03430102|food (liquid, high viscosity)|C4032915|fibersource high nitrogen liquid
+# O|U>F|FOODON_03430102|food (liquid, high viscosity)|C4032938|isosource high nitrogen liquid
+# O|U>F|FOODON_03430109|food (liquid, low viscosity)|C0590965|nutrison low protein/low minerals liquid
+# O|U>F|FOODON_03430109|food (liquid, low viscosity)|C0590966|nutrison low protein/low minerals liquid 500ml
+# O|U>F|FOODON_03430109|food (liquid, low viscosity)|C0727744|s-m-a low iron liquid rtf
+# O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C1681878|nutritional therapy for phenylketonuria (pku) with iron no.2 0.06 gram-0.64 kcal/ml oral liquid (ml)
+# O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C2731666|nutritional therapy for phenylketonuria(pku) with iron no.40 20 gram-116 kcal/125 ml oral liquid in packet (ml)
+# O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C2926833|nutritional therapy for phenylketonuria(pku) with iron no.42 20 gram-115 kcal/125 ml oral liquid in packet (ml)
+# O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C3497775|nutritional therapy for phenylketonuria(pku) with iron no.50 10 gram-60 kcal/75 ml oral liquid (ml)
+# O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C3818878|nutritional therapy for phenylketonuria(pku) with iron no.41 4 gram-61 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C3818879|nutritional therapy for phenylketonuria(pku) with iron no.41 6 gram-80 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C4033487|nutritional therapy for phenylketonuria(pku) with iron no.41 15 gram-140 kcal/140 ml oral liquid in packet (ml)
+# O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C4058568|nutritional therapy for pku with iron no.59 8 gram-74 kcal/100 ml oral liquid (ml)
+# O|U>F|FOODON_03430123|food (liquid, low viscosity, with no visible particles)|C4074347|nutritional therapy for phenylketonuria(pku) with iron no.26 15 gram-97.5 kcal/130 ml oral liquid in packet (ml)
+# O|U>F|FOODON_03430130|food (liquid)|C0351501|duocal liquid 1 litre
+# O|U>F|FOODON_03430130|food (liquid)|C0595358|clinifeed 1.0 liquid 1 litre
+# O|U>F|FOODON_03430130|food (liquid)|C0595361|clinifeed 1.5 liquid 1 litre
+# O|U>F|FOODON_03430130|food (liquid)|C1875412|jevity 1 cal liquid
+# O|U>F|FOODON_03430130|food (liquid)|C1875413|jevity 1 cal liquid 1000ml
+# O|U>F|FOODON_03430130|food (liquid)|C1875414|jevity 1 cal liquid 1500ml
+# O|U>F|FOODON_03430130|food (liquid)|C1952581|osmolite 1 cal liquid
+# O|U>F|FOODON_03430130|food (liquid)|C1952582|osmolite 1 cal liquid 1000ml
+# O|U>F|FOODON_03430130|food (liquid)|C1952583|osmolite 1 cal liquid 1500ml
+# O|U>F|FOODON_03430130|food (liquid)|C2241087|medical food oral liquid
+# O|U>F|FOODON_03430130|food (liquid)|C3190391|medical food oral liquid [camino pro 5]
+# O|U>F|FOODON_03430130|food (liquid)|C3191626|homeopathic substance oral liquid [detoxosode food additives ii]
+# O|U>F|FOODON_03430130|food (liquid)|C3191629|homeopathic substance oral liquid [detoxosode food additives i]
+# O|U>F|FOODON_03430130|food (liquid)|C3191640|medical food oral liquid [pku lophlex lq 20]
+# O|U>F|FOODON_03430130|food (liquid)|C3196233|medical food oral liquid [liquacel]
+# O|U>F|FOODON_03430130|food (liquid)|C3196251|medical food oral liquid [pediasure peptide 1.5 cal]
+# O|U>F|FOODON_03430130|food (liquid)|C3196296|medical food oral liquid [ketocal 4:1]
+# O|U>F|FOODON_03430130|food (liquid)|C3196340|medical food oral liquid [pediasure peptide 1.0 cal]
+# O|U>F|FOODON_03430130|food (liquid)|C3196384|medical food oral liquid [liquafiber]
+# O|U>F|FOODON_03430130|food (liquid)|C3204842|medical food oral liquid [prosource protein]
+# O|U>F|FOODON_03430130|food (liquid)|C3245015|green (food color) miscell liquid (ml)
+# O|U>F|FOODON_03430130|food (liquid)|C3247624|yellow (food color) miscell liquid (ml)
+# O|U>F|FOODON_03430130|food (liquid)|C3267617|medical food oral liquid [pediasure 1.5 cal with fiber]
+# O|U>F|FOODON_03430130|food (liquid)|C3496947|medical food oral liquid [phenylade rtd pku 10]
+# O|U>F|FOODON_03430130|food (liquid)|C3505013|medical food oral liquid [pediasure 1.0 cal with fiber]
+# O|U>F|FOODON_03430130|food (liquid)|C3554994|medical food oral liquid [ketocal 4:1 lq]
+# O|U>F|FOODON_03430130|food (liquid)|C4301019|compleat 1 cal liquid
+# O|U>F|FOODON_03430130|food (liquid)|C4474005|medical food oral liquid [leu-free cooler]
+# O|U>F|FOODON_03430130|food (liquid)|C4474118|medical food oral liquid [mma/pa cooler]
+# O|U>F|FOODON_03430130|food (liquid)|C4555747|medical food oral liquid [pediasure harvest 1.0 cal]
+# O|U>F|FOODON_03430130|food (liquid)|C5455272|medical food oral liquid [prosource tf free]
+# O|U>F|FOODON_03430130|food (liquid)|C5777509|medical food oral liquid [prosource tf20]
+# O|U>F|FOODON_03430130|food (liquid)|C5777510|medical food oral liquid [banatrol tf]
+# O|U>F|FOODON_03430130|food (liquid)|C5789500|medical food oral liquid [ketocal 4:1 lq multi fiber]
+# O|U>F|FOODON_03430141|cut into long pieces|C0471882|glutafin gf long cut spaghetti
+# O|U>F|FOODON_03430145|sliced, thin, below 0.5 cm.|C0726125|entrition 0.5 kcal
+# O|U>F|FOODON_03430151|food (solid)|C0453852|semi-solid food
 O|U>F|FOODON_03430151|food (solid)|C0453855|solid food
-O|U>F|FOODON_03430154|food supplement form|C1696045|nutritional supplement no.1/fructooligosaccharides/inulin 0.0756 gram-1.2 kcal/ml oral suspension, oral (final dose form)
-O|U>F|FOODON_03430155|edible tablet|C0032099|plants, edible
-O|U>F|FOODON_03430155|edible tablet|C1612615|cerefolin caplet
-O|U>F|FOODON_03430155|edible tablet|C2926869|duleek-dp, 7.5 mg oral tablet
-O|U>F|FOODON_03430155|edible tablet|C2939871|levomefolate 1 mg oral tablet
-O|U>F|FOODON_03430155|edible tablet|C3464742|diosmiplex 630 mg oral tablet
-O|U>F|FOODON_03430155|edible tablet|C3871470|eligen b12 1000mcg-100mg tablet
-O|U>F|FOODON_03430155|edible tablet|C4059176|elfolate 15mg tablet
-O|U>F|FOODON_03430155|edible tablet|C4270852|nutricia shs phlexy-10 tablet
-O|U>F|FOODON_03430155|edible tablet|C4292427|nutricia phenylade phebloc tablet
-O|U>F|FOODON_03430155|edible tablet|C4473362|folast 2.8mg-25mg-2mg tablet
-O|U>F|FOODON_03430155|edible tablet|C4473435|triveen-cf nac 6mg-2mg-600mg tablet
-O|U>F|FOODON_03430155|edible tablet|C4473911|enfolast-n 6mg-2mg-600mg tablet
-O|U>F|FOODON_03430155|edible tablet|C4473912|alz-nac 6mg-2mg-600mg tablet
-O|U>F|FOODON_03430155|edible tablet|C5761914|hcu easy tablet
-O|U>F|FOODON_03430155|edible tablet|C5761925|msud easy tablet
-O|U>F|FOODON_03430155|edible tablet|C5761931|pku easy tablet
-O|U>F|FOODON_03430155|edible tablet|C5761940|tyr easy tablet
-O|U>F|FOODON_03430155|edible tablet|C5833669|hcu easy oral tablet
-O|U>F|FOODON_03430155|edible tablet|C5833677|msud easy oral tablet
-O|U>F|FOODON_03430155|edible tablet|C5833709|pku easy microtab oral tablet delayed release
-O|U>F|FOODON_03430155|edible tablet|C5833710|pku easy oral tablet
-O|U>F|FOODON_03430155|edible tablet|C5833730|tyr easy oral tablet
-O|U>F|FOODON_03430156|chewable tablet|C1613411|nutritional therapy for phenylketonuria (pku) with iron no.1 10 gram-100 kcal/25 tabs oral tablet,chewable
-O|U>F|FOODON_03430156|chewable tablet|C4256317|cvs children's clear chewable tablet (vanilla)
-O|U>F|FOODON_03430156|chewable tablet|C4476170|protein 500 mg oral tablet, chewable [hi-protein]
-O|U>F|FOODON_03430158|effervescent tablet|C4026799|levomefolic acid 7.5 mg oral tablet
-O|U>F|FOODON_03430158|effervescent tablet|C4723102|hydralyte effervescent tablets berry
-O|U>F|FOODON_03430158|effervescent tablet|C4723103|hydralyte effervescent tablets colour free le
-O|U>F|FOODON_03430158|effervescent tablet|C4723104|hydralyte effervescent tablets orange
-O|U>F|FOODON_03430158|effervescent tablet|C5578563|potassium phosphate, monobasic 500 mg oral tablet, effervescent
-O|U>F|FOODON_03430161|soft gelatin capsule|C3153888|tozal softgel
+# O|U>F|FOODON_03430154|food supplement form|C1696045|nutritional supplement no.1/fructooligosaccharides/inulin 0.0756 gram-1.2 kcal/ml oral suspension, oral (final dose form)
+# O|U>F|FOODON_03430155|edible tablet|C0032099|plants, edible
+# O|U>F|FOODON_03430155|edible tablet|C1612615|cerefolin caplet
+# O|U>F|FOODON_03430155|edible tablet|C2926869|duleek-dp, 7.5 mg oral tablet
+# O|U>F|FOODON_03430155|edible tablet|C2939871|levomefolate 1 mg oral tablet
+# O|U>F|FOODON_03430155|edible tablet|C3464742|diosmiplex 630 mg oral tablet
+# O|U>F|FOODON_03430155|edible tablet|C3871470|eligen b12 1000mcg-100mg tablet
+# O|U>F|FOODON_03430155|edible tablet|C4059176|elfolate 15mg tablet
+# O|U>F|FOODON_03430155|edible tablet|C4270852|nutricia shs phlexy-10 tablet
+# O|U>F|FOODON_03430155|edible tablet|C4292427|nutricia phenylade phebloc tablet
+# O|U>F|FOODON_03430155|edible tablet|C4473362|folast 2.8mg-25mg-2mg tablet
+# O|U>F|FOODON_03430155|edible tablet|C4473435|triveen-cf nac 6mg-2mg-600mg tablet
+# O|U>F|FOODON_03430155|edible tablet|C4473911|enfolast-n 6mg-2mg-600mg tablet
+# O|U>F|FOODON_03430155|edible tablet|C4473912|alz-nac 6mg-2mg-600mg tablet
+# O|U>F|FOODON_03430155|edible tablet|C5761914|hcu easy tablet
+# O|U>F|FOODON_03430155|edible tablet|C5761925|msud easy tablet
+# O|U>F|FOODON_03430155|edible tablet|C5761931|pku easy tablet
+# O|U>F|FOODON_03430155|edible tablet|C5761940|tyr easy tablet
+# O|U>F|FOODON_03430155|edible tablet|C5833669|hcu easy oral tablet
+# O|U>F|FOODON_03430155|edible tablet|C5833677|msud easy oral tablet
+# O|U>F|FOODON_03430155|edible tablet|C5833709|pku easy microtab oral tablet delayed release
+# O|U>F|FOODON_03430155|edible tablet|C5833710|pku easy oral tablet
+# O|U>F|FOODON_03430155|edible tablet|C5833730|tyr easy oral tablet
+# O|U>F|FOODON_03430156|chewable tablet|C1613411|nutritional therapy for phenylketonuria (pku) with iron no.1 10 gram-100 kcal/25 tabs oral tablet,chewable
+# O|U>F|FOODON_03430156|chewable tablet|C4256317|cvs children's clear chewable tablet (vanilla)
+# O|U>F|FOODON_03430156|chewable tablet|C4476170|protein 500 mg oral tablet, chewable [hi-protein]
+# O|U>F|FOODON_03430158|effervescent tablet|C4026799|levomefolic acid 7.5 mg oral tablet
+# O|U>F|FOODON_03430158|effervescent tablet|C4723102|hydralyte effervescent tablets berry
+# O|U>F|FOODON_03430158|effervescent tablet|C4723103|hydralyte effervescent tablets colour free le
+# O|U>F|FOODON_03430158|effervescent tablet|C4723104|hydralyte effervescent tablets orange
+# O|U>F|FOODON_03430158|effervescent tablet|C5578563|potassium phosphate, monobasic 500 mg oral tablet, effervescent
+# O|U>F|FOODON_03430161|soft gelatin capsule|C3153888|tozal softgel
 O|U>F|FOODON_03430162|food supplement powder|C0351466|aminogran food supplemnt powder 500g
 O|U>F|FOODON_03430162|food supplement powder|C0359408|aminogran food supplement powder
 O|U>F|FOODON_03430162|food supplement powder|C0547081|forceval protein powder 15g sachet
@@ -31645,357 +31645,357 @@ O|U>F|FOODON_03430165|liquid, supplement form|C5678755|nutritional supplement or
 O|U>F|FOODON_03430165|liquid, supplement form|C5678756|nutritional supplement oral liquid [glytrol]
 O|U>F|FOODON_03430165|liquid, supplement form|C5816160|nutritional supplement oral liquid [boost breeze 2]
 O|U>F|FOODON_03430165|liquid, supplement form|C5941791|nutritional supplement/fiber 0.03 gram-1 kcal/ml oral liquid (ml)
-O|U>F|FOODON_03430166|oral drops|C0976929|fibrad pwdr,oral
-O|U>F|FOODON_03430166|oral drops|C0981616|polycose pwdr,oral
-O|U>F|FOODON_03430166|oral drops|C0994807|promod pwdr,oral
-O|U>F|FOODON_03430166|oral drops|C1277005|oral impact
-O|U>F|FOODON_03430166|oral drops|C2608183|d-xylitol 300 3.3 gram/5 ml oral solution, oral
-O|U>F|FOODON_03430166|oral drops|C3696085|thickenup liq,oral
-O|U>F|FOODON_03430166|oral drops|C3819021|phenex-2 pwdr,oral
-O|U>F|FOODON_03430166|oral drops|C4518895|urea 15mg/pkt pwdr,oral
-O|U>F|FOODON_03430166|oral drops|C4519627|urea 15gm/pkt pwdr,oral
-O|U>F|FOODON_03430166|oral drops|C5833712|pku go oral packet
-O|U>F|FOODON_03430167|syrup food supplement|C3527945|jevity 1.2 cal 1500ml enteral suspension
-O|U>F|FOODON_03430167|syrup food supplement|C3530836|jevity 1.2 cal 1000ml enteral suspension
-O|U>F|FOODON_03430167|syrup food supplement|C4020044|isosource hn 1.2 cal enteral suspension
-O|U>F|FOODON_03430167|syrup food supplement|C4073401|jevity 1.2 cal 237ml enteral suspension
-O|U>F|FOODON_03430167|syrup food supplement|C4283166|nutricia neocate splash suspension
-O|U>F|FOODON_03430167|syrup food supplement|C4734171|pediasure grow & gain enteral suspension (s'mores)
-O|U>F|FOODON_03430167|syrup food supplement|C5917808|fibersource hn 1.2 cal enteral suspension
-O|U>F|FOODON_03430168|spray supplement|C0351580|supplement & complete feeds
-O|U>F|FOODON_03430168|spray supplement|C0351643|oral supplement - other
-O|U>F|FOODON_03430168|spray supplement|C0721124|iron supplement
-O|U>F|FOODON_03430168|spray supplement|C0778560|caloric supplement oral bar
-O|U>F|FOODON_03430168|spray supplement|C0780312|nutritional supplement oral solution, reconstituted, oral
-O|U>F|FOODON_03430168|spray supplement|C0786502|fat supplement, oral 50% oral emulsion
-O|U>F|FOODON_03430168|spray supplement|C1364257|protein supplement oral packet (ea)
-O|U>F|FOODON_03430168|spray supplement|C3661567|sulfur supplement
-O|U>F|FOODON_03430168|spray supplement|C3661597|molybdenum supplement
-O|U>F|FOODON_03430168|spray supplement|C3661598|manganese supplement
-O|U>F|FOODON_03430168|spray supplement|C3661599|iodine supplement
-O|U>F|FOODON_03430168|spray supplement|C3661601|cobalt supplement
-O|U>F|FOODON_03430168|spray supplement|C3661602|chromium supplement
-O|U>F|FOODON_03430168|spray supplement|C3661603|chloride supplement
-O|U>F|FOODON_03430168|spray supplement|C3661605|boron supplement
-O|U>F|FOODON_03430168|spray supplement|C3661612|thiamine supplement
-O|U>F|FOODON_03430168|spray supplement|C3661613|riboflavin supplement
-O|U>F|FOODON_03430168|spray supplement|C3661615|niacin supplement
-O|U>F|FOODON_03430168|spray supplement|C3661616|folate supplement
-O|U>F|FOODON_03430168|spray supplement|C3661617|biotin supplement
-O|U>F|FOODON_03430168|spray supplement|C3853185|standard pudding oral supplement
-O|U>F|FOODON_03430168|spray supplement|C4287704|chitin oligosaccharides supplement t-chos
-O|U>F|FOODON_03430168|spray supplement|C4289254|fructooligosaccharide supplement
-O|U>F|FOODON_03430168|spray supplement|C5420486|protopine/nuciferine supplement
-O|U>F|FOODON_03430168|spray supplement|C5855525|ginsenosides supplement
-O|U>F|FOODON_03430169|parenteral preparation|C0717967|parenteral nutrition solutions
-O|U>F|FOODON_03430169|parenteral preparation|C3825867|parenteral solutions
-O|U>F|FOODON_03430170|solution for injection|C2240712|tyrosine 1 gm/4 gm oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C2370159|potassium/sodium 100 mg/1 packet-200 mg/1 packet oral powder for solution [cerasport ex1]
-O|U>F|FOODON_03430170|solution for injection|C3185381|(spl review) potassium/sodium 100 mg/1 packet-200 mg/1 packet oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C3194580|glutamine 10 gm/1 packet oral powder for solution [sympt-x g.i.]
-O|U>F|FOODON_03430170|solution for injection|C3281722|potassium/sodium 40 mg/10.5 gm-115 mg/10.5 gm oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C3281736|potassium/sodium 38 mg/10.5 gm-100 mg/10.5 gm oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C3500146|potassium/sodium 80 mg/10.5 gm-115 mg/10.5 gm oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C4551017|urea 15 gm/1 packet oral powder for solution [ure-na]
-O|U>F|FOODON_03430170|solution for injection|C5442101|potassium/sodium 100 mg/6 gm-200 mg/6 gm oral powder for solution [cerasport ex1]
-O|U>F|FOODON_03430170|solution for injection|C5550211|urea 15 gm/1 packet oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C5561257|arginine 0.5 gm/4 gm oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C5561276|cystine 0.5 gm/4 gm oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C5561284|leucine 0.1 gm/4 gm oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C5561291|valine 50 mg/4 gm oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C5578653|potassium/sodium 160 mg/1 packet-400 mg/1 packet oral powder for solution [cerasport endurance]
-O|U>F|FOODON_03430170|solution for injection|C5578654|potassium/sodium 85 mg/1 packet-230 mg/1 packet oral powder for solution [cerasport plus]
-O|U>F|FOODON_03430170|solution for injection|C5578665|potassium/sodium 160 mg/1 packet-400 mg/1 packet oral powder for solution
-O|U>F|FOODON_03430170|solution for injection|C5578666|potassium/sodium 85 mg/1 packet-230 mg/1 packet oral powder for solution
-O|U>F|FOODON_03430171|solution for infusion|C3527990|parenteral nutrition solution amino acids 15% (novamine/plenamine) intravenous solution
-O|U>F|FOODON_03430171|solution for infusion|C4051331|dripdrop hydration electrolyte powder for solution (berry)
-O|U>F|FOODON_03430171|solution for infusion|C5709395|hydralyte electrolyte powder for solution (berry)
-O|U>F|FOODON_03430171|solution for infusion|C5919101|pedialyte electrolyte packets powder for solution
-O|U>F|FOODON_03430171|solution for infusion|C5941032|biolyte electrolyte powder for solution (citrus)
-O|U>F|FOODON_03430171|solution for infusion|C5941209|electrolytes oral powder for solution [biolyte electrolyte]
-O|U>F|FOODON_03430175|edible gel|C1876880|simplythick gel,oral
-O|U>F|FOODON_03430175|edible gel|C3505458|simplythick gel
-O|U>F|FOODON_03430175|edible gel|C4694371|simplythick gel,oral pkt,96gm
-O|U>F|FOODON_03430175|edible gel|C5195823|gel, multi ingredient oral gel/jelly [simplythick easymix]
-O|U>F|FOODON_03430175|edible gel|C5671746|glucose 15 g/31 g oral gel
-O|U>F|FOODON_03430176|gummy|C5777479|olly collagen gummy rings, peach bellini
-O|U>F|FOODON_03430176|gummy|C5833703|olly kids sleep gummies, razzzberry
-O|U>F|FOODON_03450012|cooking by moist heat|C3714303|moist food
-O|U>F|FOODON_03450013|cooking in water or water-based liquid|C4519908|water 99.9974 g in 100 l oral liquid [37.4]
-O|U>F|FOODON_03450013|cooking in water or water-based liquid|C4519909|water 99.9974 g in 100 ml oral liquid [37.4]
-O|U>F|FOODON_03450024|cooking with fat or oil|C0458149|compound cooking fat
-O|U>F|FOODON_03450024|cooking with fat or oil|C0458150|polyunsat compound cooking fat
-O|U>F|FOODON_03450043|double steaming|C0452746|double cream
-O|U>F|FOODON_03450043|double steaming|C3527936|vsl #3 double strength packet
-O|U>F|FOODON_03460101|lactic acid fermentation|C2946290|lactic acid bacteria pwd,oral
-O|U>F|FOODON_03460110|smoke concentrate|C0351485|maxamaid xp concentrate 200g
-O|U>F|FOODON_03460110|smoke concentrate|C0353717|xp-maxamaid concentrate 500g
-O|U>F|FOODON_03460110|smoke concentrate|C0359407|albumaid xp concentrate powder
-O|U>F|FOODON_03460110|smoke concentrate|C0726066|enfamil next step concentrate
-O|U>F|FOODON_03460110|smoke concentrate|C0727225|nutramigen concentrate
-O|U>F|FOODON_03460110|smoke concentrate|C0727663|rcf concentrate
-O|U>F|FOODON_03460110|smoke concentrate|C0727852|similac concentrate
-O|U>F|FOODON_03460110|smoke concentrate|C3853075|hickory smoke flavoring
-O|U>F|FOODON_03460113|water removal to reconstitution ratio 2 plus 1|C4694685|pedialyte advancedcare plus, oral powder for reconstitution
-O|U>F|FOODON_03460114|water removal to reconstitution ratio 1 plus 1|C5854319|redsenol-1 plus
-O|U>F|FOODON_03460173|food (salted)|C0453353|salted peanuts
-O|U>F|FOODON_03460181|iron added claim|C0725404|bonamil/iron
-O|U>F|FOODON_03460181|iron added claim|C0726058|enfamil iron
-O|U>F|FOODON_03460181|iron added claim|C0726060|enfamil iron 20
-O|U>F|FOODON_03460181|iron added claim|C0726061|enfamil iron 24
-O|U>F|FOODON_03460181|iron added claim|C0726062|enfamil iron rtu
-O|U>F|FOODON_03460181|iron added claim|C1967328|nutrtional tx for propionic acidemia without iron
-O|U>F|FOODON_03460181|iron added claim|C2348951|heme iron
-O|U>F|FOODON_03460181|iron added claim|C3892312|similac expert care 24 cal iron
-O|U>F|FOODON_03460194|nutrient or dietary substance addition process|C0452428|drink (dietary substance)
-O|U>F|FOODON_03460230|single component food fermentation|C0453853|single texture food
-O|U>F|FOODON_03460293|curing or aging 6 to 12 months|C5540081|elecare hmo 0-12 months
-O|U>F|FOODON_03460394|artificial chocolate flavoring added|C1949962|chocolate, natural & artificial flavor, conc
-O|U>F|FOODON_03460394|artificial chocolate flavoring added|C4058010|flavor pcca chocolate artificial (aldehyde base)
-O|U>F|FOODON_03460748|mammalian milk protein|C5242545|milk protein oral suspension [ensure max protein]
-O|U>F|FOODON_03460748|mammalian milk protein|C5242563|beta-hydroxyisovaleric acid/milk protein oral suspension [ensure enlive]
-O|U>F|FOODON_03460748|mammalian milk protein|C5242578|milk protein oral suspension
-O|U>F|FOODON_03460748|mammalian milk protein|C5242585|beta-hydroxyisovaleric acid/milk protein oral suspension
-O|U>F|FOODON_03460748|mammalian milk protein|C5440225|milk protein oral solution
-O|U>F|FOODON_03460748|mammalian milk protein|C5553670|milk protein 500 mg oral tablet [super amino 500]
-O|U>F|FOODON_03460748|mammalian milk protein|C5553712|milk protein 500 mg oral tablet
-O|U>F|FOODON_03460748|mammalian milk protein|C5889043|milk protein oral suspension [protality]
-O|U>F|FOODON_03460755|wheat malt|C0043137|wheat
-O|U>F|FOODON_03460755|wheat malt|C0458217|wheat crunchies
-O|U>F|FOODON_03460777|selenium added claim|C5242561|selenium/zinc oral suspension [ensure pre-surgery]
-O|U>F|FOODON_03460777|selenium added claim|C5242584|selenium/zinc oral suspension
-O|U>F|FOODON_03460778|chromium added claim|C4306482|fenamiphos 100 mg / cholecalciferol 800 [iu] / cyanocobalamin 2 mg / selenium 0.2 mg / chromium 0.2 mg / zinc sulfate 10 mg oral capsule
-O|U>F|FOODON_03460778|chromium added claim|C4317763|cholecalciferol/chromium/cyanocobalamin/pyridoxine/selenium/zinc sulfate 800 iu-0.2 mg-2 mg-100 mg-0.2 mg-10 mg oral capsule [t-support max]
-O|U>F|FOODON_03460847|taurine|C4703826|taurine 1 g in 100 g oral powder [lingtea]
-O|U>F|FOODON_03460848|guarana seed|C3256441|flavor strawberry guarana
-O|U>F|FOODON_03460848|guarana seed|C3257164|falvor strawberry guarana
-O|U>F|FOODON_03470130|freeze-drying|C4476024|electrolytes oral solution [pediatric electrolyte freeze pops]
-O|U>F|FOODON_03470132|food quick freezing|C5230811|quick service food
-O|U>F|FOODON_03470139|food dry salting|C1305741|dry food
-O|U>F|FOODON_03470157|food ultra-filtration|C0460360|ultra gf crackerbread
-O|U>F|FOODON_03470157|food ultra-filtration|C3152427|peptamen bariatric ultra
-O|U>F|FOODON_03470157|food ultra-filtration|C5564042|phenylade gpm ultra powder packet,33.4gm
-O|U>F|FOODON_03470157|food ultra-filtration|C5691322|food, ultra-processed
-O|U>F|FOODON_03480021|packed in vegetable oil|C0453630|cho cho fritter fried in vegetable oil
-O|U>F|FOODON_03480021|packed in vegetable oil|C0453636|coco fritter fried in vegetable oil
-O|U>F|FOODON_03480021|packed in vegetable oil|C0453769|vegebanger fried in vegetable oil
-O|U>F|FOODON_03480021|packed in vegetable oil|C0453773|vegeburger fried in vegetable oil
-O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0351596|clinifeed extra liquid 500ml
-O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0360610|clinifeed extra liquid
-O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0590839|nutrini extra liquid
-O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0593086|elemental 028 extra grapefruit liquid
-O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0593087|elemental 028 extra grapefruit liquid 250ml tetrapak
-O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0593088|elemental 028 extra summer fruits liquid
-O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0593089|elemental 028 extra summer fruits liquid 250ml tetrapak
-O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0732362|nutrini extra liquid 500ml
-O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C3537777|resource arginaid extra liquid wildberry
-O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C3864911|arginaid extra liquid wildberry
-O|U>F|FOODON_03480027|vacuum-packed|C5880276|vacuum-packed food
-O|U>F|FOODON_03480029|packed in vinegar|C0453051|cockles bottled in vinegar
-O|U>F|FOODON_03480031|packed in nitrogen|C4032913|fibersource high nitrogen spikeright
-O|U>F|FOODON_03480031|packed in nitrogen|C4032937|isosource high nitrogen spikeright+
-O|U>F|FOODON_03480033|packed in gravy or sauce, dairy or egg component|C0453358|dairy sauce
-O|U>F|FOODON_03490137|plastic shrink-pack|C1330735|ensure plus egg nog inst pack
-O|U>F|FOODON_03490144|laminate bag or pouch|C5241764|pouch,closed,sensura coloplast #10821
-O|U>F|FOODON_03490154|paperboard container with window|C5577126|glucerna with carbsteady 1.5 cal container
-O|U>F|FOODON_03490200|tube|C0979856|protain xl (k.d.s.)tube feeding,btl,1000ml
-O|U>F|FOODON_03490204|can (container)|C0353437|ensure plus liquid 250ml(can)
-O|U>F|FOODON_03490204|can (container)|C0725686|compleat formula modified can
-O|U>F|FOODON_03490204|can (container)|C0725687|compleat formula regular can
-O|U>F|FOODON_03490204|can (container)|C0727226|nutramigen powder can
-O|U>F|FOODON_03490204|can (container)|C0727536|portagen powder can
-O|U>F|FOODON_03490204|can (container)|C0977937|isocal liquid,can,240ml
-O|U>F|FOODON_03490204|can (container)|C0977938|isocal liquid,can,360ml
-O|U>F|FOODON_03490204|can (container)|C0977939|isocal liquid,can,960ml
-O|U>F|FOODON_03490204|can (container)|C0979858|protain xl tube feeding,can,250ml
-O|U>F|FOODON_03490207|capsule|C2709810|flavocoxid/zinc, chelated 250 mg-50 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C2709811|flavocoxid/zinc, chelated 500 mg-50 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C2912134|fosteum (obsolete), 200 intl units-27 mg-20 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C2963082|tyrosine 100 mg oral capsule [apptrim-d]
-O|U>F|FOODON_03490207|capsule|C2978273|choline 250 mg oral capsule [sentra pm]
-O|U>F|FOODON_03490207|capsule|C2979125|.gamma.-aminobutyric acid 100 mg oral capsule [theramine 90]
-O|U>F|FOODON_03490207|capsule|C2979701|choline 250 mg oral capsule [sentra pm 60]
-O|U>F|FOODON_03490207|capsule|C2980145|arginine 60 mg oral capsule [hypertensa]
-O|U>F|FOODON_03490207|capsule|C2980146|arginine 60 mg oral capsule [lister-v]
-O|U>F|FOODON_03490207|capsule|C2980147|arginine 90 mg oral capsule [hypertensa]
-O|U>F|FOODON_03490207|capsule|C2980148|choline 125 mg oral capsule [gabadone]
-O|U>F|FOODON_03490207|capsule|C2980458|histidine 50 mg oral capsule [trepadone 90]
-O|U>F|FOODON_03490207|capsule|C2980499|choline 250 mg oral capsule [sentra am]
-O|U>F|FOODON_03490207|capsule|C3190133|octacosanol oral capsule [germanium]
-O|U>F|FOODON_03490207|capsule|C3203010|flavocoxid 500 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C3498084|vayacog capsule
-O|U>F|FOODON_03490207|capsule|C3527935|vsl #3 capsule
-O|U>F|FOODON_03490207|capsule|C3537653|steviocalcitriol 113 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C3537986|l-methylfolate/schiXchytrium 7.5 mg-90.314 mg oral capsule [deplin 7.5]
-O|U>F|FOODON_03490207|capsule|C3554932|l-methylfolate 15 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C3554933|l-methylfolate 7.5 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C4256202|nutricia shs phlexy-10 capsule
-O|U>F|FOODON_03490207|capsule|C4318112|vsl#3, oral capsule
-O|U>F|FOODON_03490207|capsule|C4522546|oxalacetic acid 500 mg oral capsule [cronaxal]
-O|U>F|FOODON_03490207|capsule|C4522561|oxalacetic acid 500 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C4691620|vayarin 167mg capsule
-O|U>F|FOODON_03490207|capsule|C4691629|zytaze 50mg-1000mg capsule
-O|U>F|FOODON_03490207|capsule|C4734280|levomefolate calcium 15 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C5207171|levomefolate calcium 15 mg oral capsule [denovo]
-O|U>F|FOODON_03490207|capsule|C5241965|l-methylfolate 5 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C5443248|milkflow oral capsule
-O|U>F|FOODON_03490207|capsule|C5449287|pyridoxal phos/methyltetrahydrofolate gluc/mecobalamin/ala 35 mg-3 mg-2 mg oral capsule
-O|U>F|FOODON_03490207|capsule|C5698523|limbrel525 525mg-50mg capsule
-O|U>F|FOODON_03490207|capsule|C5704998|methyltetrahydrofolate calcium/mecobalamin 25,000 mcg dfe-2,000 mcg oral capsule
-O|U>F|FOODON_03490207|capsule|C5777184|neurophx dpn capsule
-O|U>F|FOODON_03490207|capsule|C5925820|levomefolate calcium 15 mg oral capsule [deplin fc]
-O|U>F|FOODON_03490207|capsule|C5925821|levomefolate calcium 7.5 mg oral capsule [deplin fc]
-O|U>F|FOODON_03490207|capsule|C5941282|levomefolate calcium 7.5 mg oral capsule
-O|U>F|FOODON_03490214|bottle|C0351595|ensure plus liquid 500ml(bottle)
-O|U>F|FOODON_03490214|bottle|C0727851|similac bottle
-O|U>F|FOODON_03490214|bottle|C0728654|water bottle baby
-O|U>F|FOODON_03490214|bottle|C0975615|choice dm liquid,bottle,1000ml
-O|U>F|FOODON_03490216|drawn can|C0728472|two cal hn
-O|U>F|FOODON_03490226|one component adhesive|C0727152|neocate one
-O|U>F|FOODON_03490226|one component adhesive|C0978922|neocate one+ pwdr
-O|U>F|FOODON_03490322|cellulose film|C1951712|nutriceutical oromucosal film
-O|U>F|FOODON_03490322|cellulose film|C3192076|nutriceutical oromucosal film [mellow-tone]
-O|U>F|FOODON_03490354|paper-paper combination|C2369084|antidiarrheal combination oral suspension [cesinex 80]
-O|U>F|FOODON_03490354|paper-paper combination|C2369092|antidiarrheal combination oral suspension [cesinex 50]
-O|U>F|FOODON_03490354|paper-paper combination|C2369093|antidiarrheal combination oral suspension [cesinex 100]
-O|U>F|FOODON_03490354|paper-paper combination|C2369095|antidiarrheal combination oral suspension [cesinex 150]
-O|U>F|FOODON_03490354|paper-paper combination|C2369096|antidiarrheal combination oral suspension [cesinex 20]
-O|U>F|FOODON_03490354|paper-paper combination|C2369097|antidiarrheal combination oral suspension [cesinex 25]
-O|U>F|FOODON_03490354|paper-paper combination|C2369098|antidiarrheal combination oral suspension [cesinex 30]
-O|U>F|FOODON_03490354|paper-paper combination|C2369099|antidiarrheal combination oral suspension [cesinex 35]
-O|U>F|FOODON_03490354|paper-paper combination|C2369100|antidiarrheal combination oral suspension [cesinex 40]
-O|U>F|FOODON_03490354|paper-paper combination|C2369101|antidiarrheal combination oral suspension [cesinex 60]
-O|U>F|FOODON_03490354|paper-paper combination|C2722647|antidiarrheal combination oral suspension [cesinex]
-O|U>F|FOODON_03490384|amin resin container|C0725105|amin-aid berry
-O|U>F|FOODON_03490384|amin resin container|C0725107|amin-aid orange
-O|U>F|FOODON_03490384|amin resin container|C0725108|amin-aid strawberry
-O|U>F|FOODON_03490403|polyethylene (low density) - polyethylene (low density) container|C1330863|similac low iron
-O|U>F|FOODON_03490411|bass fibre container|C0351603|nutrison fibre liquid 500ml
-O|U>F|FOODON_03490411|bass fibre container|C0351611|nutrison fibre liquid 1 litre
-O|U>F|FOODON_03490411|bass fibre container|C0359388|nutrison fibre liquid
-O|U>F|FOODON_03490411|bass fibre container|C0359389|nutrison fibre steriflo liquid
-O|U>F|FOODON_03490411|bass fibre container|C0475612|fruit 'n fibre
-O|U>F|FOODON_03490411|bass fibre container|C0595362|clinifeed fibre liquid
-O|U>F|FOODON_03490411|bass fibre container|C0595363|clinifeed fibre liquid 500ml
-O|U>F|FOODON_03490411|bass fibre container|C0595364|clinifeed fibre liquid 1 litre
-O|U>F|FOODON_03490411|bass fibre container|C0595371|clinifeed fibre
-O|U>F|FOODON_03490411|bass fibre container|C0732044|entera fibre plus
-O|U>F|FOODON_03490411|bass fibre container|C1276991|sondalis fibre
-O|U>F|FOODON_03490411|bass fibre container|C1276999|fortisip multi fibre
-O|U>F|FOODON_03490411|bass fibre container|C1277001|nutrison multi fibre
-O|U>F|FOODON_03490411|bass fibre container|C3896959|fortimel compact fibre
-O|U>F|FOODON_03490419|boil-in bag|C4704041|liquid in bag, enfit (ml)
-O|U>F|FOODON_03500014|beer beverage can enamel surface|C0974809|beer,can,360ml
-O|U>F|FOODON_03500044|food-grade steel surface|C1698698|vivonex rtf, hospital
-O|U>F|FOODON_03510011|food fish as consumer|C2349190|fish as human food
-O|U>F|FOODON_03510020|infant or toddler as food consumer|C3853218|toddler food
-O|U>F|FOODON_03510023|dietary claim|C0013709|yolk proteins, dietary
-O|U>F|FOODON_03510023|dietary claim|C0376597|dietary sucrose
-O|U>F|FOODON_03510023|dietary claim|C0598291|dietary residue
-O|U>F|FOODON_03510023|dietary claim|C3661563|dietary fluid
-O|U>F|FOODON_03510023|dietary claim|C5231030|special dietary food
-O|U>F|FOODON_03510033|low energy food claim|C0453838|low energy food
-O|U>F|FOODON_03510038|low salt or sodium claim|C0460286|low salt food
-O|U>F|FOODON_03510039|low fat food|C0452814|low fat yogurt
-O|U>F|FOODON_03510039|low fat food|C0452940|low fat liver pate
-O|U>F|FOODON_03510039|low fat food|C0452947|low fat sausage
-O|U>F|FOODON_03510039|low fat food|C0453421|low fat potato chips
-O|U>F|FOODON_03510039|low fat food|C0453840|low polyunsaturated fat food
-O|U>F|FOODON_03510039|low fat food|C0453842|low risk food
-O|U>F|FOODON_03510039|low fat food|C0459132|low potassium food
-O|U>F|FOODON_03510039|low fat food|C0475619|flavored low fat yoghurt
-O|U>F|FOODON_03510039|low fat food|C0475638|low glycemic index food
-O|U>F|FOODON_03510039|low fat food|C1277010|other low protein food
-O|U>F|FOODON_03510039|low fat food|C3661663|low trans fat food
-O|U>F|FOODON_03510039|low fat food|C3661664|low monounsaturated fat food
-O|U>F|FOODON_03510042|cholesterol free claim|C0727477|phenyl-free
-O|U>F|FOODON_03510042|cholesterol free claim|C3265303|nut.tx., metabolic disorder, leucine-free
-O|U>F|FOODON_03510043|low in cholesterol claim|C3661659|low cholesterol food
-O|U>F|FOODON_03510048|high fiber food|C0453830|high calcium food
-O|U>F|FOODON_03510048|high fiber food|C0453832|high phytate food
-O|U>F|FOODON_03510048|high fiber food|C0453833|high risk food
-O|U>F|FOODON_03510048|high fiber food|C0475634|high soluble fiber food
-O|U>F|FOODON_03510048|high fiber food|C0475635|high insoluble fiber food
-O|U>F|FOODON_03510048|high fiber food|C0475636|high glycemic index food
-O|U>F|FOODON_03510048|high fiber food|C0976925|fibermed high-fiber miniature fruit
-O|U>F|FOODON_03510048|high fiber food|C0976926|fibermed high-fiber supplement fruit
-O|U>F|FOODON_03510048|high fiber food|C3714323|high energy enteral formula with fiber
-O|U>F|FOODON_03510048|high fiber food|C3853251|pediatric high energy formula with increased fiber
-O|U>F|FOODON_03510048|high fiber food|C3853298|adult high protein high fiber formula
-O|U>F|FOODON_03510054|fat free food|C0475860|food coloring-free food
-O|U>F|FOODON_03510056|sugars free food|C0376596|dietary sugars
-O|U>F|FOODON_03510057|low in saturated fat food|C0453841|low saturated fat food
-O|U>F|FOODON_03510060|high energy food claim|C0351605|liquisorb high energy liquid 500ml
-O|U>F|FOODON_03510060|high energy food claim|C0353238|fresubin high energy strawberry liquid 236ml
-O|U>F|FOODON_03510060|high energy food claim|C0359377|fresubin high energy neutral liquid
-O|U>F|FOODON_03510060|high energy food claim|C0359383|liquisorb high energy liquid
-O|U>F|FOODON_03510060|high energy food claim|C0361624|fresubin high energy neutral liquid 500ml
-O|U>F|FOODON_03510060|high energy food claim|C0453831|high energy food
-O|U>F|FOODON_03510060|high energy food claim|C0542720|fresubin high energy vanilla liquid 236ml
-O|U>F|FOODON_03510060|high energy food claim|C0595893|fresubin high energy strawberry liquid
-O|U>F|FOODON_03510060|high energy food claim|C0595894|fresubin high energy vanilla liquid
-O|U>F|FOODON_03510060|high energy food claim|C2224421|high energy enteral formula
-O|U>F|FOODON_03510060|high energy food claim|C3853228|pediatric high energy hydrolyzed protein formula
-O|U>F|FOODON_03510060|high energy food claim|C3853252|pediatric high energy formula
-O|U>F|FOODON_03510060|high energy food claim|C3853258|high energy formula
-O|U>F|FOODON_03510060|high energy food claim|C3853302|adult high energy formula
-O|U>F|FOODON_03510063|low fiber food|C3661660|low insoluble fiber food
-O|U>F|FOODON_03510063|low fiber food|C3661661|low soluble fiber food
-O|U>F|FOODON_03510065|nutrition-related claim|C0351346|parenteral form nutrition a - f
-O|U>F|FOODON_03510065|nutrition-related claim|C0351369|parenteral form nutrition g - n
-O|U>F|FOODON_03510065|nutrition-related claim|C0351392|parenteral form nutrition o - z
-O|U>F|FOODON_03510065|nutrition-related claim|C0726371|glucerna special nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C0876398|nepro nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C1656465|nubasics complete nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C1875856|vital high nitrogen enteral nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C4059197|pulmocare therapeutic nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C4059203|perative specialized nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C4059205|oxepa therapeutic nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C4059213|juven nutrition powder
-O|U>F|FOODON_03510065|nutrition-related claim|C4306050|oxepa 1.5 cal therapeutic nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C4477446|ensure original therapeutic nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C4477447|ensure plus therapeutic nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C4490154|core essentials peptide 1.5 cal/ml total nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C4490247|suplena with carb steady therapeutic nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C5195695|kate farms peptide 1.5 cal/ml nutrition
-O|U>F|FOODON_03510065|nutrition-related claim|C5389958|phenex-2 nutrition powder
-O|U>F|FOODON_03510065|nutrition-related claim|C5389986|cyclinex-2 nutrition powder
-O|U>F|FOODON_03510065|nutrition-related claim|C5389991|ketonex-2 nutrition powder
-O|U>F|FOODON_03510065|nutrition-related claim|C5389992|hominex-2 nutrition powder
-O|U>F|FOODON_03510065|nutrition-related claim|C5389999|propimex-2 nutrition powder
-O|U>F|FOODON_03510065|nutrition-related claim|C5423466|glutarex-2 nutrition powder
-O|U>F|FOODON_03510065|nutrition-related claim|C5424127|i-valex-2 nutrition powder
-O|U>F|FOODON_03510065|nutrition-related claim|C5424130|tyrex-2 nutrition powder
-O|U>F|FOODON_03510066|no or reduced energy claim|C0726748|isosource 1.5 calories
-O|U>F|FOODON_03510066|no or reduced energy claim|C0727555|pregestimil 20 calories
-O|U>F|FOODON_03510066|no or reduced energy claim|C0727556|pregestimil 24 calories
-O|U>F|FOODON_03510066|no or reduced energy claim|C4032940|isosource 1.5 calories spikeright
-O|U>F|FOODON_03510071|saturated fat-related claim|C0597423|saturated fat
-O|U>F|FOODON_03510071|saturated fat-related claim|C0682953|saturated dietary fat
-O|U>F|FOODON_03510075|rich in fiber claim|C0259838|fiber in human nutrition
-O|U>F|FOODON_03510093|no modified food starch added claim|C0982167|food starch,modified
-O|U>F|FOODON_03510093|no modified food starch added claim|C3644818|food starch, modified oral powder [thick-it 2]
-O|U>F|FOODON_03510093|no modified food starch added claim|C4529979|food starch, modified/maltodextrin oral powder
-O|U>F|FOODON_03510093|no modified food starch added claim|C5195828|food starch, modified/maltodextrin oral powder [thick-it instant food and beverage thickener pc]
-O|U>F|FOODON_03510100|no artificial flavors claim|C1655989|vari-flavors
-O|U>F|FOODON_03510102|no flavor added claim|C3247440|bitter mask flavor combination no.2
-O|U>F|FOODON_03510102|no flavor added claim|C3247467|bitter mask flavor combination no.1
-O|U>F|FOODON_03510102|no flavor added claim|C3247505|bitter mask flavor combination no.2 miscell powder (gram)
-O|U>F|FOODON_03510102|no flavor added claim|C5455444|bitter mask flavor combination no.3
-O|U>F|FOODON_03510102|no flavor added claim|C5884876|bitter mask flavor combination no.4
-O|U>F|FOODON_03510104|no artificial sweeteners claim|C0003920|artificial sweeteners
-O|U>F|FOODON_03510108|no artificial additives claim|C0497998|parenteral nutrition; additives (vitamins, trace elements, heparin, electrolytes), home mix, per day
-O|U>F|FOODON_03510114|no preservatives claim|C1950645|nut.therapy, phenylketonuria (pku), no.22
-O|U>F|FOODON_03510114|no preservatives claim|C1950646|nut.therapy, phenylketonuria (pku), no.23
-O|U>F|FOODON_03510114|no preservatives claim|C1962824|nut.therapy, phenylketonuria (pku), no.24
-O|U>F|FOODON_03510114|no preservatives claim|C2683080|nut.therapy, phenylketonuria (pku), no.38
-O|U>F|FOODON_03510114|no preservatives claim|C3204985|nut.therapy, phenylketonuria (pku), no.46
-O|U>F|FOODON_03510114|no preservatives claim|C3473328|nut.therapy, phenylketonuria (pku) no.49
-O|U>F|FOODON_03510114|no preservatives claim|C4291380|nut.therapy, phenylketonuria (pku), no.63
-O|U>F|FOODON_03510124|health-related claim|C4019924|ensure active high prot for musc health choc
-O|U>F|FOODON_03510124|health-related claim|C4019925|ensure active high prot for musc health van
-O|U>F|FOODON_03510128|organic food claim|C0282678|food, organic
-O|U>F|FOODON_03510170|lactose reduced food|C0359190|lactose intolerance food
+# O|U>F|FOODON_03430166|oral drops|C0976929|fibrad pwdr,oral
+# O|U>F|FOODON_03430166|oral drops|C0981616|polycose pwdr,oral
+# O|U>F|FOODON_03430166|oral drops|C0994807|promod pwdr,oral
+# O|U>F|FOODON_03430166|oral drops|C1277005|oral impact
+# O|U>F|FOODON_03430166|oral drops|C2608183|d-xylitol 300 3.3 gram/5 ml oral solution, oral
+# O|U>F|FOODON_03430166|oral drops|C3696085|thickenup liq,oral
+# O|U>F|FOODON_03430166|oral drops|C3819021|phenex-2 pwdr,oral
+# O|U>F|FOODON_03430166|oral drops|C4518895|urea 15mg/pkt pwdr,oral
+# O|U>F|FOODON_03430166|oral drops|C4519627|urea 15gm/pkt pwdr,oral
+# O|U>F|FOODON_03430166|oral drops|C5833712|pku go oral packet
+# O|U>F|FOODON_03430167|syrup food supplement|C3527945|jevity 1.2 cal 1500ml enteral suspension
+# O|U>F|FOODON_03430167|syrup food supplement|C3530836|jevity 1.2 cal 1000ml enteral suspension
+# O|U>F|FOODON_03430167|syrup food supplement|C4020044|isosource hn 1.2 cal enteral suspension
+# O|U>F|FOODON_03430167|syrup food supplement|C4073401|jevity 1.2 cal 237ml enteral suspension
+# O|U>F|FOODON_03430167|syrup food supplement|C4283166|nutricia neocate splash suspension
+# O|U>F|FOODON_03430167|syrup food supplement|C4734171|pediasure grow & gain enteral suspension (s'mores)
+# O|U>F|FOODON_03430167|syrup food supplement|C5917808|fibersource hn 1.2 cal enteral suspension
+# O|U>F|FOODON_03430168|spray supplement|C0351580|supplement & complete feeds
+# O|U>F|FOODON_03430168|spray supplement|C0351643|oral supplement - other
+# O|U>F|FOODON_03430168|spray supplement|C0721124|iron supplement
+# O|U>F|FOODON_03430168|spray supplement|C0778560|caloric supplement oral bar
+# O|U>F|FOODON_03430168|spray supplement|C0780312|nutritional supplement oral solution, reconstituted, oral
+# O|U>F|FOODON_03430168|spray supplement|C0786502|fat supplement, oral 50% oral emulsion
+# O|U>F|FOODON_03430168|spray supplement|C1364257|protein supplement oral packet (ea)
+# O|U>F|FOODON_03430168|spray supplement|C3661567|sulfur supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661597|molybdenum supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661598|manganese supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661599|iodine supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661601|cobalt supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661602|chromium supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661603|chloride supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661605|boron supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661612|thiamine supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661613|riboflavin supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661615|niacin supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661616|folate supplement
+# O|U>F|FOODON_03430168|spray supplement|C3661617|biotin supplement
+# O|U>F|FOODON_03430168|spray supplement|C3853185|standard pudding oral supplement
+# O|U>F|FOODON_03430168|spray supplement|C4287704|chitin oligosaccharides supplement t-chos
+# O|U>F|FOODON_03430168|spray supplement|C4289254|fructooligosaccharide supplement
+# O|U>F|FOODON_03430168|spray supplement|C5420486|protopine/nuciferine supplement
+# O|U>F|FOODON_03430168|spray supplement|C5855525|ginsenosides supplement
+# O|U>F|FOODON_03430169|parenteral preparation|C0717967|parenteral nutrition solutions
+# O|U>F|FOODON_03430169|parenteral preparation|C3825867|parenteral solutions
+# O|U>F|FOODON_03430170|solution for injection|C2240712|tyrosine 1 gm/4 gm oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C2370159|potassium/sodium 100 mg/1 packet-200 mg/1 packet oral powder for solution [cerasport ex1]
+# O|U>F|FOODON_03430170|solution for injection|C3185381|(spl review) potassium/sodium 100 mg/1 packet-200 mg/1 packet oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C3194580|glutamine 10 gm/1 packet oral powder for solution [sympt-x g.i.]
+# O|U>F|FOODON_03430170|solution for injection|C3281722|potassium/sodium 40 mg/10.5 gm-115 mg/10.5 gm oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C3281736|potassium/sodium 38 mg/10.5 gm-100 mg/10.5 gm oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C3500146|potassium/sodium 80 mg/10.5 gm-115 mg/10.5 gm oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C4551017|urea 15 gm/1 packet oral powder for solution [ure-na]
+# O|U>F|FOODON_03430170|solution for injection|C5442101|potassium/sodium 100 mg/6 gm-200 mg/6 gm oral powder for solution [cerasport ex1]
+# O|U>F|FOODON_03430170|solution for injection|C5550211|urea 15 gm/1 packet oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C5561257|arginine 0.5 gm/4 gm oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C5561276|cystine 0.5 gm/4 gm oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C5561284|leucine 0.1 gm/4 gm oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C5561291|valine 50 mg/4 gm oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C5578653|potassium/sodium 160 mg/1 packet-400 mg/1 packet oral powder for solution [cerasport endurance]
+# O|U>F|FOODON_03430170|solution for injection|C5578654|potassium/sodium 85 mg/1 packet-230 mg/1 packet oral powder for solution [cerasport plus]
+# O|U>F|FOODON_03430170|solution for injection|C5578665|potassium/sodium 160 mg/1 packet-400 mg/1 packet oral powder for solution
+# O|U>F|FOODON_03430170|solution for injection|C5578666|potassium/sodium 85 mg/1 packet-230 mg/1 packet oral powder for solution
+# O|U>F|FOODON_03430171|solution for infusion|C3527990|parenteral nutrition solution amino acids 15% (novamine/plenamine) intravenous solution
+# O|U>F|FOODON_03430171|solution for infusion|C4051331|dripdrop hydration electrolyte powder for solution (berry)
+# O|U>F|FOODON_03430171|solution for infusion|C5709395|hydralyte electrolyte powder for solution (berry)
+# O|U>F|FOODON_03430171|solution for infusion|C5919101|pedialyte electrolyte packets powder for solution
+# O|U>F|FOODON_03430171|solution for infusion|C5941032|biolyte electrolyte powder for solution (citrus)
+# O|U>F|FOODON_03430171|solution for infusion|C5941209|electrolytes oral powder for solution [biolyte electrolyte]
+# O|U>F|FOODON_03430175|edible gel|C1876880|simplythick gel,oral
+# O|U>F|FOODON_03430175|edible gel|C3505458|simplythick gel
+# O|U>F|FOODON_03430175|edible gel|C4694371|simplythick gel,oral pkt,96gm
+# O|U>F|FOODON_03430175|edible gel|C5195823|gel, multi ingredient oral gel/jelly [simplythick easymix]
+# O|U>F|FOODON_03430175|edible gel|C5671746|glucose 15 g/31 g oral gel
+# O|U>F|FOODON_03430176|gummy|C5777479|olly collagen gummy rings, peach bellini
+# O|U>F|FOODON_03430176|gummy|C5833703|olly kids sleep gummies, razzzberry
+# O|U>F|FOODON_03450012|cooking by moist heat|C3714303|moist food
+# O|U>F|FOODON_03450013|cooking in water or water-based liquid|C4519908|water 99.9974 g in 100 l oral liquid [37.4]
+# O|U>F|FOODON_03450013|cooking in water or water-based liquid|C4519909|water 99.9974 g in 100 ml oral liquid [37.4]
+# O|U>F|FOODON_03450024|cooking with fat or oil|C0458149|compound cooking fat
+# O|U>F|FOODON_03450024|cooking with fat or oil|C0458150|polyunsat compound cooking fat
+# O|U>F|FOODON_03450043|double steaming|C0452746|double cream
+# O|U>F|FOODON_03450043|double steaming|C3527936|vsl #3 double strength packet
+# O|U>F|FOODON_03460101|lactic acid fermentation|C2946290|lactic acid bacteria pwd,oral
+# O|U>F|FOODON_03460110|smoke concentrate|C0351485|maxamaid xp concentrate 200g
+# O|U>F|FOODON_03460110|smoke concentrate|C0353717|xp-maxamaid concentrate 500g
+# O|U>F|FOODON_03460110|smoke concentrate|C0359407|albumaid xp concentrate powder
+# O|U>F|FOODON_03460110|smoke concentrate|C0726066|enfamil next step concentrate
+# O|U>F|FOODON_03460110|smoke concentrate|C0727225|nutramigen concentrate
+# O|U>F|FOODON_03460110|smoke concentrate|C0727663|rcf concentrate
+# O|U>F|FOODON_03460110|smoke concentrate|C0727852|similac concentrate
+# O|U>F|FOODON_03460110|smoke concentrate|C3853075|hickory smoke flavoring
+# O|U>F|FOODON_03460113|water removal to reconstitution ratio 2 plus 1|C4694685|pedialyte advancedcare plus, oral powder for reconstitution
+# O|U>F|FOODON_03460114|water removal to reconstitution ratio 1 plus 1|C5854319|redsenol-1 plus
+# O|U>F|FOODON_03460173|food (salted)|C0453353|salted peanuts
+# O|U>F|FOODON_03460181|iron added claim|C0725404|bonamil/iron
+# O|U>F|FOODON_03460181|iron added claim|C0726058|enfamil iron
+# O|U>F|FOODON_03460181|iron added claim|C0726060|enfamil iron 20
+# O|U>F|FOODON_03460181|iron added claim|C0726061|enfamil iron 24
+# O|U>F|FOODON_03460181|iron added claim|C0726062|enfamil iron rtu
+# O|U>F|FOODON_03460181|iron added claim|C1967328|nutrtional tx for propionic acidemia without iron
+# O|U>F|FOODON_03460181|iron added claim|C2348951|heme iron
+# O|U>F|FOODON_03460181|iron added claim|C3892312|similac expert care 24 cal iron
+# O|U>F|FOODON_03460194|nutrient or dietary substance addition process|C0452428|drink (dietary substance)
+# O|U>F|FOODON_03460230|single component food fermentation|C0453853|single texture food
+# O|U>F|FOODON_03460293|curing or aging 6 to 12 months|C5540081|elecare hmo 0-12 months
+# O|U>F|FOODON_03460394|artificial chocolate flavoring added|C1949962|chocolate, natural & artificial flavor, conc
+# O|U>F|FOODON_03460394|artificial chocolate flavoring added|C4058010|flavor pcca chocolate artificial (aldehyde base)
+# O|U>F|FOODON_03460748|mammalian milk protein|C5242545|milk protein oral suspension [ensure max protein]
+# O|U>F|FOODON_03460748|mammalian milk protein|C5242563|beta-hydroxyisovaleric acid/milk protein oral suspension [ensure enlive]
+# O|U>F|FOODON_03460748|mammalian milk protein|C5242578|milk protein oral suspension
+# O|U>F|FOODON_03460748|mammalian milk protein|C5242585|beta-hydroxyisovaleric acid/milk protein oral suspension
+# O|U>F|FOODON_03460748|mammalian milk protein|C5440225|milk protein oral solution
+# O|U>F|FOODON_03460748|mammalian milk protein|C5553670|milk protein 500 mg oral tablet [super amino 500]
+# O|U>F|FOODON_03460748|mammalian milk protein|C5553712|milk protein 500 mg oral tablet
+# O|U>F|FOODON_03460748|mammalian milk protein|C5889043|milk protein oral suspension [protality]
+# O|U>F|FOODON_03460755|wheat malt|C0043137|wheat
+# O|U>F|FOODON_03460755|wheat malt|C0458217|wheat crunchies
+# O|U>F|FOODON_03460777|selenium added claim|C5242561|selenium/zinc oral suspension [ensure pre-surgery]
+# O|U>F|FOODON_03460777|selenium added claim|C5242584|selenium/zinc oral suspension
+# O|U>F|FOODON_03460778|chromium added claim|C4306482|fenamiphos 100 mg / cholecalciferol 800 [iu] / cyanocobalamin 2 mg / selenium 0.2 mg / chromium 0.2 mg / zinc sulfate 10 mg oral capsule
+# O|U>F|FOODON_03460778|chromium added claim|C4317763|cholecalciferol/chromium/cyanocobalamin/pyridoxine/selenium/zinc sulfate 800 iu-0.2 mg-2 mg-100 mg-0.2 mg-10 mg oral capsule [t-support max]
+# O|U>F|FOODON_03460847|taurine|C4703826|taurine 1 g in 100 g oral powder [lingtea]
+# O|U>F|FOODON_03460848|guarana seed|C3256441|flavor strawberry guarana
+# O|U>F|FOODON_03460848|guarana seed|C3257164|falvor strawberry guarana
+# O|U>F|FOODON_03470130|freeze-drying|C4476024|electrolytes oral solution [pediatric electrolyte freeze pops]
+# O|U>F|FOODON_03470132|food quick freezing|C5230811|quick service food
+# O|U>F|FOODON_03470139|food dry salting|C1305741|dry food
+# O|U>F|FOODON_03470157|food ultra-filtration|C0460360|ultra gf crackerbread
+# O|U>F|FOODON_03470157|food ultra-filtration|C3152427|peptamen bariatric ultra
+# O|U>F|FOODON_03470157|food ultra-filtration|C5564042|phenylade gpm ultra powder packet,33.4gm
+# O|U>F|FOODON_03470157|food ultra-filtration|C5691322|food, ultra-processed
+# O|U>F|FOODON_03480021|packed in vegetable oil|C0453630|cho cho fritter fried in vegetable oil
+# O|U>F|FOODON_03480021|packed in vegetable oil|C0453636|coco fritter fried in vegetable oil
+# O|U>F|FOODON_03480021|packed in vegetable oil|C0453769|vegebanger fried in vegetable oil
+# O|U>F|FOODON_03480021|packed in vegetable oil|C0453773|vegeburger fried in vegetable oil
+# O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0351596|clinifeed extra liquid 500ml
+# O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0360610|clinifeed extra liquid
+# O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0590839|nutrini extra liquid
+# O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0593086|elemental 028 extra grapefruit liquid
+# O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0593087|elemental 028 extra grapefruit liquid 250ml tetrapak
+# O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0593088|elemental 028 extra summer fruits liquid
+# O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0593089|elemental 028 extra summer fruits liquid 250ml tetrapak
+# O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C0732362|nutrini extra liquid 500ml
+# O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C3537777|resource arginaid extra liquid wildberry
+# O|U>F|FOODON_03480024|packed in extra heavily sweetened liquid|C3864911|arginaid extra liquid wildberry
+# O|U>F|FOODON_03480027|vacuum-packed|C5880276|vacuum-packed food
+# O|U>F|FOODON_03480029|packed in vinegar|C0453051|cockles bottled in vinegar
+# O|U>F|FOODON_03480031|packed in nitrogen|C4032913|fibersource high nitrogen spikeright
+# O|U>F|FOODON_03480031|packed in nitrogen|C4032937|isosource high nitrogen spikeright+
+# O|U>F|FOODON_03480033|packed in gravy or sauce, dairy or egg component|C0453358|dairy sauce
+# O|U>F|FOODON_03490137|plastic shrink-pack|C1330735|ensure plus egg nog inst pack
+# O|U>F|FOODON_03490144|laminate bag or pouch|C5241764|pouch,closed,sensura coloplast #10821
+# O|U>F|FOODON_03490154|paperboard container with window|C5577126|glucerna with carbsteady 1.5 cal container
+# O|U>F|FOODON_03490200|tube|C0979856|protain xl (k.d.s.)tube feeding,btl,1000ml
+# O|U>F|FOODON_03490204|can (container)|C0353437|ensure plus liquid 250ml(can)
+# O|U>F|FOODON_03490204|can (container)|C0725686|compleat formula modified can
+# O|U>F|FOODON_03490204|can (container)|C0725687|compleat formula regular can
+# O|U>F|FOODON_03490204|can (container)|C0727226|nutramigen powder can
+# O|U>F|FOODON_03490204|can (container)|C0727536|portagen powder can
+# O|U>F|FOODON_03490204|can (container)|C0977937|isocal liquid,can,240ml
+# O|U>F|FOODON_03490204|can (container)|C0977938|isocal liquid,can,360ml
+# O|U>F|FOODON_03490204|can (container)|C0977939|isocal liquid,can,960ml
+# O|U>F|FOODON_03490204|can (container)|C0979858|protain xl tube feeding,can,250ml
+# O|U>F|FOODON_03490207|capsule|C2709810|flavocoxid/zinc, chelated 250 mg-50 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C2709811|flavocoxid/zinc, chelated 500 mg-50 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C2912134|fosteum (obsolete), 200 intl units-27 mg-20 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C2963082|tyrosine 100 mg oral capsule [apptrim-d]
+# O|U>F|FOODON_03490207|capsule|C2978273|choline 250 mg oral capsule [sentra pm]
+# O|U>F|FOODON_03490207|capsule|C2979125|.gamma.-aminobutyric acid 100 mg oral capsule [theramine 90]
+# O|U>F|FOODON_03490207|capsule|C2979701|choline 250 mg oral capsule [sentra pm 60]
+# O|U>F|FOODON_03490207|capsule|C2980145|arginine 60 mg oral capsule [hypertensa]
+# O|U>F|FOODON_03490207|capsule|C2980146|arginine 60 mg oral capsule [lister-v]
+# O|U>F|FOODON_03490207|capsule|C2980147|arginine 90 mg oral capsule [hypertensa]
+# O|U>F|FOODON_03490207|capsule|C2980148|choline 125 mg oral capsule [gabadone]
+# O|U>F|FOODON_03490207|capsule|C2980458|histidine 50 mg oral capsule [trepadone 90]
+# O|U>F|FOODON_03490207|capsule|C2980499|choline 250 mg oral capsule [sentra am]
+# O|U>F|FOODON_03490207|capsule|C3190133|octacosanol oral capsule [germanium]
+# O|U>F|FOODON_03490207|capsule|C3203010|flavocoxid 500 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C3498084|vayacog capsule
+# O|U>F|FOODON_03490207|capsule|C3527935|vsl #3 capsule
+# O|U>F|FOODON_03490207|capsule|C3537653|steviocalcitriol 113 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C3537986|l-methylfolate/schiXchytrium 7.5 mg-90.314 mg oral capsule [deplin 7.5]
+# O|U>F|FOODON_03490207|capsule|C3554932|l-methylfolate 15 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C3554933|l-methylfolate 7.5 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C4256202|nutricia shs phlexy-10 capsule
+# O|U>F|FOODON_03490207|capsule|C4318112|vsl#3, oral capsule
+# O|U>F|FOODON_03490207|capsule|C4522546|oxalacetic acid 500 mg oral capsule [cronaxal]
+# O|U>F|FOODON_03490207|capsule|C4522561|oxalacetic acid 500 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C4691620|vayarin 167mg capsule
+# O|U>F|FOODON_03490207|capsule|C4691629|zytaze 50mg-1000mg capsule
+# O|U>F|FOODON_03490207|capsule|C4734280|levomefolate calcium 15 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C5207171|levomefolate calcium 15 mg oral capsule [denovo]
+# O|U>F|FOODON_03490207|capsule|C5241965|l-methylfolate 5 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C5443248|milkflow oral capsule
+# O|U>F|FOODON_03490207|capsule|C5449287|pyridoxal phos/methyltetrahydrofolate gluc/mecobalamin/ala 35 mg-3 mg-2 mg oral capsule
+# O|U>F|FOODON_03490207|capsule|C5698523|limbrel525 525mg-50mg capsule
+# O|U>F|FOODON_03490207|capsule|C5704998|methyltetrahydrofolate calcium/mecobalamin 25,000 mcg dfe-2,000 mcg oral capsule
+# O|U>F|FOODON_03490207|capsule|C5777184|neurophx dpn capsule
+# O|U>F|FOODON_03490207|capsule|C5925820|levomefolate calcium 15 mg oral capsule [deplin fc]
+# O|U>F|FOODON_03490207|capsule|C5925821|levomefolate calcium 7.5 mg oral capsule [deplin fc]
+# O|U>F|FOODON_03490207|capsule|C5941282|levomefolate calcium 7.5 mg oral capsule
+# O|U>F|FOODON_03490214|bottle|C0351595|ensure plus liquid 500ml(bottle)
+# O|U>F|FOODON_03490214|bottle|C0727851|similac bottle
+# O|U>F|FOODON_03490214|bottle|C0728654|water bottle baby
+# O|U>F|FOODON_03490214|bottle|C0975615|choice dm liquid,bottle,1000ml
+# O|U>F|FOODON_03490216|drawn can|C0728472|two cal hn
+# O|U>F|FOODON_03490226|one component adhesive|C0727152|neocate one
+# O|U>F|FOODON_03490226|one component adhesive|C0978922|neocate one+ pwdr
+# O|U>F|FOODON_03490322|cellulose film|C1951712|nutriceutical oromucosal film
+# O|U>F|FOODON_03490322|cellulose film|C3192076|nutriceutical oromucosal film [mellow-tone]
+# O|U>F|FOODON_03490354|paper-paper combination|C2369084|antidiarrheal combination oral suspension [cesinex 80]
+# O|U>F|FOODON_03490354|paper-paper combination|C2369092|antidiarrheal combination oral suspension [cesinex 50]
+# O|U>F|FOODON_03490354|paper-paper combination|C2369093|antidiarrheal combination oral suspension [cesinex 100]
+# O|U>F|FOODON_03490354|paper-paper combination|C2369095|antidiarrheal combination oral suspension [cesinex 150]
+# O|U>F|FOODON_03490354|paper-paper combination|C2369096|antidiarrheal combination oral suspension [cesinex 20]
+# O|U>F|FOODON_03490354|paper-paper combination|C2369097|antidiarrheal combination oral suspension [cesinex 25]
+# O|U>F|FOODON_03490354|paper-paper combination|C2369098|antidiarrheal combination oral suspension [cesinex 30]
+# O|U>F|FOODON_03490354|paper-paper combination|C2369099|antidiarrheal combination oral suspension [cesinex 35]
+# O|U>F|FOODON_03490354|paper-paper combination|C2369100|antidiarrheal combination oral suspension [cesinex 40]
+# O|U>F|FOODON_03490354|paper-paper combination|C2369101|antidiarrheal combination oral suspension [cesinex 60]
+# O|U>F|FOODON_03490354|paper-paper combination|C2722647|antidiarrheal combination oral suspension [cesinex]
+# O|U>F|FOODON_03490384|amin resin container|C0725105|amin-aid berry
+# O|U>F|FOODON_03490384|amin resin container|C0725107|amin-aid orange
+# O|U>F|FOODON_03490384|amin resin container|C0725108|amin-aid strawberry
+# O|U>F|FOODON_03490403|polyethylene (low density) - polyethylene (low density) container|C1330863|similac low iron
+# O|U>F|FOODON_03490411|bass fibre container|C0351603|nutrison fibre liquid 500ml
+# O|U>F|FOODON_03490411|bass fibre container|C0351611|nutrison fibre liquid 1 litre
+# O|U>F|FOODON_03490411|bass fibre container|C0359388|nutrison fibre liquid
+# O|U>F|FOODON_03490411|bass fibre container|C0359389|nutrison fibre steriflo liquid
+# O|U>F|FOODON_03490411|bass fibre container|C0475612|fruit 'n fibre
+# O|U>F|FOODON_03490411|bass fibre container|C0595362|clinifeed fibre liquid
+# O|U>F|FOODON_03490411|bass fibre container|C0595363|clinifeed fibre liquid 500ml
+# O|U>F|FOODON_03490411|bass fibre container|C0595364|clinifeed fibre liquid 1 litre
+# O|U>F|FOODON_03490411|bass fibre container|C0595371|clinifeed fibre
+# O|U>F|FOODON_03490411|bass fibre container|C0732044|entera fibre plus
+# O|U>F|FOODON_03490411|bass fibre container|C1276991|sondalis fibre
+# O|U>F|FOODON_03490411|bass fibre container|C1276999|fortisip multi fibre
+# O|U>F|FOODON_03490411|bass fibre container|C1277001|nutrison multi fibre
+# O|U>F|FOODON_03490411|bass fibre container|C3896959|fortimel compact fibre
+# O|U>F|FOODON_03490419|boil-in bag|C4704041|liquid in bag, enfit (ml)
+# O|U>F|FOODON_03500014|beer beverage can enamel surface|C0974809|beer,can,360ml
+# O|U>F|FOODON_03500044|food-grade steel surface|C1698698|vivonex rtf, hospital
+# O|U>F|FOODON_03510011|food fish as consumer|C2349190|fish as human food
+# O|U>F|FOODON_03510020|infant or toddler as food consumer|C3853218|toddler food
+# O|U>F|FOODON_03510023|dietary claim|C0013709|yolk proteins, dietary
+# O|U>F|FOODON_03510023|dietary claim|C0376597|dietary sucrose
+# O|U>F|FOODON_03510023|dietary claim|C0598291|dietary residue
+# O|U>F|FOODON_03510023|dietary claim|C3661563|dietary fluid
+# O|U>F|FOODON_03510023|dietary claim|C5231030|special dietary food
+# O|U>F|FOODON_03510033|low energy food claim|C0453838|low energy food
+# O|U>F|FOODON_03510038|low salt or sodium claim|C0460286|low salt food
+# O|U>F|FOODON_03510039|low fat food|C0452814|low fat yogurt
+# O|U>F|FOODON_03510039|low fat food|C0452940|low fat liver pate
+# O|U>F|FOODON_03510039|low fat food|C0452947|low fat sausage
+# O|U>F|FOODON_03510039|low fat food|C0453421|low fat potato chips
+# O|U>F|FOODON_03510039|low fat food|C0453840|low polyunsaturated fat food
+# O|U>F|FOODON_03510039|low fat food|C0453842|low risk food
+# O|U>F|FOODON_03510039|low fat food|C0459132|low potassium food
+# O|U>F|FOODON_03510039|low fat food|C0475619|flavored low fat yoghurt
+# O|U>F|FOODON_03510039|low fat food|C0475638|low glycemic index food
+# O|U>F|FOODON_03510039|low fat food|C1277010|other low protein food
+# O|U>F|FOODON_03510039|low fat food|C3661663|low trans fat food
+# O|U>F|FOODON_03510039|low fat food|C3661664|low monounsaturated fat food
+# O|U>F|FOODON_03510042|cholesterol free claim|C0727477|phenyl-free
+# O|U>F|FOODON_03510042|cholesterol free claim|C3265303|nut.tx., metabolic disorder, leucine-free
+# O|U>F|FOODON_03510043|low in cholesterol claim|C3661659|low cholesterol food
+# O|U>F|FOODON_03510048|high fiber food|C0453830|high calcium food
+# O|U>F|FOODON_03510048|high fiber food|C0453832|high phytate food
+# O|U>F|FOODON_03510048|high fiber food|C0453833|high risk food
+# O|U>F|FOODON_03510048|high fiber food|C0475634|high soluble fiber food
+# O|U>F|FOODON_03510048|high fiber food|C0475635|high insoluble fiber food
+# O|U>F|FOODON_03510048|high fiber food|C0475636|high glycemic index food
+# O|U>F|FOODON_03510048|high fiber food|C0976925|fibermed high-fiber miniature fruit
+# O|U>F|FOODON_03510048|high fiber food|C0976926|fibermed high-fiber supplement fruit
+# O|U>F|FOODON_03510048|high fiber food|C3714323|high energy enteral formula with fiber
+# O|U>F|FOODON_03510048|high fiber food|C3853251|pediatric high energy formula with increased fiber
+# O|U>F|FOODON_03510048|high fiber food|C3853298|adult high protein high fiber formula
+# O|U>F|FOODON_03510054|fat free food|C0475860|food coloring-free food
+# O|U>F|FOODON_03510056|sugars free food|C0376596|dietary sugars
+# O|U>F|FOODON_03510057|low in saturated fat food|C0453841|low saturated fat food
+# O|U>F|FOODON_03510060|high energy food claim|C0351605|liquisorb high energy liquid 500ml
+# O|U>F|FOODON_03510060|high energy food claim|C0353238|fresubin high energy strawberry liquid 236ml
+# O|U>F|FOODON_03510060|high energy food claim|C0359377|fresubin high energy neutral liquid
+# O|U>F|FOODON_03510060|high energy food claim|C0359383|liquisorb high energy liquid
+# O|U>F|FOODON_03510060|high energy food claim|C0361624|fresubin high energy neutral liquid 500ml
+# O|U>F|FOODON_03510060|high energy food claim|C0453831|high energy food
+# O|U>F|FOODON_03510060|high energy food claim|C0542720|fresubin high energy vanilla liquid 236ml
+# O|U>F|FOODON_03510060|high energy food claim|C0595893|fresubin high energy strawberry liquid
+# O|U>F|FOODON_03510060|high energy food claim|C0595894|fresubin high energy vanilla liquid
+# O|U>F|FOODON_03510060|high energy food claim|C2224421|high energy enteral formula
+# O|U>F|FOODON_03510060|high energy food claim|C3853228|pediatric high energy hydrolyzed protein formula
+# O|U>F|FOODON_03510060|high energy food claim|C3853252|pediatric high energy formula
+# O|U>F|FOODON_03510060|high energy food claim|C3853258|high energy formula
+# O|U>F|FOODON_03510060|high energy food claim|C3853302|adult high energy formula
+# O|U>F|FOODON_03510063|low fiber food|C3661660|low insoluble fiber food
+# O|U>F|FOODON_03510063|low fiber food|C3661661|low soluble fiber food
+# O|U>F|FOODON_03510065|nutrition-related claim|C0351346|parenteral form nutrition a - f
+# O|U>F|FOODON_03510065|nutrition-related claim|C0351369|parenteral form nutrition g - n
+# O|U>F|FOODON_03510065|nutrition-related claim|C0351392|parenteral form nutrition o - z
+# O|U>F|FOODON_03510065|nutrition-related claim|C0726371|glucerna special nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C0876398|nepro nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C1656465|nubasics complete nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C1875856|vital high nitrogen enteral nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C4059197|pulmocare therapeutic nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C4059203|perative specialized nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C4059205|oxepa therapeutic nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C4059213|juven nutrition powder
+# O|U>F|FOODON_03510065|nutrition-related claim|C4306050|oxepa 1.5 cal therapeutic nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C4477446|ensure original therapeutic nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C4477447|ensure plus therapeutic nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C4490154|core essentials peptide 1.5 cal/ml total nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C4490247|suplena with carb steady therapeutic nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C5195695|kate farms peptide 1.5 cal/ml nutrition
+# O|U>F|FOODON_03510065|nutrition-related claim|C5389958|phenex-2 nutrition powder
+# O|U>F|FOODON_03510065|nutrition-related claim|C5389986|cyclinex-2 nutrition powder
+# O|U>F|FOODON_03510065|nutrition-related claim|C5389991|ketonex-2 nutrition powder
+# O|U>F|FOODON_03510065|nutrition-related claim|C5389992|hominex-2 nutrition powder
+# O|U>F|FOODON_03510065|nutrition-related claim|C5389999|propimex-2 nutrition powder
+# O|U>F|FOODON_03510065|nutrition-related claim|C5423466|glutarex-2 nutrition powder
+# O|U>F|FOODON_03510065|nutrition-related claim|C5424127|i-valex-2 nutrition powder
+# O|U>F|FOODON_03510065|nutrition-related claim|C5424130|tyrex-2 nutrition powder
+# O|U>F|FOODON_03510066|no or reduced energy claim|C0726748|isosource 1.5 calories
+# O|U>F|FOODON_03510066|no or reduced energy claim|C0727555|pregestimil 20 calories
+# O|U>F|FOODON_03510066|no or reduced energy claim|C0727556|pregestimil 24 calories
+# O|U>F|FOODON_03510066|no or reduced energy claim|C4032940|isosource 1.5 calories spikeright
+# O|U>F|FOODON_03510071|saturated fat-related claim|C0597423|saturated fat
+# O|U>F|FOODON_03510071|saturated fat-related claim|C0682953|saturated dietary fat
+# O|U>F|FOODON_03510075|rich in fiber claim|C0259838|fiber in human nutrition
+# O|U>F|FOODON_03510093|no modified food starch added claim|C0982167|food starch,modified
+# O|U>F|FOODON_03510093|no modified food starch added claim|C3644818|food starch, modified oral powder [thick-it 2]
+# O|U>F|FOODON_03510093|no modified food starch added claim|C4529979|food starch, modified/maltodextrin oral powder
+# O|U>F|FOODON_03510093|no modified food starch added claim|C5195828|food starch, modified/maltodextrin oral powder [thick-it instant food and beverage thickener pc]
+# O|U>F|FOODON_03510100|no artificial flavors claim|C1655989|vari-flavors
+# O|U>F|FOODON_03510102|no flavor added claim|C3247440|bitter mask flavor combination no.2
+# O|U>F|FOODON_03510102|no flavor added claim|C3247467|bitter mask flavor combination no.1
+# O|U>F|FOODON_03510102|no flavor added claim|C3247505|bitter mask flavor combination no.2 miscell powder (gram)
+# O|U>F|FOODON_03510102|no flavor added claim|C5455444|bitter mask flavor combination no.3
+# O|U>F|FOODON_03510102|no flavor added claim|C5884876|bitter mask flavor combination no.4
+# O|U>F|FOODON_03510104|no artificial sweeteners claim|C0003920|artificial sweeteners
+# O|U>F|FOODON_03510108|no artificial additives claim|C0497998|parenteral nutrition; additives (vitamins, trace elements, heparin, electrolytes), home mix, per day
+# O|U>F|FOODON_03510114|no preservatives claim|C1950645|nut.therapy, phenylketonuria (pku), no.22
+# O|U>F|FOODON_03510114|no preservatives claim|C1950646|nut.therapy, phenylketonuria (pku), no.23
+# O|U>F|FOODON_03510114|no preservatives claim|C1962824|nut.therapy, phenylketonuria (pku), no.24
+# O|U>F|FOODON_03510114|no preservatives claim|C2683080|nut.therapy, phenylketonuria (pku), no.38
+# O|U>F|FOODON_03510114|no preservatives claim|C3204985|nut.therapy, phenylketonuria (pku), no.46
+# O|U>F|FOODON_03510114|no preservatives claim|C3473328|nut.therapy, phenylketonuria (pku) no.49
+# O|U>F|FOODON_03510114|no preservatives claim|C4291380|nut.therapy, phenylketonuria (pku), no.63
+# O|U>F|FOODON_03510124|health-related claim|C4019924|ensure active high prot for musc health choc
+# O|U>F|FOODON_03510124|health-related claim|C4019925|ensure active high prot for musc health van
+# O|U>F|FOODON_03510128|organic food claim|C0282678|food, organic
+# O|U>F|FOODON_03510170|lactose reduced food|C0359190|lactose intolerance food
 O|U>F|FOODON_03510170|lactose reduced food|C0770256|lactose-reduced food
 O|U>F|FOODON_03510170|lactose reduced food|C0773329|lactose-reduced food oral powder (gram)
 O|U>F|FOODON_03510170|lactose reduced food|C0773330|lactose-reduced food oral packet (ea)
@@ -32065,242 +32065,242 @@ O|U>F|FOODON_03510171|lactose free food|C5187784|nutritional tx. glucose intoler
 O|U>F|FOODON_03510171|lactose free food|C5554866|lactose-free milk
 O|U>F|FOODON_03510171|lactose free food|C5789816|pediatric nutrition with iron, lactose free 0.03 gram-0.83 kcal/ml oral liquid (ml)
 O|U>F|FOODON_03510171|lactose free food|C5917069|pediatric nutrition, iron, lactose free with fiber 0.05 gram-1.5 kcal/ml oral liquid (ml)
-O|U>F|FOODON_03510174|gluten free claim|C0460162|gluten-free biscuits 200g
-O|U>F|FOODON_03510174|gluten free claim|C0460163|gluten-free crackers 200g
-O|U>F|FOODON_03510174|gluten free claim|C0460221|glutafin gluten free/wheat free baking mix 500g
-O|U>F|FOODON_03510174|gluten free claim|C0460223|gf dietary gluten free biscuits 150g
-O|U>F|FOODON_03510174|gluten free claim|C0460235|redwood gluten free macaroni
-O|U>F|FOODON_03510174|gluten free claim|C0460237|redwood gluten free spaghetti
-O|U>F|FOODON_03510174|gluten free claim|C0460239|gluten-free biscuits
-O|U>F|FOODON_03510174|gluten free claim|C0460240|gluten-free cracker toast
-O|U>F|FOODON_03510174|gluten free claim|C0460249|gluten-free/wheat free white loaf
-O|U>F|FOODON_03510174|gluten free claim|C0460250|gluten-free rusks
-O|U>F|FOODON_03510174|gluten free claim|C0460251|gluten-free rice cookies
-O|U>F|FOODON_03510174|gluten free claim|C0460252|gluten-free/low protein cookies
-O|U>F|FOODON_03510174|gluten free claim|C0460253|gluten-free pizza base
-O|U>F|FOODON_03510174|gluten free claim|C0460254|gluten-free cannelloni
-O|U>F|FOODON_03510174|gluten free claim|C0460255|gluten-free tagliatelle
-O|U>F|FOODON_03510174|gluten free claim|C0460258|gluten-free spaghetti
-O|U>F|FOODON_03510174|gluten free claim|C0460259|gluten-free vermicelli
-O|U>F|FOODON_03510174|gluten free claim|C0460260|gluten-free lasagne
-O|U>F|FOODON_03510174|gluten free claim|C0460261|gluten-free macaroni
-O|U>F|FOODON_03510174|gluten free claim|C0460275|gluten-free crackers
-O|U>F|FOODON_03510174|gluten free claim|C0460276|gluten-free tea biscuits
-O|U>F|FOODON_03510174|gluten free claim|C0460278|gluten-free digestive biscuits
-O|U>F|FOODON_03510174|gluten free claim|C0460279|schar gluten free savoy biscuits
-O|U>F|FOODON_03510174|gluten free claim|C0460377|gluten-free biscuits and crackers
-O|U>F|FOODON_03510174|gluten free claim|C0460379|gluten-free other foods
-O|U>F|FOODON_03510174|gluten free claim|C0460392|bi-aglut gluten free cracker toast
-O|U>F|FOODON_03510174|gluten free claim|C0460395|juvela gluten free tea biscuits
-O|U>F|FOODON_03510174|gluten free claim|C0460396|juvela gluten free digestive biscuits
-O|U>F|FOODON_03510174|gluten free claim|C0471354|gluten-free cookies
-O|U>F|FOODON_03510174|gluten free claim|C0471554|glutano gluten free tagliatelle
-O|U>F|FOODON_03510174|gluten free claim|C0471891|glutafin gluten free tagliatelle nests
-O|U>F|FOODON_03510174|gluten free claim|C0475896|gluten-free fiber mix
-O|U>F|FOODON_03510174|gluten free claim|C0475897|gluten-free high fiber crackers
-O|U>F|FOODON_03510174|gluten free claim|C0475898|gluten-free savory biscuits
-O|U>F|FOODON_03510174|gluten free claim|C0542662|more gluten free foods
-O|U>F|FOODON_03510174|gluten free claim|C0590482|gluten-free baguette
-O|U>F|FOODON_03510174|gluten free claim|C0590915|gluten-free bavette
-O|U>F|FOODON_03510174|gluten free claim|C0593207|gluten-free/wheat-free rice sliced loaf
-O|U>F|FOODON_03510174|gluten free claim|C0593213|ener-g gluten-free/wheat-free rice sliced loaf
-O|U>F|FOODON_03510174|gluten free claim|C0593214|ener-g gluten free/wheat free rice loaf 612g
-O|U>F|FOODON_03510174|gluten free claim|C0593258|gluten-free/wheat-free fiber mix
-O|U>F|FOODON_03510174|gluten free claim|C0593261|gluten free/wheat free white mix
-O|U>F|FOODON_03510174|gluten free claim|C0593296|juvela gluten free savoury biscuits
-O|U>F|FOODON_03510174|gluten free claim|C0593763|ultra gluten free baguette
-O|U>F|FOODON_03510174|gluten free claim|C0593764|ultra gluten free pizza base
-O|U>F|FOODON_03510174|gluten free claim|C0594050|glutafin gluten free/wheat free pizza base
-O|U>F|FOODON_03510174|gluten free claim|C0595775|juvela gluten free harvest mix
-O|U>F|FOODON_03510174|gluten free claim|C0595776|juvela gluten free harvest mix 500g
-O|U>F|FOODON_03510174|gluten free claim|C0731622|glutafin gluten free part baked fibre loaf
-O|U>F|FOODON_03510174|gluten free claim|C0731624|glutafin gluten free part baked fibre loaf 400g
-O|U>F|FOODON_03510174|gluten free claim|C0731626|glutafin gluten free part baked fibre rolls
-O|U>F|FOODON_03510174|gluten free claim|C0731627|glutafin gluten free part baked fibre rolls x4
-O|U>F|FOODON_03510174|gluten free claim|C0731705|more gluten free foods[3]
-O|U>F|FOODON_03510174|gluten free claim|C0731818|gluten-free fettucini
-O|U>F|FOODON_03510174|gluten free claim|C0732544|gluten-free/wheat-free white cake mix
-O|U>F|FOODON_03510174|gluten free claim|C1276942|more gluten free foods[4]
-O|U>F|FOODON_03510174|gluten free claim|C1276943|gluten-free foods [generic 1]
-O|U>F|FOODON_03510174|gluten free claim|C1302901|low protein gluten free imitation rice
-O|U>F|FOODON_03510174|gluten free claim|C1302907|low protein gluten free egg replacer
-O|U>F|FOODON_03510174|gluten free claim|C1319717|gluten-free/wheat free brown loaf
-O|U>F|FOODON_03510174|gluten free claim|C1319776|gluten-free/wheat-free digestive biscuits
-O|U>F|FOODON_03510174|gluten free claim|C1319777|gluten-free/wheat-free baguette
-O|U>F|FOODON_03510174|gluten free claim|C1444953|gluten-free/wheat-free cake mix
-O|U>F|FOODON_03510174|gluten free claim|C1690567|gluten-free shortbread biscuits
-O|U>F|FOODON_03510174|gluten free claim|C4289028|gluten-free dha/epa/gla/antioxidant-rich nutritional liquid
-O|U>F|FOODON_03510179|saturated fat free food|C0453822|high saturated fat food
-O|U>F|FOODON_03510183|enriched food claim|C5200992|enriched food
-O|U>F|FOODON_03510184|fortified food claim|C0016498|food, fortified
-O|U>F|FOODON_03510184|fortified food claim|C0453808|calcium fortified food
-O|U>F|FOODON_03510184|fortified food claim|C0453824|folate fortified food
-O|U>F|FOODON_03510184|fortified food claim|C0453835|iron fortified food
-O|U>F|FOODON_03510184|fortified food claim|C0678695|nutrients
-O|U>F|FOODON_03510193|low alcohol claim|C0452471|low alcohol lager
-O|U>F|FOODON_03510194|probiotic claim|C3853203|probiotic yogurt
-O|U>F|FOODON_03510194|probiotic claim|C5234235|lactobacillus reuteri 100 million cfu/1 packet oral powder [good start probiotic]
-O|U>F|FOODON_03510194|probiotic claim|C5424037|floratummys probiotic sprinkles
-O|U>F|FOODON_03510194|probiotic claim|C5833702|olly kids multi+probiotic gummies berry punch
-O|U>F|FOODON_03510194|probiotic claim|C5919024|gerber good start toddler digestive & immune support probiotic sprinkles oral powder
-O|U>F|FOODON_03510199|vegan/vegetarian or suitability for vegan/vegetarian claim|C0453867|vegan food
-O|U>F|FOODON_03510203|high protein food|C0351572|protein intolerance food
-O|U>F|FOODON_03510203|high protein food|C0453858|protein food
-O|U>F|FOODON_03510203|high protein food|C0726093|ensure high protein
-O|U>F|FOODON_03510203|high protein food|C3853288|high protein formula
-O|U>F|FOODON_03510203|high protein food|C3853300|adult high protein formula
-O|U>F|FOODON_03510203|high protein food|C3892356|ensure active high protein
-O|U>F|FOODON_03510203|high protein food|C4019926|ensure active high protein for muscle health
-O|U>F|FOODON_03510203|high protein food|C4026426|vital high protein
-O|U>F|FOODON_03510203|high protein food|C4026427|vital high protein 1000ml r-t-h8
-O|U>F|FOODON_03510203|high protein food|C4293711|vital hp high protein
-O|U>F|FOODON_03510203|high protein food|C4317839|vital high protein 1.0 cal
-O|U>F|FOODON_03510203|high protein food|C5672109|medical food oral suspension [ensure plus high protein]
-O|U>F|FOODON_03510204|natural source of vitamins and or minerals claim|C0520090|enteral formula, nutritionally complete, for special metabolic needs, excludes inherited disease of metabolism, includes altered composition of proteins, fats, carbohydrates, vitamins and/or minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit
-O|U>F|FOODON_03510204|natural source of vitamins and or minerals claim|C3843677|vitamins or minerals
-O|U>F|FOODON_03510204|natural source of vitamins and or minerals claim|C4036036|dietary supplements (other than vitamins or minerals)
-O|U>F|FOODON_03510219|food allergen labelling about soybeans and products thereof|C0037733|soybeans
-O|U>F|FOODON_03510237|traditional composition claim|C0459115|food composition types
-O|U>F|FOODON_03510241|monounsaturated fat claim|C2362517|monounsaturated fat
-O|U>F|FOODON_03510242|polyunsaturated fat claim|C2362518|polyunsaturated fat
-O|U>F|FOODON_03510243|high monounsaturated fat|C0453820|high monounsaturated fat food
-O|U>F|FOODON_03510243|high monounsaturated fat|C3661662|high trans fat food
-O|U>F|FOODON_03510244|omega-3 fatty acids claim|C1257879|trans fatty acids
-O|U>F|FOODON_03510244|omega-3 fatty acids claim|C2918145|chondroitin sulfate/cocoa/gamma aminobutyric acid/glucosamine/grape seed extract/histidine/omega-3 fatty acids/whey protein oral capsule [trepadone]
-O|U>F|FOODON_03510244|omega-3 fatty acids claim|C3195377|phosphatidyl serine/omega-3 fatty acids/dha/epa 75 mg-8.5 mg-21.5 mg oral capsule
-O|U>F|FOODON_03510244|omega-3 fatty acids claim|C3464877|omega-3 fatty acids/dha/epa/other omega-3s/fish oil 900 mg-110 mg-680 mg oral capsule
-O|U>F|FOODON_03510244|omega-3 fatty acids claim|C3892270|disney omega-3 gummies
-O|U>F|FOODON_03510244|omega-3 fatty acids claim|C5242546|milk protein/omega-3 fatty acids oral suspension [ensure surgery]
-O|U>F|FOODON_03510244|omega-3 fatty acids claim|C5242579|milk protein/omega-3 fatty acids oral suspension
-O|U>F|FOODON_03510245|high omega-3 fatty acids|C5180372|saturated fatty acids &#x7c; serum or plasma &#x7c; chemistry - non-challenge
-O|U>F|FOODON_03510246|high polyunsaturated fat|C0453821|high polyunsaturated fat food
-O|U>F|FOODON_03510254|senior as food consumer|C5221307|medical food oral powder [nanovm senior 71+]
-O|U>F|FOODON_03510257|calcium and osteoporosis related claim|C0452657|melting moment
-O|U>F|FOODON_03520193|climatic Xne|C4522805|national 78-1551
-O|U>F|FOODON_03520319|neutral Xne|C0351616|liquisorb neutral liquid 500ml
-O|U>F|FOODON_03520319|neutral Xne|C0351617|liquisorbon mct neutral liquid 500ml
-O|U>F|FOODON_03520319|neutral Xne|C0359374|fortisip neutral liquid
-O|U>F|FOODON_03520319|neutral Xne|C0359474|polycal neutral liquid
-O|U>F|FOODON_03520319|neutral Xne|C0546931|entera neutral liquid
-O|U>F|FOODON_03520319|neutral Xne|C0546937|liquisorb neutral liquid
-O|U>F|FOODON_03520319|neutral Xne|C0547011|fortisip neutral liquid 200ml
-O|U>F|FOODON_03520319|neutral Xne|C0547017|liquisorbon mct neutral liquid
-O|U>F|FOODON_03520319|neutral Xne|C0549138|fortical neutral liquid 200ml
-O|U>F|FOODON_03520319|neutral Xne|C0549142|polycal neutral liquid 200ml
-O|U>F|FOODON_03520319|neutral Xne|C0590457|calsip neutral liquid
-O|U>F|FOODON_03520319|neutral Xne|C0592886|fresubin neutral liquid
-O|U>F|FOODON_03520319|neutral Xne|C0592887|fresubin neutral liquid 500ml
-O|U>F|FOODON_03520319|neutral Xne|C0592893|frebini neutral liquid
-O|U>F|FOODON_03520319|neutral Xne|C0592894|frebini neutral liquid 200ml
-O|U>F|FOODON_03520319|neutral Xne|C0593907|fresubin neutral liquid 1 litre
-O|U>F|FOODON_03520319|neutral Xne|C0732175|sandosource gi control neutral liquid
-O|U>F|FOODON_03520319|neutral Xne|C0733089|ensure plus neutral liquid tetrapak
-O|U>F|FOODON_03520319|neutral Xne|C0733090|ensure plus neutral liquid 200ml tetrapak
-O|U>F|FOODON_03520319|neutral Xne|C4476282|phospho-trin 250 neutral
-O|U>F|FOODON_03520394|french southern territories|C3832682|prosource tf
-O|U>F|FOODON_03520394|french southern territories|C5925680|banatrol tf
-O|U>F|FOODON_03520500|warm summer climatic Xne|C0453828|warm food
-O|U>F|FOODON_03520501|cool summer climatic Xne|C3554941|i-cool 30mg tablet
-O|U>F|FOODON_03520501|cool summer climatic Xne|C3554942|i-cool + d 1000units-30mg tablet
-O|U>F|FOODON_03520501|cool summer climatic Xne|C3651943|i-cool
-O|U>F|FOODON_03520501|cool summer climatic Xne|C4026718|genistein 30 mg oral tablet [i-cool]
-O|U>F|FOODON_03530010|choice grade|C0725610|choice dm
-O|U>F|FOODON_03530010|choice grade|C0876323|choice dm vanilla
-O|U>F|FOODON_03530010|choice grade|C0939555|choice dm bar
-O|U>F|FOODON_03530010|choice grade|C0939557|choice dm bar maple
-O|U>F|FOODON_03530010|choice grade|C0939558|choice dm cereal
-O|U>F|FOODON_03530010|choice grade|C0994658|choice dm liquid,oral,can,240ml
-O|U>F|FOODON_03530011|select grade|C1644775|glucerna select
-O|U>F|FOODON_03530011|select grade|C1995421|glucerna select liquid 1000ml
-O|U>F|FOODON_03530011|select grade|C1995422|glucerna select liquid vanilla
-O|U>F|FOODON_03530012|standard grade|C0351601|nutrison standard liquid 500ml
-O|U>F|FOODON_03530012|standard grade|C0351610|nutrison standard liquid 1 litre
-O|U>F|FOODON_03530012|standard grade|C0359393|nutrison standard liquid
-O|U>F|FOODON_03530012|standard grade|C0359394|nutrison standard steriflo liquid
-O|U>F|FOODON_03530012|standard grade|C0590840|nutrison paediatric standard liquid 200ml
-O|U>F|FOODON_03530012|standard grade|C1276994|nutricomp standard
-O|U>F|FOODON_03530070|grade p, europe|C3554891|l-methylfolate ca, p-5-p, me-cbl, vitamin b complex oral capsule
-O|U>F|FOODON_03530074|formulated mix|C0497990|parenteral nutrition solution: amino acid, greater than 8.5% (500 ml = 1 unit) - home mix
-O|U>F|FOODON_03530099|solid containing small particles (1-4 mm.)|C4490229|nutricia ketocal 4:1 enteral suspension
-O|U>F|FOODON_03530109|home food preparation process|C0453800|home prepared baby food
-O|U>F|FOODON_03530124|bavette|C0590917|schar gf bavette 500g
-O|U>F|FOODON_03530124|bavette|C0590919|schar gf bavette
-O|U>F|FOODON_03530161|sugar content (eurocode2)|C3826324|food--sugar content
-O|U>F|FOODON_03530162|sugar content > 50%|C2722319|cesinex 50
-O|U>F|FOODON_03530162|sugar content > 50%|C4474981|electrolytes oral solution [ceralyte 50]
-O|U>F|FOODON_03530162|sugar content > 50%|C5221857|chaste tree fruit 500 mg / gamolenic acid 200 mg / thioctic acid 100 mg / ubidecarenone 200 mg / reynoutria japonica leaf 50 mg / chiro-inositol, (+)- 50 mg / acetylcysteine 50 mg / royal jelly 200 mg / vitis vinifera seed 50 mg oral capsule [ultra hers vanilla]
-O|U>F|FOODON_03530164|sugar content < 30%|C2722316|cesinex 30
-O|U>F|FOODON_03530164|sugar content < 30%|C3185215|alanine/arginine/aspartic acid/cystine/glutamic acid/glycine/histidine/hydroxylysine/hydroxyproline/isoleucine/leucine/lysine/methionine/phenylalanine/proline/serine/threonine/tryptophan/tyrosine/valine 1460 mg/30 ml-170 mg/30 ml-225 mg/30 ml-490 mg/30 ml-625 mg/30 ml-170 mg/30 ml-300 mg/30 ml-360 mg/30 ml oral suspension [preprotein 20]
-O|U>F|FOODON_03530164|sugar content < 30%|C3194531|arginine/histidine/isoleucine/leucine/lysine/methionine/phenylalanine/threonine/tryptophan 1155 mg/30 ml-135 mg/30 ml-180 mg/30 ml-390 mg/30 ml-495 mg/30 ml-135 mg/30 ml-240 mg/30 ml-285 mg/30 ml-66 mg/30 ml oral solution
-O|U>F|FOODON_03530164|sugar content < 30%|C3204792|alanine/arginine/aspartic acid/cystine/glutamic acid/glycine/histidine/hydroxylysine/hydroxyproline/isoleucine/leucine/lysine/methionine/phenylalanine/proline/serine/threonine/tryptophan/tyrosine/valine 1460 mg/30 ml-170 mg/30 ml-225 mg/30 ml-490 mg/30 ml-625 mg/30 ml-170 mg/30 ml-300 mg/30 ml-360 mg/30 ml-66 mg/30 ml oral suspension
-O|U>F|FOODON_03530164|sugar content < 30%|C3220599|alanine/arginine/aspartic acid/cystine/glutamic acid/glycine/histidine/hydroxylysine/hydroxyproline/isoleucine/leucine/lysine/methionine/phenylalanine/proline/serine/threonine/tryptophan/tyrosine/valine 1460 mg/30 ml-170 mg/30 ml-225 mg/30 ml-490 mg/30 ml-625 mg/30 ml-170 mg/30 ml-300 mg/30 ml-360 mg/30 ml-66 mg/30 ml oral suspension [preprotein 20]
-O|U>F|FOODON_03530164|sugar content < 30%|C3281717|alanine/arginine/ascorbic acid/aspartic acid/calcium/cystine/glutamic acid/glycine/histidine/iron/isoleucine/leucine/lysine/methionine/phenylalanine/proline/serine/sodium/threonine/tryptophan/tyrosine/valine/vitamin a 1449 mg/30 gm-852 mg/30 gm-3042 mg/30 gm-840 mg/30 gm-5457 mg/30 gm-522 mg/30 gm-522 mg/30 gm-1797 mg/30 gm-2982 mg/30 gm-2490 mg/30 gm-723 mg/30 gm-984 mg/30 gm-1710 mg/30 gm-1449 mg/30 gm-80 mg/30 gm-1998 mg/30 gm-666 mg/30 gm-870 mg/30 gm-1650 mg/30 gm oral powder for solution
-O|U>F|FOODON_03530164|sugar content < 30%|C3892381|arginine/histidine/isoleucine/leucine/lysine/methionine/phenylalanine/threonine/tryptophan 1155 mg/30 ml-135 mg/30 ml-180 mg/30 ml-390 mg/30 ml-495 mg/30 ml-135 mg/30 ml-240 mg/30 ml-285 mg/30 ml-66 mg/30 ml oral suspension [preprotein]
-O|U>F|FOODON_03530164|sugar content < 30%|C3892382|arginine/histidine/isoleucine/leucine/lysine/methionine/phenylalanine/threonine 1460 mg/30 ml-170 mg/30 ml-225 mg/30 ml-490 mg/30 ml-625 mg/30 ml-170 mg/30 ml-300 mg/30 ml-360 mg/30 ml oral solution [preprotein 20]
-O|U>F|FOODON_03530164|sugar content < 30%|C4256412|enfamil premature 30 cal/oz
-O|U>F|FOODON_03530164|sugar content < 30%|C4476469|arginine/histidine/isoleucine/leucine/lysine/methionine/phenylalanine/threonine/tryptophan 1155 mg/30 ml-135 mg/30 ml-180 mg/30 ml-390 mg/30 ml-495 mg/30 ml-135 mg/30 ml-240 mg/30 ml-285 mg/30 ml-66 mg/30 ml oral suspension [g-preprotein]
-O|U>F|FOODON_03530173|oil content > 50%|C3642824|triglycerides 50% oral oil [liquigen]
-O|U>F|FOODON_03530173|oil content > 50%|C3642852|triglycerides 50% oral oil
-O|U>F|FOODON_03530175|oil content < 25%|C2722315|cesinex 25
-O|U>F|FOODON_03530176|food content range (europe)|C3826325|food--sodium content
-O|U>F|FOODON_03530176|food content range (europe)|C3826326|food--potassium content
-O|U>F|FOODON_03530177|fat content (eurocode2)|C3826328|food--fat content
-O|U>F|FOODON_03530186|fat content < 15%|C3537924|l-methylfolate/schiXchytrium 15 mg-90.314 mg oral capsule [deplin 15]
-O|U>F|FOODON_03530194|fat content > 60%|C2722320|cesinex 60
-O|U>F|FOODON_03530194|fat content > 60%|C5873941|phenylade 60 powder.renstXral
-O|U>F|FOODON_03530194|fat content > 60%|C5873949|phenylade 60
-O|U>F|FOODON_03530198|fat content > 80%, > 25% pufa|C2722321|cesinex 80
-O|U>F|FOODON_03530198|fat content > 80%, > 25% pufa|C5221856|ascorbic acid 120 mg / cholecalciferol 25 ug / .alpha.-tocopherol acetate 100.5 mg / phytonadione 80 ug / thiamine 3 mg / riboflavin 3.4 mg / niacin 40 mg / pyridoxine hydrochloride 25 mg / folic acid 999 ug / cyanocobalamin 120 ug / biotin 600 ug / calcium pantothenate 20 mg / choline 20 mg / iodine 150 ug / zinc 15 mg / selenium 140 ug / copper 1 mg / manganese 2 mg / chromium 120 ug / molybdenum 77 ug oral capsule [pro hers vanilla]
-O|U>F|FOODON_03530198|fat content > 80%, > 25% pufa|C5221858|cholecalciferol 25 ug / .alpha.-tocopherol acetate 100.5 mg / phytonadione 80 ug / riboflavin 5.1 mg / pyridoxine hydrochloride 25 mg / folic acid 999 ug / cyanocobalamin 500 ug / biotin 600 ug / choline 80 mg / magnesium 320 mg / zinc 15 mg / selenium 140 ug / copper 2 mg / manganese 2 mg / chromium 120 ug / molybdenum 77 ug oral capsule [pro pcos citrus]
-O|U>F|FOODON_03530202|fat content < 50%, > 35% pufa|C2722317|cesinex 35
-O|U>F|FOODON_03530229|hazard 1|C0650276|unipit 1
-O|U>F|FOODON_03530229|hazard 1|C0727073|msud 1
-O|U>F|FOODON_03530229|hazard 1|C0727374|pku 1
-O|U>F|FOODON_03530229|hazard 1|C1170817|gutarex-1
-O|U>F|FOODON_03530229|hazard 1|C1170828|ketonex-1
-O|U>F|FOODON_03530229|hazard 1|C1170846|phenex-1
-O|U>F|FOODON_03530229|hazard 1|C1170854|propimex-1
-O|U>F|FOODON_03530229|hazard 1|C1713534|jevity 1 cal
-O|U>F|FOODON_03530229|hazard 1|C3201091|alanine/arginine/aspartic acid/cystine/glutamic acid/glycine/histidine/isoleucine/leucine/lysine/methionine/phenylalanine/proline/serine/threonine/tryptophan/tyrosine/valine 38 mg/1 gm-62 mg/1 gm-111 mg/1 gm-111 mg/1 gm-196 mg/1 gm-36 mg/1 gm-23 mg/1 gm-44 mg/1 gm-79 mg/1 gm-60 mg/1 gm-12 mg/1 gm-50 mg/1 gm-48 mg/1 gm-45 mg/1 gm-33 mg/1 gm-12 mg/1 gm-34 mg/1 gm-45 mg/1 gm oral powder for suspension [fearn soya protein isolate]
-O|U>F|FOODON_03530229|hazard 1|C3244568|alanine/arginine/cystine/glycine/histidine/isoleucine/leucine/lysine/methionine/proline/serine/threonine/tryptophan/tyrosine/valine 1.62 gm/1 packet-1.62 gm/1 packet-0.06 gm/1 packet-0.88 gm/1 packet-0.62 gm/1 packet-2.75 gm/1 packet-3.38 gm/1 packet-1.63 gm/1 packet-0.25 gm/1 packet-1.75 gm/1 packet-0.5 gm/1 packet-0.75 gm/1 packet-0.18 gm/1 packet-0.08 gm/1 packet-2.5 gm/1 packet oral powder for solution
-O|U>F|FOODON_03530229|hazard 1|C3530834|jevity 1 cal 1000ml enteral suspension
-O|U>F|FOODON_03530229|hazard 1|C3530835|jevity 1 cal 1500ml enteral suspension
-O|U>F|FOODON_03530229|hazard 1|C4059507|osmolyte 1 cal
-O|U>F|FOODON_03530229|hazard 1|C4073402|jevity 1 cal 237ml enteral suspension
-O|U>F|FOODON_03530229|hazard 1|C4317845|osmolite 1 cal
-O|U>F|FOODON_03530229|hazard 1|C5919076|nutren 1 cal enteral suspension
-O|U>F|FOODON_03530230|hazard 2|C0650277|unipit 2
-O|U>F|FOODON_03530230|hazard 2|C0727375|pku 2
-O|U>F|FOODON_03530230|hazard 2|C1170816|glutarex-2
-O|U>F|FOODON_03530230|hazard 2|C1170847|phenex-2
-O|U>F|FOODON_03530230|hazard 2|C3882786|similac sensitive stage 2
-O|U>F|FOODON_03530231|hazard 3|C0727376|pku 3
-O|U>F|FOODON_03530231|hazard 3|C3527938|vsl #3 packet
-O|U>F|FOODON_03530231|hazard 3|C4318105|vsl#3 (obsolete)
-O|U>F|FOODON_03530231|hazard 3|C4318106|vsl#3 ds
-O|U>F|FOODON_03530231|hazard 3|C4318107|vsl#3 ds (obsolete)
-O|U>F|FOODON_03530232|hazard 4|C2725108|ketocal 4:1powder
-O|U>F|FOODON_03530237|hazard 9|C0591663|kabimix 9
-O|U>F|FOODON_03530238|hazard 10|C0939584|phlexy-10
-O|U>F|FOODON_03530238|hazard 10|C4087033|glutapak-10
-O|U>F|FOODON_03530251|food (genetically-modified)|C0725688|compleat modified
-O|U>F|FOODON_03530251|food (genetically-modified)|C0950154|food, genetically modified
-O|U>F|FOODON_03530251|food (genetically-modified)|C4046302|similac sensitive non-gmo
-O|U>F|FOODON_03530251|food (genetically-modified)|C4046303|similac go and grow non-gmo
-O|U>F|FOODON_03530251|food (genetically-modified)|C4046304|similac advance non-gmo
-O|U>F|FOODON_03530253|organic plant cultivation|C5777177|kindersprout organic plant protein kids nutrition shake (chocolate)
-O|U>F|FOODON_03530253|organic plant cultivation|C5911310|compleat organic blends plant based liquid
-O|U>F|FOODON_03530269|color of fruit or vegetable flesh|C1517323|fruit or vegetable
-O|U>F|FOODON_03530291|organic food production|C1658256|impact recover
-O|U>F|FOODON_03530291|organic food production|C4032911|impact spikeright
-O|U>F|FOODON_03540002|00020 - cereals and cereal primary derivatives (efsa foodex2)|C0729308|protein and protein derivatives
-O|U>F|FOODON_03540028|00280 - barnyard millet (efsa foodex2)|C4018958|japanese millet (substance)
+# O|U>F|FOODON_03510174|gluten free claim|C0460162|gluten-free biscuits 200g
+# O|U>F|FOODON_03510174|gluten free claim|C0460163|gluten-free crackers 200g
+# O|U>F|FOODON_03510174|gluten free claim|C0460221|glutafin gluten free/wheat free baking mix 500g
+# O|U>F|FOODON_03510174|gluten free claim|C0460223|gf dietary gluten free biscuits 150g
+# O|U>F|FOODON_03510174|gluten free claim|C0460235|redwood gluten free macaroni
+# O|U>F|FOODON_03510174|gluten free claim|C0460237|redwood gluten free spaghetti
+# O|U>F|FOODON_03510174|gluten free claim|C0460239|gluten-free biscuits
+# O|U>F|FOODON_03510174|gluten free claim|C0460240|gluten-free cracker toast
+# O|U>F|FOODON_03510174|gluten free claim|C0460249|gluten-free/wheat free white loaf
+# O|U>F|FOODON_03510174|gluten free claim|C0460250|gluten-free rusks
+# O|U>F|FOODON_03510174|gluten free claim|C0460251|gluten-free rice cookies
+# O|U>F|FOODON_03510174|gluten free claim|C0460252|gluten-free/low protein cookies
+# O|U>F|FOODON_03510174|gluten free claim|C0460253|gluten-free pizza base
+# O|U>F|FOODON_03510174|gluten free claim|C0460254|gluten-free cannelloni
+# O|U>F|FOODON_03510174|gluten free claim|C0460255|gluten-free tagliatelle
+# O|U>F|FOODON_03510174|gluten free claim|C0460258|gluten-free spaghetti
+# O|U>F|FOODON_03510174|gluten free claim|C0460259|gluten-free vermicelli
+# O|U>F|FOODON_03510174|gluten free claim|C0460260|gluten-free lasagne
+# O|U>F|FOODON_03510174|gluten free claim|C0460261|gluten-free macaroni
+# O|U>F|FOODON_03510174|gluten free claim|C0460275|gluten-free crackers
+# O|U>F|FOODON_03510174|gluten free claim|C0460276|gluten-free tea biscuits
+# O|U>F|FOODON_03510174|gluten free claim|C0460278|gluten-free digestive biscuits
+# O|U>F|FOODON_03510174|gluten free claim|C0460279|schar gluten free savoy biscuits
+# O|U>F|FOODON_03510174|gluten free claim|C0460377|gluten-free biscuits and crackers
+# O|U>F|FOODON_03510174|gluten free claim|C0460379|gluten-free other foods
+# O|U>F|FOODON_03510174|gluten free claim|C0460392|bi-aglut gluten free cracker toast
+# O|U>F|FOODON_03510174|gluten free claim|C0460395|juvela gluten free tea biscuits
+# O|U>F|FOODON_03510174|gluten free claim|C0460396|juvela gluten free digestive biscuits
+# O|U>F|FOODON_03510174|gluten free claim|C0471354|gluten-free cookies
+# O|U>F|FOODON_03510174|gluten free claim|C0471554|glutano gluten free tagliatelle
+# O|U>F|FOODON_03510174|gluten free claim|C0471891|glutafin gluten free tagliatelle nests
+# O|U>F|FOODON_03510174|gluten free claim|C0475896|gluten-free fiber mix
+# O|U>F|FOODON_03510174|gluten free claim|C0475897|gluten-free high fiber crackers
+# O|U>F|FOODON_03510174|gluten free claim|C0475898|gluten-free savory biscuits
+# O|U>F|FOODON_03510174|gluten free claim|C0542662|more gluten free foods
+# O|U>F|FOODON_03510174|gluten free claim|C0590482|gluten-free baguette
+# O|U>F|FOODON_03510174|gluten free claim|C0590915|gluten-free bavette
+# O|U>F|FOODON_03510174|gluten free claim|C0593207|gluten-free/wheat-free rice sliced loaf
+# O|U>F|FOODON_03510174|gluten free claim|C0593213|ener-g gluten-free/wheat-free rice sliced loaf
+# O|U>F|FOODON_03510174|gluten free claim|C0593214|ener-g gluten free/wheat free rice loaf 612g
+# O|U>F|FOODON_03510174|gluten free claim|C0593258|gluten-free/wheat-free fiber mix
+# O|U>F|FOODON_03510174|gluten free claim|C0593261|gluten free/wheat free white mix
+# O|U>F|FOODON_03510174|gluten free claim|C0593296|juvela gluten free savoury biscuits
+# O|U>F|FOODON_03510174|gluten free claim|C0593763|ultra gluten free baguette
+# O|U>F|FOODON_03510174|gluten free claim|C0593764|ultra gluten free pizza base
+# O|U>F|FOODON_03510174|gluten free claim|C0594050|glutafin gluten free/wheat free pizza base
+# O|U>F|FOODON_03510174|gluten free claim|C0595775|juvela gluten free harvest mix
+# O|U>F|FOODON_03510174|gluten free claim|C0595776|juvela gluten free harvest mix 500g
+# O|U>F|FOODON_03510174|gluten free claim|C0731622|glutafin gluten free part baked fibre loaf
+# O|U>F|FOODON_03510174|gluten free claim|C0731624|glutafin gluten free part baked fibre loaf 400g
+# O|U>F|FOODON_03510174|gluten free claim|C0731626|glutafin gluten free part baked fibre rolls
+# O|U>F|FOODON_03510174|gluten free claim|C0731627|glutafin gluten free part baked fibre rolls x4
+# O|U>F|FOODON_03510174|gluten free claim|C0731705|more gluten free foods[3]
+# O|U>F|FOODON_03510174|gluten free claim|C0731818|gluten-free fettucini
+# O|U>F|FOODON_03510174|gluten free claim|C0732544|gluten-free/wheat-free white cake mix
+# O|U>F|FOODON_03510174|gluten free claim|C1276942|more gluten free foods[4]
+# O|U>F|FOODON_03510174|gluten free claim|C1276943|gluten-free foods [generic 1]
+# O|U>F|FOODON_03510174|gluten free claim|C1302901|low protein gluten free imitation rice
+# O|U>F|FOODON_03510174|gluten free claim|C1302907|low protein gluten free egg replacer
+# O|U>F|FOODON_03510174|gluten free claim|C1319717|gluten-free/wheat free brown loaf
+# O|U>F|FOODON_03510174|gluten free claim|C1319776|gluten-free/wheat-free digestive biscuits
+# O|U>F|FOODON_03510174|gluten free claim|C1319777|gluten-free/wheat-free baguette
+# O|U>F|FOODON_03510174|gluten free claim|C1444953|gluten-free/wheat-free cake mix
+# O|U>F|FOODON_03510174|gluten free claim|C1690567|gluten-free shortbread biscuits
+# O|U>F|FOODON_03510174|gluten free claim|C4289028|gluten-free dha/epa/gla/antioxidant-rich nutritional liquid
+# O|U>F|FOODON_03510179|saturated fat free food|C0453822|high saturated fat food
+# O|U>F|FOODON_03510183|enriched food claim|C5200992|enriched food
+# O|U>F|FOODON_03510184|fortified food claim|C0016498|food, fortified
+# O|U>F|FOODON_03510184|fortified food claim|C0453808|calcium fortified food
+# O|U>F|FOODON_03510184|fortified food claim|C0453824|folate fortified food
+# O|U>F|FOODON_03510184|fortified food claim|C0453835|iron fortified food
+# O|U>F|FOODON_03510184|fortified food claim|C0678695|nutrients
+# O|U>F|FOODON_03510193|low alcohol claim|C0452471|low alcohol lager
+# O|U>F|FOODON_03510194|probiotic claim|C3853203|probiotic yogurt
+# O|U>F|FOODON_03510194|probiotic claim|C5234235|lactobacillus reuteri 100 million cfu/1 packet oral powder [good start probiotic]
+# O|U>F|FOODON_03510194|probiotic claim|C5424037|floratummys probiotic sprinkles
+# O|U>F|FOODON_03510194|probiotic claim|C5833702|olly kids multi+probiotic gummies berry punch
+# O|U>F|FOODON_03510194|probiotic claim|C5919024|gerber good start toddler digestive & immune support probiotic sprinkles oral powder
+# O|U>F|FOODON_03510199|vegan/vegetarian or suitability for vegan/vegetarian claim|C0453867|vegan food
+# O|U>F|FOODON_03510203|high protein food|C0351572|protein intolerance food
+# O|U>F|FOODON_03510203|high protein food|C0453858|protein food
+# O|U>F|FOODON_03510203|high protein food|C0726093|ensure high protein
+# O|U>F|FOODON_03510203|high protein food|C3853288|high protein formula
+# O|U>F|FOODON_03510203|high protein food|C3853300|adult high protein formula
+# O|U>F|FOODON_03510203|high protein food|C3892356|ensure active high protein
+# O|U>F|FOODON_03510203|high protein food|C4019926|ensure active high protein for muscle health
+# O|U>F|FOODON_03510203|high protein food|C4026426|vital high protein
+# O|U>F|FOODON_03510203|high protein food|C4026427|vital high protein 1000ml r-t-h8
+# O|U>F|FOODON_03510203|high protein food|C4293711|vital hp high protein
+# O|U>F|FOODON_03510203|high protein food|C4317839|vital high protein 1.0 cal
+# O|U>F|FOODON_03510203|high protein food|C5672109|medical food oral suspension [ensure plus high protein]
+# O|U>F|FOODON_03510204|natural source of vitamins and or minerals claim|C0520090|enteral formula, nutritionally complete, for special metabolic needs, excludes inherited disease of metabolism, includes altered composition of proteins, fats, carbohydrates, vitamins and/or minerals, may include fiber, administered through an enteral feeding tube, 100 calories = 1 unit
+# O|U>F|FOODON_03510204|natural source of vitamins and or minerals claim|C3843677|vitamins or minerals
+# O|U>F|FOODON_03510204|natural source of vitamins and or minerals claim|C4036036|dietary supplements (other than vitamins or minerals)
+# O|U>F|FOODON_03510219|food allergen labelling about soybeans and products thereof|C0037733|soybeans
+# O|U>F|FOODON_03510237|traditional composition claim|C0459115|food composition types
+# O|U>F|FOODON_03510241|monounsaturated fat claim|C2362517|monounsaturated fat
+# O|U>F|FOODON_03510242|polyunsaturated fat claim|C2362518|polyunsaturated fat
+# O|U>F|FOODON_03510243|high monounsaturated fat|C0453820|high monounsaturated fat food
+# O|U>F|FOODON_03510243|high monounsaturated fat|C3661662|high trans fat food
+# O|U>F|FOODON_03510244|omega-3 fatty acids claim|C1257879|trans fatty acids
+# O|U>F|FOODON_03510244|omega-3 fatty acids claim|C2918145|chondroitin sulfate/cocoa/gamma aminobutyric acid/glucosamine/grape seed extract/histidine/omega-3 fatty acids/whey protein oral capsule [trepadone]
+# O|U>F|FOODON_03510244|omega-3 fatty acids claim|C3195377|phosphatidyl serine/omega-3 fatty acids/dha/epa 75 mg-8.5 mg-21.5 mg oral capsule
+# O|U>F|FOODON_03510244|omega-3 fatty acids claim|C3464877|omega-3 fatty acids/dha/epa/other omega-3s/fish oil 900 mg-110 mg-680 mg oral capsule
+# O|U>F|FOODON_03510244|omega-3 fatty acids claim|C3892270|disney omega-3 gummies
+# O|U>F|FOODON_03510244|omega-3 fatty acids claim|C5242546|milk protein/omega-3 fatty acids oral suspension [ensure surgery]
+# O|U>F|FOODON_03510244|omega-3 fatty acids claim|C5242579|milk protein/omega-3 fatty acids oral suspension
+# O|U>F|FOODON_03510245|high omega-3 fatty acids|C5180372|saturated fatty acids &#x7c; serum or plasma &#x7c; chemistry - non-challenge
+# O|U>F|FOODON_03510246|high polyunsaturated fat|C0453821|high polyunsaturated fat food
+# O|U>F|FOODON_03510254|senior as food consumer|C5221307|medical food oral powder [nanovm senior 71+]
+# O|U>F|FOODON_03510257|calcium and osteoporosis related claim|C0452657|melting moment
+# O|U>F|FOODON_03520193|climatic Xne|C4522805|national 78-1551
+# O|U>F|FOODON_03520319|neutral Xne|C0351616|liquisorb neutral liquid 500ml
+# O|U>F|FOODON_03520319|neutral Xne|C0351617|liquisorbon mct neutral liquid 500ml
+# O|U>F|FOODON_03520319|neutral Xne|C0359374|fortisip neutral liquid
+# O|U>F|FOODON_03520319|neutral Xne|C0359474|polycal neutral liquid
+# O|U>F|FOODON_03520319|neutral Xne|C0546931|entera neutral liquid
+# O|U>F|FOODON_03520319|neutral Xne|C0546937|liquisorb neutral liquid
+# O|U>F|FOODON_03520319|neutral Xne|C0547011|fortisip neutral liquid 200ml
+# O|U>F|FOODON_03520319|neutral Xne|C0547017|liquisorbon mct neutral liquid
+# O|U>F|FOODON_03520319|neutral Xne|C0549138|fortical neutral liquid 200ml
+# O|U>F|FOODON_03520319|neutral Xne|C0549142|polycal neutral liquid 200ml
+# O|U>F|FOODON_03520319|neutral Xne|C0590457|calsip neutral liquid
+# O|U>F|FOODON_03520319|neutral Xne|C0592886|fresubin neutral liquid
+# O|U>F|FOODON_03520319|neutral Xne|C0592887|fresubin neutral liquid 500ml
+# O|U>F|FOODON_03520319|neutral Xne|C0592893|frebini neutral liquid
+# O|U>F|FOODON_03520319|neutral Xne|C0592894|frebini neutral liquid 200ml
+# O|U>F|FOODON_03520319|neutral Xne|C0593907|fresubin neutral liquid 1 litre
+# O|U>F|FOODON_03520319|neutral Xne|C0732175|sandosource gi control neutral liquid
+# O|U>F|FOODON_03520319|neutral Xne|C0733089|ensure plus neutral liquid tetrapak
+# O|U>F|FOODON_03520319|neutral Xne|C0733090|ensure plus neutral liquid 200ml tetrapak
+# O|U>F|FOODON_03520319|neutral Xne|C4476282|phospho-trin 250 neutral
+# O|U>F|FOODON_03520394|french southern territories|C3832682|prosource tf
+# O|U>F|FOODON_03520394|french southern territories|C5925680|banatrol tf
+# O|U>F|FOODON_03520500|warm summer climatic Xne|C0453828|warm food
+# O|U>F|FOODON_03520501|cool summer climatic Xne|C3554941|i-cool 30mg tablet
+# O|U>F|FOODON_03520501|cool summer climatic Xne|C3554942|i-cool + d 1000units-30mg tablet
+# O|U>F|FOODON_03520501|cool summer climatic Xne|C3651943|i-cool
+# O|U>F|FOODON_03520501|cool summer climatic Xne|C4026718|genistein 30 mg oral tablet [i-cool]
+# O|U>F|FOODON_03530010|choice grade|C0725610|choice dm
+# O|U>F|FOODON_03530010|choice grade|C0876323|choice dm vanilla
+# O|U>F|FOODON_03530010|choice grade|C0939555|choice dm bar
+# O|U>F|FOODON_03530010|choice grade|C0939557|choice dm bar maple
+# O|U>F|FOODON_03530010|choice grade|C0939558|choice dm cereal
+# O|U>F|FOODON_03530010|choice grade|C0994658|choice dm liquid,oral,can,240ml
+# O|U>F|FOODON_03530011|select grade|C1644775|glucerna select
+# O|U>F|FOODON_03530011|select grade|C1995421|glucerna select liquid 1000ml
+# O|U>F|FOODON_03530011|select grade|C1995422|glucerna select liquid vanilla
+# O|U>F|FOODON_03530012|standard grade|C0351601|nutrison standard liquid 500ml
+# O|U>F|FOODON_03530012|standard grade|C0351610|nutrison standard liquid 1 litre
+# O|U>F|FOODON_03530012|standard grade|C0359393|nutrison standard liquid
+# O|U>F|FOODON_03530012|standard grade|C0359394|nutrison standard steriflo liquid
+# O|U>F|FOODON_03530012|standard grade|C0590840|nutrison paediatric standard liquid 200ml
+# O|U>F|FOODON_03530012|standard grade|C1276994|nutricomp standard
+# O|U>F|FOODON_03530070|grade p, europe|C3554891|l-methylfolate ca, p-5-p, me-cbl, vitamin b complex oral capsule
+# O|U>F|FOODON_03530074|formulated mix|C0497990|parenteral nutrition solution: amino acid, greater than 8.5% (500 ml = 1 unit) - home mix
+# O|U>F|FOODON_03530099|solid containing small particles (1-4 mm.)|C4490229|nutricia ketocal 4:1 enteral suspension
+# O|U>F|FOODON_03530109|home food preparation process|C0453800|home prepared baby food
+# O|U>F|FOODON_03530124|bavette|C0590917|schar gf bavette 500g
+# O|U>F|FOODON_03530124|bavette|C0590919|schar gf bavette
+# O|U>F|FOODON_03530161|sugar content (eurocode2)|C3826324|food--sugar content
+# O|U>F|FOODON_03530162|sugar content > 50%|C2722319|cesinex 50
+# O|U>F|FOODON_03530162|sugar content > 50%|C4474981|electrolytes oral solution [ceralyte 50]
+# O|U>F|FOODON_03530162|sugar content > 50%|C5221857|chaste tree fruit 500 mg / gamolenic acid 200 mg / thioctic acid 100 mg / ubidecarenone 200 mg / reynoutria japonica leaf 50 mg / chiro-inositol, (+)- 50 mg / acetylcysteine 50 mg / royal jelly 200 mg / vitis vinifera seed 50 mg oral capsule [ultra hers vanilla]
+# O|U>F|FOODON_03530164|sugar content < 30%|C2722316|cesinex 30
+# O|U>F|FOODON_03530164|sugar content < 30%|C3185215|alanine/arginine/aspartic acid/cystine/glutamic acid/glycine/histidine/hydroxylysine/hydroxyproline/isoleucine/leucine/lysine/methionine/phenylalanine/proline/serine/threonine/tryptophan/tyrosine/valine 1460 mg/30 ml-170 mg/30 ml-225 mg/30 ml-490 mg/30 ml-625 mg/30 ml-170 mg/30 ml-300 mg/30 ml-360 mg/30 ml oral suspension [preprotein 20]
+# O|U>F|FOODON_03530164|sugar content < 30%|C3194531|arginine/histidine/isoleucine/leucine/lysine/methionine/phenylalanine/threonine/tryptophan 1155 mg/30 ml-135 mg/30 ml-180 mg/30 ml-390 mg/30 ml-495 mg/30 ml-135 mg/30 ml-240 mg/30 ml-285 mg/30 ml-66 mg/30 ml oral solution
+# O|U>F|FOODON_03530164|sugar content < 30%|C3204792|alanine/arginine/aspartic acid/cystine/glutamic acid/glycine/histidine/hydroxylysine/hydroxyproline/isoleucine/leucine/lysine/methionine/phenylalanine/proline/serine/threonine/tryptophan/tyrosine/valine 1460 mg/30 ml-170 mg/30 ml-225 mg/30 ml-490 mg/30 ml-625 mg/30 ml-170 mg/30 ml-300 mg/30 ml-360 mg/30 ml-66 mg/30 ml oral suspension
+# O|U>F|FOODON_03530164|sugar content < 30%|C3220599|alanine/arginine/aspartic acid/cystine/glutamic acid/glycine/histidine/hydroxylysine/hydroxyproline/isoleucine/leucine/lysine/methionine/phenylalanine/proline/serine/threonine/tryptophan/tyrosine/valine 1460 mg/30 ml-170 mg/30 ml-225 mg/30 ml-490 mg/30 ml-625 mg/30 ml-170 mg/30 ml-300 mg/30 ml-360 mg/30 ml-66 mg/30 ml oral suspension [preprotein 20]
+# O|U>F|FOODON_03530164|sugar content < 30%|C3281717|alanine/arginine/ascorbic acid/aspartic acid/calcium/cystine/glutamic acid/glycine/histidine/iron/isoleucine/leucine/lysine/methionine/phenylalanine/proline/serine/sodium/threonine/tryptophan/tyrosine/valine/vitamin a 1449 mg/30 gm-852 mg/30 gm-3042 mg/30 gm-840 mg/30 gm-5457 mg/30 gm-522 mg/30 gm-522 mg/30 gm-1797 mg/30 gm-2982 mg/30 gm-2490 mg/30 gm-723 mg/30 gm-984 mg/30 gm-1710 mg/30 gm-1449 mg/30 gm-80 mg/30 gm-1998 mg/30 gm-666 mg/30 gm-870 mg/30 gm-1650 mg/30 gm oral powder for solution
+# O|U>F|FOODON_03530164|sugar content < 30%|C3892381|arginine/histidine/isoleucine/leucine/lysine/methionine/phenylalanine/threonine/tryptophan 1155 mg/30 ml-135 mg/30 ml-180 mg/30 ml-390 mg/30 ml-495 mg/30 ml-135 mg/30 ml-240 mg/30 ml-285 mg/30 ml-66 mg/30 ml oral suspension [preprotein]
+# O|U>F|FOODON_03530164|sugar content < 30%|C3892382|arginine/histidine/isoleucine/leucine/lysine/methionine/phenylalanine/threonine 1460 mg/30 ml-170 mg/30 ml-225 mg/30 ml-490 mg/30 ml-625 mg/30 ml-170 mg/30 ml-300 mg/30 ml-360 mg/30 ml oral solution [preprotein 20]
+# O|U>F|FOODON_03530164|sugar content < 30%|C4256412|enfamil premature 30 cal/oz
+# O|U>F|FOODON_03530164|sugar content < 30%|C4476469|arginine/histidine/isoleucine/leucine/lysine/methionine/phenylalanine/threonine/tryptophan 1155 mg/30 ml-135 mg/30 ml-180 mg/30 ml-390 mg/30 ml-495 mg/30 ml-135 mg/30 ml-240 mg/30 ml-285 mg/30 ml-66 mg/30 ml oral suspension [g-preprotein]
+# O|U>F|FOODON_03530173|oil content > 50%|C3642824|triglycerides 50% oral oil [liquigen]
+# O|U>F|FOODON_03530173|oil content > 50%|C3642852|triglycerides 50% oral oil
+# O|U>F|FOODON_03530175|oil content < 25%|C2722315|cesinex 25
+# O|U>F|FOODON_03530176|food content range (europe)|C3826325|food--sodium content
+# O|U>F|FOODON_03530176|food content range (europe)|C3826326|food--potassium content
+# O|U>F|FOODON_03530177|fat content (eurocode2)|C3826328|food--fat content
+# O|U>F|FOODON_03530186|fat content < 15%|C3537924|l-methylfolate/schiXchytrium 15 mg-90.314 mg oral capsule [deplin 15]
+# O|U>F|FOODON_03530194|fat content > 60%|C2722320|cesinex 60
+# O|U>F|FOODON_03530194|fat content > 60%|C5873941|phenylade 60 powder.renstXral
+# O|U>F|FOODON_03530194|fat content > 60%|C5873949|phenylade 60
+# O|U>F|FOODON_03530198|fat content > 80%, > 25% pufa|C2722321|cesinex 80
+# O|U>F|FOODON_03530198|fat content > 80%, > 25% pufa|C5221856|ascorbic acid 120 mg / cholecalciferol 25 ug / .alpha.-tocopherol acetate 100.5 mg / phytonadione 80 ug / thiamine 3 mg / riboflavin 3.4 mg / niacin 40 mg / pyridoxine hydrochloride 25 mg / folic acid 999 ug / cyanocobalamin 120 ug / biotin 600 ug / calcium pantothenate 20 mg / choline 20 mg / iodine 150 ug / zinc 15 mg / selenium 140 ug / copper 1 mg / manganese 2 mg / chromium 120 ug / molybdenum 77 ug oral capsule [pro hers vanilla]
+# O|U>F|FOODON_03530198|fat content > 80%, > 25% pufa|C5221858|cholecalciferol 25 ug / .alpha.-tocopherol acetate 100.5 mg / phytonadione 80 ug / riboflavin 5.1 mg / pyridoxine hydrochloride 25 mg / folic acid 999 ug / cyanocobalamin 500 ug / biotin 600 ug / choline 80 mg / magnesium 320 mg / zinc 15 mg / selenium 140 ug / copper 2 mg / manganese 2 mg / chromium 120 ug / molybdenum 77 ug oral capsule [pro pcos citrus]
+# O|U>F|FOODON_03530202|fat content < 50%, > 35% pufa|C2722317|cesinex 35
+# O|U>F|FOODON_03530229|hazard 1|C0650276|unipit 1
+# O|U>F|FOODON_03530229|hazard 1|C0727073|msud 1
+# O|U>F|FOODON_03530229|hazard 1|C0727374|pku 1
+# O|U>F|FOODON_03530229|hazard 1|C1170817|gutarex-1
+# O|U>F|FOODON_03530229|hazard 1|C1170828|ketonex-1
+# O|U>F|FOODON_03530229|hazard 1|C1170846|phenex-1
+# O|U>F|FOODON_03530229|hazard 1|C1170854|propimex-1
+# O|U>F|FOODON_03530229|hazard 1|C1713534|jevity 1 cal
+# O|U>F|FOODON_03530229|hazard 1|C3201091|alanine/arginine/aspartic acid/cystine/glutamic acid/glycine/histidine/isoleucine/leucine/lysine/methionine/phenylalanine/proline/serine/threonine/tryptophan/tyrosine/valine 38 mg/1 gm-62 mg/1 gm-111 mg/1 gm-111 mg/1 gm-196 mg/1 gm-36 mg/1 gm-23 mg/1 gm-44 mg/1 gm-79 mg/1 gm-60 mg/1 gm-12 mg/1 gm-50 mg/1 gm-48 mg/1 gm-45 mg/1 gm-33 mg/1 gm-12 mg/1 gm-34 mg/1 gm-45 mg/1 gm oral powder for suspension [fearn soya protein isolate]
+# O|U>F|FOODON_03530229|hazard 1|C3244568|alanine/arginine/cystine/glycine/histidine/isoleucine/leucine/lysine/methionine/proline/serine/threonine/tryptophan/tyrosine/valine 1.62 gm/1 packet-1.62 gm/1 packet-0.06 gm/1 packet-0.88 gm/1 packet-0.62 gm/1 packet-2.75 gm/1 packet-3.38 gm/1 packet-1.63 gm/1 packet-0.25 gm/1 packet-1.75 gm/1 packet-0.5 gm/1 packet-0.75 gm/1 packet-0.18 gm/1 packet-0.08 gm/1 packet-2.5 gm/1 packet oral powder for solution
+# O|U>F|FOODON_03530229|hazard 1|C3530834|jevity 1 cal 1000ml enteral suspension
+# O|U>F|FOODON_03530229|hazard 1|C3530835|jevity 1 cal 1500ml enteral suspension
+# O|U>F|FOODON_03530229|hazard 1|C4059507|osmolyte 1 cal
+# O|U>F|FOODON_03530229|hazard 1|C4073402|jevity 1 cal 237ml enteral suspension
+# O|U>F|FOODON_03530229|hazard 1|C4317845|osmolite 1 cal
+# O|U>F|FOODON_03530229|hazard 1|C5919076|nutren 1 cal enteral suspension
+# O|U>F|FOODON_03530230|hazard 2|C0650277|unipit 2
+# O|U>F|FOODON_03530230|hazard 2|C0727375|pku 2
+# O|U>F|FOODON_03530230|hazard 2|C1170816|glutarex-2
+# O|U>F|FOODON_03530230|hazard 2|C1170847|phenex-2
+# O|U>F|FOODON_03530230|hazard 2|C3882786|similac sensitive stage 2
+# O|U>F|FOODON_03530231|hazard 3|C0727376|pku 3
+# O|U>F|FOODON_03530231|hazard 3|C3527938|vsl #3 packet
+# O|U>F|FOODON_03530231|hazard 3|C4318105|vsl#3 (obsolete)
+# O|U>F|FOODON_03530231|hazard 3|C4318106|vsl#3 ds
+# O|U>F|FOODON_03530231|hazard 3|C4318107|vsl#3 ds (obsolete)
+# O|U>F|FOODON_03530232|hazard 4|C2725108|ketocal 4:1powder
+# O|U>F|FOODON_03530237|hazard 9|C0591663|kabimix 9
+# O|U>F|FOODON_03530238|hazard 10|C0939584|phlexy-10
+# O|U>F|FOODON_03530238|hazard 10|C4087033|glutapak-10
+# O|U>F|FOODON_03530251|food (genetically-modified)|C0725688|compleat modified
+# O|U>F|FOODON_03530251|food (genetically-modified)|C0950154|food, genetically modified
+# O|U>F|FOODON_03530251|food (genetically-modified)|C4046302|similac sensitive non-gmo
+# O|U>F|FOODON_03530251|food (genetically-modified)|C4046303|similac go and grow non-gmo
+# O|U>F|FOODON_03530251|food (genetically-modified)|C4046304|similac advance non-gmo
+# O|U>F|FOODON_03530253|organic plant cultivation|C5777177|kindersprout organic plant protein kids nutrition shake (chocolate)
+# O|U>F|FOODON_03530253|organic plant cultivation|C5911310|compleat organic blends plant based liquid
+# O|U>F|FOODON_03530269|color of fruit or vegetable flesh|C1517323|fruit or vegetable
+# O|U>F|FOODON_03530291|organic food production|C1658256|impact recover
+# O|U>F|FOODON_03530291|organic food production|C4032911|impact spikeright
+# O|U>F|FOODON_03540002|00020 - cereals and cereal primary derivatives (efsa foodex2)|C0729308|protein and protein derivatives
+# O|U>F|FOODON_03540028|00280 - barnyard millet (efsa foodex2)|C4018958|japanese millet (substance)
 O|U>F|FOODON_03540059|00590 - emmer wheat grain (efsa foodex2)|C3853225|emmer wheat
 O|U>F|FOODON_03540061|00610 - einkorn wheat grain (efsa foodex2)|C3813723|einkorn wheat (substance)
-O|U>F|FOODON_03540067|00670 - cereal and cereal-like flours (efsa foodex2)|C5761930|pku easy microtabs
+# O|U>F|FOODON_03540067|00670 - cereal and cereal-like flours (efsa foodex2)|C5761930|pku easy microtabs
 O|U>F|FOODON_03540081|00810 - rye flour, wholemeal (efsa foodex2)|C0458989|wholemeal flour
-O|U>F|FOODON_03540119|01190 - wheat bread and rolls, white (refined flour) (efsa foodex2)|C0460226|glutafin gf wf white rolls x4
-O|U>F|FOODON_03540119|01190 - wheat bread and rolls, white (refined flour) (efsa foodex2)|C0460323|glutafin gf wf white rolls
+# O|U>F|FOODON_03540119|01190 - wheat bread and rolls, white (refined flour) (efsa foodex2)|C0460226|glutafin gf wf white rolls x4
+# O|U>F|FOODON_03540119|01190 - wheat bread and rolls, white (refined flour) (efsa foodex2)|C0460323|glutafin gf wf white rolls
 O|U>F|FOODON_03540139|01390 - pizza base, cooked (efsa foodex2)|C0353554|ultra pku pizza base
 O|U>F|FOODON_03540139|01390 - pizza base, cooked (efsa foodex2)|C0460214|schar gf pizza base 250g
 O|U>F|FOODON_03540139|01390 - pizza base, cooked (efsa foodex2)|C0460350|schar gf pizza base
@@ -32419,39 +32419,39 @@ O|U>F|FOODON_03540247|02470 - wafers (efsa foodex2)|C0359427|loprofin lp orange 
 O|U>F|FOODON_03540247|02470 - wafers (efsa foodex2)|C0359428|loprofin lp vanilla wafers
 O|U>F|FOODON_03540247|02470 - wafers (efsa foodex2)|C0359429|loprofin lp chocolate wafers
 O|U>F|FOODON_03540247|02470 - wafers (efsa foodex2)|C0360616|aglutella azeta wafers
-O|U>F|FOODON_03540255|02550 - plain cakes (efsa foodex2)|C0452610|plain fruit cake
-O|U>F|FOODON_03540291|02910 - pastry based on laminated dough (efsa foodex2)|C0452642|danish pastry
-O|U>F|FOODON_03540307|03070 - puddings based on cereal products and/or nuts/fruits and similar (efsa foodex2)|C0453509|bread pudding
-O|U>F|FOODON_03540332|03320 - cereal bars (efsa foodex2)|C0361857|phlexy-10 bars
-O|U>F|FOODON_03540344|03440 - oat high-bran flakes (efsa foodex2)|C0452560|bran flakes
-O|U>F|FOODON_03540386|03860 - red mustard leaves (efsa foodex2)|C0453606|mustard leaves bhaji
+# O|U>F|FOODON_03540255|02550 - plain cakes (efsa foodex2)|C0452610|plain fruit cake
+# O|U>F|FOODON_03540291|02910 - pastry based on laminated dough (efsa foodex2)|C0452642|danish pastry
+# O|U>F|FOODON_03540307|03070 - puddings based on cereal products and/or nuts/fruits and similar (efsa foodex2)|C0453509|bread pudding
+# O|U>F|FOODON_03540332|03320 - cereal bars (efsa foodex2)|C0361857|phlexy-10 bars
+# O|U>F|FOODON_03540344|03440 - oat high-bran flakes (efsa foodex2)|C0452560|bran flakes
+# O|U>F|FOODON_03540386|03860 - red mustard leaves (efsa foodex2)|C0453606|mustard leaves bhaji
 O|U>F|FOODON_03540436|04360 - tannia leaves (efsa foodex2)|C0453145|tannia
-O|U>F|FOODON_03540510|05100 - soyabeans sprouts (efsa foodex2)|C5873211|cytotine max
-O|U>F|FOODON_03540663|06630 - turkey berries (efsa foodex2)|C0005135|berries
-O|U>F|FOODON_03540664|06640 - okra and similar- (efsa foodex2)|C0453631|callaloo and okra
-O|U>F|FOODON_03540708|07080 - root and tuber vegetables (excluding starchy- and sugar-) (efsa foodex2)|C0600054|beets
-O|U>F|FOODON_03540837|08370 - coriander leaves (efsa foodex2)|C0949870|cilantro
-O|U>F|FOODON_03540841|08410 - fenugreek leaves (efsa foodex2)|C0453612|potato and fenugreek leaves bhaji
-O|U>F|FOODON_03540976|09760 - sweet potatoes (efsa foodex2)|C5561062|real foods turkey,sweet potatoes,peaches,pkt,267gm
-O|U>F|FOODON_03540976|09760 - sweet potatoes (efsa foodex2)|C5671772|real food turkey, sweet potatoes, peaches
+# O|U>F|FOODON_03540510|05100 - soyabeans sprouts (efsa foodex2)|C5873211|cytotine max
+# O|U>F|FOODON_03540663|06630 - turkey berries (efsa foodex2)|C0005135|berries
+# O|U>F|FOODON_03540664|06640 - okra and similar- (efsa foodex2)|C0453631|callaloo and okra
+# O|U>F|FOODON_03540708|07080 - root and tuber vegetables (excluding starchy- and sugar-) (efsa foodex2)|C0600054|beets
+# O|U>F|FOODON_03540837|08370 - coriander leaves (efsa foodex2)|C0949870|cilantro
+# O|U>F|FOODON_03540841|08410 - fenugreek leaves (efsa foodex2)|C0453612|potato and fenugreek leaves bhaji
+# O|U>F|FOODON_03540976|09760 - sweet potatoes (efsa foodex2)|C5561062|real foods turkey,sweet potatoes,peaches,pkt,267gm
+# O|U>F|FOODON_03540976|09760 - sweet potatoes (efsa foodex2)|C5671772|real food turkey, sweet potatoes, peaches
 O|U>F|FOODON_03541079|10790 - guar beans (dry) (efsa foodex2)|C0453216|cluster beans
 O|U>F|FOODON_03541082|10820 - lima beans (dry) (efsa foodex2)|C0453214|butter beans
 O|U>F|FOODON_03541084|10840 - mung beans (dry) (efsa foodex2)|C0453223|mung beans
 O|U>F|FOODON_03541102|11020 - pigeon peas (dry) (efsa foodex2)|C0453226|pigeon peas
 O|U>F|FOODON_03541130|11300 - cashew nuts and similar- (efsa foodex2)|C0453338|roasted and salted cashew nuts
 O|U>F|FOODON_03541199|11990 - white mustard seeds (efsa foodex2)|C0304566|mustard white
-O|U>F|FOODON_03541249|12490 - shea nuts (efsa foodex2)|C5559139|butyrospermum parkii butter
-O|U>F|FOODON_03541295|12950 - nigella seed (efsa foodex2)|C3651714|nigella sativa seed oil
-O|U>F|FOODON_03541323|13230 - cloves buds (efsa foodex2)|C2830196|syzygium aromaticum dried flower buds
+# O|U>F|FOODON_03541249|12490 - shea nuts (efsa foodex2)|C5559139|butyrospermum parkii butter
+# O|U>F|FOODON_03541295|12950 - nigella seed (efsa foodex2)|C3651714|nigella sativa seed oil
+# O|U>F|FOODON_03541323|13230 - cloves buds (efsa foodex2)|C2830196|syzygium aromaticum dried flower buds
 O|U>F|FOODON_03541352|13520 - ginger roots (efsa foodex2)|C0936048|root ginger
 O|U>F|FOODON_03541361|13610 - asafetida roots (efsa foodex2)|C1110555|asafetida
 O|U>F|FOODON_03541422|14220 - fruit used as fruit (efsa foodex2)|C0453268|fresh fruit
-O|U>F|FOODON_03541523|15230 - prunus nadia® (efsa foodex2)|C3844128|cereals with some bran or fiber (such as cheerios®, raisin bran®, shredded wheat®, total®, wheaties®, 40% bran flakes®, granola, grape nuts®, muselix®, etc.)
-O|U>F|FOODON_03541523|15230 - prunus nadia® (efsa foodex2)|C3844129|cereals with little bran or fiber (such as corn flakes®, honey nut cheerios®, froot loops®, rice krispies®, kix®, frosted flakes®, special k®, cap'n crunch®, blueberry morning®, product 19®, etc.)
+# O|U>F|FOODON_03541523|15230 - prunus nadia® (efsa foodex2)|C3844128|cereals with some bran or fiber (such as cheerios®, raisin bran®, shredded wheat®, total®, wheaties®, 40% bran flakes®, granola, grape nuts®, muselix®, etc.)
+# O|U>F|FOODON_03541523|15230 - prunus nadia® (efsa foodex2)|C3844129|cereals with little bran or fiber (such as corn flakes®, honey nut cheerios®, froot loops®, rice krispies®, kix®, frosted flakes®, special k®, cap'n crunch®, blueberry morning®, product 19®, etc.)
 O|U>F|FOODON_03541530|15300 - table grapes (efsa foodex2)|C0018208|grapes
 O|U>F|FOODON_03541608|16080 - blackcurrants (efsa foodex2)|C0453315|tinned blackcurrants
 O|U>F|FOODON_03541754|17540 - paw paws (efsa foodex2)|C0453327|tinned paw-paw
-O|U>F|FOODON_03541795|17950 - dried prunes (efsa foodex2)|C0453309|prunes
+# O|U>F|FOODON_03541795|17950 - dried prunes (efsa foodex2)|C0453309|prunes
 O|U>F|FOODON_03541798|17980 - dried vine fruits (raisins etc.) (efsa foodex2)|C0453310|raisins
 O|U>F|FOODON_03541916|19160 - cow, ox or bull fresh meat (efsa foodex2)|C0452849|beef
 O|U>F|FOODON_03541976|19760 - partridge fresh meat (efsa foodex2)|C1262983|partridge - meat
@@ -32463,16 +32463,16 @@ O|U>F|FOODON_03542321|23210 - hilsa shad (efsa foodex2)|C0453024|hilsa (substanc
 O|U>F|FOODON_03542511|25110 - shrimps and prawns (efsa foodex2)|C0678192|prawns
 O|U>F|FOODON_03542525|25250 - abalones, winkles, conchs (efsa foodex2)|C0453065|winkles
 O|U>F|FOODON_03542528|25280 - water snails, conches and whelks (efsa foodex2)|C0453064|whelks
-O|U>F|FOODON_03542550|25500 - cockle and arkshell (efsa foodex2)|C5709700|l-methylfolate glucosamine 25500 mcg oral tablet, extended release, 24 hr [folafy er]
-O|U>F|FOODON_03542550|25500 - cockle and arkshell (efsa foodex2)|C5709825|l-methylfolate glucosamine 25500 mcg oral tablet, extended release, 24 hr
-O|U>F|FOODON_03542613|26130 - fish fingers, breaded (efsa foodex2)|C0453071|fish fingers
+# O|U>F|FOODON_03542550|25500 - cockle and arkshell (efsa foodex2)|C5709700|l-methylfolate glucosamine 25500 mcg oral tablet, extended release, 24 hr [folafy er]
+# O|U>F|FOODON_03542550|25500 - cockle and arkshell (efsa foodex2)|C5709825|l-methylfolate glucosamine 25500 mcg oral tablet, extended release, 24 hr
+# O|U>F|FOODON_03542613|26130 - fish fingers, breaded (efsa foodex2)|C0453071|fish fingers
 O|U>F|FOODON_03542631|26310 - canned sardines (efsa foodex2)|C0453096|sardines canned in oil
-O|U>F|FOODON_03542632|26320 - canned sprats (efsa foodex2)|C0453044|sprats
+# O|U>F|FOODON_03542632|26320 - canned sprats (efsa foodex2)|C0453044|sprats
 O|U>F|FOODON_03542639|26390 - smoked mackerel (efsa foodex2)|C0453034|grilled smoked mackerel
 O|U>F|FOODON_03542645|26450 - dried shrimps and prawns (efsa foodex2)|C0453055|dried prawns
 O|U>F|FOODON_03542653|26530 - cow milk (efsa foodex2)|C5769441|bos taurus milk boiled (substance)
 O|U>F|FOODON_03542693|26930 - yoghurt (efsa foodex2)|C0043419|yogurt
-O|U>F|FOODON_03542704|27040 - yoghurt drinks, including sweetened and/or flavoured variants (efsa foodex2)|C5200756|sweetened drinks
+# O|U>F|FOODON_03542704|27040 - yoghurt drinks, including sweetened and/or flavoured variants (efsa foodex2)|C5200756|sweetened drinks
 O|U>F|FOODON_03542720|27200 - milk and dairy concentrate (efsa foodex2)|C5577233|milk protein concentrate
 O|U>F|FOODON_03542725|27250 - milk powder (efsa foodex2)|C3892304|similac human milk powder pkt
 O|U>F|FOODON_03542727|27270 - milk powder, skimmed (efsa foodex2)|C0453541|instant desert powder made with skimmed milk
