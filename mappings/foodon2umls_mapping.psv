@@ -32473,33 +32473,33 @@ O|U>F|FOODON_03542645|26450 - dried shrimps and prawns (efsa foodex2)|C0453055|d
 O|U>F|FOODON_03542653|26530 - cow milk (efsa foodex2)|C5769441|bos taurus milk boiled (substance)
 O|U>F|FOODON_03542693|26930 - yoghurt (efsa foodex2)|C0043419|yogurt
 # O|U>F|FOODON_03542704|27040 - yoghurt drinks, including sweetened and/or flavoured variants (efsa foodex2)|C5200756|sweetened drinks
-O|U>F|FOODON_03542720|27200 - milk and dairy concentrate (efsa foodex2)|C5577233|milk protein concentrate
-O|U>F|FOODON_03542725|27250 - milk powder (efsa foodex2)|C3892304|similac human milk powder pkt
-O|U>F|FOODON_03542727|27270 - milk powder, skimmed (efsa foodex2)|C0453541|instant desert powder made with skimmed milk
+# O|U>F|FOODON_03542720|27200 - milk and dairy concentrate (efsa foodex2)|C5577233|milk protein concentrate
+# O|U>F|FOODON_03542725|27250 - milk powder (efsa foodex2)|C3892304|similac human milk powder pkt
+# O|U>F|FOODON_03542727|27270 - milk powder, skimmed (efsa foodex2)|C0453541|instant desert powder made with skimmed milk
 O|U>F|FOODON_03542729|27290 - whey powder (efsa foodex2)|C4238160|whey 80 g in 100 g oral powder [americana whey protein supplement]
 O|U>F|FOODON_03542729|27290 - whey powder (efsa foodex2)|C4551897|protein oral powder for suspension [whey protein]
 O|U>F|FOODON_03542729|27290 - whey powder (efsa foodex2)|C5401721|whey protein hydrolysate 12 g in 26 g oral powder, for solution [nourish]
 O|U>F|FOODON_03542729|27290 - whey powder (efsa foodex2)|C5440103|whey protein hydrolysate oral powder for suspension [vital hn]
 O|U>F|FOODON_03542729|27290 - whey powder (efsa foodex2)|C5440226|whey protein hydrolysate oral powder for suspension
 O|U>F|FOODON_03542729|27290 - whey powder (efsa foodex2)|C5440648|whey protein concentrate 5 gram-26 kcal oral powder in packet (ea)
-O|U>F|FOODON_03542736|27360 - quark (efsa foodex2)|C0452803|fromage frais
-O|U>F|FOODON_03542736|27360 - quark (efsa foodex2)|C0452804|plain fromage frais
-O|U>F|FOODON_03542736|27360 - quark (efsa foodex2)|C0452805|fruit fromage frais
-O|U>F|FOODON_03542736|27360 - quark (efsa foodex2)|C0475617|flavored fromage frais
-O|U>F|FOODON_03542868|28680 - cheese, aged graviera (efsa foodex2)|C5785466|aged cheese
-O|U>F|FOODON_03542939|29390 - starchy pudding (efsa foodex2)|C0452492|starchy food
-O|U>F|FOODON_03542947|29470 - dairy snacks (efsa foodex2)|C1170799|ensure caffe latte
-O|U>F|FOODON_03542947|29470 - dairy snacks (efsa foodex2)|C1330731|ensure coffe latte
+# O|U>F|FOODON_03542736|27360 - quark (efsa foodex2)|C0452803|fromage frais
+# O|U>F|FOODON_03542736|27360 - quark (efsa foodex2)|C0452804|plain fromage frais
+# O|U>F|FOODON_03542736|27360 - quark (efsa foodex2)|C0452805|fruit fromage frais
+# O|U>F|FOODON_03542736|27360 - quark (efsa foodex2)|C0475617|flavored fromage frais
+# O|U>F|FOODON_03542868|28680 - cheese, aged graviera (efsa foodex2)|C5785466|aged cheese
+# O|U>F|FOODON_03542939|29390 - starchy pudding (efsa foodex2)|C0452492|starchy food
+# O|U>F|FOODON_03542947|29470 - dairy snacks (efsa foodex2)|C1170799|ensure caffe latte
+# O|U>F|FOODON_03542947|29470 - dairy snacks (efsa foodex2)|C1330731|ensure coffe latte
 O|U>F|FOODON_03542972|29720 - egg powder (efsa foodex2)|C5561278|egg oral powder
-O|U>F|FOODON_03542972|29720 - egg powder (efsa foodex2)|C5698729|arabinogalactan/egg 1 gm/1 scoopful-4.5 gm/1 scoopful oral powder [ig 26 plus df]
-O|U>F|FOODON_03542972|29720 - egg powder (efsa foodex2)|C5698810|arabinogalactan/egg 1 gm/1 scoopful-4.5 gm/1 scoopful oral powder
+# O|U>F|FOODON_03542972|29720 - egg powder (efsa foodex2)|C5698729|arabinogalactan/egg 1 gm/1 scoopful-4.5 gm/1 scoopful oral powder [ig 26 plus df]
+# O|U>F|FOODON_03542972|29720 - egg powder (efsa foodex2)|C5698810|arabinogalactan/egg 1 gm/1 scoopful-4.5 gm/1 scoopful oral powder
 O|U>F|FOODON_03542972|29720 - egg powder (efsa foodex2)|C5782902|egg 2 gm/1 scoopful oral powder [ig 26 df]
 O|U>F|FOODON_03542972|29720 - egg powder (efsa foodex2)|C5782957|egg 2 gm/1 scoopful oral powder
 O|U>F|FOODON_03542993|29930 - sugar, icing - powder (efsa foodex2)|C0349714|sugar icing
 O|U>F|FOODON_03542993|29930 - sugar, icing - powder (efsa foodex2)|C0459824|icing sugar
 O|U>F|FOODON_03542993|29930 - sugar, icing - powder (efsa foodex2)|C3505442|confectioners sugar bulk powder
 O|U>F|FOODON_03543000|30000 - syrups (molasses and other syrups) (efsa foodex2)|C0175903|syrups (carbonated beverages)
-O|U>F|FOODON_03543040|30400 - couverture chocolate (efsa foodex2)|C0453440|cooking chocolate
+# O|U>F|FOODON_03543040|30400 - couverture chocolate (efsa foodex2)|C0453440|cooking chocolate
 O|U>F|FOODON_03543042|30420 - gianduja chocolate (efsa foodex2)|C3853240|gianduja
 O|U>F|FOODON_03543066|30660 - loukoumi (efsa foodex2)|C0453452|turkish delight
 O|U>F|FOODON_03543066|30660 - loukoumi (efsa foodex2)|C0458198|turkish delight with nuts
@@ -32510,12 +32510,12 @@ O|U>F|FOODON_03543184|31840 - juice, guava (efsa foodex2)|C4074328|guava juice
 O|U>F|FOODON_03543187|31870 - juice, mango (efsa foodex2)|C3256421|mango juice
 O|U>F|FOODON_03543192|31920 - juice, pomegranate (efsa foodex2)|C1327962|pomegranate juice
 O|U>F|FOODON_03543214|32140 - juice, cucumber (efsa foodex2)|C3256210|cucumber juice
-O|U>F|FOODON_03543216|32160 - mixed vegetable juice (efsa foodex2)|C0453662|mixed vegetable curry
+# O|U>F|FOODON_03543216|32160 - mixed vegetable juice (efsa foodex2)|C0453662|mixed vegetable curry
 O|U>F|FOODON_03543254|32540 - aloe vera juice (efsa foodex2)|C2980462|aloe vera juice kiwi-strawberry
 O|U>F|FOODON_03543254|32540 - aloe vera juice (efsa foodex2)|C2981136|aloe vera juice orange-papaya
 O|U>F|FOODON_03543254|32540 - aloe vera juice (efsa foodex2)|C4474022|nutritional supplement oral liquid [aloe vera juice]
 O|U>F|FOODON_03543254|32540 - aloe vera juice (efsa foodex2)|C5187826|aloe vera leaf 99.5 g in 100 ml oral solution [aloevora juice pure]
-O|U>F|FOODON_03543297|32970 - fruit soft drink, pomegranate (efsa foodex2)|C5919319|ensure clear nutrition drink (blueberry pomegranate)
+# O|U>F|FOODON_03543297|32970 - fruit soft drink, pomegranate (efsa foodex2)|C5919319|ensure clear nutrition drink (blueberry pomegranate)
 O|U>F|FOODON_03543301|33010 - diet soft drinks with flavours (efsa foodex2)|C5197815|diet drinks
 O|U>F|FOODON_03543333|33330 - lager beer (efsa foodex2)|C0452472|low carbohydrate lager
 O|U>F|FOODON_03543333|33330 - lager beer (efsa foodex2)|C0452473|high alcohol lager
@@ -32523,14 +32523,14 @@ O|U>F|FOODON_03543333|33330 - lager beer (efsa foodex2)|C0454275|strong lager
 O|U>F|FOODON_03543334|33340 - beer, strong (efsa foodex2)|C0454274|strong beer
 O|U>F|FOODON_03543335|33350 - beer, regular (efsa foodex2)|C0452245|lager
 O|U>F|FOODON_03543335|33350 - beer, regular (efsa foodex2)|C0678383|regular beer
-O|U>F|FOODON_03543336|33360 - beer, light (efsa foodex2)|C0678382|beer by alcohol content
-O|U>F|FOODON_03543384|33840 - whisky (efsa foodex2)|C0452229|bourbon
-O|U>F|FOODON_03543388|33880 - spirits made from stone fruits (efsa foodex2)|C0678416|slivovitz
+# O|U>F|FOODON_03543336|33360 - beer, light (efsa foodex2)|C0678382|beer by alcohol content
+# O|U>F|FOODON_03543384|33840 - whisky (efsa foodex2)|C0452229|bourbon
+# O|U>F|FOODON_03543388|33880 - spirits made from stone fruits (efsa foodex2)|C0678416|slivovitz
 O|U>F|FOODON_03543409|34090 - robusta coffee beans (efsa foodex2)|C0678439|coffea robusta
 O|U>F|FOODON_03543416|34160 - instant coffee powder (efsa foodex2)|C0732178|oral impact 74g/sachet coffee powder
 O|U>F|FOODON_03543416|34160 - instant coffee powder (efsa foodex2)|C0732181|oral impact coffee powder 74g
-O|U>F|FOODON_03543417|34170 - instant coffee powder, decaffeinated (efsa foodex2)|C2683395|phenyl-free 1 powder
-O|U>F|FOODON_03543417|34170 - instant coffee powder, decaffeinated (efsa foodex2)|C2700781|phenyl-free 2 hp powder
+# O|U>F|FOODON_03543417|34170 - instant coffee powder, decaffeinated (efsa foodex2)|C2683395|phenyl-free 1 powder
+# O|U>F|FOODON_03543417|34170 - instant coffee powder, decaffeinated (efsa foodex2)|C2700781|phenyl-free 2 hp powder
 O|U>F|FOODON_03543425|34250 - barley coffee ingredient (efsa foodex2)|C5880948|barley coffee
 O|U>F|FOODON_03543696|36960 - unspecified hot drink ingredients (efsa foodex2)|C0459797|hot drink
 O|U>F|FOODON_03543750|37500 - infant formulae, powder (efsa foodex2)|C0353242|kindergen infant/child powder 400g
@@ -32547,12 +32547,12 @@ O|U>F|FOODON_03543762|37620 - followXn formula, milk-based, powder (efsa foodex2
 O|U>F|FOODON_03543798|37980 - carbohydrate-electrolyte solutions for sports people (efsa foodex2)|C0704253|electrolyte replacement solutions, oral oral solution
 O|U>F|FOODON_03543798|37980 - carbohydrate-electrolyte solutions for sports people (efsa foodex2)|C5201025|electrolyte replacement solutions, oral oral powder for reconstitution
 O|U>F|FOODON_03543802|38020 - dietary foods for special medical purposes (efsa foodex2)|C5574642|medical foods for non-inborn errors of metabolism
-O|U>F|FOODON_03543803|38030 - nutritionally complete formulae (efsa foodex2)|C1276834|foodlink complete
-O|U>F|FOODON_03543805|38050 - formulas for metabolic disorders (efsa foodex2)|C5709616|jarrow formulas baby's big support
-O|U>F|FOODON_03543805|38050 - formulas for metabolic disorders (efsa foodex2)|C5709623|jarrow formulas mct oil
+# O|U>F|FOODON_03543803|38030 - nutritionally complete formulae (efsa foodex2)|C1276834|foodlink complete
+# O|U>F|FOODON_03543805|38050 - formulas for metabolic disorders (efsa foodex2)|C5709616|jarrow formulas baby's big support
+# O|U>F|FOODON_03543805|38050 - formulas for metabolic disorders (efsa foodex2)|C5709623|jarrow formulas mct oil
 O|U>F|FOODON_03543813|38130 - miscellaneous supplements or nutraceuticals (efsa foodex2)|C1518478|nutraceuticals
-O|U>F|FOODON_03543819|38190 - formulations containing special fatty acids (e.g. omega-3, essential fatty acids) (efsa foodex2)|C0520091|enteral formula, nutritionally incomplete/modular nutrients, includes specific nutrients, carbohydrates (e.g., glucose polymers), proteins/amino acids (e.g., glutamine, arginine), fat (e.g., medium chain triglycerides) or combination, administered through an enteral feeding tube, 100 calories = 1 unit
-O|U>F|FOODON_03543819|38190 - formulations containing special fatty acids (e.g. omega-3, essential fatty acids) (efsa foodex2)|C0728448|travasorb mct
+# O|U>F|FOODON_03543819|38190 - formulations containing special fatty acids (e.g. omega-3, essential fatty acids) (efsa foodex2)|C0520091|enteral formula, nutritionally incomplete/modular nutrients, includes specific nutrients, carbohydrates (e.g., glucose polymers), proteins/amino acids (e.g., glutamine, arginine), fat (e.g., medium chain triglycerides) or combination, administered through an enteral feeding tube, 100 calories = 1 unit
+# O|U>F|FOODON_03543819|38190 - formulations containing special fatty acids (e.g. omega-3, essential fatty acids) (efsa foodex2)|C0728448|travasorb mct
 O|U>F|FOODON_03543820|38200 - protein and amino acids supplements (efsa foodex2)|C0938345|amino acids/protein hydrolysate oral liquid (ml)
 O|U>F|FOODON_03543820|38200 - protein and amino acids supplements (efsa foodex2)|C2241641|amino acids/protein hydrolysate 10 gram-101 kcal/30 ml oral liquid (ml)
 O|U>F|FOODON_03543820|38200 - protein and amino acids supplements (efsa foodex2)|C2241642|amino acids/protein hydrolysate 15 gram-101 kcal/30 ml oral liquid (ml)
@@ -32571,58 +32571,58 @@ O|U>F|FOODON_03543820|38200 - protein and amino acids supplements (efsa foodex2)
 O|U>F|FOODON_03543820|38200 - protein and amino acids supplements (efsa foodex2)|C4256838|amino acids/protein hydrolysate/fiber 15 gram-100 kcal/30 ml oral liquid (ml)
 O|U>F|FOODON_03543820|38200 - protein and amino acids supplements (efsa foodex2)|C5450025|amino acids/protein hydrolysate 16 gram-100 kcal/30 ml oral liquid (ml)
 O|U>F|FOODON_03543826|38260 - meat imitates (efsa foodex2)|C5828302|meat substitutes
-O|U>F|FOODON_03543828|38280 - textured fungal proteins (efsa foodex2)|C0453726|quorn korma
-O|U>F|FOODON_03543828|38280 - textured fungal proteins (efsa foodex2)|C0475632|quorn chilli
-O|U>F|FOODON_03543828|38280 - textured fungal proteins (efsa foodex2)|C5706305|quorn
+# O|U>F|FOODON_03543828|38280 - textured fungal proteins (efsa foodex2)|C0453726|quorn korma
+# O|U>F|FOODON_03543828|38280 - textured fungal proteins (efsa foodex2)|C0475632|quorn chilli
+# O|U>F|FOODON_03543828|38280 - textured fungal proteins (efsa foodex2)|C5706305|quorn
 O|U>F|FOODON_03543831|38310 - milk imitates (efsa foodex2)|C0282247|milk substitutes
 O|U>F|FOODON_03543840|38400 - non dairy coffee creamer (efsa foodex2)|C3853321|non-dairy creamer
-O|U>F|FOODON_03543844|38440 - imitation yoghurt, non soy (efsa foodex2)|C4555706|haelan 951 fermented organic non gmo soy beve
-O|U>F|FOODON_03543844|38440 - imitation yoghurt, non soy (efsa foodex2)|C4555707|haelan htpi fermented organic non gmo soy bev
-O|U>F|FOODON_03543845|38450 - composite dishes (efsa foodex2)|C0453586|aubergine dishes
+# O|U>F|FOODON_03543844|38440 - imitation yoghurt, non soy (efsa foodex2)|C4555706|haelan 951 fermented organic non gmo soy beve
+# O|U>F|FOODON_03543844|38440 - imitation yoghurt, non soy (efsa foodex2)|C4555707|haelan htpi fermented organic non gmo soy bev
+# O|U>F|FOODON_03543845|38450 - composite dishes (efsa foodex2)|C0453586|aubergine dishes
 O|U>F|FOODON_03543848|38480 - meat based dishes (efsa foodex2)|C0453474|meat dishes
 O|U>F|FOODON_03543874|38740 - omelette, plain (efsa foodex2)|C0453465|plain omelette
 O|U>F|FOODON_03543880|38800 - potato based dishes (efsa foodex2)|C0453723|potato dishes
-O|U>F|FOODON_03543881|38810 - shepherd's pie (efsa foodex2)|C0453484|cottage pie
+# O|U>F|FOODON_03543881|38810 - shepherd's pie (efsa foodex2)|C0453484|cottage pie
 O|U>F|FOODON_03543891|38910 - french fries from cut potato (efsa foodex2)|C0453155|thick cut french fries
 O|U>F|FOODON_03543891|38910 - french fries from cut potato (efsa foodex2)|C0453156|thin cut french fries
-O|U>F|FOODON_03543892|38920 - french fries from dough (efsa foodex2)|C0453162|microwave french fries
-O|U>F|FOODON_03543892|38920 - french fries from dough (efsa foodex2)|C0453163|oven french fries
-O|U>F|FOODON_03543892|38920 - french fries from dough (efsa foodex2)|C1510451|french fries
+# O|U>F|FOODON_03543892|38920 - french fries from dough (efsa foodex2)|C0453162|microwave french fries
+# O|U>F|FOODON_03543892|38920 - french fries from dough (efsa foodex2)|C0453163|oven french fries
+# O|U>F|FOODON_03543892|38920 - french fries from dough (efsa foodex2)|C1510451|french fries
 O|U>F|FOODON_03543898|38980 - mushy peas (efsa foodex2)|C0453205|canned mushy peas
 O|U>F|FOODON_03543900|39000 - dal (efsa foodex2)|C0453681|dal dhokari
 O|U>F|FOODON_03543907|39070 - vegetable based dishes (efsa foodex2)|C0453585|vegetable dishes
 O|U>F|FOODON_03543909|39090 - vegetable casserole (efsa foodex2)|C0453634|vegetable casserole made with beans and root vegetables
-O|U>F|FOODON_03543940|39400 - pizza and similar with cheese, and vegetables (efsa foodex2)|C0453589|aubergine stuffed with vegetables and cheese
-O|U>F|FOODON_03543944|39440 - savoury pies and tarts (efsa foodex2)|C0453488|meat pie
-O|U>F|FOODON_03543944|39440 - savoury pies and tarts (efsa foodex2)|C0453790|vegetable pie
-O|U>F|FOODON_03543956|39560 - vol au vent (efsa foodex2)|C0452233|cheese pastry
-O|U>F|FOODON_03543967|39670 - pasta, cooked, with mushroom sauce (efsa foodex2)|C0453372|pasta sauce
+# O|U>F|FOODON_03543940|39400 - pizza and similar with cheese, and vegetables (efsa foodex2)|C0453589|aubergine stuffed with vegetables and cheese
+# O|U>F|FOODON_03543944|39440 - savoury pies and tarts (efsa foodex2)|C0453488|meat pie
+# O|U>F|FOODON_03543944|39440 - savoury pies and tarts (efsa foodex2)|C0453790|vegetable pie
+# O|U>F|FOODON_03543956|39560 - vol au vent (efsa foodex2)|C0452233|cheese pastry
+# O|U>F|FOODON_03543967|39670 - pasta, cooked, with mushroom sauce (efsa foodex2)|C0453372|pasta sauce
 O|U>F|FOODON_03543973|39730 - rice based dishes, cooked (efsa foodex2)|C0453730|rice dishes
-O|U>F|FOODON_03544001|40010 - meat soup, clear (efsa foodex2)|C0453847|clear fluid
-O|U>F|FOODON_03544001|40010 - meat soup, clear (efsa foodex2)|C3892323|pediasure sidekicks clear liq
-O|U>F|FOODON_03544005|40050 - corn semolina based thick soup (efsa foodex2)|C4080946|thick & easy gum based pwdr
-O|U>F|FOODON_03544005|40050 - corn semolina based thick soup (efsa foodex2)|C4291388|thick & easy (honey) gum based pwdr,pkt,2.2gm
-O|U>F|FOODON_03544005|40050 - corn semolina based thick soup (efsa foodex2)|C5553365|thick & easy (honey) gum based pwdr,pkt,3.2gm
-O|U>F|FOODON_03544016|40160 - mixed vegetables soup, clear (efsa foodex2)|C0453633|vegetable casserole made with beans and mixed vegetables
+# O|U>F|FOODON_03544001|40010 - meat soup, clear (efsa foodex2)|C0453847|clear fluid
+# O|U>F|FOODON_03544001|40010 - meat soup, clear (efsa foodex2)|C3892323|pediasure sidekicks clear liq
+# O|U>F|FOODON_03544005|40050 - corn semolina based thick soup (efsa foodex2)|C4080946|thick & easy gum based pwdr
+# O|U>F|FOODON_03544005|40050 - corn semolina based thick soup (efsa foodex2)|C4291388|thick & easy (honey) gum based pwdr,pkt,2.2gm
+# O|U>F|FOODON_03544005|40050 - corn semolina based thick soup (efsa foodex2)|C5553365|thick & easy (honey) gum based pwdr,pkt,3.2gm
+# O|U>F|FOODON_03544016|40160 - mixed vegetables soup, clear (efsa foodex2)|C0453633|vegetable casserole made with beans and mixed vegetables
 O|U>F|FOODON_03544021|40210 - mixed green salad (efsa foodex2)|C0453751|green salad
 O|U>F|FOODON_03544026|40260 - prepared pasta salad (efsa foodex2)|C0453752|pasta salad
 O|U>F|FOODON_03544027|40270 - prepared rice salad (efsa foodex2)|C0453757|rice salad
 O|U>F|FOODON_03544028|40280 - prepared nut salad (efsa foodex2)|C0453744|carrot and nut salad with mayonnaise
-O|U>F|FOODON_03544033|40330 - fried or extruded cereal, seed or root-based products (efsa foodex2)|C0453863|snacks
+# O|U>F|FOODON_03544033|40330 - fried or extruded cereal, seed or root-based products (efsa foodex2)|C0453863|snacks
 O|U>F|FOODON_03544036|40360 - potato crisps or sticks (efsa foodex2)|C0349380|potato chips
 O|U>F|FOODON_03544036|40360 - potato crisps or sticks (efsa foodex2)|C0458209|square potato chips
-O|U>F|FOODON_03544036|40360 - potato crisps or sticks (efsa foodex2)|C0458211|potato and corn sticks
+# O|U>F|FOODON_03544036|40360 - potato crisps or sticks (efsa foodex2)|C0458211|potato and corn sticks
 O|U>F|FOODON_03544045|40450 - mixed cereal-based snacks (efsa foodex2)|C0458205|mixed cereal and potato snacks
 O|U>F|FOODON_03544047|40470 - tapioca starch-based snacks (efsa foodex2)|C0458212|potato and tapioca snacks
 O|U>F|FOODON_03544064|40640 - indian spice mixes and similar (other than curry powder) (efsa foodex2)|C0453258|garam masala
-O|U>F|FOODON_03544068|40680 - gravy ingredients (efsa foodex2)|C0728412|tolerex packet
-O|U>F|FOODON_03544068|40680 - gravy ingredients (efsa foodex2)|C0728451|travasorb std packet
-O|U>F|FOODON_03544068|40680 - gravy ingredients (efsa foodex2)|C3255329|resource beneprotein packet
-O|U>F|FOODON_03544068|40680 - gravy ingredients (efsa foodex2)|C3892337|juven packet
-O|U>F|FOODON_03544068|40680 - gravy ingredients (efsa foodex2)|C4032887|tolrex packet
+# O|U>F|FOODON_03544068|40680 - gravy ingredients (efsa foodex2)|C0728412|tolerex packet
+# O|U>F|FOODON_03544068|40680 - gravy ingredients (efsa foodex2)|C0728451|travasorb std packet
+# O|U>F|FOODON_03544068|40680 - gravy ingredients (efsa foodex2)|C3255329|resource beneprotein packet
+# O|U>F|FOODON_03544068|40680 - gravy ingredients (efsa foodex2)|C3892337|juven packet
+# O|U>F|FOODON_03544068|40680 - gravy ingredients (efsa foodex2)|C4032887|tolrex packet
 O|U>F|FOODON_03544071|40710 - gravy instant granules (efsa foodex2)|C0453393|gravy granules
-O|U>F|FOODON_03544111|41110 - soy sauce (efsa foodex2)|C3853239|tamari
-O|U>F|FOODON_03544139|41390 - pickles (efsa foodex2)|C2957980|salivary stimulators sour pickles
+# O|U>F|FOODON_03544111|41110 - soy sauce (efsa foodex2)|C3853239|tamari
+*O|U>F|FOODON_03544139|41390 - pickles (efsa foodex2)|C2957980|salivary stimulators sour pickles
 O|U>F|FOODON_03544155|41550 - milk protein (efsa foodex2)|C3161984|casein hydrolysate milk
 O|U>F|FOODON_03544157|41570 - soya proteins (efsa foodex2)|C0771806|soya flour
 O|U>F|FOODON_03544187|41870 - apple green flavour (efsa foodex2)|C1950107|green apple, artificial flavor
