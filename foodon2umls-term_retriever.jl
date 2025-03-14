@@ -1,3 +1,11 @@
+
+# This script fetches all the terms from the FOODON ontology using the OLS API and writes them to a file.
+# It also fetches all the food terms from the UMLS directory and writes them to a file.
+
+# the output files are written in the src_terms directory
+
+
+
 using HTTP
 using JSON
 using FilePathsBase
