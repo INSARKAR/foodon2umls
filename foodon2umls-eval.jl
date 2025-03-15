@@ -30,6 +30,7 @@ function main()
     fn_ols_count = 0
     fn_umlsapi_count = 0
 
+    foodon_id_set = Set{String}()
 
 
     # read in the mapping file
@@ -43,6 +44,8 @@ function main()
         foodon_term = line_parts[4]
         umls_cui = line_parts[5]
         umls_term = line_parts[6]
+
+        foodon_id_set = push!(foodon_id_set, foodon_id)
 
         if mapping_result == "D"
 
@@ -67,17 +70,6 @@ function main()
             tp_umlsapi_count += 1
         end
 
-        if mapping_result == "N"
-
-            fn_total_count += 1
-
-            if mapping_type == "U>F"
-                fn_ols_count += 1
-            elseif mapping_type == "F>U"
-                fn_umlsapi_count += 1
-            end
-        end
-
         if mapping_result == "X"
 
             fp_total_count += 1
@@ -92,6 +84,12 @@ function main()
       
     end
 
+
+
+    fn_total_count = length(foodon_id_set) - tp_total_count - fp_total_count
+    fn_ols_count = length(foodon_id_set) - tp_ols_count - fp_ols_count
+    fn_umlsapi_count = length(foodon_id_set) - tp_umlsapi_count - fp_umlsapi_count
+
     total_pr = pr(tp_total_count, fp_total_count)
     total_rc = rc(tp_total_count, fn_total_count)
     total_f1 = f1(total_pr, total_rc)
@@ -103,6 +101,9 @@ function main()
     f2u_pr = pr(tp_umlsapi_count, fp_umlsapi_count)
     f2u_rc = rc(tp_umlsapi_count, fn_umlsapi_count)
     f2u_f1 = f1(f2u_pr, f2u_rc)
+
+    println("Performance statistics for foodon2umls mapping ($(length(foodon_id_set)) foodon terms)")
+    println()
 
     println("Total TP: ", tp_total_count)
     println("Total FP: ", fp_total_count)
