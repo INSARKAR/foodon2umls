@@ -8,6 +8,9 @@ function rc(tp, fn)
     return tp / (tp + fn)
 end
 
+function f1(pr, rc)
+    return 2 * pr * rc / (pr + rc)
+end
 
 function main()
 
@@ -91,33 +94,45 @@ function main()
 
     total_pr = pr(tp_total_count, fp_total_count)
     total_rc = rc(tp_total_count, fn_total_count)
+    total_f1 = f1(total_pr, total_rc)
 
     u2f_pr = pr(tp_ols_count, fp_ols_count)
     u2f_rc = rc(tp_ols_count, fn_ols_count)
+    u2f_f1 = f1(u2f_pr, u2f_rc)
 
     f2u_pr = pr(tp_umlsapi_count, fp_umlsapi_count)
     f2u_rc = rc(tp_umlsapi_count, fn_umlsapi_count)
+    f2u_f1 = f1(f2u_pr, f2u_rc)
 
     println("Total TP: ", tp_total_count)
     println("Total FP: ", fp_total_count)
     println("Total FN: ", fn_total_count)
+    println()
 
     println("OLS TP: ", tp_ols_count)
     println("OLS FP: ", fp_ols_count)
     println("OLS FN: ", fn_ols_count)
+    println()
 
     println("UMLS API TP: ", tp_umlsapi_count)
     println("UMLS API FP: ", fp_umlsapi_count)
     println("UMLS API FN: ", fn_umlsapi_count)
+    println()
 
     println("Total Precision: ", total_pr)
-    println("Total Recall: ", total_rc) 
+    println("Total Recall: ", total_rc)     
+    println("Total F1 Score: ", total_f1)
+    println()
 
     println("UMLS API Precision: ", f2u_pr)
     println("UMLS API Recall: ", f2u_rc)
+    println("UMLS API F1 Score: ", f2u_f1)
+    println()
 
     println("OLS Precision: ", u2f_pr)
     println("OLS Recall: ", u2f_rc)
+    println("OLS F1 Score: ", u2f_f1)
+    println()
 end
 
 main()
