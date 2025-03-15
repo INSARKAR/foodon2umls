@@ -26893,63 +26893,63 @@ U|F>U|FOODON_00001290|salad dressing|C0453382|Salad Dressing
 U|F>U|FOODON_00001310|mum|C1009574|Chrysanthemum x morifolium
 U|F>U|FOODON_00001579|alcoholic beverage|C0001967|Alcoholic Beverages
 U|F>U|FOODON_00001710|chamomile tea|C1350499|Chamomile Tea
-# U|F>U|FOODON_00001720|cherry pie|C0330657|Prunus cerasus
+X|F>U|FOODON_00001720|cherry pie|C0330657|Prunus cerasus
 U|F>U|FOODON_00001764|corn snack|C0453419|Corn snacks
-# U|F>U|FOODON_00001873|food spread|C0564319|Does spread food
+X|F>U|FOODON_00001873|food spread|C0564319|Does spread food
 U|F>U|FOODON_00002057|nonalcoholic beverage|C0237492|Nonalcoholic Beverages
 U|F>U|FOODON_00002158|food (preserved)|C0016500|Food, Preserved
 U|F>U|FOODON_00002207|rice flour|C1509548|Rice Flour
-# U|F>U|FOODON_00002387|an|C1423519|DIAPH3 gene
+X|F>U|FOODON_00002387|an|C1423519|DIAPH3 gene
 U|F>U|FOODON_00002416|food canning|C0016494|Food, Canned
 U|F>U|FOODON_00002424|roquefort cheese|C0452786|Roquefort cheese
 U|F>U|FOODON_00002429|convenience food|C0344355|Fast Foods
 U|F>U|FOODON_00002439|endive|C1304560|Endive - dietary
-# U|F>U|FOODON_00002455|food (sliced)|C0564313|Does slice food
+X|F>U|FOODON_00002455|food (sliced)|C0564313|Does slice food
 U|F>U|FOODON_00002457|food (fresh)|C0453829|Fresh food
 U|F>U|FOODON_00002465|scone|C0452663|Scone
-# U|F>U|FOODON_00002473|apple|C2702351|apple allergenic extract
-# U|F>U|FOODON_00002476|pie|C5781854|Pie (dietary)
-# U|F>U|FOODON_00002505|dairy cattle|C0175925|Cattle for milk production
-# U|F>U|FOODON_00002507|taurine cattle|C1140701|Bos taurus
+X|F>U|FOODON_00002473|apple|C2702351|apple allergenic extract
+X|F>U|FOODON_00002476|pie|C5781854|Pie (dietary)
+X|F>U|FOODON_00002505|dairy cattle|C0175925|Cattle for milk production
+X|F>U|FOODON_00002507|taurine cattle|C1140701|Bos taurus
 U|F>U|FOODON_00002518|heifer|C3669723|Female cattle prior to birth of first calf
 U|F>U|FOODON_00002521|beetle larva|C0322554|Order Coleoptera larva
 U|F>U|FOODON_00002522|darkling beetle|C0322556|Darkling beetle
 U|F>U|FOODON_00002524|mealworm|C0039511|Tenebrio
 U|F>U|FOODON_00002525|rhinoceros beetle|C1029404|Oryctes rhinoceros
-# U|F>U|FOODON_00002529|masa|C1306372|Mass, a measure of quantity of matter
-# U|F>U|FOODON_00002532|naan|C1140111|North American Nursing Diagnosis Association (NANDA) Classification of Nursing Diagnoses
-# U|F>U|FOODON_00002533|nachos|C1540006|TMEM35A gene
+X|F>U|FOODON_00002529|masa|C1306372|Mass, a measure of quantity of matter
+X|F>U|FOODON_00002532|naan|C1140111|North American Nursing Diagnosis Association (NANDA) Classification of Nursing Diagnoses
+X|F>U|FOODON_00002533|nachos|C1540006|TMEM35A gene
 U|F>U|FOODON_00002536|potato waffle|C0453183|Potato waffle
 U|F>U|FOODON_00002557|black pudding|C0452935|Black pudding
 U|F>U|FOODON_00002567|frog leg|C2348716|Frog leg
 U|F>U|FOODON_00002568|grape seed|C0772453|grape seed
-# U|F>U|FOODON_00002576|bean sprout|C2346973|bean sprout extract
-# U|F>U|FOODON_00002638|penne|C0015731|Feathers
-# U|F>U|FOODON_00002650|food (colored)|C0016461|Food Coloring Agents
+X|F>U|FOODON_00002576|bean sprout|C2346973|bean sprout extract
+X|F>U|FOODON_00002638|penne|C0015731|Feathers
+X|F>U|FOODON_00002650|food (colored)|C0016461|Food Coloring Agents
 U|F>U|FOODON_00002657|food (steamed)|C0459124|Steamed food
 U|F>U|FOODON_00002660|food (fried)|C0453811|Fried food
-# U|F>U|FOODON_00002667|allspice|C2729481|allspice allergenic extract
+X|F>U|FOODON_00002667|allspice|C2729481|allspice allergenic extract
 U|F>U|FOODON_00002681|milk fat|C0991850|MILK FAT
 U|F>U|FOODON_00002684|mustard greens|C2740643|mustard greens allergenic extract
 U|F>U|FOODON_00002685|navy bean|C4276070|navy bean
 U|F>U|FOODON_00002686|spiny lobster|C3424142|Pontophilus spinosus
 U|F>U|FOODON_00002688|food (boiled)|C0459123|Boiled food
 U|F>U|FOODON_00002693|alpaca|C0002186|Vicugna pacos
-# U|F>U|FOODON_00002703|chicken breast|C2939416|Pectus carinatum
-# U|F>U|FOODON_00002705|chicken liver|C2699174|chicken liver preparation
-# U|F>U|FOODON_00002707|food cleaning|C0459137|Clean food
+X|F>U|FOODON_00002703|chicken breast|C2939416|Pectus carinatum
+X|F>U|FOODON_00002705|chicken liver|C2699174|chicken liver preparation
+X|F>U|FOODON_00002707|food cleaning|C0459137|Clean food
 U|F>U|FOODON_00002708|food (cleaned)|C0459137|Clean food
 U|F>U|FOODON_00002711|cracker|C0452505|Cracker
-# U|F>U|FOODON_00002713|food (ground)|C3714292|Ground food
-# U|F>U|FOODON_00002717|fly|C0677530|Flying body movement
+X|F>U|FOODON_00002713|food (ground)|C3714292|Ground food
+X|F>U|FOODON_00002717|fly|C0677530|Flying body movement
 U|F>U|FOODON_00002723|mink|C0026179|Mink
-# U|F>U|FOODON_00002726|parrot|C1384490|Family Psittacidae (organism)
-# U|F>U|FOODON_00002727|parakeet|C1442962|Parakeet antigen
+X|F>U|FOODON_00002726|parrot|C1384490|Family Psittacidae (organism)
+X|F>U|FOODON_00002727|parakeet|C1442962|Parakeet antigen
 U|F>U|FOODON_00002729|pork sausage|C0452950|Pork sausage
 U|F>U|FOODON_00002734|roast beef|C0452858|Roast beef
-# U|F>U|FOODON_00002739|food (packaged)|C0282490|Food Packaging
+X|F>U|FOODON_00002739|food (packaged)|C0282490|Food Packaging
 U|F>U|FOODON_00002752|bean (dried)|C5554867|Dried Bean
-# U|F>U|FOODON_00002753|bean|C2677573|BEAN1 gene
+X|F>U|FOODON_00002753|bean|C2677573|BEAN1 gene
 U|F>U|FOODON_00002761|kidney bean|C0973452|Kidney Bean (dietary)
 U|F>U|FOODON_00002765|bean pod|C0937911|bean pod
 U|F>U|FOODON_00002775|bambara groundnut|C5702550|Bambara groundnut extract
@@ -26961,20 +26961,20 @@ U|F>U|FOODON_00002826|haggis|C0452938|Haggis
 U|F>U|FOODON_00002831|cannelloni|C0452695|Cannelloni
 U|F>U|FOODON_00002835|paratha|C0452540|Paratha
 U|F>U|FOODON_00002855|vegetable oil (hydrogenated)|C0982446|hydrogenated vegetable oil
-# U|F>U|FOODON_00002870|nattō|C5445267|Natto Extract
-# U|F>U|FOODON_00002878|sōmen|C0037643|Soman
+X|F>U|FOODON_00002870|nattō|C5445267|Natto Extract
+X|F>U|FOODON_00002878|sōmen|C0037643|Soman
 U|F>U|FOODON_00002884|tea seed oil|C1879986|Camellia oil
 U|F>U|FOODON_00002890|heron|C0325437|Heron (bird)
-# U|F>U|FOODON_00002900|scad|C1412108|ACADS gene
+X|F>U|FOODON_00002900|scad|C1412108|ACADS gene
 U|F>U|FOODON_00002901|golden pompano|C1910166|Trachinotus blochii
 U|F>U|FOODON_00002905|sillago|C1010635|Sillago
 U|F>U|FOODON_00002907|walking catfish|C0259885|Clarias batrachus
 U|F>U|FOODON_00002912|mutton|C1440988|Mutton
 U|F>U|FOODON_00002917|gorilla|C0018090|Gorilla <Western Gorilla>
 U|F>U|FOODON_00002931|halva|C0458199|Halva
-# U|F>U|FOODON_00002933|hazelnut|C2702332|hazelnut allergenic extract
+X|F>U|FOODON_00002933|hazelnut|C2702332|hazelnut allergenic extract
 U|F>U|FOODON_00002935|venison|C1441320|Venison (dietary)
-# U|F>U|FOODON_00002936|asafoetida|C1095802|asafetida extract
+X|F>U|FOODON_00002936|asafoetida|C1095802|asafetida extract
 U|F>U|FOODON_00002937|soursop|C1000635|Annona muricata (plant)
 U|F>U|FOODON_00002942|parsley leaf|C2343232|parsley leaf
 U|F>U|FOODON_00002946|kimchi|C5787316|Kimchi
@@ -26986,11 +26986,11 @@ U|F>U|FOODON_00002960|macaroni and cheese|C0453456|Macaroni cheese
 U|F>U|FOODON_00002961|chia seed|C4085254|Salvia hispanica Seed
 U|F>U|FOODON_00002962|poult|C3669468|Young turkey
 U|F>U|FOODON_00002980|kelp gull|C1006588|Larus dominicanus
-# U|F>U|FOODON_00002989|broccoli sprout|C1707048|broccoli sprout extract
+X|F>U|FOODON_00002989|broccoli sprout|C1707048|broccoli sprout extract
 U|F>U|FOODON_00002997|okapi|C0325231|Okapis
 U|F>U|FOODON_00003002|boa|C0206303|Boa
 U|F>U|FOODON_00003003|macadamia nut|C0453344|Macadamia Nut
-# U|F>U|FOODON_00003004|animal|C5787033|Per Animal
+X|F>U|FOODON_00003004|animal|C5787033|Per Animal
 U|F>U|FOODON_00003005|pickled cucumber|C3853074|Cucumber pickle
 U|F>U|FOODON_00003011|wax bean|C1440126|Wax Bean
 U|F>U|FOODON_00003020|turmeric extract|C0077524|turmeric extract
@@ -27014,7 +27014,7 @@ U|F>U|FOODON_00003100|black crowberry|C1213866|Empetrum nigrum
 U|F>U|FOODON_00003104|purple crowberry|C1014447|Empetrum atropurpureum
 U|F>U|FOODON_00003117|surinam cherry|C1057627|Euginia uniflora
 U|F>U|FOODON_00003157|almond milk|C3853235|Almond milk
-# U|F>U|FOODON_00003184|ymer|C1824574|CCDC50 gene
+X|F>U|FOODON_00003184|ymer|C1824574|CCDC50 gene
 U|F>U|FOODON_00003185|crispbread|C0452509|Crispbread
 U|F>U|FOODON_00003187|chocolate spread|C0458165|Chocolate spread
 U|F>U|FOODON_00003189|energy drink|C3179078|Energy Drinks
@@ -27038,7 +27038,7 @@ U|F>U|FOODON_00003253|moussaka|C0453497|Moussaka
 U|F>U|FOODON_00003256|pale ale|C0452464|Pale ale
 U|F>U|FOODON_00003260|chicken curry|C0453493|Chicken curry
 U|F>U|FOODON_00003262|shepherd's pie|C0453501|Shepherd's pie
-# U|F>U|FOODON_00003265|fat|C1428607|C10orf90 gene
+X|F>U|FOODON_00003265|fat|C1428607|C10orf90 gene
 U|F>U|FOODON_00003266|fig|C0349966|Figs - dietary
 U|F>U|FOODON_00003297|turkey sausage|C0452952|Turkey sausage
 U|F>U|FOODON_00003300|sweet and sour pork|C0453504|Sweet and sour pork
@@ -27049,25 +27049,25 @@ U|F>U|FOODON_00003369|gilt|C3668930|Female pig never farrowed
 U|F>U|FOODON_00003370|grower pig|C3668932|Grower pig for meat production
 U|F>U|FOODON_00003371|finisher pig|C3669715|Finishing pig for meat production
 U|F>U|FOODON_00003396|cumin seed|C0453253|Cumin seed
-# U|F>U|FOODON_00003399|arabica coffee bean|C2725876|arabica coffee bean allergenic extract
-# U|F>U|FOODON_00003400|robusta coffee bean|C3256184|robusta coffee bean extract
+X|F>U|FOODON_00003399|arabica coffee bean|C2725876|arabica coffee bean allergenic extract
+X|F>U|FOODON_00003400|robusta coffee bean|C3256184|robusta coffee bean extract
 U|F>U|FOODON_00003407|rapeseed|C0330502|Brassica napus
 U|F>U|FOODON_00003412|sugar beet|C0330391|Beta vulgaris
-# U|F>U|FOODON_00003413|sweet cherry|C2741489|sweet cherry allergenic extract
+X|F>U|FOODON_00003413|sweet cherry|C2741489|sweet cherry allergenic extract
 U|F>U|FOODON_00003414|cowpea|C0996862|Vigna
 U|F>U|FOODON_00003423|lettuce leaf|C5710934|Lactuca sativa var. crispa
 U|F>U|FOODON_00003429|oat|C0028753|Oats (dietary)
 U|F>U|FOODON_00003431|radish|C1113645|radish extract
 U|F>U|FOODON_00003433|raspberry|C0453292|Raspberries
 U|F>U|FOODON_00003440|rutabaga|C0524504|Rutabaga (food)
-# U|F>U|FOODON_00003445|sweet potato|C4722710|sweet potato extract
+X|F>U|FOODON_00003445|sweet potato|C4722710|sweet potato extract
 U|F>U|FOODON_00003447|turnip|C0453149|Turnip - dietary
-# U|F>U|FOODON_00003449|coconut|C2722035|coconut allergenic extract
+X|F>U|FOODON_00003449|coconut|C2722035|coconut allergenic extract
 U|F>U|FOODON_00003457|jackfruit|C0453129|Jackfruit - dietary
 U|F>U|FOODON_00003459|pineapple|C2740859|pineapple allergenic extract
 U|F>U|FOODON_00003465|cultivated mushroom|C4722662|Cultivated Mushroom
 U|F>U|FOODON_00003473|salmon|C0036110|Salmon
-# U|F>U|FOODON_00003476|apricot|C2731559|apricot allergenic extract
+X|F>U|FOODON_00003476|apricot|C2731559|apricot allergenic extract
 U|F>U|FOODON_00003478|cherry|C0936039|Cherry - dietary
 U|F>U|FOODON_00003479|loganberry|C0453282|Loganberries
 U|F>U|FOODON_00003483|plum|C0936040|Plum - dietary
@@ -27075,7 +27075,7 @@ U|F>U|FOODON_00003484|pimiento|C1135915|Pimiento
 U|F>U|FOODON_00003486|pumpkin|C0453137|Pumpkins
 U|F>U|FOODON_00003487|blackberry|C0453270|Blackberries
 U|F>U|FOODON_00003489|akee|C0330978|Blighia sapida
-# U|F>U|FOODON_00003490|black raspberry|C1365566|black raspberry flavor
+X|F>U|FOODON_00003490|black raspberry|C1365566|black raspberry flavor
 U|F>U|FOODON_00003491|blackeyed pea|C0996865|Vigna unguiculata
 U|F>U|FOODON_00003493|caper|C1123060|Capers
 U|F>U|FOODON_00003494|jalapeno pepper|C0524512|Jalapeno Pepper
@@ -27085,11 +27085,11 @@ U|F>U|FOODON_00003514|cabbage leaf|C1509191|cabbage leaf
 U|F>U|FOODON_00003516|red onion|C3853345|Red onion
 U|F>U|FOODON_00003520|pepper|C0453397|Piper nigrum
 U|F>U|FOODON_00003521|berry|C0005135|Berries
-# U|F>U|FOODON_00003523|almond|C2702310|almond allergenic extract
-# U|F>U|FOODON_00003534|sour cherry|C1613417|SOUR CHERRY preparation
+X|F>U|FOODON_00003523|almond|C2702310|almond allergenic extract
+X|F>U|FOODON_00003534|sour cherry|C1613417|SOUR CHERRY preparation
 U|F>U|FOODON_00003537|prune|C0936040|Plum - dietary
 U|F>U|FOODON_00003538|mango|C0330955|Mangifera indica
-# U|F>U|FOODON_00003539|squash|C2722043|squash allergenic extract
+X|F>U|FOODON_00003539|squash|C2722043|squash allergenic extract
 U|F>U|FOODON_00003540|papaya|C0936047|Papaya (dietary)
 U|F>U|FOODON_00003541|blueberry|C0950037|Blueberries
 U|F>U|FOODON_00003542|lingonberry|C3541351|lingonberry extract
@@ -27106,13 +27106,13 @@ U|F>U|FOODON_00003568|mangosteen|C0950008|Garcinia mangostana
 U|F>U|FOODON_00003569|star apple|C1485738|Chrysophyllum cainito
 U|F>U|FOODON_00003571|water chestnut|C1012539|Eleocharis
 U|F>U|FOODON_00003576|common pear|C0330664|Pyrus communis
-# U|F>U|FOODON_00003577|cantaloupe|C2702356|cantaloupe allergenic extract
+X|F>U|FOODON_00003577|cantaloupe|C2702356|cantaloupe allergenic extract
 U|F>U|FOODON_00003579|navel orange|C0522462|Citrus sinensis
 U|F>U|FOODON_00003585|nectarine|C2937983|nectarine allergenic extract
 U|F>U|FOODON_00003591|acorn|C0330303|Acorn
 U|F>U|FOODON_00003593|acerola|C1136287|Cherry, Acerola
 U|F>U|FOODON_00003596|muskmelon|C0947370|Cucumis melo
-# U|F>U|FOODON_00003597|melon|C3256061|melon extract
+X|F>U|FOODON_00003597|melon|C3256061|melon extract
 U|F>U|FOODON_00003598|honeydew melon|C5703020|Cucumis melo var. inodorus
 U|F>U|FOODON_00003599|acorn squash|C5710884|Cucurbita pepo var. ovifera
 U|F>U|FOODON_00003600|avocado|C0949120|Persea americana
@@ -27122,12 +27122,12 @@ U|F>U|FOODON_00003608|banana passionfruit|C5710811|Passiflora tripartita var. mo
 U|F>U|FOODON_00003609|bayberry|C1092984|Myrica
 U|F>U|FOODON_00003611|black walnut|C2347036|black walnut allergenic extract
 U|F>U|FOODON_00003612|black radish|C3254856|BLACK RADISH
-# U|F>U|FOODON_00003613|cocoa bean|C2722034|cocoa bean allergenic extract
+X|F>U|FOODON_00003613|cocoa bean|C2722034|cocoa bean allergenic extract
 U|F>U|FOODON_00003614|areca nut|C0684282|Betel Nut
 U|F>U|FOODON_00003618|eggplant|C0453111|Aubergine
 U|F>U|FOODON_00003620|fenugreek leaf|C3256536|fenugreek leaf extract
 U|F>U|FOODON_00003622|guava|C0453279|Guava Fruit
-# U|F>U|FOODON_00003623|chicory leaf|C4556018|chicory leaf extract
+X|F>U|FOODON_00003623|chicory leaf|C4556018|chicory leaf extract
 U|F>U|FOODON_00003626|java apple|C1497675|Syzygium samarangense
 U|F>U|FOODON_00003627|beechnut|C3853339|Beechnut
 U|F>U|FOODON_00003628|breadfruit|C1256657|Artocarpus altilis
@@ -27135,10 +27135,10 @@ U|F>U|FOODON_00003629|basil leaf|C5564867|herba ocimi basilici
 U|F>U|FOODON_00003637|grape leaf|C0771934|grape leaf
 U|F>U|FOODON_00003642|papaya leaf|C1366072|papaya leaf
 U|F>U|FOODON_00003649|taro leaf|C0453147|Taro leaves
-# U|F>U|FOODON_00003652|jujube fruit|C0873014|jujube fruit extract
+X|F>U|FOODON_00003652|jujube fruit|C0873014|jujube fruit extract
 U|F>U|FOODON_00003653|chayote|C1208606|Sicyos edulis
 U|F>U|FOODON_00003654|japanese chestnut|C1047769|Castanea crenata
-# U|F>U|FOODON_00003655|european chestnut|C4082849|Castanea sativa whole extract
+X|F>U|FOODON_00003655|european chestnut|C4082849|Castanea sativa whole extract
 U|F>U|FOODON_00003656|clementine|C0453272|Clementine (food)
 U|F>U|FOODON_00003657|cranberry|C0936050|Cranberries (dietary)
 U|F>U|FOODON_00003659|citron|C0440283|Citrus limon
@@ -27152,11 +27152,11 @@ U|F>U|FOODON_00003675|passion fruit|C0453287|Passion fruit (dietary)
 U|F>U|FOODON_00003676|mulberry|C0330540|Morus <eudicots>
 U|F>U|FOODON_00003677|longan|C1061744|Dimocarpus longan
 U|F>U|FOODON_00003678|elderberry|C1304635|Elderberries - dietary
-# U|F>U|FOODON_00003679|pomegranate|C1509685|pomegranate fruit extract
+X|F>U|FOODON_00003679|pomegranate|C1509685|pomegranate fruit extract
 U|F>U|FOODON_00003683|flaxseed|C0023753|Flax
 U|F>U|FOODON_00003686|kumquat|C1145568|Kumquat (dietary)
 U|F>U|FOODON_00003688|naranjilla|C1234444|Solanum quitoense
-# U|F>U|FOODON_00003693|parsnip|C2728185|parsnip allergenic extract
+X|F>U|FOODON_00003693|parsnip|C2728185|parsnip allergenic extract
 U|F>U|FOODON_00003699|pecan|C1138602|Pecans
 U|F>U|FOODON_00003700|spanish peanut|C5710991|Arachis hypogaea var. vulgaris
 U|F>U|FOODON_00003706|jerusalem artichoke|C0022386|Jerusalem Artichoke
@@ -27170,16 +27170,16 @@ U|F>U|FOODON_00003720|rambutan|C1072274|Nephelium lappaceum
 U|F>U|FOODON_00003721|otaheite gooseberry|C1498011|Cicca acida
 U|F>U|FOODON_00003723|persimmon|C0330444|Diospyros
 U|F>U|FOODON_00003724|quince|C0453291|Quince - dietary
-# U|F>U|FOODON_00003726|lemon balm leaf|C3256060|Melissa officinalis leaf extract
+X|F>U|FOODON_00003726|lemon balm leaf|C3256060|Melissa officinalis leaf extract
 U|F>U|FOODON_00003729|red raspberry|C1004027|Rubus idaeus
 U|F>U|FOODON_00003730|tamarillo|C1012239|Solanum betaceum
 U|F>U|FOODON_00003731|tangelo|C2757908|Citrus x tangelo
 U|F>U|FOODON_00003732|yuzu|C1065229|Citrus junos
 U|F>U|FOODON_00003736|shea nut|C3853338|Shea nut
 U|F>U|FOODON_00003737|lupine bean|C4041426|Lupine seed
-# U|F>U|FOODON_00003738|vanilla bean|C5234187|vanilla bean extract
+X|F>U|FOODON_00003738|vanilla bean|C5234187|vanilla bean extract
 U|F>U|FOODON_00003741|kava root|C0873084|kava root
-# U|F>U|FOODON_00003743|safflower seed|C3667875|safflower seed extract
+X|F>U|FOODON_00003743|safflower seed|C3667875|safflower seed extract
 U|F>U|FOODON_00003744|chili pepper|C1123028|Chili Pepper (dietary)
 U|F>U|FOODON_00003745|tomatillo|C1122999|Tomatillo
 U|F>U|FOODON_00003747|seville orange|C0330922|Citrus aurantium
@@ -27197,29 +27197,29 @@ U|F>U|FOODON_00003791|anise seed|C1138839|anise seed extract
 U|F>U|FOODON_00003792|cardamom seed|C0770633|cardamom seed
 U|F>U|FOODON_00003797|juniper berry|C0697132|Juniperus communis / juniper berries substance
 U|F>U|FOODON_00003798|cayenne pepper|C0873002|cayenne extract
-# U|F>U|FOODON_00003800|hops|C0024117|Chronic Obstructive Airway Disease
+X|F>U|FOODON_00003800|hops|C0024117|Chronic Obstructive Airway Disease
 U|F>U|FOODON_00003802|bay leaf|C0453244|Bay Leaf
 U|F>U|FOODON_00003804|bay laurel|C3669128|bay laurel (Pharmacologic Substance)
 U|F>U|FOODON_00003809|rosemary leaf|C1365468|rosemary leaf extract
 U|F>U|FOODON_00003816|vegetable|C0042440|Vegetables
-# U|F>U|FOODON_00003817|neem leaf|C3256895|Azadirachta indica leaf extract
+X|F>U|FOODON_00003817|neem leaf|C3256895|Azadirachta indica leaf extract
 U|F>U|FOODON_00003820|stevia leaf|C2348538|Stevia Leaf
 U|F>U|FOODON_00003878|american ginseng root|C0873140|American ginseng root
 U|F>U|FOODON_00003888|salad sandwich|C0458588|Salad sandwich
 U|F>U|FOODON_00003889|food (blend)|C0453850|Liquidized food
-# U|F>U|FOODON_00003893|chinese ginseng root|C0873138|Korean ginseng root extract
+X|F>U|FOODON_00003893|chinese ginseng root|C0873138|Korean ginseng root extract
 U|F>U|FOODON_00003900|red raspberry leaf|C2347920|Rubus idaeus Leaf
 U|F>U|FOODON_00003901|mullein leaf|C1881920|Verbascum densiflorum leaf extract
 U|F>U|FOODON_00003903|black cohosh root|C0873181|black cohosh root extract
 U|F>U|FOODON_00003904|ginkgo biloba leaf|C0872895|Ginkgo biloba leaf extract
 U|F>U|FOODON_00003905|silybum marianum seed|C0872906|milk thistle seed extract
-# U|F>U|FOODON_00003906|hypericum perforatum flower|C3488928|Hypericum perforatum flower extract
-# U|F>U|FOODON_00003919|almond meal|C5690866|Almond Flour
+X|F>U|FOODON_00003906|hypericum perforatum flower|C3488928|Hypericum perforatum flower extract
+X|F>U|FOODON_00003919|almond meal|C5690866|Almond Flour
 U|F>U|FOODON_00003928|pizza|C0453577|Pizza
 U|F>U|FOODON_00003940|soft drink (caffeinated)|C0683086|Caffeinated soft drinks
 U|F>U|FOODON_00003950|whole grain|C4042940|Whole Grains
 U|F>U|FOODON_00003951|conure|C0325975|Conure
-# U|F>U|FOODON_00003953|eagle|C1551720|Eagle (ethnic group)
+X|F>U|FOODON_00003953|eagle|C1551720|Eagle (ethnic group)
 U|F>U|FOODON_00003961|cypselurus comatus|C0328511|Cypselurus comatus
 U|F>U|FOODON_00003964|anchoviella perfasciata|C0327915|Anchoviella perfasciata
 U|F>U|FOODON_00003967|galeoides decadactylus|C5895208|Galeoides decadactylus
@@ -27234,14 +27234,14 @@ U|F>U|FOODON_00004023|diagramma pictum|C2651635|Diagramma picta
 U|F>U|FOODON_00004026|hoplunnis diomediana|C5644985|Hoplunnis diomediana
 U|F>U|FOODON_00004031|polydactylus quadrifilis|C5654756|Polydactylus quadrifilis
 U|F>U|FOODON_00004033|trachinotus kennedyi|C5891788|Trachinotus kennedyi
-# U|F>U|FOODON_00004083|device set|C3872969|Device Setting
-# U|F>U|FOODON_00004090|boiling water|C0439892|Boiled water
+X|F>U|FOODON_00004083|device set|C3872969|Device Setting
+X|F>U|FOODON_00004090|boiling water|C0439892|Boiled water
 U|F>U|FOODON_00004116|pork heart|C3486776|porcine heart preparation
 U|F>U|FOODON_00004133|golden kiwifruit|C0946565|Actinidia chinensis
 U|F>U|FOODON_00004144|poultry by-product|C0032852|Poultry Products
-# U|F>U|FOODON_00004148|english walnut|C2722050|English walnut allergenic extract
+X|F>U|FOODON_00004148|english walnut|C2722050|English walnut allergenic extract
 U|F>U|FOODON_00004165|animal by-product|C0868922|Animal product
-# U|F>U|FOODON_00004183|banana|C0939797|banana extract
+X|F>U|FOODON_00004183|banana|C0939797|banana extract
 U|F>U|FOODON_00004210|casaba melon|C5703020|Cucumis melo var. inodorus
 U|F>U|FOODON_00004260|chinese chestnut|C3538155|Chinese chestnut extract
 U|F>U|FOODON_00004266|fennel seed|C1145581|Fennel seed
@@ -27269,21 +27269,21 @@ U|F>U|FOODON_00004410|beef heart|C3486598|beef heart preparation
 U|F>U|FOODON_00004411|dry cow|C3669716|Cow in interlactation period
 U|F>U|FOODON_00004413|beef cattle|C0175923|Cattle for beef production
 U|F>U|FOODON_00004436|animal organ|C0003055|Animal Organs
-# U|F>U|FOODON_00004459|peel|C0237849|Peeling of skin
+X|F>U|FOODON_00004459|peel|C0237849|Peeling of skin
 U|F>U|FOODON_00004467|habanero|C1034164|Capsicum chinense
 U|F>U|FOODON_00004468|ivy gourd|C4553816|ivy gourd
-# U|F>U|FOODON_00004469|fresh frozen|C4697670|Fresh frozen
-# U|F>U|FOODON_00004473|apple (peeled)|C5770384|apple peel extract
+X|F>U|FOODON_00004469|fresh frozen|C4697670|Fresh frozen
+X|F>U|FOODON_00004473|apple (peeled)|C5770384|apple peel extract
 U|F>U|FOODON_00004477|beef roast|C0452858|Roast beef
 U|F>U|FOODON_00004479|lamb roast|C0452879|Roast lamb
 U|F>U|FOODON_00004480|pork roast|C0452871|Roast pork
 U|F>U|FOODON_00004500|ice cream|C0020747|Ice Cream
 U|F>U|FOODON_00004503|wild animal|C0003070|Animals, Wild
 U|F>U|FOODON_00004505|wild bird|C0325328|Wild bird
-# U|F>U|FOODON_00004510|flour|C0016260|Wheat flour
-# U|F>U|FOODON_00004528|queso fresco|C0452803|Fromage frais
-# U|F>U|FOODON_00004533|food grinding|C3714292|Ground food
-# U|F>U|FOODON_00004534|food mincing|C3714304|Minced food
+X|F>U|FOODON_00004510|flour|C0016260|Wheat flour
+X|F>U|FOODON_00004528|queso fresco|C0452803|Fromage frais
+X|F>U|FOODON_00004533|food grinding|C3714292|Ground food
+X|F>U|FOODON_00004534|food mincing|C3714304|Minced food
 U|F>U|FOODON_00004573|goldenberry|C0331245|Physalis peruviana
 U|F>U|FOODON_00004582|chokeberry|C4733787|Chokeberry
 U|F>U|FOODON_00004585|black chokeberry|C1449661|Photinia melanocarpa
@@ -27291,13 +27291,13 @@ U|F>U|FOODON_00004589|california blackberry|C1031025|Rubus ursinus
 U|F>U|FOODON_00004600|blue elderberry|C5754011|Sambucus nigra subsp. caerulea
 U|F>U|FOODON_00004633|brown lentil|C0453220|Brown lentils
 U|F>U|FOODON_00004640|bilberry|C0936049|Bilberries
-# U|F>U|FOODON_00004661|holy basil leaf|C4294499|holy basil leaf extract
+X|F>U|FOODON_00004661|holy basil leaf|C4294499|holy basil leaf extract
 U|F>U|FOODON_00004697|tofu|C0453233|Tofu
-# U|F>U|FOODON_00004722|fresh|C2827486|Fresh Specimen
-# U|F>U|FOODON_00004723|dried|C0205222|Dry
-# U|F>U|FOODON_00004725|chilled|C0085593|Chills
-# U|F>U|FOODON_00004727|thawed|C5848513|Thaw (event)
-# U|F>U|FOODON_00004728|flash frozen|C1882516|Quick Freeze
+X|F>U|FOODON_00004722|fresh|C2827486|Fresh Specimen
+X|F>U|FOODON_00004723|dried|C0205222|Dry
+X|F>U|FOODON_00004725|chilled|C0085593|Chills
+X|F>U|FOODON_00004727|thawed|C5848513|Thaw (event)
+X|F>U|FOODON_00004728|flash frozen|C1882516|Quick Freeze
 U|F>U|FOODON_00004729|ambient temperature|C1550576|Entity Handling - Ambient Temperature
 U|F>U|FOODON_00004770|avocado seed|C5918889|AVOCADO SEED
 U|F>U|FOODON_00004815|tepary bean|C0949815|Bean, Tepary
@@ -27309,29 +27309,29 @@ U|F>U|FOODON_02010126|animal wing|C4042890|Wings, Animal
 U|F>U|FOODON_02010127|animal foot|C0687080|Paw
 U|F>U|FOODON_02010137|animal tail|C0039259|Tail
 U|F>U|FOODON_02020038|frog|C0034650|Rana <genus>
-# U|F>U|FOODON_02020096|emu|C5891056|Epilepsy Hospital Unit
+X|F>U|FOODON_02020096|emu|C5891056|Epilepsy Hospital Unit
 U|F>U|FOODON_02020115|duck material|C4047348|Duck material
 U|F>U|FOODON_02020155|chicken egg white|C2730227|egg white (chicken) allergenic extract
 U|F>U|FOODON_02020406|turkey egg|C3687666|Turkey egg
-# U|F>U|FOODON_02020418|turkey|C1442960|Turkey antigen
+X|F>U|FOODON_02020418|turkey|C1442960|Turkey antigen
 U|F>U|FOODON_02020785|ostrich|C0600541|Struthioniformes
-# U|F>U|FOODON_02020805|scallop|C0885657|Pecten jacobaeus homeopathic preparations
+X|F>U|FOODON_02020805|scallop|C0885657|Pecten jacobaeus homeopathic preparations
 U|F>U|FOODON_02020840|bison|C0079024|Bison
 U|F>U|FOODON_02020891|cow milk|C0349374|Cow's milk
 U|F>U|FOODON_02020892|cow|C1140701|Bos taurus
-# U|F>U|FOODON_02020912|beef kidney|C3497905|beef kidney preparation
+X|F>U|FOODON_02020912|beef kidney|C3497905|beef kidney preparation
 U|F>U|FOODON_02020913|beef liver|C3484530|beef liver preparation
 U|F>U|FOODON_02020915|beef lung|C3535633|beef lung preparation
 U|F>U|FOODON_02020916|beef tongue|C3834047|beef tongue preparation
 U|F>U|FOODON_02021042|water buffalo|C0080332|Water Buffalo
 U|F>U|FOODON_02021057|goat milk|C0349376|Goat's milk (dietary)
 U|F>U|FOODON_02021111|gazelle|C0325297|Genus Gazella
-# U|F>U|FOODON_02021154|lamb tongue|C0330891|Erodium cicutarium (organism)
+X|F>U|FOODON_02021154|lamb tongue|C0330891|Erodium cicutarium (organism)
 U|F>U|FOODON_02021254|sheep milk|C0452740|Sheep milk
 U|F>U|FOODON_02021400|moose|C0325226|Alces alces
-# U|F>U|FOODON_02021419|elk|C3853572|Ephrin Type-B Receptor 1, human
+X|F>U|FOODON_02021419|elk|C3853572|Ephrin Type-B Receptor 1, human
 U|F>U|FOODON_02021436|reindeer|C0035005|Reindeer
-# U|F>U|FOODON_02021446|crab|C2702369|crab allergenic extract
+X|F>U|FOODON_02021446|crab|C2702369|crab allergenic extract
 U|F>U|FOODON_02021486|giraffe|C0325230|Giraffes
 U|F>U|FOODON_02021504|hippopotamus|C0999591|Hippopotamus
 U|F>U|FOODON_02021511|rabbit material|C4047344|Rabbit material
@@ -27339,17 +27339,17 @@ U|F>U|FOODON_02021525|elephant|C0325153|Order Proboscidea (organism)
 U|F>U|FOODON_02021535|donkey|C0324145|Equus asinus
 U|F>U|FOODON_02021546|horse milk|C0772373|horse milk
 U|F>U|FOODON_02021548|horse|C0019944|Equus caballus
-# U|F>U|FOODON_02021556|zebra|C0035561|Bone structure of rib
-# U|F>U|FOODON_02021565|seal|C1704637|Seal Device
+X|F>U|FOODON_02021556|zebra|C0035561|Bone structure of rib
+X|F>U|FOODON_02021565|seal|C1704637|Seal Device
 U|F>U|FOODON_02021572|green sea turtle|C0327134|Chelonia mydas
 U|F>U|FOODON_02021585|sea turtle|C0327132|Sea Turtles
 U|F>U|FOODON_02021610|muskrat|C1095815|Ondatra zibethicus
 U|F>U|FOODON_02021629|nutria|C0324991|Myocastor coypus
-# U|F>U|FOODON_02021651|pig|C0071613|Polymeric Immunoglobulin Receptors
+X|F>U|FOODON_02021651|pig|C0071613|Polymeric Immunoglobulin Receptors
 U|F>U|FOODON_02021665|pork brain|C3486584|pork brain preparation
 U|F>U|FOODON_02021666|pork kidney|C3486757|pork kidney preparation
 U|F>U|FOODON_02021667|pork liver|C3486585|pork liver preparation
-# U|F>U|FOODON_02021809|atlantic cod|C2740952|Atlantic cod allergenic extract
+X|F>U|FOODON_02021809|atlantic cod|C2740952|Atlantic cod allergenic extract
 U|F>U|FOODON_02021822|catfish|C0677544|Catfish - dietary
 U|F>U|FOODON_02021835|nile tilapia|C0162641|Oreochromis niloticus
 U|F>U|FOODON_02021848|sockeye salmon|C0205942|Salmon, Sockeye
@@ -27374,14 +27374,14 @@ U|F>U|FOODON_02022154|sea cucumber|C0036485|Sea Cucumbers
 U|F>U|FOODON_02022168|ruffed grouse|C0325622|Bonasa umbellus
 U|F>U|FOODON_03000006|fenugreek seed|C1178580|fenugreek seed preparation
 U|F>U|FOODON_03000023|jalapeno pepper (raw)|C5135554|Peppers, jalapeno, raw
-# U|F>U|FOODON_03000025|poppy seed|C2728189|poppy seed allergenic extract
+X|F>U|FOODON_03000025|poppy seed|C2728189|poppy seed allergenic extract
 U|F>U|FOODON_03000026|amaranth leaf|C0453106|Amaranth leaf
 U|F>U|FOODON_03000029|coriander leaf|C0949870|Cilantro
 U|F>U|FOODON_03000032|coriander seed|C0453252|Coriander seed
 U|F>U|FOODON_03000042|arrowhead|C1080898|Sagittaria <monocots>
 U|F>U|FOODON_03000061|borage flower|C2347044|Borage Flower
 U|F>U|FOODON_03000070|dandelion leaf|C0873106|dandelion leaf
-# U|F>U|FOODON_03000086|wasabi root|C3255840|wasabi root extract
+X|F>U|FOODON_03000086|wasabi root|C3255840|wasabi root extract
 U|F>U|FOODON_03000093|yellow bean|C1440127|Yellow Bean
 U|F>U|FOODON_03000097|asparagus bean|C0996854|Psophocarpus tetragonolobus
 U|F>U|FOODON_03000109|sponge gourd|C0996751|Luffa aegyptiaca
@@ -27404,10 +27404,10 @@ U|F>U|FOODON_03301014|grape wine|C2726157|wine grape allergenic extract
 U|F>U|FOODON_03301027|honey extract|C0939937|honey preparation
 U|F>U|FOODON_03301033|royal jelly|C0073603|royal jelly
 U|F>U|FOODON_03301047|root beer|C1445653|Root beer
-# U|F>U|FOODON_03301051|candy|C1879992|Candy Dosage Form
+X|F>U|FOODON_03301051|candy|C1879992|Candy Dosage Form
 U|F>U|FOODON_03301055|white bread|C0452550|White bread
 U|F>U|FOODON_03301056|malt extract|C0770337|malt extract
-# U|F>U|FOODON_03301068|ham cure|C5200725|Cured Ham
+X|F>U|FOODON_03301068|ham cure|C5200725|Cured Ham
 U|F>U|FOODON_03301070|chocolate liquor|C4733785|Chocolate Liquor
 U|F>U|FOODON_03301080|caviar|C2347573|caviar
 U|F>U|FOODON_03301103|orange juice|C0452458|orange juice
@@ -27441,21 +27441,21 @@ U|F>U|FOODON_03301328|mineral water|C0026157|Mineral Waters
 U|F>U|FOODON_03301329|white chocolate|C0453439|White chocolate
 U|F>U|FOODON_03301332|cocoa butter|C0056057|cocoa butter
 U|F>U|FOODON_03301342|alfalfa|C0939897|alfalfa preparation
-# U|F>U|FOODON_03301348|cane sugar|C0038636|sucrose
-# U|F>U|FOODON_03301354|tree nut|C1979820|Trees and nuts
+X|F>U|FOODON_03301348|cane sugar|C0038636|sucrose
+X|F>U|FOODON_03301354|tree nut|C1979820|Trees and nuts
 U|F>U|FOODON_03301364|walnut|C0993635|Walnut - nut
 U|F>U|FOODON_03301397|sauerkraut|C3853318|Sauerkraut
 U|F>U|FOODON_03301402|ginseng|C1119918|ginseng preparation
 U|F>U|FOODON_03301405|herring (pickled)|C0453023|Pickled herring
-# U|F>U|FOODON_03301415|soybean|C2702409|soybean allergenic extract
+X|F>U|FOODON_03301415|soybean|C2702409|soybean allergenic extract
 U|F>U|FOODON_03301424|bee pollen|C0795585|bee pollen
 U|F>U|FOODON_03301440|mayonnaise|C0453386|Mayonnaise
 U|F>U|FOODON_03301453|tomato|C1140676|Lycopersicon esculentum
 U|F>U|FOODON_03301454|tomato juice|C0452460|tomato juice
 U|F>U|FOODON_03301457|tomato puree|C0453148|Tomato puree
-# U|F>U|FOODON_03301460|tomato ketchup|C0453373|Tomato sauce
+X|F>U|FOODON_03301460|tomato ketchup|C0453373|Tomato sauce
 U|F>U|FOODON_03301474|corn oil|C0010029|corn oil
-# U|F>U|FOODON_03301475|corn sugar|C2981326|high fructose corn syrup
+X|F>U|FOODON_03301475|corn sugar|C2981326|high fructose corn syrup
 U|F>U|FOODON_03301476|corn dextrin|C5941745|DEXTRIN, CORN
 U|F>U|FOODON_03301499|cow milk (flavored)|C0475614|Flavored cow's milk
 U|F>U|FOODON_03301505|evaporated milk|C0452737|Evaporated milk
@@ -27477,7 +27477,7 @@ U|F>U|FOODON_03301663|licorice candy|C0475626|Licorice candy
 U|F>U|FOODON_03301670|sake|C0678393|Sake - alcoholic beverage
 U|F>U|FOODON_03301671|cranberry juice|C1572601|cranberry juice
 U|F>U|FOODON_03301705|vinegar|C0148405|Vinegar
-# U|F>U|FOODON_03301728|fudge|C0458193|Fudge Food
+X|F>U|FOODON_03301728|fudge|C0458193|Fudge Food
 U|F>U|FOODON_03301729|cheesecake|C0452234|Cheesecake
 U|F>U|FOODON_03301756|apricot (dried)|C0453299|Dried apricot
 U|F>U|FOODON_03301758|praline|C3853201|Praline
@@ -27487,7 +27487,7 @@ U|F>U|FOODON_03301802|eggnog|C3853314|Eggnog
 U|F>U|FOODON_03301805|salmon (smoked)|C0453039|Smoked salmon
 U|F>U|FOODON_03301816|chocolate milk|C0520816|Chocolate milk
 U|F>U|FOODON_03301826|olive oil|C0069449|olive oil
-# U|F>U|FOODON_03301833|potato chip|C1510451|French fries
+X|F>U|FOODON_03301833|potato chip|C1510451|French fries
 U|F>U|FOODON_03301844|garlic powder|C1119842|garlic powder
 U|F>U|FOODON_03301885|potato (canned)|C0453174|Tinned potato
 U|F>U|FOODON_03301903|french dressing|C0453383|French dressing
@@ -27502,7 +27502,7 @@ U|F>U|FOODON_03302012|frankfurter|C0452946|Frankfurter
 U|F>U|FOODON_03302013|food containing alcohol|C0678421|food containing alcohol
 U|F>U|FOODON_03302019|cheese spread|C0452757|Cheese spread
 U|F>U|FOODON_03302030|chili powder|C0475622|Chili powder
-# U|F>U|FOODON_03302034|beet juice|C1095905|beets preparation
+X|F>U|FOODON_03302034|beet juice|C1095905|beets preparation
 U|F>U|FOODON_03302051|lard|C0064658|lard
 U|F>U|FOODON_03302053|lima bean|C1457867|Phaseolus lunatus
 U|F>U|FOODON_03302062|barbeque sauce|C0453364|Barbecue sauce
@@ -27510,7 +27510,7 @@ U|F>U|FOODON_03302072|beeswax|C0004924|beeswax
 U|F>U|FOODON_03302088|beef extract|C2702424|beef allergenic extract
 U|F>U|FOODON_03302106|beer (draft)|C0678380|draft beer
 U|F>U|FOODON_03302111|ale|C2632076|Plantago princeps
-# U|F>U|FOODON_03302113|beer (light)|C0452465|Low alcohol beer
+X|F>U|FOODON_03302113|beer (light)|C0452465|Low alcohol beer
 U|F>U|FOODON_03302142|soybean flour|C0771806|soya flour
 U|F>U|FOODON_03302148|food (frozen)|C0016739|Frozen Foods
 U|F>U|FOODON_03302170|carob powder|C4733776|Carob powder
@@ -27543,7 +27543,7 @@ U|F>U|FOODON_03302829|diabetic chocolate|C0458186|Diabetic chocolate
 U|F>U|FOODON_03302881|caramel candy|C4704877|Caramel Candy
 U|F>U|FOODON_03302897|whipped cream|C0452750|Whipping cream
 U|F>U|FOODON_03302908|ricotta cheese|C0452799|Ricotta cheese
-# U|F>U|FOODON_03302916|provolone cheese|C1440434|Provolone Cheese Antigen
+X|F>U|FOODON_03302916|provolone cheese|C1440434|Provolone Cheese Antigen
 U|F>U|FOODON_03302923|custard powder|C0458973|Custard powder
 U|F>U|FOODON_03302946|custard|C0453512|Custard
 U|F>U|FOODON_03302979|caerphilly cheese|C0452766|Caerphilly cheese
@@ -27555,7 +27555,7 @@ U|F>U|FOODON_03303092|salt substitute|C0784217|salt substitutes
 U|F>U|FOODON_03303117|cherry glace|C0453308|Glace cherry
 U|F>U|FOODON_03303130|infant formula|C0150589|Infant formula
 U|F>U|FOODON_03303171|nut|C0028723|Nuts
-# U|F>U|FOODON_03303225|syrup|C0991550|Syrup Drug Form
+X|F>U|FOODON_03303225|syrup|C0991550|Syrup Drug Form
 U|F>U|FOODON_03303352|beef chow mein|C0453476|Beef chow mein
 U|F>U|FOODON_03303353|chicken chow mein|C0453480|Chicken chow-mein
 U|F>U|FOODON_03303376|chow chow|C0324335|Chow Chow
@@ -27568,7 +27568,7 @@ U|F>U|FOODON_03303520|red kidney bean (canned)|C0453207|Canned red kidney beans
 U|F>U|FOODON_03303555|beer (dealcoholized)|C0683895|dealcoholized beer
 U|F>U|FOODON_03303578|mozzarella cheese|C0452783|Mozzarella cheese
 U|F>U|FOODON_03303588|dark chocolate|C3853217|Dark chocolate
-# U|F>U|FOODON_03303639|lollipop|C2346704|Lollipop Dosage Form
+X|F>U|FOODON_03303639|lollipop|C2346704|Lollipop Dosage Form
 U|F>U|FOODON_03303655|goat milk cheese|C5453764|Goat milk cheese
 U|F>U|FOODON_03303666|derby cheese|C0452772|Derby cheese
 U|F>U|FOODON_03303667|leicester cheese|C0452782|Leicester cheese
@@ -27580,11 +27580,11 @@ U|F>U|FOODON_03303780|hard candy|C0453448|Hard candy
 U|F>U|FOODON_03303835|anhydrous milk fat|C5540000|Anhydrous Milk Fat
 U|F>U|FOODON_03303856|colby cheese|C1440432|Colby Cheese
 U|F>U|FOODON_03303909|cultured dairy product|C1257811|Cultured Milk Products
-# U|F>U|FOODON_03303920|peppermint|C0070324|peppermint preparation
+X|F>U|FOODON_03303920|peppermint|C0070324|peppermint preparation
 U|F>U|FOODON_03303921|spearmint|C0522468|Mentha spicata
 U|F>U|FOODON_03303926|vermicelli|C0452702|Vermicelli
 U|F>U|FOODON_03303929|pretzel|C0458214|Pretzels
-# U|F>U|FOODON_03303935|matXth|C0452513|MatX
+X|F>U|FOODON_03303935|matXth|C0452513|MatX
 U|F>U|FOODON_03304010|pinto refried beans|C0453229|Refried pinto beans
 U|F>U|FOODON_03304042|cheese sauce|C0453360|Cheese sauce
 U|F>U|FOODON_03304046|curry sauce|C0453369|Curry sauce
@@ -27599,7 +27599,7 @@ U|F>U|FOODON_03304385|skim milk (sweetened, condensed)|C0452735|Skimmed sweetene
 U|F>U|FOODON_03304483|fish flour|C0016155|Fish Flour
 U|F>U|FOODON_03304528|special k cereal|C0452587|Special K Cereal
 U|F>U|FOODON_03304565|palm sugar|C0062006|Gur
-# U|F>U|FOODON_03304579|salad cream|C0453388|Creamy salad dressing
+X|F>U|FOODON_03304579|salad cream|C0453388|Creamy salad dressing
 U|F>U|FOODON_03304581|mayonnaise (low calorie)|C0453387|Low calorie mayonnaise
 U|F>U|FOODON_03304582|french dressing (low calorie)|C0453384|Low calorie french dressing
 U|F>U|FOODON_03304644|fruit (raw)|C4722348|raw fruit
@@ -27629,10 +27629,10 @@ U|F>U|FOODON_03305364|food (irradiated)|C0016499|Food, Irradiated
 U|F>U|FOODON_03305417|chocolate cake|C0452604|Chocolate cake
 U|F>U|FOODON_03305428|lemon juice|C0452457|lemon juice
 U|F>U|FOODON_03305518|vodka|C0452263|Vodka
-# U|F>U|FOODON_03305556|alfalfa seed|C3255905|alfalfa seed extract
-# U|F>U|FOODON_03305560|grapefruit peel|C3256843|grapefruit peel extract
-# U|F>U|FOODON_03305609|cow milk (pasteurized)|C2702362|cow milk allergenic extract
-# U|F>U|FOODON_03305639|marshmallow|C1070217|Althaea
+X|F>U|FOODON_03305556|alfalfa seed|C3255905|alfalfa seed extract
+X|F>U|FOODON_03305560|grapefruit peel|C3256843|grapefruit peel extract
+X|F>U|FOODON_03305609|cow milk (pasteurized)|C2702362|cow milk allergenic extract
+X|F>U|FOODON_03305639|marshmallow|C1070217|Althaea
 U|F>U|FOODON_03305656|fruit (dried)|C0453296|Dried fruit
 U|F>U|FOODON_03305702|edible coating|C5200723|Edible Coating
 U|F>U|FOODON_03305751|tangerine juice|C4224775|tangerine juice
@@ -27641,17 +27641,17 @@ U|F>U|FOODON_03305810|mincemeat|C0453432|Mincemeat
 U|F>U|FOODON_03305824|mince pie|C0452658|Mince pie
 U|F>U|FOODON_03305829|nut (roasted)|C0453708|Nut roast
 U|F>U|FOODON_03305865|raspberry jam|C1204188|Acacia acuminata
-# U|F>U|FOODON_03306040|barley malt|C2726178|barley malt allergenic extract
+X|F>U|FOODON_03306040|barley malt|C2726178|barley malt allergenic extract
 U|F>U|FOODON_03306123|fish oil|C0016157|fish oils
-# U|F>U|FOODON_03306143|lemon peel|C3255846|lemon peel extract
+X|F>U|FOODON_03306143|lemon peel|C3255846|lemon peel extract
 U|F>U|FOODON_03306145|flavoring extract|C0678423|flavoring extract
 U|F>U|FOODON_03306148|black currant juice|C3710011|black currant juice
 U|F>U|FOODON_03306160|lime juice|C2697922|lime juice
 U|F>U|FOODON_03306174|grapefruit juice|C0452456|grapefruit juice
 U|F>U|FOODON_03306211|molasses (blackstrap)|C0458181|Blackstrap molasses
-# U|F>U|FOODON_03306255|toast|C1710306|TOAST Classification
+X|F>U|FOODON_03306255|toast|C1710306|TOAST Classification
 U|F>U|FOODON_03306325|raisin and nut mix|C0453348|Mixed nuts and raisins
-# U|F>U|FOODON_03306347|pasta|C0030634|Paste substance
+X|F>U|FOODON_03306347|pasta|C0030634|Paste substance
 U|F>U|FOODON_03306363|fruit nectar|C3853211|Fruit nectar
 U|F>U|FOODON_03306377|marmalade|C0453431|Marmalade
 U|F>U|FOODON_03306424|flaxseed meal|C0976940|flaxseed meal
@@ -27661,45 +27661,45 @@ U|F>U|FOODON_03306665|soybean oil (hydrogenated)|C1509841|hydrogenated soybean o
 U|F>U|FOODON_03306746|chocolate truffle|C0458191|Chocolate truffle
 U|F>U|FOODON_03306809|pea (canned)|C0453202|Canned peas
 U|F>U|FOODON_03306811|chickpea|C0950052|Chickpea (dietary)
-# U|F>U|FOODON_03306868|potato peeling|C0446303|Potato with peel
+X|F>U|FOODON_03306868|potato peeling|C0446303|Potato with peel
 U|F>U|FOODON_03306909|rice (crisped)|C0982376|RICE,CRISP
 U|F>U|FOODON_03306944|noodle|C0452689|Noodles
 U|F>U|FOODON_03306987|popcorn (buttered)|C0452685|Buttered popcorn
-# U|F>U|FOODON_03307023|poi|C4749582|Postorgasmic illness syndrome
+X|F>U|FOODON_03307023|poi|C4749582|Postorgasmic illness syndrome
 U|F>U|FOODON_03307094|christmas pudding|C0453510|Christmas pudding
 U|F>U|FOODON_03307177|quiche|C0453457|Quiche (substance)
-# U|F>U|FOODON_03307178|flan|C0453512|Custard
+X|F>U|FOODON_03307178|flan|C0453512|Custard
 U|F>U|FOODON_03307180|mushroom quiche|C0453459|Mushroom quiche
 U|F>U|FOODON_03307232|scotch whiskey|C0475850|Scotch whisky
-# U|F>U|FOODON_03307240|chocolate|C1442791|Chocolate antigen
+X|F>U|FOODON_03307240|chocolate|C1442791|Chocolate antigen
 U|F>U|FOODON_03307280|feta cheese|C0452778|Feta cheese
-# U|F>U|FOODON_03307294|mineral water (carbonated)|C3494194|Sparkling Water
+X|F>U|FOODON_03307294|mineral water (carbonated)|C3494194|Sparkling Water
 U|F>U|FOODON_03307295|cooking sherry|C0678425|cooking sherry
 U|F>U|FOODON_03307296|fortified wine|C0454276|Fortified wine
 U|F>U|FOODON_03307306|mead|C0678406|mead honey wine
 U|F>U|FOODON_03307307|wine (nonalcoholic)|C0681570|nonalcoholic wine
 U|F>U|FOODON_03307431|fruit pie|C0453524|Fruit pie
 U|F>U|FOODON_03307543|potato starch|C0772411|potato starch
-# U|F>U|FOODON_03307552|grape sugar|C0017725|glucose
+X|F>U|FOODON_03307552|grape sugar|C0017725|glucose
 U|F>U|FOODON_03307577|chicken pie|C0453481|Chicken pie
-# U|F>U|FOODON_03307582|treacle|C0026370|molasses
+X|F>U|FOODON_03307582|treacle|C0026370|molasses
 U|F>U|FOODON_03307628|peach (dried)|C0453305|Dried peach
 U|F>U|FOODON_03307660|tonic water|C0452449|Tonic water
 U|F>U|FOODON_03307668|tortilla|C0452547|Tortilla
 U|F>U|FOODON_03307722|rice syrup|C1656316|Rice Syrup
-# U|F>U|FOODON_03307744|taco|C2921022|Transfusion associated circulatory overload
+X|F>U|FOODON_03307744|taco|C2921022|Transfusion associated circulatory overload
 U|F>U|FOODON_03307808|vermouth|C3536744|Vermouth
-# U|F>U|FOODON_03307827|chicken (fried)|C0452890|Fried chicken
-# U|F>U|FOODON_03307867|tea leaf|C2747605|orange pekoe tea allergenic extract
+X|F>U|FOODON_03307827|chicken (fried)|C0452890|Fried chicken
+X|F>U|FOODON_03307867|tea leaf|C2747605|orange pekoe tea allergenic extract
 U|F>U|FOODON_03307879|melon seed|C0459817|Melon seed
 U|F>U|FOODON_03307916|cider vinegar|C0937941|cider vinegar
-# U|F>U|FOODON_03308045|fish skin|C0020758|Congenital ichthyosis
+X|F>U|FOODON_03308045|fish skin|C0020758|Congenital ichthyosis
 U|F>U|FOODON_03308092|sardine in tomato sauce (canned)|C0453097|Sardines canned in tomato sauce
-# U|F>U|FOODON_03308256|atlantic mackerel (raw)|C5201168|Atlantic mackerel allergenic extract
+X|F>U|FOODON_03308256|atlantic mackerel (raw)|C5201168|Atlantic mackerel allergenic extract
 U|F>U|FOODON_03308379|trout (smoked)|C0453047|Smoked trout
 U|F>U|FOODON_03308382|kipper|C0453027|Kipper
 U|F>U|FOODON_03308432|sardine (scaled)|C0327893|Harengula jaguana
-# U|F>U|FOODON_03308494|truffle|C0319634|Genus Tuber
+X|F>U|FOODON_03308494|truffle|C0319634|Genus Tuber
 U|F>U|FOODON_03308813|seafood cocktail|C0453084|Seafood cocktail
 U|F>U|FOODON_03309404|white grape juice|C5707664|White Grape Juice
 U|F>U|FOODON_03309415|white kidney bean|C2911980|WHITE KIDNEY BEAN
@@ -27707,24 +27707,24 @@ U|F>U|FOODON_03309417|garlic oil|C1802750|oil of garlic
 U|F>U|FOODON_03309491|gin|C0452241|Gin
 U|F>U|FOODON_03309518|digestive biscuit|C0452510|Digestive biscuit
 U|F>U|FOODON_03309530|muffin|C0452660|Muffin
-# U|F>U|FOODON_03309704|gingelly oil|C0036845|sesame oil
-# U|F>U|FOODON_03309719|moth bean|C3255900|moth bean extract
+X|F>U|FOODON_03309704|gingelly oil|C0036845|sesame oil
+X|F>U|FOODON_03309719|moth bean|C3255900|moth bean extract
 U|F>U|FOODON_03309738|beef (cooked)|C2346985|Beef, Cooked
-# U|F>U|FOODON_03309749|hyacinth bean|C5781325|hyacinth bean extract
+X|F>U|FOODON_03309749|hyacinth bean|C5781325|hyacinth bean extract
 U|F>U|FOODON_03309759|pinto bean|C0453228|Pinto beans
 U|F>U|FOODON_03309836|coffee bean (green)|C1440481|Green Coffee Bean
 U|F>U|FOODON_03309857|peanut oil|C0052300|peanut oil
-# U|F>U|FOODON_03309894|straw|C3877256|Drinking straw
+X|F>U|FOODON_03309894|straw|C3877256|Drinking straw
 U|F>U|FOODON_03309954|table salt|C0206136|Sodium Chloride, Dietary
-# U|F>U|FOODON_03309973|jam|C0331683|Yam - dietary
+X|F>U|FOODON_03309973|jam|C0331683|Yam - dietary
 U|F>U|FOODON_03309974|jam (reduced sugar)|C0453429|Reduced sugar jam
 U|F>U|FOODON_03309980|buckwheat flour|C5881756|Buckwheat Flour
-# U|F>U|FOODON_03309987|rice bean|C0453731|Rice and beans
+X|F>U|FOODON_03309987|rice bean|C0453731|Rice and beans
 U|F>U|FOODON_03310046|coconut oil|C0056060|coconut oil
 U|F>U|FOODON_03310054|potato crisp|C0349380|Potato chips
 U|F>U|FOODON_03310073|rice starch|C0947613|starch, rice
 U|F>U|FOODON_03310075|wheat starch|C0772389|starch, wheat
-# U|F>U|FOODON_03310086|salsa|C1333227|DMBT1 gene
+X|F>U|FOODON_03310086|salsa|C1333227|DMBT1 gene
 U|F>U|FOODON_03310094|licorice root|C5710961|Hedysarum alpinum var. americanum
 U|F>U|FOODON_03310113|ryegrass|C0023969|Lolium
 U|F>U|FOODON_03310130|mountain ash berry|C0440292|Rowan berries
@@ -27744,10 +27744,10 @@ U|F>U|FOODON_03310303|castor bean|C3537211|Ricinus communis whole extract
 U|F>U|FOODON_03310306|sesame seed|C3495652|sesame seed extract
 U|F>U|FOODON_03310311|food (smoked)|C3853077|Smoked food
 U|F>U|FOODON_03310334|bakers yeast|C0036025|Saccharomyces cerevisiae
-# U|F>U|FOODON_03310345|piri piri|C1034164|Capsicum chinense
+X|F>U|FOODON_03310345|piri piri|C1034164|Capsicum chinense
 U|F>U|FOODON_03310352|cheese curd|C5690094|Curd cheese
 U|F>U|FOODON_03310357|sunflower seed oil|C0075639|sunflower oil
-# U|F>U|FOODON_03310360|wheat meal|C0981883|whole wheat allergenic extract
+X|F>U|FOODON_03310360|wheat meal|C0981883|whole wheat allergenic extract
 U|F>U|FOODON_03310366|dextrin|C0011808|Dextrins
 U|F>U|FOODON_03310367|cellulose powder|C0789987|POWDERED CELLULOSE
 U|F>U|FOODON_03310368|soy protein|C0074926|Soy Proteins
@@ -27757,7 +27757,7 @@ U|F>U|FOODON_03310387|oil|C0028908|Oils
 U|F>U|FOODON_03310410|cheshire cheese|C0452770|Cheshire cheese
 U|F>U|FOODON_03310418|dairy product (fermented)|C1257811|Cultured Milk Products
 U|F>U|FOODON_03310434|papain|C0030346|papain
-# U|F>U|FOODON_03310465|hemp oil|C4489800|hempseed oil
+X|F>U|FOODON_03310465|hemp oil|C4489800|hempseed oil
 U|F>U|FOODON_03310482|rapeseed oil|C0072982|Brassica napus oil
 U|F>U|FOODON_03310486|palm kernel oil|C0982306|palm kernel oil
 U|F>U|FOODON_03310490|ginger (ground)|C0453259|Ground ginger
@@ -27767,35 +27767,35 @@ U|F>U|FOODON_03310561|infant formula (soy-based)|C3810878|Soy-based infant formu
 U|F>U|FOODON_03310564|bacon (fried)|C0452863|Fried bacon
 U|F>U|FOODON_03310571|rice oil|C3256269|rice oil
 U|F>U|FOODON_03310589|chicken roll|C0452957|Chicken roll
-# U|F>U|FOODON_03310620|vitamin preparation|C0042890|Vitamins
+X|F>U|FOODON_03310620|vitamin preparation|C0042890|Vitamins
 U|F>U|FOODON_03310639|milk (dry)|C0452721|Dried milk
 U|F>U|FOODON_03310641|lentil|C0023323|Lentils - dietary
 U|F>U|FOODON_03310643|chewing gum|C1321911|Chewing Gum
-# U|F>U|FOODON_03310646|legume|C0042440|Vegetables
+X|F>U|FOODON_03310646|legume|C0042440|Vegetables
 U|F>U|FOODON_03310658|peach juice|C4026142|peach juice
 U|F>U|FOODON_03310675|luncheon meat|C0452960|Luncheon meat
 U|F>U|FOODON_03310700|cheese soft|C0452794|Soft cheese
 U|F>U|FOODON_03310710|tortilla chip|C0453423|Tortilla chips
 U|F>U|FOODON_03310723|shrimp (fried)|C0453059|Fried shrimp
 U|F>U|FOODON_03310733|raspberry wine|C1031010|Rubus phoenicolasius
-# U|F>U|FOODON_03310734|rosé wine|C0452256|Rose wine
-# U|F>U|FOODON_03310739|bilberry juice|C5221997|bilberry juice extract
+X|F>U|FOODON_03310734|rosé wine|C0452256|Rose wine
+X|F>U|FOODON_03310739|bilberry juice|C5221997|bilberry juice extract
 U|F>U|FOODON_03310752|date (dried)|C0453301|Dried date
 U|F>U|FOODON_03310760|sherry|C0452259|Sherry
 U|F>U|FOODON_03310809|wheat gluten|C2827346|wheat gluten extract
 U|F>U|FOODON_03310811|meat analog|C5828302|Meat Substitutes
 U|F>U|FOODON_03310815|soft drink|C3489624|Soft Drinks
-# U|F>U|FOODON_03310820|gravy|C0205082|Severe (severity modifier)
+X|F>U|FOODON_03310820|gravy|C0205082|Severe (severity modifier)
 U|F>U|FOODON_03310822|chicken bone|C0311121|Poultry bone
 U|F>U|FOODON_03310826|meat (processed)|C0452956|Processed meat (dietary)
-# U|F>U|FOODON_03310841|turmeric (ground)|C0077524|turmeric extract
+X|F>U|FOODON_03310841|turmeric (ground)|C0077524|turmeric extract
 U|F>U|FOODON_03310845|corn fritter|C0453638|Corn fritter
 U|F>U|FOODON_03310882|alcohol-free beer|C0683895|dealcoholized beer
-# U|F>U|FOODON_03310943|zucchini squash|C1441238|Zucchini antigen
+X|F>U|FOODON_03310943|zucchini squash|C1441238|Zucchini antigen
 U|F>U|FOODON_03310957|madeira wine|C0684316|Madeira wine
 U|F>U|FOODON_03310968|sheep milk cheese|C5453763|Sheep milk cheese
 U|F>U|FOODON_03311046|food (home-canned)|C1827607|Home-canned food
-# U|F>U|FOODON_03311063|peppermint leaf|C3488931|Mentha piperita leaf extract
+X|F>U|FOODON_03311063|peppermint leaf|C3488931|Mentha piperita leaf extract
 U|F>U|FOODON_03311075|breakfast cereal|C0452557|Breakfast cereal
 U|F>U|FOODON_03311104|hijiki|C2771274|Sargassum fusiforme
 U|F>U|FOODON_03311126|food (raw)|C0453860|Raw Foods
@@ -27807,7 +27807,7 @@ U|F>U|FOODON_03311385|yogurt drink|C0452819|Drinking yogurt
 U|F>U|FOODON_03311433|wine (low-alcohol)|C0452483|Low alcohol wine
 U|F>U|FOODON_03311437|almond oil|C0102271|almond oil
 U|F>U|FOODON_03311438|avocado oil|C3265002|avocado oil
-# U|F>U|FOODON_03311440|peach kernel oil|C0302227|apricot kernel oil
+X|F>U|FOODON_03311440|peach kernel oil|C0302227|apricot kernel oil
 U|F>U|FOODON_03311469|vegetable protein (textured)|C3853219|Textured vegetable protein
 U|F>U|FOODON_03311504|beef flavor|C1654978|Beef Flavor
 U|F>U|FOODON_03311528|malt cooler|C0678390|malt cooler
@@ -27819,13 +27819,13 @@ U|F>U|FOODON_03311599|salmon oil|C0084453|salmon oil
 U|F>U|FOODON_03311600|matsutake mushroom|C1008671|Tricholoma matsutake
 U|F>U|FOODON_03311603|plum juice|C5679313|plum juice
 U|F>U|FOODON_03311631|baked good|C5785467|Baked Goods
-# U|F>U|FOODON_03311637|apple peel|C5770384|apple peel extract
+X|F>U|FOODON_03311637|apple peel|C5770384|apple peel extract
 U|F>U|FOODON_03311662|beef (roasted)|C0452858|Roast beef
 U|F>U|FOODON_03311664|lamb (roasted)|C0452879|Roast lamb
-# U|F>U|FOODON_03311689|walnut (in oil)|C3474180|walnut oil
-# U|F>U|FOODON_03311708|garlic in oil|C1802750|oil of garlic
+X|F>U|FOODON_03311689|walnut (in oil)|C3474180|walnut oil
+X|F>U|FOODON_03311708|garlic in oil|C1802750|oil of garlic
 U|F>U|FOODON_03311714|fat substitute|C0082550|Fat Substitutes
-# U|F>U|FOODON_03311715|comfrey root|C2347832|comfrey root extract
+X|F>U|FOODON_03311715|comfrey root|C2347832|comfrey root extract
 U|F>U|FOODON_03311831|beef (minced)|C0452855|Minced beef
 U|F>U|FOODON_03311874|kombucha tea|C4042915|Kombucha Tea
 U|F>U|FOODON_03311885|brussels sprout|C0330501|Brussels sprouts - dietary
@@ -27840,23 +27840,23 @@ U|F>U|FOODON_03315024|beet sugar|C0330391|Beta vulgaris
 U|F>U|FOODON_03315026|essential oil|C0028910|Oils, Volatile
 U|F>U|FOODON_03315027|sweetener (nonnutritive)|C0260274|Nonnutritive sweeteners
 U|F>U|FOODON_03315104|lemon|C2741542|lemon allergenic extract
-# U|F>U|FOODON_03315106|orange|C1313858|Orange color
+X|F>U|FOODON_03315106|orange|C1313858|Orange color
 U|F>U|FOODON_03315145|olive (ripe)|C2347034|Black olive (dietary)
 U|F>U|FOODON_03315149|corn syrup (high fructose)|C2981326|high fructose corn syrup
 U|F>U|FOODON_03315170|sugar substitute|C0282360|Sugar Substitutes
-# U|F>U|FOODON_03315177|dextrose|C0017725|glucose
+X|F>U|FOODON_03315177|dextrose|C0017725|glucose
 U|F>U|FOODON_03315199|gelatin capsule (soft shell)|C5909192|Soft Gelatin Capsule Shell
 U|F>U|FOODON_03315259|waffle|C0452675|Waffle
 U|F>U|FOODON_03315272|pastry|C0452703|Pastry
 U|F>U|FOODON_03315281|gelatin product|C0017237|gelatin
 U|F>U|FOODON_03315291|ginseng product|C1119918|ginseng preparation
-# U|F>U|FOODON_03315292|muk|C1417011|MAP3K12 gene
+X|F>U|FOODON_03315292|muk|C1417011|MAP3K12 gene
 U|F>U|FOODON_03315305|sweetener (nutritive)|C3658237|Nutritive Sweeteners
 U|F>U|FOODON_03315306|protein hydrolyzates|C0033631|Protein Hydrolysates
 U|F>U|FOODON_03315334|fruit wine|C0678405|fruit wines
 U|F>U|FOODON_03315342|cake (sponge)|C0452620|Sponge cake
-# U|F>U|FOODON_03315354|potato|C0939910|Solanum tuberosum, potato, Homeopathic preparation
-# U|F>U|FOODON_03315361|adzuki bean|C4080599|adzuki bean extract
+X|F>U|FOODON_03315354|potato|C0939910|Solanum tuberosum, potato, Homeopathic preparation
+X|F>U|FOODON_03315361|adzuki bean|C4080599|adzuki bean extract
 U|F>U|FOODON_03315414|ice cream (reduced fat)|C3853205|Reduced fat ice cream
 U|F>U|FOODON_03315425|vegetable extract|C0771923|vegetable extract
 U|F>U|FOODON_03315426|yeast extract|C0873195|YEAST EXTRACT
@@ -27864,14 +27864,14 @@ U|F>U|FOODON_03315448|nori|C1257934|Nori
 U|F>U|FOODON_03315451|wakame|C1030485|Undaria pinnatifida
 U|F>U|FOODON_03315467|konnyaku|C1135791|Amorphophallus konjac
 U|F>U|FOODON_03315476|fish paste|C0453074|Fish paste
-# U|F>U|FOODON_03315498|dressing|C0152053|Dressing patient (procedure)
-# U|F>U|FOODON_03315502|peach|C2702418|peach allergenic extract
-# U|F>U|FOODON_03315513|milk product (fermented)|C1257811|Cultured Milk Products
+X|F>U|FOODON_03315498|dressing|C0152053|Dressing patient (procedure)
+X|F>U|FOODON_03315502|peach|C2702418|peach allergenic extract
+X|F>U|FOODON_03315513|milk product (fermented)|C1257811|Cultured Milk Products
 U|F>U|FOODON_03315560|acetic acid (diluted)|C0544409|Acetic acid dilute
 U|F>U|FOODON_03315590|lumpfish roe|C1440932|Lumpfish roe
 U|F>U|FOODON_03315592|pear (dried)|C0453306|Dried pear
 U|F>U|FOODON_03315625|malt liquor|C0678389|malt liquor
-# U|F>U|FOODON_03315627|porter|C0684315|Porter beer
+X|F>U|FOODON_03315627|porter|C0684315|Porter beer
 U|F>U|FOODON_03315666|fish (prepared)|C0311122|Prepared fish
 U|F>U|FOODON_03315708|condiment|C0009644|Condiments
 U|F>U|FOODON_03315718|animal protein (hydrolyzed)|C0982023|ANIMAL PROTEIN,HYDROLYZED
@@ -27881,37 +27881,37 @@ U|F>U|FOODON_03315816|fish protein|C0598294|Fish Proteins
 U|F>U|FOODON_03315839|low calorie food|C0453838|Low energy food
 U|F>U|FOODON_03315921|fat emulsion|C0304483|Fat emulsion
 U|F>U|FOODON_03316042|salad|C0453740|Salads
-# U|F>U|FOODON_03316061|chicken egg|C3669435|Embryonated chicken egg
+X|F>U|FOODON_03316061|chicken egg|C3669435|Embryonated chicken egg
 U|F>U|FOODON_03316065|tea extract|C4721865|Tea Extract
 U|F>U|FOODON_03316074|vegetable protein|C0042439|Plant Proteins, Dietary
 U|F>U|FOODON_03316078|soda bread|C0452546|Soda bread
 U|F>U|FOODON_03316090|sport drink|C0452461|Sports drink
-# U|F>U|FOODON_03316132|cherry in syrup|C0776006|CHERRY SYRUP
+X|F>U|FOODON_03316132|cherry in syrup|C0776006|CHERRY SYRUP
 U|F>U|FOODON_03316146|pudding tapioca|C3853319|Tapioca pudding
-# U|F>U|FOODON_03316165|potato (peeled)|C0446303|Potato with peel
+X|F>U|FOODON_03316165|potato (peeled)|C0446303|Potato with peel
 U|F>U|FOODON_03316243|spread, low fat|C0452835|Low fat spread
 U|F>U|FOODON_03316282|anchovy|C0327903|Engraulidae
 U|F>U|FOODON_03316284|horseradish|C1110641|Armoracia rusticana
 U|F>U|FOODON_03316347|onion|C0029035|Onions
 U|F>U|FOODON_03316406|barley (pearled)|C0452677|Pearl barley
-# U|F>U|FOODON_03316428|sweets|C1537081|sweet flavor
+X|F>U|FOODON_03316428|sweets|C1537081|sweet flavor
 U|F>U|FOODON_03316438|nougat|C0458194|Nougat
-# U|F>U|FOODON_03316443|wafer|C0991560|Oral Wafer
-# U|F>U|FOODON_03316453|seasoning substance|C0349383|Seasoning
+X|F>U|FOODON_03316443|wafer|C0991560|Oral Wafer
+X|F>U|FOODON_03316453|seasoning substance|C0349383|Seasoning
 U|F>U|FOODON_03316454|beverage containing caffeine|C0678438|Beverage containing caffeine
 U|F>U|FOODON_03316513|vegetable sauce|C0453622|Vegetables in sauce
-# U|F>U|FOODON_03316533|kvas|C0015852|Fermentation
+X|F>U|FOODON_03316533|kvas|C0015852|Fermentation
 U|F>U|FOODON_03316574|jam (low sugar)|C0453429|Reduced sugar jam
 U|F>U|FOODON_03316578|milk pudding|C0453550|Milk pudding
 U|F>U|FOODON_03316602|fruit ice|C3853214|Fruit ice
 U|F>U|FOODON_03316619|fruit juice (fresh)|C5924135|Fresh fruit drink
-# U|F>U|FOODON_03316621|starch sugar|C0684177|sugars and starches
+X|F>U|FOODON_03316621|starch sugar|C0684177|sugars and starches
 U|F>U|FOODON_03316684|olive oil (refined)|C4076239|Olive oil refined
-# U|F>U|FOODON_03316697|dextrose powdered|C0773222|Glucose powder
+X|F>U|FOODON_03316697|dextrose powdered|C0773222|Glucose powder
 U|F>U|FOODON_03316755|dextrose anhydrous|C1165353|anhydrous dextrose
 U|F>U|FOODON_03316756|dextrose monohydrate|C0017734|dextrose monohydrate
 U|F>U|FOODON_03316764|vanilla bean extract|C5234187|vanilla bean extract
-# U|F>U|FOODON_03316918|pastilles|C0453450|Cough drop
+X|F>U|FOODON_03316918|pastilles|C0453450|Cough drop
 U|F>U|FOODON_03317011|sodium caseinate|C0037488|sodium caseinate
 U|F>U|FOODON_03317017|blancmange|C0453507|Blancmange
 U|F>U|FOODON_03317034|caramel|C0054634|caramel (dietary)
@@ -27923,7 +27923,7 @@ U|F>U|FOODON_03317312|chili with beans (canned)|C0475621|Canned chili beans
 U|F>U|FOODON_03317356|margarine|C0024798|Margarine
 U|F>U|FOODON_03317370|lemon oil|C0304108|lemon oil
 U|F>U|FOODON_03317387|corn kernel|C5880186|Corn kernels
-# U|F>U|FOODON_03317455|sangria|C0005857|Bloodletting
+X|F>U|FOODON_03317455|sangria|C0005857|Bloodletting
 U|F>U|FOODON_03317490|clotted cream|C0452747|Clotted cream
 U|F>U|FOODON_03317509|olive|C0349382|Olives - dietary
 U|F>U|FOODON_03317544|chutney|C0453378|Chutney
@@ -27931,31 +27931,31 @@ U|F>U|FOODON_03317565|aperitif wine|C0678400|aperitif wine
 U|F>U|FOODON_03317582|sage derby cheese|C0452787|Sage Derby cheese
 U|F>U|FOODON_03317593|irish stew|C0453486|Irish stew
 U|F>U|FOODON_03317671|coconut (desiccated)|C0453341|Desiccated coconut
-# U|F>U|FOODON_03401212|in brine|C0054057|brine
+X|F>U|FOODON_03401212|in brine|C0054057|brine
 U|F>U|FOODON_03411007|fish, cartilaginous|C0327606|Class Chondrichthyes
-# U|F>U|FOODON_03411043|mackerel|C2727860|mackerel allergenic extract
-# U|F>U|FOODON_03411044|jack|C1708586|Jack Device
+X|F>U|FOODON_03411043|mackerel|C2727860|mackerel allergenic extract
+X|F>U|FOODON_03411044|jack|C1708586|Jack Device
 U|F>U|FOODON_03411064|huckleberry plant|C0950034|Huckleberry Plant
 U|F>U|FOODON_03411125|guinea fowl|C0325611|Numida meleagris (organism)
-# U|F>U|FOODON_03411126|pacific salmon|C0029023|Oncorhynchus
+X|F>U|FOODON_03411126|pacific salmon|C0029023|Oncorhynchus
 U|F>U|FOODON_03411134|mammal|C0024660|Mammals
 U|F>U|FOODON_03411136|swine|C1135183|Sus scrofa
 U|F>U|FOODON_03411137|pacific whiting|C5673726|Pacific whiting
 U|F>U|FOODON_03411144|flyingfish|C0328508|Family Exocoetidae - flyingfish
-# U|F>U|FOODON_03411164|fish, jawless|C0010596|Agnatha
+X|F>U|FOODON_03411164|fish, jawless|C0010596|Agnatha
 U|F>U|FOODON_03411183|sheep|C0036945|Sheep
 U|F>U|FOODON_03411191|black pepper plant|C3825823|Black pepper (Plant)
 U|F>U|FOODON_03411195|spiny dogfish|C0327682|Squalus acanthias
 U|F>U|FOODON_03411198|broiler chicken|C2698565|Broiler chicken
 U|F>U|FOODON_03411201|dairy cow|C1140701|Bos taurus
 U|F>U|FOODON_03411208|squash plant|C0936067|Squash Plant
-# U|F>U|FOODON_03411210|cotton plant|C0010196|Gossypium
-# U|F>U|FOODON_03411220|insect|C0021585|Insecta
-# U|F>U|FOODON_03411222|fish|C1954771|Subtelomere analysis:Imp:Pt:Bld/Tiss:Nar:FISH
-# U|F>U|FOODON_03411223|mussel|C1443042|Mussel antigen
+X|F>U|FOODON_03411210|cotton plant|C0010196|Gossypium
+X|F>U|FOODON_03411220|insect|C0021585|Insecta
+X|F>U|FOODON_03411222|fish|C1954771|Subtelomere analysis:Imp:Pt:Bld/Tiss:Nar:FISH
+X|F>U|FOODON_03411223|mussel|C1443042|Mussel antigen
 U|F>U|FOODON_03411234|porgy|C0032698|Porgies
 U|F>U|FOODON_03411235|sprat|C1217446|Sprattus sprattus
-# U|F>U|FOODON_03411237|shrimp|C2702382|shrimp allergenic extract
+X|F>U|FOODON_03411237|shrimp|C2702382|shrimp allergenic extract
 U|F>U|FOODON_03411242|turtle|C0041412|Turtle
 U|F>U|FOODON_03411245|apple tree|C0330653|Malus domestica
 U|F>U|FOODON_03411251|grouse|C0325618|Tetraoninae
@@ -27964,13 +27964,13 @@ U|F>U|FOODON_03411258|trout|C0041200|Salmo trutta
 U|F>U|FOODON_03411261|fungus|C0016832|Fungi
 U|F>U|FOODON_03411264|bonito|C0329590|Euthynnus pelamis
 U|F>U|FOODON_03411267|mint plant|C3825977|Mints (Plants)
-# U|F>U|FOODON_03411268|lentil plant|C0996842|Lens <eudicots>
+X|F>U|FOODON_03411268|lentil plant|C0996842|Lens <eudicots>
 U|F>U|FOODON_03411269|tuna|C0453048|Tuna - dietary
 U|F>U|FOODON_03411272|almond tree|C0969713|almond tree
-# U|F>U|FOODON_03411278|eel|C0677644|Electron energy loss spectroscopy
-# U|F>U|FOODON_03411280|barrow|C1551802|Barrow (ethnic group)
+X|F>U|FOODON_03411278|eel|C0677644|Electron energy loss spectroscopy
+X|F>U|FOODON_03411280|barrow|C1551802|Barrow (ethnic group)
 U|F>U|FOODON_03411287|gray mullet|C0475620|Gray mullet (substance)
-# U|F>U|FOODON_03411293|pike|C0522667|Pike missile
+X|F>U|FOODON_03411293|pike|C0522667|Pike missile
 U|F>U|FOODON_03411295|snake|C0037382|Snakes
 U|F>U|FOODON_03411297|vertebrate animal|C0042567|Vertebrates
 U|F>U|FOODON_03411301|algae|C0002028|Algae
@@ -27980,12 +27980,12 @@ U|F>U|FOODON_03411312|wheat plant|C1123020|Triticum aestivum
 U|F>U|FOODON_03411316|duck|C0677522|Duck - meat
 U|F>U|FOODON_03411317|cockle|C0453050|Cardiidae
 U|F>U|FOODON_03411318|cacao plant|C0006622|Cacao Plant
-# U|F>U|FOODON_03411319|sucker|C0183675|Suction Tips
+X|F>U|FOODON_03411319|sucker|C0183675|Suction Tips
 U|F>U|FOODON_03411322|rice plant|C1140671|Oryza sativa
 U|F>U|FOODON_03411323|rabbit|C0999629|Family Leporidae (organism)
 U|F>U|FOODON_03411325|beaver|C1551707|Beaver (ethnic group)
 U|F>U|FOODON_03411328|goat|C1510458|Goat
-# U|F>U|FOODON_03411331|clam|C1445380|clam allergenic extract
+X|F>U|FOODON_03411331|clam|C1445380|clam allergenic extract
 U|F>U|FOODON_03411336|crambe plant|C1448090|Crambe Plant
 U|F>U|FOODON_03411340|skate|C0037246|Skates (Fish)
 U|F>U|FOODON_03411342|shark|C0036941|Shark - fish
@@ -27998,17 +27998,17 @@ U|F>U|FOODON_03411374|crustacean|C1704306|Class crustacea
 U|F>U|FOODON_03411382|partridge|C1828284|Perdicinae
 U|F>U|FOODON_03411389|squirrel|C0087017|Squirrels
 U|F>U|FOODON_03411392|sardinella|C1044232|Sardinella
-# U|F>U|FOODON_03411396|menhaden|C1018493|Alosinae
+X|F>U|FOODON_03411396|menhaden|C1018493|Alosinae
 U|F>U|FOODON_03411408|abalone|C2350014|Abalone - dietary
 U|F>U|FOODON_03411415|asparagus plant|C1138606|Asparagus Plant
 U|F>U|FOODON_03411419|sunfish|C0949401|Sunfishes
-# U|F>U|FOODON_03411423|cod|C2702357|codfish allergenic extract
+X|F>U|FOODON_03411423|cod|C2702357|codfish allergenic extract
 U|F>U|FOODON_03411429|mandarin orange tree|C0884217|Citrus reticulata
-# U|F>U|FOODON_03411430|argentine|C0238689|Argentinian people
+X|F>U|FOODON_03411430|argentine|C0238689|Argentinian people
 U|F>U|FOODON_03411433|shellfish|C1304606|Shellfish
 U|F>U|FOODON_03411436|nectarine tree|C1509662|nectarine tree
 U|F>U|FOODON_03411450|opossum|C0029115|Didelphidae
-# U|F>U|FOODON_03411457|chicken|C0677521|Chicken Meat
+X|F>U|FOODON_03411457|chicken|C0677521|Chicken Meat
 U|F>U|FOODON_03411460|pheasant|C1262982|Pheasant - dietary
 U|F>U|FOODON_03411461|raccoon|C0034500|Raccoons
 U|F>U|FOODON_03411465|sturgeon|C0327752|Acipenser
@@ -28019,9 +28019,9 @@ U|F>U|FOODON_03411481|antelope|C0325233|Antilocapra americana
 U|F>U|FOODON_03411491|blueberry plant|C0950036|Blueberry Plants
 U|F>U|FOODON_03411494|raspberry plant|C5691445|Raspberry Plant
 U|F>U|FOODON_03411495|rosemary plant|C0162748|Rosmarinus
-# U|F>U|FOODON_03411496|grouper|C3244086|grouper - record organizer
+X|F>U|FOODON_03411496|grouper|C3244086|grouper - record organizer
 U|F>U|FOODON_03411498|king crab|C0446342|Chaceon affinis
-# U|F>U|FOODON_03411510|snapper|C0565924|Nitrate substance of abuse - non-pharmaceutical
+X|F>U|FOODON_03411510|snapper|C0565924|Nitrate substance of abuse - non-pharmaceutical
 U|F>U|FOODON_03411532|halibut|C0452986|Halibut
 U|F>U|FOODON_03411558|sardine|C0453041|Sardine
 U|F>U|FOODON_03411575|pacific herring|C0327887|Clupea harengus pallasi
@@ -28032,50 +28032,50 @@ U|F>U|FOODON_03411625|reptile|C0035161|Reptiles
 U|F>U|FOODON_03411626|armadillo|C0324875|Family Dasypodidae
 U|F>U|FOODON_03411633|whelk|C0453064|Whelks
 U|F>U|FOODON_03411635|shiitake mushroom|C2355620|Shiitake Mushroom
-# U|F>U|FOODON_03411640|whiting|C0220938|White color
+X|F>U|FOODON_03411640|whiting|C0220938|White color
 U|F>U|FOODON_03411641|sorrel plant|C0330386|Rumex
-# U|F>U|FOODON_03411644|cuttlefish|C3486726|cuttlefish preparation
-# U|F>U|FOODON_03411669|lamb|C1442922|Lamb antigen
+X|F>U|FOODON_03411644|cuttlefish|C3486726|cuttlefish preparation
+X|F>U|FOODON_03411669|lamb|C1442922|Lamb antigen
 U|F>U|FOODON_03411703|castor bean plant|C0007341|Ricinus communis
 U|F>U|FOODON_03411708|hawthorn plant|C1527346|Hawthorn plant
 U|F>U|FOODON_03411710|roaster chicken|C3687643|Roaster chicken
-# U|F>U|FOODON_03411711|capon|C1826455|NOS1AP gene
-# U|F>U|FOODON_03411713|chicken hen|C0330671|Sempervivum tectorum (organism)
+X|F>U|FOODON_03411711|capon|C1826455|NOS1AP gene
+X|F>U|FOODON_03411713|chicken hen|C0330671|Sempervivum tectorum (organism)
 U|F>U|FOODON_03411715|oak tree|C0950076|Oak Tree
 U|F>U|FOODON_03411716|arrowhead plant|C3824857|Arrowhead (Plants)
 U|F>U|FOODON_03411717|amaranth plant|C0330370|Amaranthus
 U|F>U|FOODON_03411743|red algae|C0002033|Rhodophyta
-# U|F>U|FOODON_03411744|kelp|C0939804|kelp preparation
+X|F>U|FOODON_03411744|kelp|C0939804|kelp preparation
 U|F>U|FOODON_03411746|blue-green algae|C1047211|Cyanobacteria
 U|F>U|FOODON_03411785|redeye mullet|C0329302|Mugil gaimardianus
 U|F>U|FOODON_03411794|croaker|C0010342|Scombridae
-# U|F>U|FOODON_03411813|grunt|C0241902|Grunting respiration
+X|F>U|FOODON_03411813|grunt|C0241902|Grunting respiration
 U|F>U|FOODON_03411843|alaska pollock|C0328444|Theragra chalcogramma
-# U|F>U|FOODON_03411845|ocean pout|C5239651|ocean pout preparation
+X|F>U|FOODON_03411845|ocean pout|C5239651|ocean pout preparation
 U|F>U|FOODON_03411908|shiner|C0524540|Shiner
-# U|F>U|FOODON_03411963|new zealand green mussel|C3154338|New Zealand green mussel extract
+X|F>U|FOODON_03411963|new zealand green mussel|C3154338|New Zealand green mussel extract
 U|F>U|FOODON_03411998|decapod|C0323856|Decapoda
 U|F>U|FOODON_03411999|common bean plant|C1510487|Phaseolus vulgaris
 U|F>U|FOODON_03412002|century plant|C0331586|Century Plant
 U|F>U|FOODON_03412007|bullhead catfish|C0020780|Ictaluridae
-# U|F>U|FOODON_03412023|field mushroom|C4735000|field mushroom allergenic extract
+X|F>U|FOODON_03412023|field mushroom|C4735000|field mushroom allergenic extract
 U|F>U|FOODON_03412024|early morel|C0319836|Verpa bohemica
 U|F>U|FOODON_03412039|spirulina|C0075026|Spirulina <Spirulinaceae>
-# U|F>U|FOODON_03412053|coca plant|C0009169|Coca
+X|F>U|FOODON_03412053|coca plant|C0009169|Coca
 U|F>U|FOODON_03412056|senna plant|C0950048|Senna Plant
 U|F>U|FOODON_03412059|mate plant|C3826032|Mate plant
-# U|F>U|FOODON_03412060|kava plant|C0521083|Kava
+X|F>U|FOODON_03412060|kava plant|C0521083|Kava
 U|F>U|FOODON_03412069|mustard plant|C1457919|Mustard Plant
 U|F>U|FOODON_03412076|magic mushroom|C0319727|Psilocybe cubensis
 U|F>U|FOODON_03412078|dace|C0524538|Dace
 U|F>U|FOODON_03412092|kangaroo|C1510459|Kangaroo
-# U|F>U|FOODON_03412093|mule|C1619903|HUWE1 protein, human
-# U|F>U|FOODON_03412103|camel|C3541274|CTAG2 wt Allele
+X|F>U|FOODON_03412093|mule|C1619903|HUWE1 protein, human
+X|F>U|FOODON_03412103|camel|C3541274|CTAG2 wt Allele
 U|F>U|FOODON_03412108|starfish|C0038185|Starfish
 U|F>U|FOODON_03412111|gastropod|C0324023|Class Gastropoda
 U|F>U|FOODON_03412112|mollusc|C0026391|Mollusca
 U|F>U|FOODON_03412113|bivalve|C0542270|Bivalvia <Mollusca>
-# U|F>U|FOODON_03412114|snail|C1420267|SNAI1 gene
+X|F>U|FOODON_03412114|snail|C1420267|SNAI1 gene
 U|F>U|FOODON_03412115|echinoderm|C0013507|Echinodermata
 U|F>U|FOODON_03412116|cephalopod|C0324027|Cephalopoda
 U|F>U|FOODON_03412127|barnacle|C3853197|Barnacle (substance)
@@ -28086,19 +28086,19 @@ U|F>U|FOODON_03412180|sea bass|C1003387|Serranidae
 U|F>U|FOODON_03412187|toadfish|C0328377|Batrachoidiformes
 U|F>U|FOODON_03412191|creek chub|C0328249|Semotilus atromaculatus
 U|F>U|FOODON_03412198|kingfish|C2618031|Argyrosomus japonicus
-# U|F>U|FOODON_03412248|boar|C3668828|Intact male pig
+X|F>U|FOODON_03412248|boar|C3668828|Intact male pig
 U|F>U|FOODON_03412250|salmo|C0327949|Salmo salar
 U|F>U|FOODON_03412266|seaweed|C0036500|Seaweed
 U|F>U|FOODON_03412279|limpet|C2350000|Limpet - dietary
 U|F>U|FOODON_03412293|lizard|C0023916|Lizards
 U|F>U|FOODON_03412325|blue marlin|C0329612|Makaira nigricans
 U|F>U|FOODON_03412345|lichen|C0023657|Lichen - organism
-# U|F>U|FOODON_03412361|reishi mushroom|C1095914|reishi mushroom preparation
+X|F>U|FOODON_03412361|reishi mushroom|C1095914|reishi mushroom preparation
 U|F>U|FOODON_03412388|sea bream|C5441535|Archosargus rhomboidalis
 U|F>U|FOODON_03412394|puffer|C0936076|Pufferfish
 U|F>U|FOODON_03412395|brown algae|C2930156|BROWN ALGAE
 U|F>U|FOODON_03412403|pumpkinseed|C0328815|Lepomis gibbosus
-# U|F>U|FOODON_03412406|bear|C2945608|Bore (qualifier value)
+X|F>U|FOODON_03412406|bear|C2945608|Bore (qualifier value)
 U|F>U|FOODON_03412408|jellyfish|C0022381|Jellyfish
 U|F>U|FOODON_03412409|coelenterate|C0009222|Cnidaria
 U|F>U|FOODON_03412410|rhodymenia|C0996267|Rhodymenia
@@ -28107,7 +28107,7 @@ U|F>U|FOODON_03412438|rattlesnake|C0206317|Crotalus
 U|F>U|FOODON_03412439|monkey|C0026447|Monkeys
 U|F>U|FOODON_03412440|alligator|C0002123|Alligators
 U|F>U|FOODON_03412441|crocodile|C0010345|Crocodylus
-# U|F>U|FOODON_03412476|sea lettuce|C0750899|Ulva
+X|F>U|FOODON_03412476|sea lettuce|C0750899|Ulva
 U|F>U|FOODON_03412484|saury|C0328541|Family Scomberesocidae
 U|F>U|FOODON_03412491|slipper lobster|C1021735|Family Scyllaridae (organism)
 U|F>U|FOODON_03412496|grasshopper|C0018211|Grasshoppers
@@ -28120,41 +28120,41 @@ U|F>U|FOODON_03412530|flathead|C0337868|flathead
 U|F>U|FOODON_03412535|blacktail pike-conger|C0327822|Hoplunnis diomedianus
 U|F>U|FOODON_03412537|spotted pike-conger|C0327824|Hoplunnis tenuis
 U|F>U|FOODON_03412571|pomfret|C0453005|Pomfret
-# U|F>U|FOODON_03412572|seahorse|C0175202|Structure of hippocampal formation
+X|F>U|FOODON_03412572|seahorse|C0175202|Structure of hippocampal formation
 U|F>U|FOODON_03412599|killifish|C0949589|Fundulidae
 U|F>U|FOODON_03412610|ewe|C0337831|Ewe (ethnic group)
 U|F>U|FOODON_03412611|doe (goat)|C3668950|Adult female goat
 U|F>U|FOODON_03412615|gecko|C0995137|Family Gekkonidae
 U|F>U|FOODON_03412617|carp|C0677526|Carp - dietary
-# U|F>U|FOODON_03412639|enteromorpha|C0750899|Ulva
+X|F>U|FOODON_03412639|enteromorpha|C0750899|Ulva
 U|F>U|FOODON_03412653|angelfish|C1030407|Genus Pterophyllum
 U|F>U|FOODON_03412656|squirrelfish|C0328631|Holocentrus adscensionis
 U|F>U|FOODON_03412665|black bass|C3134207|Micropterus floridanus
 U|F>U|FOODON_03412681|blackfoot abalone|C3191304|blackfoot abalone extract
 U|F>U|FOODON_03412693|shortnose cisco|C0327936|Coregonus reighardi
-# U|F>U|FOODON_03412695|hare|C0242372|Lepus
+X|F>U|FOODON_03412695|hare|C0242372|Lepus
 U|F>U|FOODON_03412696|snipe|C0325808|Snipe
 U|F>U|FOODON_03412697|ptarmigan|C1003229|Lagopus
 U|F>U|FOODON_03412701|iguana|C0020864|Iguanas
-# U|F>U|FOODON_03412735|honey mushroom|C5551258|honey mushroom extract
+X|F>U|FOODON_03412735|honey mushroom|C5551258|honey mushroom extract
 U|F>U|FOODON_03412844|krill|C0022787|Euphausiacea
 U|F>U|FOODON_03412848|eubacteriales|C1210563|Clostridiales
 U|F>U|FOODON_03412850|beggiatoales|C0751988|Gammaproteobacteria
 U|F>U|FOODON_03412855|chlamydobacteriales|C0597950|Chlamydobacteriales
-# U|F>U|FOODON_03412856|hyphomicrobiales|C0995323|RhiXbiales
+X|F>U|FOODON_03412856|hyphomicrobiales|C0995323|RhiXbiales
 U|F>U|FOODON_03412857|dentex|C1043138|Dentex
 U|F>U|FOODON_03412893|rockfish|C0328724|Morone saxatilis
 U|F>U|FOODON_03412897|grenadier|C1003363|Macrouridae
 U|F>U|FOODON_03412927|caryophanales|C1456435|Bacillales
 U|F>U|FOODON_03412975|gum arabic|C0018389|Gum Arabic
-# U|F>U|FOODON_03412988|aluminium ammonium sulphate|C0002368|alum, ammonium
-# U|F>U|FOODON_03412995|ammonia caramel|C0103058|ammonia-process caramel
+X|F>U|FOODON_03412988|aluminium ammonium sulphate|C0002368|alum, ammonium
+X|F>U|FOODON_03412995|ammonia caramel|C0103058|ammonia-process caramel
 U|F>U|FOODON_03412996|ammonium alginate|C4477989|ammonium alginate
 U|F>U|FOODON_03412997|ammonium carbonate|C0051711|ammonium carbonate
-# U|F>U|FOODON_03412998|ammonium hydrogen carbonate|C0051706|ammonium bicarbonate
+X|F>U|FOODON_03412998|ammonium hydrogen carbonate|C0051706|ammonium bicarbonate
 U|F>U|FOODON_03413007|ascorbyl stearate|C0052477|ascorbyl monostearate
-# U|F>U|FOODON_03413020|brown fk|C0054153|Brown FK
-# U|F>U|FOODON_03413021|brown ht|C0055484|Chocolate Brown HT
+X|F>U|FOODON_03413020|brown fk|C0054153|Brown FK
+X|F>U|FOODON_03413021|brown ht|C0055484|Chocolate Brown HT
 U|F>U|FOODON_03413024|calcium  hydrogen carbonate|C4549285|calcium hydrogen carbonate
 U|F>U|FOODON_03413027|calcium alginate|C0108092|calcium alginate
 U|F>U|FOODON_03413029|calcium ascorbate|C0546173|calcium ascorbate
@@ -28177,28 +28177,28 @@ U|F>U|FOODON_03413077|dimethyl dicarbonate|C0058227|dimethyl pyrocarbonate
 U|F>U|FOODON_03413082|dipotassium phosphate|C0138037|dibasic potassium phosphate
 U|F>U|FOODON_03413084|disodium 5'-ribonucleotides|C0206918|disodium 5'-ribonucleotide
 U|F>U|FOODON_03413085|disodium citrate|C0772447|Disodium citrate
-# U|F>U|FOODON_03413087|disodium guanylate|C0771671|Guanosine 5'-disodium phosphate
-# U|F>U|FOODON_03413088|disodium inosinate|C0037519|Sodium Inosinate
+X|F>U|FOODON_03413087|disodium guanylate|C0771671|Guanosine 5'-disodium phosphate
+X|F>U|FOODON_03413088|disodium inosinate|C0037519|Sodium Inosinate
 U|F>U|FOODON_03413092|dodecyl gallate|C0064688|dodecyl gallate
 U|F>U|FOODON_03413097|ethyl-p-hydroxybenXate|C0059788|ethyl-p-hydroxybenXate
 U|F>U|FOODON_03413105|glucono-delta-lactone|C0061387|gluconolactone
-# U|F>U|FOODON_03413112|greens s|C0061890|acid green 50
-# U|F>U|FOODON_03413113|guanylic acid|C0018346|Guanosine Monophosphate
+X|F>U|FOODON_03413112|greens s|C0061890|acid green 50
+X|F>U|FOODON_03413113|guanylic acid|C0018346|Guanosine Monophosphate
 U|F>U|FOODON_03413120|hydroxypropyl cellulose|C4281713|hydroxypropylcellulose
 U|F>U|FOODON_03413125|isomalt|C0283192|isomalt
 U|F>U|FOODON_03413126|karaya gum|C0022516|karaya gum
 U|F>U|FOODON_03413132|locust bean gum|C3536783|locust bean gum extract
-# U|F>U|FOODON_03413135|lysozyme|C2587208|Lysozyme measurement
+X|F>U|FOODON_03413135|lysozyme|C2587208|Lysozyme measurement
 U|F>U|FOODON_03413140|magnesium hydroxide carbonate|C0303442|magnesium carbonate hydroxide
-# U|F>U|FOODON_03413143|magnesium silicate|C0206118|Magnesium Silicates
+X|F>U|FOODON_03413143|magnesium silicate|C0206118|Magnesium Silicates
 U|F>U|FOODON_03413144|magnesium trisilicate|C0065533|magnesium trisilicate
 U|F>U|FOODON_03413152|microcrystalline cellulose|C0669247|microcrystalline cellulose
 U|F>U|FOODON_03413161|monopotassium glutamate|C0556251|Monopotassium glutamate
-# U|F>U|FOODON_03413164|monosodium citrate|C0142825|sodium citrate
-# U|F>U|FOODON_03413167|monosodium tartrate|C0301524|sodium bitartrate
-# U|F>U|FOODON_03413171|neohesperidine dc|C0068517|neohesperidin dihydrochalcone
+X|F>U|FOODON_03413164|monosodium citrate|C0142825|sodium citrate
+X|F>U|FOODON_03413167|monosodium tartrate|C0301524|sodium bitartrate
+X|F>U|FOODON_03413171|neohesperidine dc|C0068517|neohesperidin dihydrochalcone
 U|F>U|FOODON_03413183|pentapotassium triphosphate|C4549265|pentapotassium triphosphate
-# U|F>U|FOODON_03413184|pentasodium triphosphate|C0301008|triphosphoric acid, sodium salt
+X|F>U|FOODON_03413184|pentasodium triphosphate|C0301008|triphosphoric acid, sodium salt
 U|F>U|FOODON_03413188|polydextrose|C0071545|polydextrose
 U|F>U|FOODON_03413189|polyglycerol esters of fatty acids|C0982350|POLYGLYCEROL ESTERS OF FATTY ACIDS
 U|F>U|FOODON_03413190|polyglycerol polyricinoleate|C0612777|glyceran polyricinoleic acid ester
@@ -28214,7 +28214,7 @@ U|F>U|FOODON_03413219|potassium propionate|C0138041|potassium propionate
 U|F>U|FOODON_03413220|potassium saccharin|C2986887|Potassium Saccharin
 U|F>U|FOODON_03413223|powdered cellulose|C0789987|POWDERED CELLULOSE
 U|F>U|FOODON_03413230|quillaia extract|C3856168|quillaja extract
-# U|F>U|FOODON_03413232|red 2g|C0073022|AXphloxin
+X|F>U|FOODON_03413232|red 2g|C0073022|AXphloxin
 U|F>U|FOODON_03413236|shellac|C0074445|shellac
 U|F>U|FOODON_03413240|sodium adipate|C0142789|sodium adipate
 U|F>U|FOODON_03413243|sodium aluminium silicate|C0771394|aluminum sodium silicate
@@ -28229,11 +28229,11 @@ U|F>U|FOODON_03413293|sucrose esters of fatty acids|C5704028|Fatty acids, sucros
 U|F>U|FOODON_03413299|tara gum|C0619060|tara gum
 U|F>U|FOODON_03413305|thaumatin|C4048309|thaumatin
 U|F>U|FOODON_03413310|tragacanth|C0040602|tragacanth
-# U|F>U|FOODON_03413312|tricalcium citrate|C0108101|calcium citrate
+X|F>U|FOODON_03413312|tricalcium citrate|C0108101|calcium citrate
 U|F>U|FOODON_03413314|triethyl citrate|C0609416|triethyl citrate
-# U|F>U|FOODON_03413315|tripotassium citrate|C0137996|potassium citrate
+X|F>U|FOODON_03413315|tripotassium citrate|C0137996|potassium citrate
 U|F>U|FOODON_03413318|trisodium diphosphate|C4694674|trisodium diphosphate
-# U|F>U|FOODON_03413320|vegetable carbon|C0007010|carbon black
+X|F>U|FOODON_03413320|vegetable carbon|C0007010|carbon black
 U|F>U|FOODON_03413321|xanthan gum|C0078596|xanthan gum
 U|F>U|FOODON_03413361|freshwater fish|C5545440|Freshwater fishing
 U|F>U|FOODON_03413366|roe deer|C0325219|Capreolus capreolus
@@ -28243,18 +28243,18 @@ U|F>U|FOODON_03413382|trefoil plant|C0950061|Trefoil (plant)
 U|F>U|FOODON_03413396|yam plant|C0936043|Dioscorea <Dioscoreaceae>
 U|F>U|FOODON_03413429|rue plant|C0330928|Ruta
 U|F>U|FOODON_03413443|oca plant|C1015366|Oxalis tuberosa
-# U|F>U|FOODON_03413463|edible frog|C1012101|Pelophylax lessonae
+X|F>U|FOODON_03413463|edible frog|C1012101|Pelophylax lessonae
 U|F>U|FOODON_03413477|rudd|C0328248|Scardinius erythrophthalmus
 U|F>U|FOODON_03413499|rainbow smelt|C0327965|Osmerus mordax
-# U|F>U|FOODON_03413503|gull|C0018026|gold
+X|F>U|FOODON_03413503|gull|C0018026|gold
 U|F>U|FOODON_03413504|plover|C0325790|Plover
 U|F>U|FOODON_03413523|carcharodon|C1000670|Carcharodon
 U|F>U|FOODON_03413616|branchiopod|C0596222|Class Branchiopoda
 U|F>U|FOODON_03413623|guinea shrimp|C3669814|Parapenaeopsis atlantica
 U|F>U|FOODON_03413693|flying squid|C2987474|Flying Squid
-# U|F>U|FOODON_03413712|plantain plant|C0939900|plantain preparation
+X|F>U|FOODON_03413712|plantain plant|C0939900|plantain preparation
 U|F>U|FOODON_03413726|maitake mushroom|C3486792|maitake extract
-# U|F>U|FOODON_03413771|pteroylmonoglutamic acid|C0016410|folic acid
+X|F>U|FOODON_03413771|pteroylmonoglutamic acid|C0016410|folic acid
 U|F>U|FOODON_03413778|thiamin mononitrate|C0039844|thiamine mononitrate
 U|F>U|FOODON_03413783|potassium ascorbate|C0771555|potassium ascorbate
 U|F>U|FOODON_03413786|dl-alpha-tocopheryl acetate|C0994472|dl-alpha tocopheryl acetate
@@ -28276,11 +28276,11 @@ U|F>U|FOODON_03413906|atractoscion|C1497408|Atractoscion
 U|F>U|FOODON_03413908|cilus|C2822103|Cilus
 U|F>U|FOODON_03413912|genyonemus|C1674237|Genyonemus
 U|F>U|FOODON_03413913|larimichthys|C1639307|Larimichthys
-# U|F>U|FOODON_03413916|mullet|C1510516|Mullet - dietary
+X|F>U|FOODON_03413916|mullet|C1510516|Mullet - dietary
 U|F>U|FOODON_03413929|pomatoschistus|C1093059|Pomatoschistus
 U|F>U|FOODON_03413932|knipowitschia|C1037406|Knipowitschia
 U|F>U|FOODON_03413939|Xsterisessor|C1086547|Xsterisessor
-# U|F>U|FOODON_03413950|island jack|C5812309|Ferdauia orthogrammus
+X|F>U|FOODON_03413950|island jack|C5812309|Ferdauia orthogrammus
 U|F>U|FOODON_03413969|parastromateus|C1909844|Parastromateus
 U|F>U|FOODON_03413991|frigate mackerel|C0329586|Auxis thazard
 U|F>U|FOODON_03413994|mountain mullet|C0329299|Agonostomus monticola
@@ -28291,8 +28291,8 @@ U|F>U|FOODON_03414023|diplectrum|C1482444|Diplectrum
 U|F>U|FOODON_03414025|acanthistius|C1883840|Acanthistius
 U|F>U|FOODON_03414032|lateolabracidae|C3578316|Lateolabracidae
 U|F>U|FOODON_03414042|rhombosoleidae|C2314875|Achiropsettidae
-# U|F>U|FOODON_03414051|char|C1556145|char - TableCellHoriXntalAlign
-# U|F>U|FOODON_03414052|pollan|C0032385|Pollen
+X|F>U|FOODON_03414051|char|C1556145|char - TableCellHoriXntalAlign
+X|F>U|FOODON_03414052|pollan|C0032385|Pollen
 U|F>U|FOODON_03414060|golden trout|C0327945|Salmo aguabonita
 U|F>U|FOODON_03414064|river trout|C5710997|Salmo trutta fario
 U|F>U|FOODON_03414066|bullhead|C0002446|Ameiurus
@@ -28315,11 +28315,11 @@ U|F>U|FOODON_03414381|bovid|C0007452|Cattle
 U|F>U|FOODON_03414388|diphosphates|C0034320|Diphosphates
 U|F>U|FOODON_03414391|ethyl cellulose|C0059756|ethyl cellulose
 U|F>U|FOODON_03414392|extracts of rosemary|C0939869|rosemary extract
-# U|F>U|FOODON_03414398|invertase|C0038634|SUCRASE
+X|F>U|FOODON_03414398|invertase|C0038634|SUCRASE
 U|F>U|FOODON_03414400|konjac|C1135791|Amorphophallus konjac
 U|F>U|FOODON_03414403|calcium malates|C1533316|calcium malate
 U|F>U|FOODON_03414405|ammonium carbonates|C0051711|ammonium carbonate
-# U|F>U|FOODON_03414406|basic methacrylate copolymer|C0532555|Eudragit-E
+X|F>U|FOODON_03414406|basic methacrylate copolymer|C0532555|Eudragit-E
 U|F>U|FOODON_03414410|cyclamates|C0010524|cyclamate
 U|F>U|FOODON_03414411|calcium citrates|C0108101|calcium citrate
 U|F>U|FOODON_03414413|calcium phosphates|C0006711|calcium phosphate
@@ -28328,7 +28328,7 @@ U|F>U|FOODON_03414421|sodium carbonates|C0074732|sodium carbonate
 U|F>U|FOODON_03414422|sodium citrates|C0142825|sodium citrate
 U|F>U|FOODON_03414425|sodium sulphates|C0074769|sodium sulfate
 U|F>U|FOODON_03414432|triphosphates|C0146894|triphosphate
-# U|F>U|FOODON_03414434|4-hexylresorcinol|C0019497|hexylresorcinol
+X|F>U|FOODON_03414434|4-hexylresorcinol|C0019497|hexylresorcinol
 U|F>U|FOODON_03414435|sodium tartrates|C0142931|sodium tartrate
 U|F>U|FOODON_03414436|potassium tartrates|C0138045|potassium tartrate
 U|F>U|FOODON_03414438|microcrystalline wax|C0937891|microcrystalline wax
@@ -28338,7 +28338,7 @@ U|F>U|FOODON_03414444|sodium acetates|C0142785|sodium acetate
 U|F>U|FOODON_03414448|riboflavins|C0035527|riboflavin
 U|F>U|FOODON_03414451|potassium citrates|C0137996|potassium citrate
 U|F>U|FOODON_03414452|potassium phosphates|C0071778|potassium phosphate
-# U|F>U|FOODON_03414456|steviol glycosides|C0075246|stevioside
+X|F>U|FOODON_03414456|steviol glycosides|C0075246|stevioside
 U|F>U|FOODON_03414458|advantame|C3490290|advantame
 U|F>U|FOODON_03414466|tunicate|C0042056|Urochordata
 U|F>U|FOODON_03414467|ascidian|C0998737|Ascidiacea
@@ -28348,14 +28348,14 @@ U|F>U|FOODON_03414472|grizzly bear|C5700089|Ursus arctos horribilis
 U|F>U|FOODON_03414479|white-winged scoter|C1828013|Melanitta fusca
 U|F>U|FOODON_03414500|ground squirrel|C0037877|Susliks
 U|F>U|FOODON_03414501|arctic ground squirrel|C0999638|Spermophilus parryii
-# U|F>U|FOODON_03414510|wracks|C0182576|Rack
-# U|F>U|FOODON_03414523|swift|C0001198|Acrodynia
+X|F>U|FOODON_03414510|wracks|C0182576|Rack
+X|F>U|FOODON_03414523|swift|C0001198|Acrodynia
 U|F>U|FOODON_03414535|horse mushroom|C0319744|Agaricus arvensis
 U|F>U|FOODON_03414537|caesar's mushroom|C0319654|Amanita caesarea
 U|F>U|FOODON_03414550|parasol mushroom|C0319662|Macrolepiota procera
 U|F>U|FOODON_03414551|common morel|C0319839|Morchella esculenta
-# U|F>U|FOODON_03414556|rhea|C0325338|Family Rheidae
-# U|F>U|FOODON_03414565|fulmar|C1003250|Fulmarus
+X|F>U|FOODON_03414556|rhea|C0325338|Family Rheidae
+X|F>U|FOODON_03414565|fulmar|C1003250|Fulmarus
 U|F>U|FOODON_03414571|minke whale|C0524751|Minke Whale
 U|F>U|FOODON_03414577|actinobacteridae|C1037102|Actinobacteridae
 U|F>U|FOODON_03414580|cytophagia|C3009994|Cytophagia
@@ -28398,23 +28398,23 @@ U|F>U|FOODON_03414888|thresher shark|C0327626|Alopias vulpinus
 U|F>U|FOODON_03414889|varunidae|C1093991|Varunidae
 U|F>U|FOODON_03414901|arachnid|C0003704|Arachnida
 U|F>U|FOODON_03414902|earthworm|C0086194|Earthworms
-# U|F>U|FOODON_03414903|shads|C0242796|Home Care Services, Hospital-Based
+X|F>U|FOODON_03414903|shads|C0242796|Home Care Services, Hospital-Based
 U|F>U|FOODON_03414904|helicidae|C0323955|Family Helicidae
 U|F>U|FOODON_03414963|myrica|C1092984|Myrica
 U|F>U|FOODON_03414972|custard apple family|C0949899|Annonaceae
 U|F>U|FOODON_03415094|pine family|C0949848|Pinaceae
 U|F>U|FOODON_03415098|locust tree|C0000869|Acacia
-# U|F>U|FOODON_03420108|sugar|C0242209|Sugars
+X|F>U|FOODON_03420108|sugar|C0242209|Sugars
 U|F>U|FOODON_03420156|brown sugar|C0459825|Brown sugar
-# U|F>U|FOODON_03420157|white sugar|C0038636|sucrose
+X|F>U|FOODON_03420157|white sugar|C0038636|sucrose
 U|F>U|FOODON_03420164|animal material|C0440406|Animal material
 U|F>U|FOODON_03420171|invert sugar|C0063739|invert sugar
 U|F>U|FOODON_03420177|gluten|C2362561|Gluten
-# U|F>U|FOODON_03420180|casein|C2720503|casein allergenic extract
+X|F>U|FOODON_03420180|casein|C2720503|casein allergenic extract
 U|F>U|FOODON_03420192|tripe|C0452926|Tripe
 U|F>U|FOODON_03430131|whole|C0439751|Entire
-# U|F>U|FOODON_03430137|sliced|C1519355|Slice
-# U|F>U|FOODON_03430143|crystal|C0025611|methamphetamine
+X|F>U|FOODON_03430137|sliced|C1519355|Slice
+X|F>U|FOODON_03430143|crystal|C0025611|methamphetamine
 U|F>U|FOODON_03430151|food (solid)|C0453855|Solid food
 U|F>U|FOODON_03430156|chewable tablet|C0304290|Chewable Tablet
 U|F>U|FOODON_03430158|effervescent tablet|C1273644|Effervescent tablet
@@ -28423,32 +28423,32 @@ U|F>U|FOODON_03430166|oral drops|C0991577|Oral drops
 U|F>U|FOODON_03430171|solution for infusion|C1272893|Solution for infusion
 U|F>U|FOODON_03430174|lozenge|C0991564|Oral Lozenge
 U|F>U|FOODON_03450002|food cooking|C0453809|Cooked food
-# U|F>U|FOODON_03450036|steeping|C5196491|STEEP1 protein, human
-# U|F>U|FOODON_03450045|searing|C1031119|Seres
-# U|F>U|FOODON_03460173|food (salted)|C0453398|Salt - food
-# U|F>U|FOODON_03460190|pickling|C0453375|Pickle
-# U|F>U|FOODON_03460256|carbohydrate fermentation|C3820789|fermentative hydrogen production
+X|F>U|FOODON_03450036|steeping|C5196491|STEEP1 protein, human
+X|F>U|FOODON_03450045|searing|C1031119|Seres
+X|F>U|FOODON_03460173|food (salted)|C0453398|Salt - food
+X|F>U|FOODON_03460190|pickling|C0453375|Pickle
+X|F>U|FOODON_03460256|carbohydrate fermentation|C3820789|fermentative hydrogen production
 U|F>U|FOODON_03460374|carboxymethyl cellulose|C0007068|carboxymethylcellulose
 U|F>U|FOODON_03460383|seaweed extract|C3256731|seaweed extract
 U|F>U|FOODON_03460847|taurine|C0039350|taurine
 U|F>U|FOODON_03460848|guarana seed|C1966315|guarana seed
 U|F>U|FOODON_03460850|glucuronolactone|C0061446|glucuronolactone
-# U|F>U|FOODON_03470103|food salting|C0453398|Salt - food
+X|F>U|FOODON_03470103|food salting|C0453398|Salt - food
 U|F>U|FOODON_03470106|food smoking|C3853077|Smoked food
 U|F>U|FOODON_03470130|freeze-drying|C0016698|Freeze Drying
 U|F>U|FOODON_03470133|spray-drying|C3827958|Spray Drying
 U|F>U|FOODON_03470136|food freezing|C0016739|Frozen Foods
 U|F>U|FOODON_03490100|food packaging|C0282490|Food Packaging
 U|F>U|FOODON_03490196|ampul|C4319773|Ampule (unit of presentation)
-# U|F>U|FOODON_03490199|envelope|C4528946|Envelopes
+X|F>U|FOODON_03490199|envelope|C4528946|Envelopes
 U|F>U|FOODON_03490200|tube|C1561954|tube
-# U|F>U|FOODON_03490201|vial|C1706398|Vial Dosing Unit
-U|F>U|FOODON_03490207|capsule|C1704652|Capsule Shape
-U|F>U|FOODON_03490213|box|C2322574|boxing (history)
-U|F>U|FOODON_03490214|bottle|C0179376|Bottle, device
-U|F>U|FOODON_03490215|jar|C1706196|Jar Dosing Unit
-U|F>U|FOODON_03490219|pail|C2698704|Pail (medical device)
-U|F>U|FOODON_03490221|adhesive|C0001516|Adhesives
+X|F>U|FOODON_03490201|vial|C1706398|Vial Dosing Unit
+X|F>U|FOODON_03490207|capsule|C1704652|Capsule Shape
+X|F>U|FOODON_03490213|box|C2322574|boxing (history)
+X|F>U|FOODON_03490214|bottle|C0179376|Bottle, device
+X|F>U|FOODON_03490215|jar|C1706196|Jar Dosing Unit
+X|F>U|FOODON_03490219|pail|C2698704|Pail (medical device)
+X|F>U|FOODON_03490221|adhesive|C0001516|Adhesives
 U|F>U|FOODON_03500031|cellophane|C0007633|Cellophane
 U|F>U|FOODON_03510039|low fat food|C0453839|Low fat food
 U|F>U|FOODON_03510048|high fiber food|C0475633|High fiber food
@@ -28470,16 +28470,16 @@ U|F>U|FOODON_03520466|midwestern states|C5785736|Midwestern State
 U|F>U|FOODON_03520467|northeastern states|C5785733|Northeastern State
 U|F>U|FOODON_03520468|southeastern states|C0037722|Southeastern United States
 U|F>U|FOODON_03520469|southwestern states|C5785730|Southwestern State
-U|F>U|FOODON_03530020|brisket|C3686667|Structure of lower chest cranial to forelimbs
-U|F>U|FOODON_03530022|flank|C0230171|Flank (surface region)
-U|F>U|FOODON_03530031|loin|C0446502|Surface region of loin
+X|F>U|FOODON_03530020|brisket|C3686667|Structure of lower chest cranial to forelimbs
+X|F>U|FOODON_03530022|flank|C0230171|Flank (surface region)
+X|F>U|FOODON_03530031|loin|C0446502|Surface region of loin
 U|F>U|FOODON_03530128|poitrine|C0817096|Chest
 U|F>U|FOODON_03530133|jumeau|C0233365|Twin birth (finding)
 U|F>U|FOODON_03530136|cuisse|C0039866|Thigh structure
-U|F>U|FOODON_03530144|filet|C1136230|Flower Filament
+X|F>U|FOODON_03530144|filet|C1136230|Flower Filament
 U|F>U|FOODON_03530155|tail|C0039259|Tail
 U|F>U|FOODON_03530222|anisakis infestation|C0162576|Anisakiasis
-U|F>U|FOODON_03530223|amnesic shellfish poisoning|C0058678|domoic acid
+X|F>U|FOODON_03530223|amnesic shellfish poisoning|C0058678|domoic acid
 U|F>U|FOODON_03530227|diphyllobothrium infestation|C0012561|Diphyllobothriasis
 U|F>U|FOODON_03530228|diarrhetic shellfish poisoning|C2717988|Diarrhetic Shellfish Poisoning
 U|F>U|FOODON_03530243|lead poisoning|C0023176|Lead Poisoning
@@ -28497,7 +28497,7 @@ U|F>U|FOODON_03530286|blue skin|C1947899|Acacia irrorata
 U|F>U|FOODON_03540006|barley grains|C0937599|barley grain
 U|F>U|FOODON_03540028|barnyard millet|C1012097|Echinochloa
 U|F>U|FOODON_03540050|rye grain|C0035984|Rye cereal
-U|F>U|FOODON_03540052|sorghum grain|C0331571|Sorghum bicolor
+X|F>U|FOODON_03540052|sorghum grain|C0331571|Sorghum bicolor
 U|F>U|FOODON_03540088|wheat flour|C0016260|Wheat flour
 U|F>U|FOODON_03540094|chapatti flour|C0458970|Chapati flour
 U|F>U|FOODON_03540104|semolina|C0452687|Semolina
@@ -28510,31 +28510,31 @@ U|F>U|FOODON_03540169|pretzels|C0458214|Pretzels
 U|F>U|FOODON_03540171|breadcrumbs|C0452523|Breadcrumbs
 U|F>U|FOODON_03540192|pasta, gluten free|C0460378|Gluten-free pasta
 U|F>U|FOODON_03540196|couscous|C0453574|Couscous
-U|F>U|FOODON_03540237|biscuits|C0452501|Cookie and/or cracker
+X|F>U|FOODON_03540237|biscuits|C0452501|Cookie and/or cracker
 U|F>U|FOODON_03540240|biscuits, chocolate|C0452502|Chocolate biscuit
-U|F>U|FOODON_03540247|wafers|C0991560|Oral Wafer
+X|F>U|FOODON_03540247|wafers|C0991560|Oral Wafer
 U|F>U|FOODON_03540249|éclair|C0452648|Eclair
-U|F>U|FOODON_03540251|profiterole|C0452637|Choux bun
+X|F>U|FOODON_03540251|profiterole|C0452637|Choux bun
 U|F>U|FOODON_03540254|cakes|C0452597|Cake
 U|F>U|FOODON_03540256|sponge cake|C0452620|Sponge cake
 U|F>U|FOODON_03540265|fruit cake|C0452609|Fruit cake
 U|F>U|FOODON_03540266|muffins|C0452660|Muffin
-U|F>U|FOODON_03540276|buns|C0151539|Blood urea increased
+X|F>U|FOODON_03540276|buns|C0151539|Blood urea increased
 U|F>U|FOODON_03540282|kringles|C0064417|Kringles
 U|F>U|FOODON_03540299|pancakes|C3853212|Pancake
 U|F>U|FOODON_03540302|meringue|C3853199|Meringue
 U|F>U|FOODON_03540303|waffles|C0452675|Waffle
 U|F>U|FOODON_03540308|breakfast cereals|C0452557|Breakfast cereal
-U|F>U|FOODON_03540372|escaroles|C0331375|Cichorium endivia
-U|F>U|FOODON_03540374|dandelions|C0939896|Taraxacum officinale / dandelion homeopathic preparation
+X|F>U|FOODON_03540372|escaroles|C0331375|Cichorium endivia
+X|F>U|FOODON_03540374|dandelions|C0939896|Taraxacum officinale / dandelion homeopathic preparation
 U|F>U|FOODON_03540376|radicchio|C1145671|Cichorium intybus
 U|F>U|FOODON_03540381|winter cress|C0330517|Barbarea vulgaris
 U|F>U|FOODON_03540398|scurvy-grass|C1643803|Cochlearia officinalis
 U|F>U|FOODON_03540400|box thorn|C1061563|Lycium brevipes
 U|F>U|FOODON_03540401|papaya leaves|C1366072|papaya leaf
 U|F>U|FOODON_03540402|nightshade, black|C0331225|Solanum nigrum
-U|F>U|FOODON_03540405|pokeweed|C0939809|pokeweed preparation
-U|F>U|FOODON_03540407|senna leaves|C1576662|Senna leaf extract
+X|F>U|FOODON_03540405|pokeweed|C0939809|pokeweed preparation
+X|F>U|FOODON_03540407|senna leaves|C1576662|Senna leaf extract
 U|F>U|FOODON_03540409|taro leaves|C0453147|Taro leaves
 U|F>U|FOODON_03540422|amaranth leaves|C0453106|Amaranth leaf
 U|F>U|FOODON_03540438|purslanes|C0330346|Portulaca oleracea
@@ -28542,7 +28542,7 @@ U|F>U|FOODON_03540441|rock samphires|C1009138|Crithmum maritimum
 U|F>U|FOODON_03540446|chards|C0678195|Chard
 U|F>U|FOODON_03540450|goosefoot|C0969707|Goosefoot
 U|F>U|FOODON_03540454|grape leaves|C0771934|grape leaf
-U|F>U|FOODON_03540459|morning glory|C1161316|Morning glory, Flower essence
+X|F>U|FOODON_03540459|morning glory|C1161316|Morning glory, Flower essence
 U|F>U|FOODON_03540460|water clovers|C1000922|Marsilea
 U|F>U|FOODON_03540463|witloofs|C5426636|Cichorium intybus var. foliosum
 U|F>U|FOODON_03540468|bracken|C0331731|Pteridium aquilinum
@@ -28561,27 +28561,27 @@ U|F>U|FOODON_03540501|garden cress sprouts|C3256681|garden cress sprout extract
 U|F>U|FOODON_03540502|alfalfa sprouts|C0453105|Alfalfa sprout
 U|F>U|FOODON_03540504|broccoli sprouts|C1707048|broccoli sprout extract
 U|F>U|FOODON_03540512|wheatgrass|C1080691|Genus Agropyron
-U|F>U|FOODON_03540525|broccoli|C2740603|broccoli allergenic extract
+X|F>U|FOODON_03540525|broccoli|C2740603|broccoli allergenic extract
 U|F>U|FOODON_03540527|chinese broccoli|C5710914|Brassica oleracea var. alboglabra
 U|F>U|FOODON_03540528|choi sum|C5710895|Brassica rapa var. parachinensis
 U|F>U|FOODON_03540531|cauliflowers|C2740760|cauliflower allergenic extract
-U|F>U|FOODON_03540539|asparagus|C0939866|asparagus extract
+X|F>U|FOODON_03540539|asparagus|C0939866|asparagus extract
 U|F>U|FOODON_03540542|cardoons|C0997028|Cynara cardunculus
 U|F>U|FOODON_03540545|celeries|C4255465|Apium graveolens var. dulce
 U|F>U|FOODON_03540549|globe artichokes|C0453109|Globe artichoke (dietary)
-U|F>U|FOODON_03540550|banana flowers|C1076677|Musa ornata
+X|F>U|FOODON_03540550|banana flowers|C1076677|Musa ornata
 U|F>U|FOODON_03540555|leeks|C0331595|Leek - dietary
 U|F>U|FOODON_03540560|bamboo shoots|C4040751|Bamboo shoot
 U|F>U|FOODON_03540562|moso bamboo|C0553379|Phyllostachys edulis
-U|F>U|FOODON_03540576|garlic|C0885057|garlic preparation
+X|F>U|FOODON_03540576|garlic|C0885057|garlic preparation
 U|F>U|FOODON_03540579|onions|C0029035|Onions
 U|F>U|FOODON_03540585|shallots|C0524486|Allium cepa var. aggregatum
 U|F>U|FOODON_03540589|spring onions|C0453134|Spring onion
-U|F>U|FOODON_03540594|legumes with pod|C1136060|Legume Pod
+X|F>U|FOODON_03540594|legumes with pod|C1136060|Legume Pod
 U|F>U|FOODON_03540631|solanacea|C5445134|Solanaceae (substance)
 U|F>U|FOODON_03540639|cherry tomatoes|C5710810|Solanum lycopersicum var. cerasiforme
 U|F>U|FOODON_03540641|alkekengi|C5122710|Alkekengi
-U|F>U|FOODON_03540642|cape gooseberries|C5445427|Cape gooseberry antigen
+X|F>U|FOODON_03540642|cape gooseberries|C5445427|Cape gooseberry antigen
 U|F>U|FOODON_03540644|tomatillos|C1122999|Tomatillo
 U|F>U|FOODON_03540646|wolfberries|C4255019|Wolfberry
 U|F>U|FOODON_03540647|chinese wolfberries|C1053466|Lycium chinense
@@ -28592,7 +28592,7 @@ U|F>U|FOODON_03540658|aubergines|C0453111|Aubergine
 U|F>U|FOODON_03540661|pepinos|C0973457|Cucumber - dietary
 U|F>U|FOODON_03540662|thorn apples|C0038382|Datura stramonium (plant)
 U|F>U|FOODON_03540663|turkey berries|C1057533|Solanum torvum
-U|F>U|FOODON_03540665|okra|C3495504|okra extract
+X|F>U|FOODON_03540665|okra|C3495504|okra extract
 U|F>U|FOODON_03540670|cucumbers|C0973457|Cucumber - dietary
 U|F>U|FOODON_03540674|gherkins|C0453128|Gherkin (food)
 U|F>U|FOODON_03540677|courgettes|C0453125|Zucchini
@@ -28604,23 +28604,23 @@ U|F>U|FOODON_03540683|snake gourds|C0950019|Trichosanthes kirilowii
 U|F>U|FOODON_03540685|summer squashes|C1441236|Summer Squash
 U|F>U|FOODON_03540686|patisson|C0524880|Squash (dietary)
 U|F>U|FOODON_03540688|balsam apple|C0330410|Momordica balsamina
-U|F>U|FOODON_03540691|gac|C1415112|GLS gene
-U|F>U|FOODON_03540694|melons|C3256061|melon extract
+X|F>U|FOODON_03540691|gac|C1415112|GLS gene
+X|F>U|FOODON_03540694|melons|C3256061|melon extract
 U|F>U|FOODON_03540697|pumpkins|C0453137|Pumpkins
 U|F>U|FOODON_03540698|butternut squashes|C5881757|Butternut Squash
 U|F>U|FOODON_03540699|winter melon|C1047202|Benincasa hispida
 U|F>U|FOODON_03540702|watermelons|C0973455|Watermelon (dietary)
 U|F>U|FOODON_03540705|sweet corn|C0453142|Sweet corn
 U|F>U|FOODON_03540710|beetroots|C0453112|Beetroot
-U|F>U|FOODON_03540712|carrots|C2724201|carrot allergenic extract
+X|F>U|FOODON_03540712|carrots|C2724201|carrot allergenic extract
 U|F>U|FOODON_03540716|celeriacs|C0453123|Celeriac
-U|F>U|FOODON_03540719|dandelion roots|C0873099|dandelion root extract
+X|F>U|FOODON_03540719|dandelion roots|C0873099|dandelion root extract
 U|F>U|FOODON_03540722|jerusalem artichokes|C0022386|Jerusalem Artichoke
 U|F>U|FOODON_03540723|crosnes|C1083570|Stachys
-U|F>U|FOODON_03540728|angelica roots|C0771998|Angelica Extract
+X|F>U|FOODON_03540728|angelica roots|C0771998|Angelica Extract
 U|F>U|FOODON_03540729|burnet saxifrage roots|C0772417|burnet-saxifrage root
 U|F>U|FOODON_03540731|nettle roots|C1337161|nettle root
-U|F>U|FOODON_03540736|radishes|C1113645|radish extract
+X|F>U|FOODON_03540736|radishes|C1113645|radish extract
 U|F>U|FOODON_03540737|black radishes|C3254856|BLACK RADISH
 U|F>U|FOODON_03540739|maca roots|C2343216|maca root
 U|F>U|FOODON_03540741|tigernuts|C0459822|Tigernut
@@ -28646,7 +28646,7 @@ U|F>U|FOODON_03540792|pleurotus|C0600464|Pleurotus
 U|F>U|FOODON_03540797|shiitake|C3826070|Shiitake
 U|F>U|FOODON_03540798|shimeji|C0319683|Pleurotus ostreatus
 U|F>U|FOODON_03540800|wood blewits|C0319690|Clitocybe nuda
-U|F>U|FOODON_03540803|ceps|C5886774|Porphyria, Erythropoietic, Congenital
+X|F>U|FOODON_03540803|ceps|C5886774|Porphyria, Erythropoietic, Congenital
 U|F>U|FOODON_03540804|chanterelles|C5444583|Cantharellus cibarius allergen
 U|F>U|FOODON_03540811|morels|C0331221|genus Solanum
 U|F>U|FOODON_03540812|truffles|C0319634|Genus Tuber
@@ -28662,7 +28662,7 @@ U|F>U|FOODON_03540846|sorrel|C0330386|Rumex
 U|F>U|FOODON_03540848|water dock|C4334952|Rumex aquaticus
 U|F>U|FOODON_03540849|garden sorrel|C0330387|Rumex acetosa
 U|F>U|FOODON_03540853|parsley|C0994493|Parsley - dietary
-U|F>U|FOODON_03540856|sage|C0876956|serial analysis of gene expression
+X|F>U|FOODON_03540856|sage|C0876956|serial analysis of gene expression
 U|F>U|FOODON_03540857|borage|C0522464|Borago
 U|F>U|FOODON_03540863|rosemary|C0939869|rosemary extract
 U|F>U|FOODON_03540864|santolina|C1009627|Santolina
@@ -28675,7 +28675,7 @@ U|F>U|FOODON_03540873|oregano|C0453263|Oregano spice
 U|F>U|FOODON_03540874|summer savory|C1015033|Satureja hortensis
 U|F>U|FOODON_03540876|winter savory|C1015034|Satureja montana
 U|F>U|FOODON_03540878|basil|C1304614|Basil - dietary
-U|F>U|FOODON_03540879|mints|C1576800|mint extract
+X|F>U|FOODON_03540879|mints|C1576800|mint extract
 U|F>U|FOODON_03540881|bergamot mint|C5703027|Mentha aquatica var. citrata
 U|F>U|FOODON_03540882|corsican mint|C1689061|Mentha requienii
 U|F>U|FOODON_03540884|pennyroyal|C0939239|pennyroyal
@@ -28708,18 +28708,18 @@ U|F>U|FOODON_03540990|chinese water chestnut|C1012539|Eleocharis
 U|F>U|FOODON_03540996|chicory roots|C5781374|Chicory Root
 U|F>U|FOODON_03541001|sugar canes|C0038636|sucrose
 U|F>U|FOODON_03541021|legumes|C0042440|Vegetables
-U|F>U|FOODON_03541118|tree nuts|C1979820|Trees and nuts
-U|F>U|FOODON_03541120|almonds|C2702310|almond allergenic extract
-U|F>U|FOODON_03541121|almonds sweet|C3538244|sweet almond extract
-U|F>U|FOODON_03541122|bitter almonds|C0330656|Prunus dulcis
-U|F>U|FOODON_03541129|brazil nuts|C2702352|brazil nut allergenic extract
-U|F>U|FOODON_03541131|cashew nuts|C0885083|Anacardium occidentale, cashew nut, Homeopathic preparation
+X|F>U|FOODON_03541118|tree nuts|C1979820|Trees and nuts
+X|F>U|FOODON_03541120|almonds|C2702310|almond allergenic extract
+X|F>U|FOODON_03541121|almonds sweet|C3538244|sweet almond extract
+X|F>U|FOODON_03541122|bitter almonds|C0330656|Prunus dulcis
+X|F>U|FOODON_03541129|brazil nuts|C2702352|brazil nut allergenic extract
+X|F>U|FOODON_03541131|cashew nuts|C0885083|Anacardium occidentale, cashew nut, Homeopathic preparation
 U|F>U|FOODON_03541133|chestnuts|C0349771|Chestnut (dietary)
-U|F>U|FOODON_03541135|american chestnut|C2729782|American chestnut allergenic extract
+X|F>U|FOODON_03541135|american chestnut|C2729782|American chestnut allergenic extract
 U|F>U|FOODON_03541137|sweet chestnut|C0936181|Castanea dentata
-U|F>U|FOODON_03541139|coconuts|C2722035|coconut allergenic extract
+X|F>U|FOODON_03541139|coconuts|C2722035|coconut allergenic extract
 U|F>U|FOODON_03541140|areca nuts|C0684282|Betel Nut
-U|F>U|FOODON_03541142|hazelnuts|C2702332|hazelnut allergenic extract
+X|F>U|FOODON_03541142|hazelnuts|C2702332|hazelnut allergenic extract
 U|F>U|FOODON_03541143|acorns|C0330303|Acorn
 U|F>U|FOODON_03541144|filberts|C0440288|Hazelnuts
 U|F>U|FOODON_03541146|macadamias|C0997063|Macadamia
@@ -28732,48 +28732,48 @@ U|F>U|FOODON_03541173|japanese horse-chestnut|C1035963|Aesculus turbinata
 U|F>U|FOODON_03541175|tropical almond|C0971878|Myrobalans
 U|F>U|FOODON_03541179|linseeds|C4040894|Linseed
 U|F>U|FOODON_03541181|peanuts|C0030736|Arachis hypogaea
-U|F>U|FOODON_03541183|poppy seeds|C2728189|poppy seed allergenic extract
-U|F>U|FOODON_03541185|sesame seeds|C3495652|sesame seed extract
-U|F>U|FOODON_03541187|sunflower seeds|C2741444|sunflower seed allergenic extract
+X|F>U|FOODON_03541183|poppy seeds|C2728189|poppy seed allergenic extract
+X|F>U|FOODON_03541185|sesame seeds|C3495652|sesame seed extract
+X|F>U|FOODON_03541187|sunflower seeds|C2741444|sunflower seed allergenic extract
 U|F>U|FOODON_03541189|rapeseeds|C0330502|Brassica napus
 U|F>U|FOODON_03541195|moringa|C0969724|Moringa
-U|F>U|FOODON_03541197|mustard seeds|C2740646|mustard seed allergenic extract
-U|F>U|FOODON_03541198|black mustard seeds|C3700892|black mustard seed extract
-U|F>U|FOODON_03541199|white mustard seeds|C3700897|white mustard seed extract
+X|F>U|FOODON_03541197|mustard seeds|C2740646|mustard seed allergenic extract
+X|F>U|FOODON_03541198|black mustard seeds|C3700892|black mustard seed extract
+X|F>U|FOODON_03541199|white mustard seeds|C3700897|white mustard seed extract
 U|F>U|FOODON_03541202|cotton seeds|C0010197|Cottonseed
 U|F>U|FOODON_03541206|pumpkin seeds|C1145582|Pumpkin seeds
-U|F>U|FOODON_03541207|watermelon seeds|C1445807|watermelon seed extract
-U|F>U|FOODON_03541210|safflower seeds|C3667875|safflower seed extract
-U|F>U|FOODON_03541211|milk thistle seeds|C0872906|milk thistle seed extract
-U|F>U|FOODON_03541214|borage seeds|C3256507|Borago officinalis seed extract
+X|F>U|FOODON_03541207|watermelon seeds|C1445807|watermelon seed extract
+X|F>U|FOODON_03541210|safflower seeds|C3667875|safflower seed extract
+X|F>U|FOODON_03541211|milk thistle seeds|C0872906|milk thistle seed extract
+X|F>U|FOODON_03541214|borage seeds|C3256507|Borago officinalis seed extract
 U|F>U|FOODON_03541225|hemp seeds|C3853313|Hemp seed
 U|F>U|FOODON_03541229|castor beans|C3537211|Ricinus communis whole extract
 U|F>U|FOODON_03541230|grape seeds|C0772453|grape seed
 U|F>U|FOODON_03541235|chia seeds|C4085254|Salvia hispanica Seed
-U|F>U|FOODON_03541242|oil palms kernels|C0982306|palm kernel oil
+X|F>U|FOODON_03541242|oil palms kernels|C0982306|palm kernel oil
 U|F>U|FOODON_03541246|argan nuts|C4293357|argan nut
 U|F>U|FOODON_03541249|shea nuts|C3853338|Shea nut
 U|F>U|FOODON_03541256|kapok|C1042309|Ceiba
 U|F>U|FOODON_03541260|dried herbs|C1719867|Dried herb
-U|F>U|FOODON_03541288|saffron|C3696061|saffron extract
+X|F>U|FOODON_03541288|saffron|C3696061|saffron extract
 U|F>U|FOODON_03541297|celery seed|C0453248|Celery seed
-U|F>U|FOODON_03541298|angelica seed|C3892849|Angelica seed extract
+X|F>U|FOODON_03541298|angelica seed|C3892849|Angelica seed extract
 U|F>U|FOODON_03541310|sweet fennel seed|C0453256|fennel seed preparation
-U|F>U|FOODON_03541316|candlenut seeds|C3255904|kukui nut extract
-U|F>U|FOODON_03541323|cloves buds|C2740787|clove allergenic extract
+X|F>U|FOODON_03541316|candlenut seeds|C3255904|kukui nut extract
+X|F>U|FOODON_03541323|cloves buds|C2740787|clove allergenic extract
 U|F>U|FOODON_03541333|myoga|C1482073|Zingiber mioga
 U|F>U|FOODON_03541342|cinnamon bark|C1509960|cinnamon bark
 U|F>U|FOODON_03541350|liquorice roots|C5710961|Hedysarum alpinum var. americanum
 U|F>U|FOODON_03541352|ginger roots|C0453260|ginger root
 U|F>U|FOODON_03541354|galangal roots|C1366015|GALANGAL ROOT
-U|F>U|FOODON_03541355|lesser galangal roots|C3488983|lesser galangal root extract
-U|F>U|FOODON_03541358|wasabi roots|C3255840|wasabi root extract
-U|F>U|FOODON_03541360|turmeric roots|C4759735|Curcuma longa root extract
+X|F>U|FOODON_03541355|lesser galangal roots|C3488983|lesser galangal root extract
+X|F>U|FOODON_03541358|wasabi roots|C3255840|wasabi root extract
+X|F>U|FOODON_03541360|turmeric roots|C4759735|Curcuma longa root extract
 U|F>U|FOODON_03541373|japanese pepper fruit|C5565469|Zanthoxyli Fructus
-U|F>U|FOODON_03541382|star anise fruit|C3485017|star anise fruit extract
-U|F>U|FOODON_03541387|green pepper|C5441564|Green Pepper antigen
-U|F>U|FOODON_03541388|white pepper|C2728192|white pepper allergenic extract
-U|F>U|FOODON_03541389|black pepper|C0939867|black pepper preparation
+X|F>U|FOODON_03541382|star anise fruit|C3485017|star anise fruit extract
+X|F>U|FOODON_03541387|green pepper|C5441564|Green Pepper antigen
+X|F>U|FOODON_03541388|white pepper|C2728192|white pepper allergenic extract
+X|F>U|FOODON_03541389|black pepper|C0939867|black pepper preparation
 U|F>U|FOODON_03541398|vanilla|C1015855|Vanilla <Vanilleae>
 U|F>U|FOODON_03541400|tonka bean|C1017690|Dipteryx
 U|F>U|FOODON_03541403|tamarind|C0973446|Tamarindus indica
@@ -28781,10 +28781,10 @@ U|F>U|FOODON_03541423|citrus fruits|C0600183|Fruit, Citrus
 U|F>U|FOODON_03541425|grapefruits|C0995150|Grapefruit (dietary)
 U|F>U|FOODON_03541427|shaddocks|C1006780|Citrus maxima
 U|F>U|FOODON_03541428|pomelos|C0453290|Pomelo - dietary
-U|F>U|FOODON_03541435|oranges|C1313858|Orange color
+X|F>U|FOODON_03541435|oranges|C1313858|Orange color
 U|F>U|FOODON_03541436|oranges, sweet|C0522462|Citrus sinensis
 U|F>U|FOODON_03541439|bergamots|C3715207|bergamot orange extract
-U|F>U|FOODON_03541440|bitter oranges|C3267737|Citrus aurantium fruit extract
+X|F>U|FOODON_03541440|bitter oranges|C3267737|Citrus aurantium fruit extract
 U|F>U|FOODON_03541442|trifoliate oranges|C1007132|Poncirus
 U|F>U|FOODON_03541446|lemons|C2741542|lemon allergenic extract
 U|F>U|FOODON_03541447|buddha's hands|C1135895|Citrus medica
@@ -28792,32 +28792,32 @@ U|F>U|FOODON_03541448|citrons|C0440283|Citrus limon
 U|F>U|FOODON_03541450|limes|C1551738|Lime (ethnic group)
 U|F>U|FOODON_03541452|kaffir limes|C1198178|Citrus hystrix
 U|F>U|FOODON_03541453|sweet limes|C1483117|Citrus limettioides
-U|F>U|FOODON_03541454|tahiti limes|C1483116|Seedless lime
+X|F>U|FOODON_03541454|tahiti limes|C1483116|Seedless lime
 U|F>U|FOODON_03541456|mandarins|C5425800|Mandarin
 U|F>U|FOODON_03541458|calamondins|C1078207|Citrus x microcarpa
 U|F>U|FOODON_03541459|clementines|C0453272|Clementine (food)
 U|F>U|FOODON_03541460|cleopatra mandarins|C1198313|Citrus reshni
 U|F>U|FOODON_03541462|satsumas|C0453294|Satsuma (dietary)
-U|F>U|FOODON_03541463|tangerines|C2728174|tangerine allergenic extract
+X|F>U|FOODON_03541463|tangerines|C2728174|tangerine allergenic extract
 U|F>U|FOODON_03541464|tangors|C2622852|Citrus nobilis
 U|F>U|FOODON_03541469|australian finger lime|C2273899|Citrus australasica
-U|F>U|FOODON_03541473|apples|C2702351|apple allergenic extract
+X|F>U|FOODON_03541473|apples|C2702351|apple allergenic extract
 U|F>U|FOODON_03541474|crab apples|C4045983|Crab Apple
 U|F>U|FOODON_03541477|pears|C1138601|Pear - dietary
 U|F>U|FOODON_03541479|wild pears|C1628738|Pyrus pyraster
 U|F>U|FOODON_03541482|quinces|C0453291|Quince - dietary
-U|F>U|FOODON_03541486|medlars|C0025140|MEDLARS
+X|F>U|FOODON_03541486|medlars|C0025140|MEDLARS
 U|F>U|FOODON_03541488|loquats|C1004010|Eriobotrya japonica
-U|F>U|FOODON_03541492|apricots|C2731559|apricot allergenic extract
+X|F>U|FOODON_03541492|apricots|C2731559|apricot allergenic extract
 U|F>U|FOODON_03541493|japanese apricots|C4086859|Smoked Plum
 U|F>U|FOODON_03541496|cherries (sweet)|C2741489|sweet cherry allergenic extract
 U|F>U|FOODON_03541497|black cherries|C5551209|Black Cherry
 U|F>U|FOODON_03541500|cornelian cherries|C0997036|Cornus mas
-U|F>U|FOODON_03541502|sour cherries|C1613417|SOUR CHERRY preparation
-U|F>U|FOODON_03541508|nectarines|C2937983|nectarine allergenic extract
+X|F>U|FOODON_03541502|sour cherries|C1613417|SOUR CHERRY preparation
+X|F>U|FOODON_03541508|nectarines|C2937983|nectarine allergenic extract
 U|F>U|FOODON_03541511|plums|C0936040|Plum - dietary
 U|F>U|FOODON_03541513|beach plums|C1072443|Prunus maritima
-U|F>U|FOODON_03541514|cherry plums|C3505482|cherry plum extract
+X|F>U|FOODON_03541514|cherry plums|C3505482|cherry plum extract
 U|F>U|FOODON_03541515|chickasaw plums|C1058817|Prunus angustifolia
 U|F>U|FOODON_03541516|chinese jujubes|C1647171|Ziziphus jujuba
 U|F>U|FOODON_03541517|damsons|C0453274|Damson
@@ -28825,9 +28825,9 @@ U|F>U|FOODON_03541518|gages|C0456564|Gauges (qualifier value)
 U|F>U|FOODON_03541519|japanese plums|C1038954|Prunus salicina
 U|F>U|FOODON_03541520|klamath plums|C1072449|Prunus subcordata
 U|F>U|FOODON_03541524|sloes|C3668958|Prunus spinosa fruit extract
-U|F>U|FOODON_03541534|wine grapes|C2726157|wine grape allergenic extract
-U|F>U|FOODON_03541536|muscadine grapes|C4535511|muscadine grape extract
-U|F>U|FOODON_03541538|strawberries|C1696135|strawberries - non-drug agent
+X|F>U|FOODON_03541534|wine grapes|C2726157|wine grape allergenic extract
+X|F>U|FOODON_03541536|muscadine grapes|C4535511|muscadine grape extract
+X|F>U|FOODON_03541538|strawberries|C1696135|strawberries - non-drug agent
 U|F>U|FOODON_03541543|blackberries|C0453270|Blackberries
 U|F>U|FOODON_03541546|boysenberries|C5444695|Rubus loganobaccus
 U|F>U|FOODON_03541547|loganberries|C0453282|Loganberries
@@ -28840,7 +28840,7 @@ U|F>U|FOODON_03541576|bog bilberries|C1213470|Vaccinium uliginosum
 U|F>U|FOODON_03541578|golden currant|C1001277|Ribes aureum
 U|F>U|FOODON_03541580|huckleberries|C0950035|Huckleberry
 U|F>U|FOODON_03541586|cowberries|C0950038|Vaccinium vitis-idaea
-U|F>U|FOODON_03541587|lingonberries|C3541351|lingonberry extract
+X|F>U|FOODON_03541587|lingonberries|C3541351|lingonberry extract
 U|F>U|FOODON_03541588|salal|C1029785|Gaultheria shallon
 U|F>U|FOODON_03541589|sea buckthorns|C1013835|Hippophae
 U|F>U|FOODON_03541590|serviceberries|C1081385|Amelanchier
@@ -28858,7 +28858,7 @@ U|F>U|FOODON_03541624|bayberries|C1092984|Myrica
 U|F>U|FOODON_03541627|dwarf elderberries|C0331058|Sambucus ebulus
 U|F>U|FOODON_03541634|silverberries|C2990418|Elaeagnus commutata
 U|F>U|FOODON_03541637|rowan berries|C0440292|Rowan berries
-U|F>U|FOODON_03541642|dates|C1548309|Value type - Date
+X|F>U|FOODON_03541642|dates|C1548309|Value type - Date
 U|F>U|FOODON_03541643|açaí berries|C3850037|Acai Berries
 U|F>U|FOODON_03541647|figs|C0349966|Figs - dietary
 U|F>U|FOODON_03541651|chinese black olives|C1628882|Canarium pimela
@@ -28916,7 +28916,7 @@ U|F>U|FOODON_03541767|sweetsops|C1947947|Annona squamosa
 U|F>U|FOODON_03541768|wild sweetsops|C1634960|Annona mucosa
 U|F>U|FOODON_03541770|guavas|C0453279|Guava Fruit
 U|F>U|FOODON_03541771|brazilian guavas|C1497674|Psidium guineense
-U|F>U|FOODON_03541777|pineapples|C2740859|pineapple allergenic extract
+X|F>U|FOODON_03541777|pineapples|C2740859|pineapple allergenic extract
 U|F>U|FOODON_03541779|breadfruits|C1256657|Artocarpus altilis
 U|F>U|FOODON_03541780|jackfruits|C0453129|Jackfruit - dietary
 U|F>U|FOODON_03541783|durians|C1026059|Durio zibethinus
@@ -28930,8 +28930,8 @@ U|F>U|FOODON_03541800|dried figs|C0453302|Dried fig
 U|F>U|FOODON_03541801|dried pears|C0453306|Dried pear
 U|F>U|FOODON_03541802|dried bananas|C0453297|Dried banana
 U|F>U|FOODON_03541807|jam, raspberries|C1204188|Acacia acuminata
-U|F>U|FOODON_03542011|mammals liver|C3486713|mammal liver preparation
-U|F>U|FOODON_03542012|bovine liver|C3484530|beef liver preparation
+X|F>U|FOODON_03542011|mammals liver|C3486713|mammal liver preparation
+X|F>U|FOODON_03542012|bovine liver|C3484530|beef liver preparation
 U|F>U|FOODON_03542112|bacon|C0452861|Bacon
 U|F>U|FOODON_03542143|sausages|C0452945|Sausage
 U|F>U|FOODON_03542219|carps|C0677526|Carp - dietary
@@ -28958,7 +28958,7 @@ U|F>U|FOODON_03542265|pacific fat sleeper|C0329483|Dormitator latifrons
 U|F>U|FOODON_03542273|white crappie|C0328829|Pomoxis annularis
 U|F>U|FOODON_03542274|silver perch|C0329139|Bairdiella chrysoura
 U|F>U|FOODON_03542278|amur pike|C0949511|Esox reicherti
-U|F>U|FOODON_03542279|northern pike|C2727871|northern pike allergenic extract
+X|F>U|FOODON_03542279|northern pike|C2727871|northern pike allergenic extract
 U|F>U|FOODON_03542280|pike-perch|C1480907|Sander lucioperca
 U|F>U|FOODON_03542291|eel, american|C0327780|Anguilla rostrata
 U|F>U|FOODON_03542292|eel, australian|C0327783|Anguilla australis
@@ -28976,7 +28976,7 @@ U|F>U|FOODON_03542308|rainbow trout|C0036108|Oncorhynchus mykiss
 U|F>U|FOODON_03542310|lake trout|C0327955|Salvelinus namaycush
 U|F>U|FOODON_03542311|brook trout|C0327953|Salvelinus fontinalis
 U|F>U|FOODON_03542312|arctic char|C0327951|Salvelinus alpinus
-U|F>U|FOODON_03542313|smelt|C1578459|smelt antigen
+X|F>U|FOODON_03542313|smelt|C1578459|smelt antigen
 U|F>U|FOODON_03542315|smelt, rainbow|C0327965|Osmerus mordax
 U|F>U|FOODON_03542318|pond smelt|C0327961|Hypomesus olidus
 U|F>U|FOODON_03542323|barramundi|C0998932|Lates calcarifer
@@ -28993,7 +28993,7 @@ U|F>U|FOODON_03542338|plaice, alaska|C0330003|Pleuronectes quadrituberculatus
 U|F>U|FOODON_03542340|sole|C5781294|Solea solea (substance)
 U|F>U|FOODON_03542341|yellowfin sole|C0329994|Limanda aspera
 U|F>U|FOODON_03542342|turbot|C0041396|Psetta maxima
-U|F>U|FOODON_03542343|brill|C0006181|Brill-Zinsser Disease
+X|F>U|FOODON_03542343|brill|C0006181|Brill-Zinsser Disease
 U|F>U|FOODON_03542344|megrims|C4039627|Megrim
 U|F>U|FOODON_03542347|cod, atlantic|C2740952|Atlantic cod allergenic extract
 U|F>U|FOODON_03542348|cod, greenland|C0328434|Gadus ogac
@@ -29006,8 +29006,8 @@ U|F>U|FOODON_03542358|grenadiers|C1003363|Macrouridae
 U|F>U|FOODON_03542363|mullets|C1510516|Mullet - dietary
 U|F>U|FOODON_03542367|japanese seabass|C0998924|Lateolabrax japonicus
 U|F>U|FOODON_03542369|gilthead seabream|C0329120|Sparus aurata
-U|F>U|FOODON_03542370|groupers|C3244086|grouper - record organizer
-U|F>U|FOODON_03542371|snappers|C0565924|Nitrate substance of abuse - non-pharmaceutical
+X|F>U|FOODON_03542370|groupers|C3244086|grouper - record organizer
+X|F>U|FOODON_03542371|snappers|C0565924|Nitrate substance of abuse - non-pharmaceutical
 U|F>U|FOODON_03542373|weakfishes|C0329147|Cynoscion regalis
 U|F>U|FOODON_03542375|bogue|C1006139|Boops boops
 U|F>U|FOODON_03542376|salema|C0329114|Xenistius californiensis
@@ -29027,19 +29027,19 @@ U|F>U|FOODON_03542415|bonito, atlantic|C0329593|Sarda sarda
 U|F>U|FOODON_03542418|albacore|C0329601|Thunnus alalunga
 U|F>U|FOODON_03542419|tuna, bigeye|C0329604|Thunnus obesus
 U|F>U|FOODON_03542420|tuna, blackfin|C0329603|Thunnus atlanticus
-U|F>U|FOODON_03542422|northern bluefin tuna|C4319739|northern bluefin tuna allergenic extract
+X|F>U|FOODON_03542422|northern bluefin tuna|C4319739|northern bluefin tuna allergenic extract
 U|F>U|FOODON_03542425|tuna, skipjack|C0329590|Euthynnus pelamis
 U|F>U|FOODON_03542426|tuna, yellowfin|C0329602|Thunnus albacares
 U|F>U|FOODON_03542430|spanish mackerel|C0329598|Scomberomorus maculatus
 U|F>U|FOODON_03542431|king mackerel|C0329596|Scomberomorus cavalla
 U|F>U|FOODON_03542434|butterfish|C0329632|Peprilus triacanthus
 U|F>U|FOODON_03542435|pomfret, atlantic|C0329051|Brama brama
-U|F>U|FOODON_03542437|bluefish|C2729981|bluefish allergenic extract
+X|F>U|FOODON_03542437|bluefish|C2729981|bluefish allergenic extract
 U|F>U|FOODON_03542438|pompanos|C0998918|Carangidae
 U|F>U|FOODON_03542439|cobia|C0328998|Rachycentron canadum
 U|F>U|FOODON_03542442|capelin|C0327964|Mallotus villosus
 U|F>U|FOODON_03542446|jack mackerel|C5781100|Trachurus japonicus (substance)
-U|F>U|FOODON_03542450|mackerel, atlantic|C5201168|Atlantic mackerel allergenic extract
+X|F>U|FOODON_03542450|mackerel, atlantic|C5201168|Atlantic mackerel allergenic extract
 U|F>U|FOODON_03542451|mackerel, chub|C0329594|Scomber japonicus
 U|F>U|FOODON_03542455|sharks|C0036941|Shark - fish
 U|F>U|FOODON_03542457|blue shark|C0327663|Prionace glauca
@@ -29052,28 +29052,28 @@ U|F>U|FOODON_03542483|crustaceans|C1704306|Class crustacea
 U|F>U|FOODON_03542488|red swamp crawfish|C0998242|Procambarus clarkii
 U|F>U|FOODON_03542493|oriental river prawn|C1076267|Macrobrachium nipponense
 U|F>U|FOODON_03542497|indo-pacific swamp crab|C0998271|Scylla serrata
-U|F>U|FOODON_03542498|blue crab|C3496090|blue crab preparation
+X|F>U|FOODON_03542498|blue crab|C3496090|blue crab preparation
 U|F>U|FOODON_03542502|lobsters|C1140675|Lobster
-U|F>U|FOODON_03542503|lobster, american|C4490702|American lobster allergenic extract
+X|F>U|FOODON_03542503|lobster, american|C4490702|American lobster allergenic extract
 U|F>U|FOODON_03542509|squat lobsters|C1190080|Family Galatheidae
 U|F>U|FOODON_03542510|king crabs|C0446342|Chaceon affinis
 U|F>U|FOODON_03542512|prawn, giant tiger|C0998218|Penaeus monodon
 U|F>U|FOODON_03542514|white shrimp|C1024759|Litopenaeus setiferus
-U|F>U|FOODON_03542515|shrimps, common|C2702382|shrimp allergenic extract
+X|F>U|FOODON_03542515|shrimps, common|C2702382|shrimp allergenic extract
 U|F>U|FOODON_03542523|molluscs|C0026391|Mollusca
-U|F>U|FOODON_03542529|oysters|C2722042|oyster allergenic extract
+X|F>U|FOODON_03542529|oysters|C2722042|oyster allergenic extract
 U|F>U|FOODON_03542532|oyster, sydney rock|C1075268|Saccostrea glomerata
 U|F>U|FOODON_03542534|mussels|C1443042|Mussel antigen
 U|F>U|FOODON_03542535|blue mussel|C4018979|Blue mussel (substance)
-U|F>U|FOODON_03542545|scallop, sea|C4735330|sea scallop allergenic extract
+X|F>U|FOODON_03542545|scallop, sea|C4735330|sea scallop allergenic extract
 U|F>U|FOODON_03542546|yesso scallop|C0998148|Mizuhopecten yessoensis
-U|F>U|FOODON_03542548|clams|C1445380|clam allergenic extract
+X|F>U|FOODON_03542548|clams|C1445380|clam allergenic extract
 U|F>U|FOODON_03542552|cockles|C0453050|Cardiidae
 U|F>U|FOODON_03542554|cuttlefishes|C3486726|cuttlefish preparation
 U|F>U|FOODON_03542557|octopuses|C0028831|Octopus
 U|F>U|FOODON_03542560|octopus, curled|C0998194|Eledone cirrhosa (invertebrate)
 U|F>U|FOODON_03542561|squids|C0038078|Squid
-U|F>U|FOODON_03542564|squid, japanese flying|C1446907|Todarodes pacificus antigen
+X|F>U|FOODON_03542564|squid, japanese flying|C1446907|Todarodes pacificus antigen
 U|F>U|FOODON_03542569|sea squirts|C4553793|Sea Squirts
 U|F>U|FOODON_03542571|sea urchins|C0036488|Echinoidea
 U|F>U|FOODON_03542572|sea-cucumbers|C0036485|Sea Cucumbers
@@ -29088,7 +29088,7 @@ U|F>U|FOODON_03542589|turtle, green|C0327134|Chelonia mydas
 U|F>U|FOODON_03542590|turtle, snapping|C0327095|Chelydra serpentina
 U|F>U|FOODON_03542591|turtle, hawksbill|C0327135|Eretmochelys imbricata
 U|F>U|FOODON_03542594|lizards|C0023916|Lizards
-U|F>U|FOODON_03542596|snails|C1420267|SNAI1 gene
+X|F>U|FOODON_03542596|snails|C1420267|SNAI1 gene
 U|F>U|FOODON_03542597|snail, garden|C3275167|Garden Snail
 U|F>U|FOODON_03542602|arachnids|C0003704|Arachnida
 U|F>U|FOODON_03542603|insects|C0021585|Insecta
@@ -29096,11 +29096,11 @@ U|F>U|FOODON_03542606|silkworm|C0037119|Bombyx
 U|F>U|FOODON_03542637|smoked salmon|C0453039|Smoked salmon
 U|F>U|FOODON_03542639|smoked mackerel|C0453033|Smoked mackerel
 U|F>U|FOODON_03542649|milk and dairy products|C5939081|Milk and Dairy Products
-U|F>U|FOODON_03542651|milk|C2702362|cow milk allergenic extract
+X|F>U|FOODON_03542651|milk|C2702362|cow milk allergenic extract
 U|F>U|FOODON_03542678|human milk|C0026140|Milk, Human
 U|F>U|FOODON_03542684|whey|C0078479|Whey Proteins
 U|F>U|FOODON_03542688|buttermilk|C0452719|Buttermilk
-U|F>U|FOODON_03542692|fermented milk products|C1257811|Cultured Milk Products
+X|F>U|FOODON_03542692|fermented milk products|C1257811|Cultured Milk Products
 U|F>U|FOODON_03542697|yoghurt, sheep milk|C0452821|Sheep's milk yogurt
 U|F>U|FOODON_03542700|yoghurt, goat milk|C0452813|Goat's milk yogurt
 U|F>U|FOODON_03542707|kumis|C4277743|Koumiss
@@ -29127,8 +29127,8 @@ U|F>U|FOODON_03542916|cheese, roquefort|C0452786|Roquefort cheese
 U|F>U|FOODON_03542950|whole eggs|C1440584|Whole Egg
 U|F>U|FOODON_03542951|hen eggs|C0440466|Hen's egg
 U|F>U|FOODON_03542958|turkey eggs|C3687666|Turkey egg
-U|F>U|FOODON_03542967|egg yolk|C2730230|egg yolk (chicken) allergenic extract
-U|F>U|FOODON_03542969|egg white|C2730227|egg white (chicken) allergenic extract
+X|F>U|FOODON_03542967|egg yolk|C2730230|egg yolk (chicken) allergenic extract
+X|F>U|FOODON_03542969|egg white|C2730227|egg white (chicken) allergenic extract
 U|F>U|FOODON_03542972|egg powder|C0452823|Dried egg
 U|F>U|FOODON_03542977|boiled eggs|C0452824|Boiled egg
 U|F>U|FOODON_03542978|fried eggs|C0452825|Fried egg
@@ -29139,9 +29139,9 @@ U|F>U|FOODON_03542997|maltose|C0024658|maltose
 U|F>U|FOODON_03542998|glucose|C0017725|glucose
 U|F>U|FOODON_03542999|fructose|C0016745|fructose
 U|F>U|FOODON_03543001|molasses|C0026370|molasses
-U|F>U|FOODON_03543006|syrups|C0991550|Syrup Drug Form
+X|F>U|FOODON_03543006|syrups|C0991550|Syrup Drug Form
 U|F>U|FOODON_03543007|barley malt syrup|C3205286|barley malt syrup
-U|F>U|FOODON_03543011|honey|C0939937|honey preparation
+X|F>U|FOODON_03543011|honey|C0939937|honey preparation
 U|F>U|FOODON_03543019|polyols|C0071629|polyol
 U|F>U|FOODON_03543020|maltitol|C0065600|maltitol
 U|F>U|FOODON_03543021|lactitol|C0064585|lactitol
@@ -29179,19 +29179,19 @@ U|F>U|FOODON_03543206|vegetable juices|C1268569|Vegetable Juices
 U|F>U|FOODON_03543207|juice, tomato|C0452460|tomato juice
 U|F>U|FOODON_03543208|juice, carrot|C3531069|carrot juice
 U|F>U|FOODON_03543210|juice, celery|C3642386|Celery Juice
-U|F>U|FOODON_03543211|juice, beetroot|C1095905|beets preparation
+X|F>U|FOODON_03543211|juice, beetroot|C1095905|beets preparation
 U|F>U|FOODON_03543213|juice, potato|C0938427|potato juice
 U|F>U|FOODON_03543214|juice, cucumber|C3256210|cucumber juice
 U|F>U|FOODON_03543254|aloe vera juice|C2344799|Aloe Vera Juice
 U|F>U|FOODON_03543255|coconut water|C4271504|coconut water
 U|F>U|FOODON_03543262|drinking water|C0599638|Drinking Water
 U|F>U|FOODON_03543264|tap water|C2919405|Tap water
-U|F>U|FOODON_03543267|well water|C3179044|Water Wells
+X|F>U|FOODON_03543267|well water|C3179044|Water Wells
 U|F>U|FOODON_03543268|bottled water|C1572482|Bottled Water
 U|F>U|FOODON_03543272|bottled drinking water|C2193544|bottled drinking water
 U|F>U|FOODON_03543278|soft drinks|C3489624|Soft Drinks
 U|F>U|FOODON_03543323|energy drinks|C3179078|Energy Drinks
-U|F>U|FOODON_03543327|drink mixes|C0678420|Cocktail
+X|F>U|FOODON_03543327|drink mixes|C0678420|Cocktail
 U|F>U|FOODON_03543330|alcoholic beverages|C0001967|Alcoholic Beverages
 U|F>U|FOODON_03543332|beer|C0004922|Beer
 U|F>U|FOODON_03543334|beer, strong|C0454274|Strong beer
@@ -29203,16 +29203,16 @@ U|F>U|FOODON_03543349|wine|C0043188|Wine
 U|F>U|FOODON_03543350|wine, white|C0349372|White wine
 U|F>U|FOODON_03543351|wine, red|C0349371|Red wine (substance)
 U|F>U|FOODON_03543352|wine, rosé|C0452256|Rose wine
-U|F>U|FOODON_03543357|cider|C0452236|Hard cider
+X|F>U|FOODON_03543357|cider|C0452236|Hard cider
 U|F>U|FOODON_03543360|dessert wines|C0454276|Fortified wine
 U|F>U|FOODON_03543368|madeira|C0684316|Madeira wine
-U|F>U|FOODON_03543369|port|C0475311|Harbor
+X|F>U|FOODON_03543369|port|C0475311|Harbor
 U|F>U|FOODON_03543371|mixed alcoholic drinks|C0678420|Cocktail
 U|F>U|FOODON_03543376|punch|C0182555|Punch
 U|F>U|FOODON_03543391|liqueurs|C0452247|Liqueur
 U|F>U|FOODON_03543406|coffee beans, green|C1440481|Green Coffee Bean
-U|F>U|FOODON_03543407|arabian coffee beans|C2725876|arabica coffee bean allergenic extract
-U|F>U|FOODON_03543409|robusta coffee beans|C3256184|robusta coffee bean extract
+X|F>U|FOODON_03543407|arabian coffee beans|C2725876|arabica coffee bean allergenic extract
+X|F>U|FOODON_03543409|robusta coffee beans|C3256184|robusta coffee bean extract
 U|F>U|FOODON_03543431|kola nuts|C1572690|Kola Nut
 U|F>U|FOODON_03543435|cocoa powder|C0009209|Cocoa Powder
 U|F>U|FOODON_03543564|rooibos|C1074162|Aspalathus linearis
@@ -29228,12 +29228,12 @@ U|F>U|FOODON_03543871|fish pâté|C0453075|Fish pate
 U|F>U|FOODON_03543872|fish balls|C0453067|Fish ball
 U|F>U|FOODON_03543874|omelette, plain|C0453465|Plain omelette
 U|F>U|FOODON_03543875|cheese omelette|C0453466|Cheese omelette
-U|F>U|FOODON_03543900|dal|C0600533|Rats, Inbred Dahl
+X|F>U|FOODON_03543900|dal|C0600533|Rats, Inbred Dahl
 U|F>U|FOODON_03543909|vegetable casserole|C0453632|Vegetable casserole
 U|F>U|FOODON_03543948|finger food|C0453823|Finger food
 U|F>U|FOODON_03543950|sausage roll|C0453500|Sausage roll
 U|F>U|FOODON_03543962|lasagna|C0452246|Lasagne
-U|F>U|FOODON_03543979|milk rice|C3853236|Rice milk
+X|F>U|FOODON_03543979|milk rice|C3853236|Rice milk
 U|F>U|FOODON_03544020|salads|C0453740|Salads
 U|F>U|FOODON_03544024|greek salad|C0453750|Greek salad
 U|F>U|FOODON_03544040|tortilla chips|C0453423|Tortilla chips
@@ -29241,7 +29241,7 @@ U|F>U|FOODON_03544052|seasonings|C0349383|Seasoning
 U|F>U|FOODON_03544053|salt|C0037494|sodium chloride
 U|F>U|FOODON_03544055|salt, iodised|C0063758|iodized salt
 U|F>U|FOODON_03544059|sea salt|C0938430|sea salt
-U|F>U|FOODON_03544066|extracts|C0185115|Extraction
+X|F>U|FOODON_03544066|extracts|C0185115|Extraction
 U|F>U|FOODON_03544078|hydrolysed animal proteins|C0982023|ANIMAL PROTEIN,HYDROLYZED
 U|F>U|FOODON_03544088|vinegar, wine|C1979827|Wine vinegar
 U|F>U|FOODON_03544124|horseradish sauce|C0453370|Horseradish sauce
@@ -29253,7 +29253,7 @@ U|F>U|FOODON_03544156|whey protein|C0078479|Whey Proteins
 U|F>U|FOODON_03544157|soya proteins|C5700173|Soybean protein (dietary)
 U|F>U|FOODON_03544158|gelatine|C0017237|gelatin
 U|F>U|FOODON_03544159|collagen|C0009325|collagen
-U|F>U|FOODON_03544160|hyaluronic acid|C1141990|Hyaluronic Acid Measurement
+X|F>U|FOODON_03544160|hyaluronic acid|C1141990|Hyaluronic Acid Measurement
 U|F>U|FOODON_03544162|starches|C0038179|starch
 U|F>U|FOODON_03544163|maize starch|C1384515|corn starch
 U|F>U|FOODON_03544164|oat starch|C5558824|STARCH, OAT
@@ -29335,7 +29335,7 @@ U|F>U|FOODON_03544405|watermelon flavour|C1337222|Watermelon Flavor
 U|F>U|FOODON_03544407|wild berry flavour|C1337223|wild berry flavor
 U|F>U|FOODON_03544409|wine flavour|C1365941|wine flavor
 U|F>U|FOODON_03544421|liquorice extract|C2756786|Glycyrrhiza glabra extract
-U|F>U|FOODON_03544423|preservative|C0033086|Pharmaceutical Preservatives
+X|F>U|FOODON_03544423|preservative|C0033086|Pharmaceutical Preservatives
 U|F>U|FOODON_03544424|antioxidant|C0003402|Antioxidants
 U|F>U|FOODON_03544425|flavour enhancer|C0682897|flavor enhancers
 U|F>U|FOODON_03544426|modified starch|C0982414|STARCH,MODIFIED
@@ -29357,7 +29357,7 @@ U|F>U|FOODON_03544475|vitamin b1   (thiamine)|C0039840|thiamine
 U|F>U|FOODON_03544476|vitamin b2   (riboflavin)|C0035527|riboflavin
 U|F>U|FOODON_03544483|vitamin c     (ascorbic acid)|C0003968|ascorbic acid
 U|F>U|FOODON_03544484|vitamin d     (cholecalciferol)|C0008318|cholecalciferol
-U|F>U|FOODON_03544487|chemical elements|C0013879|Elements
+X|F>U|FOODON_03544487|chemical elements|C0013879|Elements
 U|F>U|FOODON_03544488|potassium|C0032821|potassium
 U|F>U|FOODON_03544489|calcium|C2936886|Calcium [EPC]
 U|F>U|FOODON_03544490|phosphorus|C0031705|phosphorus
@@ -29385,8 +29385,8 @@ U|F>U|FOODON_03544519|carnitine|C0682742|carnitines
 U|F>U|FOODON_03544521|creatine-creatinine|C0552388|creatine/creatinine
 U|F>U|FOODON_03600010|red yeast rice supplement|C0873173|red yeast rice extract
 U|F>U|FOODON_03601030|kulfi|C0453537|Kulfi
-U|F>U|FOODON_03601053|sambar|C0325221|Cervus unicolor
-U|F>U|FOODON_03601071|gram flour|C0458971|Chick pea flour
+X|F>U|FOODON_03601053|sambar|C0325221|Cervus unicolor
+X|F>U|FOODON_03601071|gram flour|C0458971|Chick pea flour
 U|F>U|FOODON_03601072|halwa|C0458199|Halva
 X|F>U|FOODON_00000074|tortoise|C0041412|Turtle
 X|U>F|CDNO_0200144|concentration of sodium(1+) in material entity|C5449830|vitamin a palmitate .25 mg in 1 ml / sodium ascorbate 50 mg in 1 ml / cholecalciferol .01 mg in 1 ml / alpha-tocopherol acetate 5 mg in 1 ml / thiamine hydrochloride .3 mg in 1 ml / riboflavin 5'-phosphate sodium .4 mg in 1 ml / niacinamide 4 mg in 1 ml / pyridoxine hydrochloride .3 mg in 1 ml / cyanocobalamin .5 mg in 1 ml oral solution [poly-vite pediatric oral solution]
