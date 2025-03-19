@@ -29,6 +29,17 @@ function main()
 
     mapping_file_name = "./mappings/foodon2umls_mapping.psv"
 
+    umls_mrconso_file_name = "./umls/2024AB/MRCONSO.RRF"
+
+    println("loading UMLS MRCONSO file...")
+    umls_sab_dict = Dict{String, Set{String}}()
+    for line in readlines(open(umls_mrconso_file_name, "r"))
+        line_parts = split(line, "|")
+        umls_cui = line_parts[1]
+        umls_sab = line_parts[12]
+        umls_sab_dict[umls_cui] = umls_sab
+    end
+
     # example mapping line: D|U>F|FOODON_00002439|endive|C1304560|endive
    
     tp_direct_count = 0
@@ -50,6 +61,8 @@ function main()
 
     ols_count = 0
     umls_count = 0
+
+    umls_sab_count_dict = Dict{String, Int}()
 
     # read in the mapping file
     for line in readlines(open(mapping_file_name, "r"))
@@ -75,17 +88,44 @@ function main()
         if mapping_result == "D"
 
             tp_direct_count += 1
+
+            # lookup the SAB for the UMLS concept
+            umls_sab = umls_sab_dict[umls_cui]
+
+            if haskey(umls_sab_count_dict, umls_sab)
+                umls_sab_count_dict[umls_sab] += 1
+            else
+                umls_sab_count_dict[umls_sab] = 1
+            end
         end
 
         if mapping_result == "O"
 
             tp_ols_count += 1
 
+            # lookup the SAB for the UMLS concept
+            umls_sab = umls_sab_dict[umls_cui]
+
+            if haskey(umls_sab_count_dict, umls_sab)
+                umls_sab_count_dict[umls_sab] += 1
+            else
+                umls_sab_count_dict[umls_sab] = 1
+            end
+
         end
 
         if mapping_result == "U"
 
             tp_umlsapi_count += 1
+
+            # lookup the SAB for the UMLS concept
+            umls_sab = umls_sab_dict[umls_cui]
+
+            if haskey(umls_sab_count_dict, umls_sab)
+                umls_sab_count_dict[umls_sab] += 1
+            else
+                umls_sab_count_dict[umls_sab] = 1
+            end
 
         end
 

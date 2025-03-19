@@ -193,6 +193,20 @@ function umls_food_term_lookup(umls_dir::String, output_file::String, sab_output
     end
 end
 
+function retrieve_foodon_terms()
+    # Define the foodon terms file path
+    foodon_terms_file = joinpath(output_dir, "foodon_terms.psv")
+
+    # Check if the foodon terms file already exists
+    if !isfile(foodon_terms_file)
+        println("Output file does not exist. Fetching terms...")
+        # Define the base URL for the OLS API
+        base_url = "https://www.ebi.ac.uk/ols4/api/ontologies/foodon"
+        ols_lookup_all_foodon_terms(base_url, foodon_terms_file)
+    else
+        println("FOODON Src terms file already exists. Skipping fetch.")
+    end
+end
 
 
 
@@ -202,18 +216,7 @@ output_dir = "src_terms"
 # Create the directory if it does not exist
 create_directory_if_not_exists(output_dir)
 
-# Define the foodon terms file path
-foodon_terms_file = joinpath(output_dir, "foodon_terms.psv")
-
-# Check if the foodon terms file already exists
-if !isfile(foodon_terms_file)
-    println("Output file does not exist. Fetching terms...")
-    # Define the base URL for the OLS API
-    base_url = "https://www.ebi.ac.uk/ols4/api/ontologies/foodon"
-    ols_lookup_all_foodon_terms(base_url, foodon_terms_file)
-else
-    println("FOODON Src terms file already exists. Skipping fetch.")
-end
+#retrieve_foodon_terms()
 
 # Define the UMLS source file directory
 umls_source_dir = "./umls/2024AB/META"
