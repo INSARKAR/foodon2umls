@@ -29,15 +29,38 @@ function main()
 
     mapping_file_name = "./mappings/foodon2umls_mapping.psv"
 
-    umls_mrconso_file_name = "./umls/2024AB/MRCONSO.RRF"
-
-    println("loading UMLS MRCONSO file...")
     umls_sab_dict = Dict{String, Set{String}}()
-    for line in readlines(open(umls_mrconso_file_name, "r"))
+
+    # umls_mrconso_file_name = "./umls/2024AB/MRCONSO.RRF"
+
+    # println("loading UMLS MRCONSO file...")
+    # 
+    # for line in readlines(open(umls_mrconso_file_name, "r"))
+    #     line_parts = split(line, "|")
+    #     umls_cui = line_parts[1]
+    #     umls_sab = line_parts[12]
+    #     umls_sab_dict[umls_cui] = umls_sab
+    # end
+
+    # umls_sab_file 
+    umls_sab_file_name = "./src_terms/umls_food_sources.psv"
+
+    for line in readlines(open(umls_sab_file_name,"r"))
         line_parts = split(line, "|")
         umls_cui = line_parts[1]
-        umls_sab = line_parts[12]
-        umls_sab_dict[umls_cui] = umls_sab
+        umls_sab = line_parts[2]
+
+        println("$umls_cui|$umls_sab")
+
+
+        if !haskey(umls_sab_dict, umls_cui)
+            println("adding $umls_cui to umls_sab_dict")
+            umls_sab_dict[umls_cui] = Set{String}()
+            umls_sab_dict[umls_cui] = push!(umls_sab_dict[umls_cui], umls_sab)
+        else
+            umls_sab_dict[umls_cui] = push!(umls_sab_dict[umls_cui], umls_sab)
+        end
+
     end
 
     # example mapping line: D|U>F|FOODON_00002439|endive|C1304560|endive
