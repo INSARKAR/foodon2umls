@@ -27844,7 +27844,7 @@ X|F>U|FOODON_03315106|orange|C1313858|Orange color
 U|F>U|FOODON_03315145|olive (ripe)|C2347034|Black olive (dietary)
 U|F>U|FOODON_03315149|corn syrup (high fructose)|C2981326|high fructose corn syrup
 U|F>U|FOODON_03315170|sugar substitute|C0282360|Sugar Substitutes
-X|F>U|FOODON_03315177|dextrose|C0017725|glucose
+U|F>U|FOODON_03315177|dextrose|C0017725|glucose
 U|F>U|FOODON_03315199|gelatin capsule (soft shell)|C5909192|Soft Gelatin Capsule Shell
 U|F>U|FOODON_03315259|waffle|C0452675|Waffle
 U|F>U|FOODON_03315272|pastry|C0452703|Pastry

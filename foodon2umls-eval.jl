@@ -12,12 +12,27 @@ function f1(pr, rc)
     return 2 * pr * rc / (pr + rc)
 end
 
+function fpr(fp, tn)
+    return fp / (fp + tn)
+end
+
+function tnr(tn, fp)
+    return tn / (tn + fp)
+end
+
+function ba(tpr, tnr)
+    return (tpr + tnr) / 2
+end
+
+
 function main()
 
     mapping_file_name = "./mappings/foodon2umls_mapping.psv"
 
     # example mapping line: D|U>F|FOODON_00002439|endive|C1304560|endive
-    
+   
+    tp_direct_count = 0
+
     tp_total_count = 0
     tp_ols_count = 0
     tp_umlsapi_count = 0
@@ -26,12 +41,15 @@ function main()
     fp_ols_count = 0
     fp_umlsapi_count = 0
 
-    fn_total_count = 0
-    fn_ols_count = 0
-    fn_umlsapi_count = 0
+    tn_total_count = 0
+    tn_ols_count = 0
+    tn_umlsapi_count = 0
 
     foodon_id_set = Set{String}()
+    umls_id_set = Set{String}()
 
+    ols_count = 0
+    umls_count = 0
 
     # read in the mapping file
     for line in readlines(open(mapping_file_name, "r"))
@@ -46,33 +64,33 @@ function main()
         umls_term = line_parts[6]
 
         foodon_id_set = push!(foodon_id_set, foodon_id)
+        umls_id_set = push!(umls_id_set, umls_cui)
+
+        if mapping_type == "U>F"
+            ols_count += 1
+        elseif mapping_type == "F>U"
+            umls_count += 1
+        end
 
         if mapping_result == "D"
 
-            tp_total_count += 1
-
-            if mapping_type == "U>F"
-                tp_ols_count += 1
-            elseif mapping_type == "F>U"
-                tp_umlsapi_count += 1
-            end
+            tp_direct_count += 1
         end
 
         if mapping_result == "O"
 
-            tp_total_count += 1
             tp_ols_count += 1
+
         end
 
         if mapping_result == "U"
 
-            tp_total_count += 1
             tp_umlsapi_count += 1
+
         end
 
         if mapping_result == "X"
 
-            fp_total_count += 1
 
             if mapping_type == "U>F"
                 fp_ols_count += 1
@@ -84,55 +102,85 @@ function main()
       
     end
 
+    println(">> $ols_count OLS (U>F) mappings attempted")
+    println(">> $umls_count UMLS (F>U) API mappings attempted")
+    println()
 
+    tp_ols_count = tp_ols_count - tp_direct_count
+    tp_umlsapi_count = tp_umlsapi_count - tp_direct_count
 
-    fn_total_count = length(foodon_id_set) - tp_total_count - fp_total_count
-    fn_ols_count = length(foodon_id_set) - tp_ols_count - fp_ols_count
-    fn_umlsapi_count = length(foodon_id_set) - tp_umlsapi_count - fp_umlsapi_count
+    tp_total_count = tp_direct_count + tp_ols_count + tp_umlsapi_count
+    fp_total_count = fp_ols_count + fp_umlsapi_count
+
+    tn_ols_count = ols_count - tp_ols_count - fp_ols_count
+    tn_umlsapi_count = umls_count - tp_umlsapi_count - tp_umlsapi_count
+    tn_total_count = (tn_ols_count + tn_umlsapi_count)
 
     total_pr = pr(tp_total_count, fp_total_count)
-    total_rc = rc(tp_total_count, fn_total_count)
-    total_f1 = f1(total_pr, total_rc)
+    total_fpr = fpr(fp_total_count, tn_total_count)
+    total_tnr = tnr(tn_total_count, fp_total_count)
+    total_ba = ba(total_pr, total_tnr)
+    #total_rc = rc(tp_total_count, fn_total_count)
+    #total_f1 = f1(total_pr, total_rc)
 
     u2f_pr = pr(tp_ols_count, fp_ols_count)
-    u2f_rc = rc(tp_ols_count, fn_ols_count)
-    u2f_f1 = f1(u2f_pr, u2f_rc)
+    u2f_fpr = fpr(fp_ols_count, tn_ols_count)
+    u2f_tnr = tnr(tn_ols_count, fp_ols_count)
+    u2f_ba = ba(u2f_pr, u2f_tnr)
+    #u2f_rc = rc(tp_ols_count, fn_ols_count)
+    #u2f_f1 = f1(u2f_pr, u2f_rc)
 
     f2u_pr = pr(tp_umlsapi_count, fp_umlsapi_count)
-    f2u_rc = rc(tp_umlsapi_count, fn_umlsapi_count)
-    f2u_f1 = f1(f2u_pr, f2u_rc)
+    f2u_fpr = fpr(fp_umlsapi_count, tn_umlsapi_count)
+    f2u_tnr = tnr(tn_umlsapi_count, fp_umlsapi_count)
+    f2u_ba = ba(f2u_pr, f2u_tnr)
+
+    #f2u_rc = rc(tp_umlsapi_count, fn_umlsapi_count)
+    #f2u_f1 = f1(f2u_pr, f2u_rc)
 
     println("Performance statistics for foodon2umls mapping ($(length(foodon_id_set)) foodon terms)")
     println()
 
     println("Total TP: ", tp_total_count)
     println("Total FP: ", fp_total_count)
-    println("Total FN: ", fn_total_count)
+    println("Total TN: ", tn_total_count)
     println()
 
     println("OLS TP: ", tp_ols_count)
     println("OLS FP: ", fp_ols_count)
-    println("OLS FN: ", fn_ols_count)
+    println("OLS TN: ", tn_ols_count)
     println()
 
     println("UMLS API TP: ", tp_umlsapi_count)
     println("UMLS API FP: ", fp_umlsapi_count)
-    println("UMLS API FN: ", fn_umlsapi_count)
+    println("UMLS API TN: ", tn_umlsapi_count)
     println()
 
     println("Total Precision: ", total_pr)
-    println("Total Recall: ", total_rc)     
-    println("Total F1 Score: ", total_f1)
-    println()
-
-    println("UMLS API Precision: ", f2u_pr)
-    println("UMLS API Recall: ", f2u_rc)
-    println("UMLS API F1 Score: ", f2u_f1)
+    println("Total False Positive Rate: ", total_fpr)
+    println("Total True Negative Rate: ", total_tnr)
+    println("Total Balanced Accuracy: ", total_ba)
+    # println("Total Recall: ", total_rc)     
+    # println("Total F1 Score: ", total_f1)
     println()
 
     println("OLS Precision: ", u2f_pr)
-    println("OLS Recall: ", u2f_rc)
-    println("OLS F1 Score: ", u2f_f1)
+    println("OLS False Positive Rate: ", u2f_fpr)
+    println("OLS True Negative Rate: ", u2f_tnr)
+    println("OLS Balanced Accuracy: ", u2f_ba)
+    # println("OLS Recall: ", u2f_rc)
+    # println("OLS F1 Score: ", u2f_f1)
+    println()
+
+    println("UMLS API Precision: ", f2u_pr)
+    println("UMLS API False Positive Rate: ", f2u_fpr)
+    println("UMLS API True Negative Rate: ", f2u_tnr)
+    println("UMLS API Balanced Accuracy: ", f2u_ba)
+    # println("UMLS API Recall: ", f2u_rc)
+    # println("UMLS API F1 Score: ", f2u_f1)
+    println()
+
+
     println()
 end
 
