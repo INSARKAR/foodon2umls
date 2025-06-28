@@ -219,7 +219,7 @@ create_directory_if_not_exists(output_dir)
 #retrieve_foodon_terms()
 
 # Define the UMLS source file directory
-umls_source_dir = "./umls/2024AB/META"
+umls_source_dir = "../_data/umls/2024AB/META"
 
 umls_food_items_file = joinpath(output_dir, "umls_food_items.psv")
 umls_food_sources_file = joinpath(output_dir, "umls_food_sources.psv")

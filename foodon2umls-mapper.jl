@@ -2,6 +2,7 @@ using FilePathsBase
 using HTTP
 using JSON
 
+include("../api_keys.jl")
 
 function main()
 
@@ -191,6 +192,8 @@ function main()
 
     counter = 0
 
+    
+
     # Iterate over the FoodOn terms and find mappings using UMLS API
     for (foodon_term, foodon_id) in foodon_terms
 
@@ -206,8 +209,6 @@ function main()
 
         # Encode the term to be URL-safe
         encoded_foodon_term = HTTP.escape(foodon_term)
-
-        umls_api_key = "3978016a-b02f-4cc4-ae31-cf161882931a"
 
         umls_url = "https://uts-ws.nlm.nih.gov/rest/search/current?string=$encoded_foodon_term&searchType=normalizedString&apiKey=$umls_api_key"
         #println(umls_url)
